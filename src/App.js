@@ -2,8 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import Fuse from 'fuse.js';
 import testdata from './testdata.json';
-import data from './icd10codes.json'
-console.log(data);
+//import data from './icd10codes.json';
 //var stuff = require('./fuse-index.json');
 
 
