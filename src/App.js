@@ -1,24 +1,71 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import Fuse from 'fuse.js';
+import testdata from './testdata.json';
+import data from './icd10codes.json'
+console.log(data);
+//var stuff = require('./fuse-index.json');
+
 
 function App() {
+  const [query, updateQuery] = useState('');
+  const options = { keys: ['desc', 'code'], includeScore: false };
+  const searchIndex = Fuse.createIndex(options.keys, data)
+  if (query[0] === "a"){
+    data = testdata;
+  } else{
+    data = ''
+  }
+  const fuse = new Fuse(data, options, searchIndex);
+  const results = fuse.search(query, {limit: 5});
+  const codeResults = results.map(process => process.item);
+
+  function onSearch({ currentTarget }) {
+    updateQuery(currentTarget.value);
+  }
+
   return (
-    <div className="App">
+    <>
+
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div className="container">
+          <h1>Search for ICD-10 Codes using CM Disease Description or HCPCS Process Name</h1>
+        </div>
       </header>
-    </div>
+
+      <main className="container">
+        <ul className="data">
+          {codeResults.map(process => {
+            const {desc, code} = process;
+            return (
+              <li key={desc} className="process">
+                <ul className="process-meta">
+                  <li>
+                    <strong>Disease or Process:</strong> { desc}
+                  </li>
+                  <li>
+                    <strong>Code :</strong> { code }
+                  </li>
+                </ul>
+              </li>
+            )
+          })}
+        </ul>
+        <aside>
+          <form className="search">
+            <label>Search</label>
+            <input type="text" value={query} onChange={onSearch} />
+          </form>
+        </aside>
+      </main>
+
+      <footer>
+        <div className="container">
+          <p>
+          </p>
+        </div>
+      </footer>
+    </>
   );
 }
 
