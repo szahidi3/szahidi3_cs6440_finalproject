@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/szahidi3_cs6440_finalproject/static/css/main.8bc2b59d.css",
+    "main.js": "/szahidi3_cs6440_finalproject/static/js/main.9934c5ba.js",
+    "index.html": "/szahidi3_cs6440_finalproject/index.html",
+    "main.8bc2b59d.css.map": "/szahidi3_cs6440_finalproject/static/css/main.8bc2b59d.css.map",
+    "main.9934c5ba.js.map": "/szahidi3_cs6440_finalproject/static/js/main.9934c5ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc2b59d.css",
+    "static/js/main.9934c5ba.js"
+  ]
+}
