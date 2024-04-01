@@ -2,16 +2,16 @@ import React, { useState } from 'react';
 import './App.css';
 import Fuse from 'fuse.js';
 import testdata from './testdata.json';
-var data = require('./icd10codes.json');
+//var data = require('./icd10codes.json');
 //var stuff = require('./fuse-index.json');
-
+var data = {}
 
 function App() {
   const [query, updateQuery] = useState('');
   const options = { keys: ['desc', 'code'], includeScore: false };
   const searchIndex = Fuse.createIndex(options.keys, data)
   if (query[0] === "a"){
-    data = testdata;
+    data = testdata
   } else{
     data = ''
   }
