@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import Fuse from 'fuse.js';
 import testdata from './testdata.json';
-//import data from './icd10codes.json';
+import data from './icd10codes.json';
 //var stuff = require('./fuse-index.json');
 
 
@@ -13,7 +13,7 @@ function App() {
   if (query[0] === "a"){
     data = testdata;
   } else{
-    data = ''
+    data = '';
   }
   const fuse = new Fuse(data, options, searchIndex);
   const results = fuse.search(query, {limit: 5});
