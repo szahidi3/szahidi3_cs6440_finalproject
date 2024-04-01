@@ -1,120 +1,85 @@
-@import url('https://fonts.googleapis.com/css2?family=Hind:wght@600;700&display=swap');
-
-* {
-  box-sizing: border-box;
+.container {
+  max-width: 1250px;
+  position: relative;
 }
 
-.container {
-  max-width: 50em;
-  margin: 0 auto;
+body {
+  background-color: lightblue;
 }
 
 header {
-  background: linear-gradient(to bottom, #5e1dec, #0298d5);
-  padding: 2em 0;
+  background-color: lightblue;
+  padding: 2px 0px;
   margin-bottom: 3em;
+  text-align: left;
 }
 
 h1 {
-  text-transform: uppercase;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
-  font-size: 4em;
-  font-weight: 700;
-  color: white;
-  font-family: 'Hind', sans-serif;
+  font-size: 70px;
+  font-weight: 600;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
   margin: 0;
-}
-
-@media only screen and (max-width: 50em) {
-  h1 {
-    font-size: 7vw;
-  }
 }
 
 main {
   display: flex;
   padding: 0 1em;
 }
-
-@media only screen and (max-width: 40em) {
-  main {
-    flex-direction: column-reverse;
-  }
-}
-
-aside {
-  width: 15em;
-}
-
-@media only screen and (max-width: 40em) {
-  aside {
-    width: 100%;
-    margin-bottom: 2em;
-  }
-}
-
-.data,
-.character-meta {
+.process-meta {
   list-style: none;
   padding: 0;
   margin: 0;
+  font-size: 20px;
 }
 
 .data {
-  flex-grow: 1;
+  font-size: 20px;
+  flex-grow: 2;
 }
 
 .process {
   display: flex;
+  width: 20em;
   margin-bottom: 1em;
+  border: solid 1.5px black;
 }
 
 
 .process-meta li {
-  margin-bottom: .2em;
+  margin-bottom: 20px;
+  font-size: 20px;
 }
 
 .process-meta li:last-child {
   margin-bottom: 0;
+  font-size: 20px;
 }
 
 .search label {
   display: block;
-  font-size: 1.2em;
+  font-size: 30px;
   font-weight: bold;
-  font-family: 'Hind', sans-serif;
-  text-transform: uppercase;
-  margin-bottom: .2em;
+  font-family: "Times New Roman", Times, serif;
+  margin-bottom: 20px;
 }
 
 .search input {
-  width: 100%;
-  font-size: 1em;
+  font-size:20px;
   background: none;
-  padding: .8em 1em;
-  border: solid 3px #5F4B8B;
+  padding: 1em 1em;
+  border: solid 1.5px black;
   outline: none;
-  border-radius: .4em;
+  border-radius: .3em;
+  width: 18em;
 }
 
-.search input:focus {
-  border: solid 3px #5e1dec;
-  box-shadow: 0 0 6px #5e1dec;
+li {
+  font-size: 20px;;
 }
 
-footer {
-  color: white;
-  text-align: center;
-  background-color: #5e1dec;
-  padding: 1em 0;
-  margin-top: 2em;
-}
-
-footer p {
-  margin: 0;
-}
-
-footer a {
-  color: white;
+box{
+  border: solid 1.5px black;
 }

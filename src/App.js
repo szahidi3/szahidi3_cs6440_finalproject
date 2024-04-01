@@ -34,6 +34,10 @@ function App() {
 
       <main className="container">
         <ul className="data">
+          <form className="search">
+            <label>Search</label>
+            <input type="text" value={query} onChange={onSearch} />
+          </form>
           {codeResults.map(process => {
             const {desc, code} = process;
             return (
@@ -50,20 +54,7 @@ function App() {
             )
           })}
         </ul>
-        <aside>
-          <form className="search">
-            <label>Search</label>
-            <input type="text" value={query} onChange={onSearch} />
-          </form>
-        </aside>
       </main>
-
-      <footer>
-        <div className="container">
-          <p>
-          </p>
-        </div>
-      </footer>
     </>
   );
 }
