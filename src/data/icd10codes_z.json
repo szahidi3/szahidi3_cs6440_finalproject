@@ -1,0 +1,158 @@
+[
+    {
+		"code": "G9034",
+		"desc": "Zanamivir, inhalation powder, administered through inhaler, brand, per 10 mg (for use in a medicare-approved demonstration project)\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G9018",
+		"desc": "Zanamivir, inhalation powder, administered through inhaler, per 10 mg (for use in a medicare-approved demonstration project)\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "E71510",
+		"desc": "Zellweger syndrome"
+	},
+	{
+		"code": "E71541",
+		"desc": "Zellweger-like syndrome"
+	},
+	{
+		"code": "Q4253",
+		"desc": "Zenith amniotic membrane, per square centimeter"
+	},
+	{
+		"code": "S0104",
+		"desc": "Zidovudine, oral, 100 mg"
+	},
+	{
+		"code": "A925",
+		"desc": "Zika virus disease"
+	},
+	{
+		"code": "L8621",
+		"desc": "Zinc air battery for use with cochlear implant device and auditory osseointegrated sound processors, replacement, each"
+	},
+	{
+		"code": "A6456",
+		"desc": "Zinc paste impregnated bandage, non-elastic, knitted/woven, width greater than or equal to three inches and less than five inches, per yard"
+	},
+	{
+		"code": "Y92834",
+		"desc": "Zoological garden (Zoo) as the place of occurrence of the external cause"
+	},
+	{
+		"code": "A289",
+		"desc": "Zoonotic bacterial disease, unspecified"
+	},
+	{
+		"code": "B0231",
+		"desc": "Zoster conjunctivitis"
+	},
+	{
+		"code": "B020",
+		"desc": "Zoster encephalitis"
+	},
+	{
+		"code": "B0232",
+		"desc": "Zoster iridocyclitis"
+	},
+	{
+		"code": "B0233",
+		"desc": "Zoster keratitis"
+	},
+	{
+		"code": "B021",
+		"desc": "Zoster meningitis"
+	},
+	{
+		"code": "B0230",
+		"desc": "Zoster ocular disease, unspecified"
+	},
+	{
+		"code": "B0234",
+		"desc": "Zoster scleritis"
+	},
+	{
+		"code": "B028",
+		"desc": "Zoster with other complications"
+	},
+	{
+		"code": "B029",
+		"desc": "Zoster without complications"
+	},
+	{
+		"code": "S0240FA",
+		"desc": "Zygomatic fracture, left side, initial encounter for closed fracture"
+	},
+	{
+		"code": "S0240FB",
+		"desc": "Zygomatic fracture, left side, initial encounter for open fracture"
+	},
+	{
+		"code": "S0240FS",
+		"desc": "Zygomatic fracture, left side, sequela"
+	},
+	{
+		"code": "S0240FG",
+		"desc": "Zygomatic fracture, left side, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S0240FK",
+		"desc": "Zygomatic fracture, left side, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S0240FD",
+		"desc": "Zygomatic fracture, left side, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S0240EA",
+		"desc": "Zygomatic fracture, right side, initial encounter for closed fracture"
+	},
+	{
+		"code": "S0240EB",
+		"desc": "Zygomatic fracture, right side, initial encounter for open fracture"
+	},
+	{
+		"code": "S0240ES",
+		"desc": "Zygomatic fracture, right side, sequela"
+	},
+	{
+		"code": "S0240EG",
+		"desc": "Zygomatic fracture, right side, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S0240EK",
+		"desc": "Zygomatic fracture, right side, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S0240ED",
+		"desc": "Zygomatic fracture, right side, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S02402A",
+		"desc": "Zygomatic fracture, unspecified side, initial encounter for closed fracture"
+	},
+	{
+		"code": "S02402B",
+		"desc": "Zygomatic fracture, unspecified side, initial encounter for open fracture"
+	},
+	{
+		"code": "S02402S",
+		"desc": "Zygomatic fracture, unspecified side, sequela"
+	},
+	{
+		"code": "S02402G",
+		"desc": "Zygomatic fracture, unspecified side, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S02402K",
+		"desc": "Zygomatic fracture, unspecified side, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S02402D",
+		"desc": "Zygomatic fracture, unspecified side, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "B469",
+		"desc": "Zygomycosis, unspecified"
+	}
+]

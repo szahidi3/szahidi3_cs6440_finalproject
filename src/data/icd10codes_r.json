@@ -1,0 +1,4390 @@
+[
+    {
+		"code": "G4752",
+		"desc": "REM sleep behavior disorder"
+	},
+	{
+		"code": "A829",
+		"desc": "Rabies, unspecified"
+	},
+	{
+		"code": "S53432A",
+		"desc": "Radial collateral ligament sprain of left elbow, initial encounter"
+	},
+	{
+		"code": "S53432S",
+		"desc": "Radial collateral ligament sprain of left elbow, sequela"
+	},
+	{
+		"code": "S53432D",
+		"desc": "Radial collateral ligament sprain of left elbow, subsequent encounter"
+	},
+	{
+		"code": "S53431A",
+		"desc": "Radial collateral ligament sprain of right elbow, initial encounter"
+	},
+	{
+		"code": "S53431S",
+		"desc": "Radial collateral ligament sprain of right elbow, sequela"
+	},
+	{
+		"code": "S53431D",
+		"desc": "Radial collateral ligament sprain of right elbow, subsequent encounter"
+	},
+	{
+		"code": "S53439A",
+		"desc": "Radial collateral ligament sprain of unspecified elbow, initial encounter"
+	},
+	{
+		"code": "S53439S",
+		"desc": "Radial collateral ligament sprain of unspecified elbow, sequela"
+	},
+	{
+		"code": "S53439D",
+		"desc": "Radial collateral ligament sprain of unspecified elbow, subsequent encounter"
+	},
+	{
+		"code": "M654",
+		"desc": "Radial styloid tenosynovitis [de Quervain]"
+	},
+	{
+		"code": "G9500",
+		"desc": "Radiation exposure indices documented in final report for procedure using fluoroscopy"
+	},
+	{
+		"code": "G9501",
+		"desc": "Radiation exposure indices not documented in final report for procedure using fluoroscopy, reason not given"
+	},
+	{
+		"code": "G4031",
+		"desc": "Radiation oncology mips specialty set"
+	},
+	{
+		"code": "K627",
+		"desc": "Radiation proctitis"
+	},
+	{
+		"code": "T66XXXA",
+		"desc": "Radiation sickness, unspecified, initial encounter"
+	},
+	{
+		"code": "T66XXXS",
+		"desc": "Radiation sickness, unspecified, sequela"
+	},
+	{
+		"code": "T66XXXD",
+		"desc": "Radiation sickness, unspecified, subsequent encounter"
+	},
+	{
+		"code": "G6009",
+		"desc": "Radiation treatment delivery, 2 separate treatment areas, 3 or more ports on a single treatment area, use of multiple blocks: 11-19 mev"
+	},
+	{
+		"code": "G6010",
+		"desc": "Radiation treatment delivery, 2 separate treatment areas, 3 or more ports on a single treatment area, use of multiple blocks: 20 mev or greater"
+	},
+	{
+		"code": "G6008",
+		"desc": "Radiation treatment delivery, 2 separate treatment areas, 3 or more ports on a single treatment area, use of multiple blocks: 6-10 mev"
+	},
+	{
+		"code": "G6007",
+		"desc": "Radiation treatment delivery, 2 separate treatment areas, 3 or more ports on a single treatment area, use of multiple blocks: up to 5 mev"
+	},
+	{
+		"code": "G6005",
+		"desc": "Radiation treatment delivery, single treatment area,single port or parallel opposed ports, simple blocks or no blocks: 11-19 mev"
+	},
+	{
+		"code": "G6006",
+		"desc": "Radiation treatment delivery, single treatment area,single port or parallel opposed ports, simple blocks or no blocks: 20 mev or greater"
+	},
+	{
+		"code": "G6004",
+		"desc": "Radiation treatment delivery, single treatment area,single port or parallel opposed ports, simple blocks or no blocks: 6-10 mev"
+	},
+	{
+		"code": "G6003",
+		"desc": "Radiation treatment delivery, single treatment area,single port or parallel opposed ports, simple blocks or no blocks: up to 5 mev"
+	},
+	{
+		"code": "G6013",
+		"desc": "Radiation treatment delivery,3 or more separate treatment areas, custom blocking, tangential ports, wedges, rotational beam, compensators, electron beam; 11-19 mev"
+	},
+	{
+		"code": "G6014",
+		"desc": "Radiation treatment delivery,3 or more separate treatment areas, custom blocking, tangential ports, wedges, rotational beam, compensators, electron beam; 20 mev or greater"
+	},
+	{
+		"code": "G6012",
+		"desc": "Radiation treatment delivery,3 or more separate treatment areas, custom blocking, tangential ports, wedges, rotational beam, compensators, electron beam; 6-10 mev"
+	},
+	{
+		"code": "G6011",
+		"desc": "Radiation treatment delivery,3 or more separate treatment areas, custom blocking, tangential ports, wedges, rotational beam, compensators, electron beam; up to 5 mev"
+	},
+	{
+		"code": "G6282",
+		"desc": "Radiation-induced polyneuropathy"
+	},
+	{
+		"code": "K048",
+		"desc": "Radicular cyst"
+	},
+	{
+		"code": "M5412",
+		"desc": "Radiculopathy, cervical region"
+	},
+	{
+		"code": "M5413",
+		"desc": "Radiculopathy, cervicothoracic region"
+	},
+	{
+		"code": "M5416",
+		"desc": "Radiculopathy, lumbar region"
+	},
+	{
+		"code": "M5417",
+		"desc": "Radiculopathy, lumbosacral region"
+	},
+	{
+		"code": "M5411",
+		"desc": "Radiculopathy, occipito-atlanto-axial region"
+	},
+	{
+		"code": "M5418",
+		"desc": "Radiculopathy, sacral and sacrococcygeal region"
+	},
+	{
+		"code": "M5410",
+		"desc": "Radiculopathy, site unspecified"
+	},
+	{
+		"code": "M5414",
+		"desc": "Radiculopathy, thoracic region"
+	},
+	{
+		"code": "M5415",
+		"desc": "Radiculopathy, thoracolumbar region"
+	},
+	{
+		"code": "L589",
+		"desc": "Radiodermatitis, unspecified"
+	},
+	{
+		"code": "Q3001",
+		"desc": "Radioelements for brachytherapy, any type, each"
+	},
+	{
+		"code": "L8683",
+		"desc": "Radiofrequency transmitter (external) for use with implantable neurostimulator radiofrequency receiver"
+	},
+	{
+		"code": "L8684",
+		"desc": "Radiofrequency transmitter (external) for use with implantable sacral root neurostimulator receiver for bowel and bladder management, replacement"
+	},
+	{
+		"code": "Z91041",
+		"desc": "Radiographic dye allergy status"
+	},
+	{
+		"code": "S53412A",
+		"desc": "Radiohumeral (joint) sprain of left elbow, initial encounter"
+	},
+	{
+		"code": "S53412S",
+		"desc": "Radiohumeral (joint) sprain of left elbow, sequela"
+	},
+	{
+		"code": "S53412D",
+		"desc": "Radiohumeral (joint) sprain of left elbow, subsequent encounter"
+	},
+	{
+		"code": "S53411A",
+		"desc": "Radiohumeral (joint) sprain of right elbow, initial encounter"
+	},
+	{
+		"code": "S53411S",
+		"desc": "Radiohumeral (joint) sprain of right elbow, sequela"
+	},
+	{
+		"code": "S53411D",
+		"desc": "Radiohumeral (joint) sprain of right elbow, subsequent encounter"
+	},
+	{
+		"code": "S53419A",
+		"desc": "Radiohumeral (joint) sprain of unspecified elbow, initial encounter"
+	},
+	{
+		"code": "S53419S",
+		"desc": "Radiohumeral (joint) sprain of unspecified elbow, sequela"
+	},
+	{
+		"code": "S53419D",
+		"desc": "Radiohumeral (joint) sprain of unspecified elbow, subsequent encounter"
+	},
+	{
+		"code": "C9898",
+		"desc": "Radiolabeled product provided during a hospital inpatient stay"
+	},
+	{
+		"code": "Y842",
+		"desc": "Radiological procedure and radiotherapy as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+	},
+	{
+		"code": "A9599",
+		"desc": "Radiopharmaceutical, diagnostic, for beta-amyloid positron emission tomography (pet) imaging, per study dose, not otherwise specified Terminated December 31, 2017."
+	},
+	{
+		"code": "A4641",
+		"desc": "Radiopharmaceutical, diagnostic, not otherwise classified"
+	},
+	{
+		"code": "A9699",
+		"desc": "Radiopharmaceutical, therapeutic, not otherwise classified"
+	},
+	{
+		"code": "A9606",
+		"desc": "Radium ra-223 dichloride, therapeutic, per microcurie"
+	},
+	{
+		"code": "Y9285",
+		"desc": "Railroad track as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92522",
+		"desc": "Railway station as the place of occurrence of the external cause"
+	},
+	{
+		"code": "R760",
+		"desc": "Raised antibody titer"
+	},
+	{
+		"code": "E0244",
+		"desc": "Raised toilet seat"
+	},
+	{
+		"code": "N016",
+		"desc": "Rapidly progressive nephritic syndrome with dense deposit disease"
+	},
+	{
+		"code": "N017",
+		"desc": "Rapidly progressive nephritic syndrome with diffuse crescentic glomerulonephritis"
+	},
+	{
+		"code": "N014",
+		"desc": "Rapidly progressive nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis"
+	},
+	{
+		"code": "N012",
+		"desc": "Rapidly progressive nephritic syndrome with diffuse membranous glomerulonephritis"
+	},
+	{
+		"code": "N013",
+		"desc": "Rapidly progressive nephritic syndrome with diffuse mesangial proliferative glomerulonephritis"
+	},
+	{
+		"code": "N015",
+		"desc": "Rapidly progressive nephritic syndrome with diffuse mesangiocapillary glomerulonephritis"
+	},
+	{
+		"code": "N011",
+		"desc": "Rapidly progressive nephritic syndrome with focal and segmental glomerular lesions"
+	},
+	{
+		"code": "N010",
+		"desc": "Rapidly progressive nephritic syndrome with minor glomerular abnormality"
+	},
+	{
+		"code": "N018",
+		"desc": "Rapidly progressive nephritic syndrome with other morphologic changes"
+	},
+	{
+		"code": "N019",
+		"desc": "Rapidly progressive nephritic syndrome with unspecified morphologic changes"
+	},
+	{
+		"code": "G9841",
+		"desc": "Ras (kras and nras) gene mutation testing not performed before initiation of anti-egfr moab"
+	},
+	{
+		"code": "G9840",
+		"desc": "Ras (kras and nras) gene mutation testing performed before initiation of anti-egfr moab"
+	},
+	{
+		"code": "G9843",
+		"desc": "Ras (kras or nras) gene mutation"
+	},
+	{
+		"code": "R21",
+		"desc": "Rash and other nonspecific skin eruption"
+	},
+	{
+		"code": "A259",
+		"desc": "Rat-bite fever, unspecified"
+	},
+	{
+		"code": "K0050",
+		"desc": "Ratchet assembly, replacement only"
+	},
+	{
+		"code": "I7301",
+		"desc": "Raynaud's syndrome with gangrene"
+	},
+	{
+		"code": "I7300",
+		"desc": "Raynaud's syndrome without gangrene"
+	},
+	{
+		"code": "I470",
+		"desc": "Re-entry ventricular arrhythmia"
+	},
+	{
+		"code": "G8578",
+		"desc": "Re-exploration not required due to mediastinal bleeding with or without tamponade, graft occlusion, valve dysfunction or other cardiac reason"
+	},
+	{
+		"code": "G8577",
+		"desc": "Re-exploration required due to mediastinal bleeding with or without tamponade, graft occlusion, valve dysfunction or other cardiac reason"
+	},
+	{
+		"code": "A9281",
+		"desc": "Reaching/grabbing device, any type, any length, each"
+	},
+	{
+		"code": "F439",
+		"desc": "Reaction to severe stress, unspecified"
+	},
+	{
+		"code": "M029",
+		"desc": "Reactive arthropathy, unspecified"
+	},
+	{
+		"code": "F941",
+		"desc": "Reactive attachment disorder of childhood"
+	},
+	{
+		"code": "L871",
+		"desc": "Reactive perforating collagenosis"
+	},
+	{
+		"code": "K0070",
+		"desc": "Rear wheel assembly, complete, with pneumatic tire, spokes or molded, replacement only, each"
+	},
+	{
+		"code": "K0069",
+		"desc": "Rear wheel assembly, complete, with solid tire, spokes or molded, replacement only, each"
+	},
+	{
+		"code": "G2207",
+		"desc": "Reason for not administering adjuvant treatment course including both chemotherapy and her2-targeted therapy (e.g. poor performance status (ecog 3-4; karnofsky <=50), cardiac contraindications, insufficient renal function, insufficient hepatic function, other active or secondary cancer diagnoses, other medical contraindications, patients who died during initial treatment course or transferred during or after initial treatment course)"
+	},
+	{
+		"code": "G9836",
+		"desc": "Reason for not administering trastuzumab documented (e.g. patient declined, patient died, patient transferred, contraindication or other clinical exclusion, neoadjuvant chemotherapy or radiation not complete)\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "R10829",
+		"desc": "Rebound abdominal tenderness, unspecified site"
+	},
+	{
+		"code": "Q4296",
+		"desc": "Rebound matrix, per square centimeter"
+	},
+	{
+		"code": "G9869",
+		"desc": "Receipt and analysis of remote, asynchronous images for dermatologic and/or ophthalmologic evaluation, for use only in a medicare-approved cmmi model, 10-20 minutes"
+	},
+	{
+		"code": "G9868",
+		"desc": "Receipt and analysis of remote, asynchronous images for dermatologic and/or ophthalmologic evaluation, for use only in a medicare-approved cmmi model, less than 10 minutes"
+	},
+	{
+		"code": "G9870",
+		"desc": "Receipt and analysis of remote, asynchronous images for dermatologic and/or ophthalmologic evaluation, for use only in a medicare-approved cmmi model, more than 20 minutes"
+	},
+	{
+		"code": "G9497",
+		"desc": "Received instruction from the anesthesiologist or proxy prior to the day of surgery to abstain from smoking on the day of surgery"
+	},
+	{
+		"code": "K0554",
+		"desc": "Receiver (monitor), dedicated, for use with therapeutic glucose continuous monitor system\n                                    \n                                        \n                                        Terminated December 31, 2022."
+	},
+	{
+		"code": "S1037",
+		"desc": "Receiver (monitor); external, for use with artificial pancreas device system"
+	},
+	{
+		"code": "A9278",
+		"desc": "Receiver (monitor); external, for use with non-durable medical equipment interstitial continuous glucose monitoring system"
+	},
+	{
+		"code": "C1816",
+		"desc": "Receiver and/or transmitter, neurostimulator (implantable)"
+	},
+	{
+		"code": "M1269",
+		"desc": "Receiving esrd mcp dialysis services by the provider on the last day of the reporting month"
+	},
+	{
+		"code": "H21553",
+		"desc": "Recession of chamber angle, bilateral"
+	},
+	{
+		"code": "H21552",
+		"desc": "Recession of chamber angle, left eye"
+	},
+	{
+		"code": "H21551",
+		"desc": "Recession of chamber angle, right eye"
+	},
+	{
+		"code": "H21559",
+		"desc": "Recession of chamber angle, unspecified eye"
+	},
+	{
+		"code": "E1630",
+		"desc": "Reciprocating peritoneal dialysis system"
+	},
+	{
+		"code": "E1014",
+		"desc": "Reclining back, addition to pediatric size wheelchair"
+	},
+	{
+		"code": "G0288",
+		"desc": "Reconstruction, computed tomographic angiography of aorta for surgical planning for vascular surgery"
+	},
+	{
+		"code": "A751",
+		"desc": "Recrudescent typhus [Brill's disease]"
+	},
+	{
+		"code": "K611",
+		"desc": "Rectal abscess"
+	},
+	{
+		"code": "A4453",
+		"desc": "Rectal catheter for use with the manual pump-operated enema system, replacement only"
+	},
+	{
+		"code": "A4563",
+		"desc": "Rectal control system for vaginal insertion, for long term use, includes pump and all supplies and accessories, any type each"
+	},
+	{
+		"code": "K604",
+		"desc": "Rectal fistula"
+	},
+	{
+		"code": "K621",
+		"desc": "Rectal polyp"
+	},
+	{
+		"code": "K623",
+		"desc": "Rectal prolapse"
+	},
+	{
+		"code": "A4932",
+		"desc": "Rectal thermometer, reusable, any type, each"
+	},
+	{
+		"code": "N816",
+		"desc": "Rectocele"
+	},
+	{
+		"code": "H20023",
+		"desc": "Recurrent acute iridocyclitis, bilateral"
+	},
+	{
+		"code": "H20022",
+		"desc": "Recurrent acute iridocyclitis, left eye"
+	},
+	{
+		"code": "H20021",
+		"desc": "Recurrent acute iridocyclitis, right eye"
+	},
+	{
+		"code": "H20029",
+		"desc": "Recurrent acute iridocyclitis, unspecified eye"
+	},
+	{
+		"code": "N026",
+		"desc": "Recurrent and persistent hematuria with dense deposit disease"
+	},
+	{
+		"code": "N027",
+		"desc": "Recurrent and persistent hematuria with diffuse crescentic glomerulonephritis"
+	},
+	{
+		"code": "N024",
+		"desc": "Recurrent and persistent hematuria with diffuse endocapillary proliferative glomerulonephritis"
+	},
+	{
+		"code": "N022",
+		"desc": "Recurrent and persistent hematuria with diffuse membranous glomerulonephritis"
+	},
+	{
+		"code": "N023",
+		"desc": "Recurrent and persistent hematuria with diffuse mesangial proliferative glomerulonephritis"
+	},
+	{
+		"code": "N025",
+		"desc": "Recurrent and persistent hematuria with diffuse mesangiocapillary glomerulonephritis"
+	},
+	{
+		"code": "N021",
+		"desc": "Recurrent and persistent hematuria with focal and segmental glomerular lesions"
+	},
+	{
+		"code": "N020",
+		"desc": "Recurrent and persistent hematuria with minor glomerular abnormality"
+	},
+	{
+		"code": "N028",
+		"desc": "Recurrent and persistent hematuria with other morphologic changes"
+	},
+	{
+		"code": "N029",
+		"desc": "Recurrent and persistent hematuria with unspecified morphologic changes"
+	},
+	{
+		"code": "M433",
+		"desc": "Recurrent atlantoaxial dislocation with myelopathy"
+	},
+	{
+		"code": "H9503",
+		"desc": "Recurrent cholesteatoma of postmastoidectomy cavity, bilateral ears"
+	},
+	{
+		"code": "H9502",
+		"desc": "Recurrent cholesteatoma of postmastoidectomy cavity, left ear"
+	},
+	{
+		"code": "H9501",
+		"desc": "Recurrent cholesteatoma of postmastoidectomy cavity, right ear"
+	},
+	{
+		"code": "H9500",
+		"desc": "Recurrent cholesteatoma of postmastoidectomy cavity, unspecified ear"
+	},
+	{
+		"code": "M2202",
+		"desc": "Recurrent dislocation of patella, left knee"
+	},
+	{
+		"code": "M2201",
+		"desc": "Recurrent dislocation of patella, right knee"
+	},
+	{
+		"code": "M2200",
+		"desc": "Recurrent dislocation of patella, unspecified knee"
+	},
+	{
+		"code": "M24472",
+		"desc": "Recurrent dislocation, left ankle"
+	},
+	{
+		"code": "M24422",
+		"desc": "Recurrent dislocation, left elbow"
+	},
+	{
+		"code": "M24445",
+		"desc": "Recurrent dislocation, left finger"
+	},
+	{
+		"code": "M24475",
+		"desc": "Recurrent dislocation, left foot"
+	},
+	{
+		"code": "M24442",
+		"desc": "Recurrent dislocation, left hand"
+	},
+	{
+		"code": "M24452",
+		"desc": "Recurrent dislocation, left hip"
+	},
+	{
+		"code": "M24462",
+		"desc": "Recurrent dislocation, left knee"
+	},
+	{
+		"code": "M24412",
+		"desc": "Recurrent dislocation, left shoulder"
+	},
+	{
+		"code": "M24478",
+		"desc": "Recurrent dislocation, left toe(s)"
+	},
+	{
+		"code": "M24432",
+		"desc": "Recurrent dislocation, left wrist"
+	},
+	{
+		"code": "M24471",
+		"desc": "Recurrent dislocation, right ankle"
+	},
+	{
+		"code": "M24421",
+		"desc": "Recurrent dislocation, right elbow"
+	},
+	{
+		"code": "M24444",
+		"desc": "Recurrent dislocation, right finger"
+	},
+	{
+		"code": "M24474",
+		"desc": "Recurrent dislocation, right foot"
+	},
+	{
+		"code": "M24441",
+		"desc": "Recurrent dislocation, right hand"
+	},
+	{
+		"code": "M24451",
+		"desc": "Recurrent dislocation, right hip"
+	},
+	{
+		"code": "M24461",
+		"desc": "Recurrent dislocation, right knee"
+	},
+	{
+		"code": "M24411",
+		"desc": "Recurrent dislocation, right shoulder"
+	},
+	{
+		"code": "M24477",
+		"desc": "Recurrent dislocation, right toe(s)"
+	},
+	{
+		"code": "M24431",
+		"desc": "Recurrent dislocation, right wrist"
+	},
+	{
+		"code": "M24473",
+		"desc": "Recurrent dislocation, unspecified ankle"
+	},
+	{
+		"code": "M24429",
+		"desc": "Recurrent dislocation, unspecified elbow"
+	},
+	{
+		"code": "M24446",
+		"desc": "Recurrent dislocation, unspecified finger"
+	},
+	{
+		"code": "M24476",
+		"desc": "Recurrent dislocation, unspecified foot"
+	},
+	{
+		"code": "M24443",
+		"desc": "Recurrent dislocation, unspecified hand"
+	},
+	{
+		"code": "M24459",
+		"desc": "Recurrent dislocation, unspecified hip"
+	},
+	{
+		"code": "M2440",
+		"desc": "Recurrent dislocation, unspecified joint"
+	},
+	{
+		"code": "M24469",
+		"desc": "Recurrent dislocation, unspecified knee"
+	},
+	{
+		"code": "M24419",
+		"desc": "Recurrent dislocation, unspecified shoulder"
+	},
+	{
+		"code": "M24479",
+		"desc": "Recurrent dislocation, unspecified toe(s)"
+	},
+	{
+		"code": "M24439",
+		"desc": "Recurrent dislocation, unspecified wrist"
+	},
+	{
+		"code": "H18833",
+		"desc": "Recurrent erosion of cornea, bilateral"
+	},
+	{
+		"code": "H18832",
+		"desc": "Recurrent erosion of cornea, left eye"
+	},
+	{
+		"code": "H18831",
+		"desc": "Recurrent erosion of cornea, right eye"
+	},
+	{
+		"code": "H18839",
+		"desc": "Recurrent erosion of cornea, unspecified eye"
+	},
+	{
+		"code": "G4713",
+		"desc": "Recurrent hypersomnia"
+	},
+	{
+		"code": "G4753",
+		"desc": "Recurrent isolated sleep paralysis"
+	},
+	{
+		"code": "K120",
+		"desc": "Recurrent oral aphthae"
+	},
+	{
+		"code": "N96",
+		"desc": "Recurrent pregnancy loss"
+	},
+	{
+		"code": "H11063",
+		"desc": "Recurrent pterygium of eye, bilateral"
+	},
+	{
+		"code": "H11062",
+		"desc": "Recurrent pterygium of left eye"
+	},
+	{
+		"code": "H11061",
+		"desc": "Recurrent pterygium of right eye"
+	},
+	{
+		"code": "H11069",
+		"desc": "Recurrent pterygium of unspecified eye"
+	},
+	{
+		"code": "M2212",
+		"desc": "Recurrent subluxation of patella, left knee"
+	},
+	{
+		"code": "M2211",
+		"desc": "Recurrent subluxation of patella, right knee"
+	},
+	{
+		"code": "M2210",
+		"desc": "Recurrent subluxation of patella, unspecified knee"
+	},
+	{
+		"code": "P9039",
+		"desc": "Red blood cells, deglycerolized, each unit"
+	},
+	{
+		"code": "P9021",
+		"desc": "Red blood cells, each unit"
+	},
+	{
+		"code": "P9057",
+		"desc": "Red blood cells, frozen/deglycerolized/washed, leukocytes reduced, irradiated, each unit"
+	},
+	{
+		"code": "P9038",
+		"desc": "Red blood cells, irradiated, each unit"
+	},
+	{
+		"code": "P9058",
+		"desc": "Red blood cells, leukocytes reduced, cmv-negative, irradiated, each unit"
+	},
+	{
+		"code": "P9016",
+		"desc": "Red blood cells, leukocytes reduced, each unit"
+	},
+	{
+		"code": "P9040",
+		"desc": "Red blood cells, leukocytes reduced, irradiated, each unit"
+	},
+	{
+		"code": "P9022",
+		"desc": "Red blood cells, washed, each unit"
+	},
+	{
+		"code": "V2626",
+		"desc": "Reduction of ocular prosthesis"
+	},
+	{
+		"code": "G8858",
+		"desc": "Referral to a physician for an otologic evaluation not performed, reason not given"
+	},
+	{
+		"code": "G8856",
+		"desc": "Referral to a physician for an otologic evaluation performed"
+	},
+	{
+		"code": "G0042",
+		"desc": "Referral to physical, occupational, speech, or recreational therapy"
+	},
+	{
+		"code": "A4220",
+		"desc": "Refill kit for implantable infusion pump"
+	},
+	{
+		"code": "N311",
+		"desc": "Reflex neuropathic bladder, not elsewhere classified"
+	},
+	{
+		"code": "H53023",
+		"desc": "Refractive amblyopia, bilateral"
+	},
+	{
+		"code": "H53022",
+		"desc": "Refractive amblyopia, left eye"
+	},
+	{
+		"code": "H53021",
+		"desc": "Refractive amblyopia, right eye"
+	},
+	{
+		"code": "H53029",
+		"desc": "Refractive amblyopia, unspecified eye"
+	},
+	{
+		"code": "D4621",
+		"desc": "Refractory anemia with excess of blasts 1"
+	},
+	{
+		"code": "D4622",
+		"desc": "Refractory anemia with excess of blasts 2"
+	},
+	{
+		"code": "D4620",
+		"desc": "Refractory anemia with excess of blasts, unspecified"
+	},
+	{
+		"code": "D461",
+		"desc": "Refractory anemia with ring sideroblasts"
+	},
+	{
+		"code": "D460",
+		"desc": "Refractory anemia without ring sideroblasts, so stated"
+	},
+	{
+		"code": "D464",
+		"desc": "Refractory anemia, unspecified"
+	},
+	{
+		"code": "D46A",
+		"desc": "Refractory cytopenia with multilineage dysplasia"
+	},
+	{
+		"code": "D46B",
+		"desc": "Refractory cytopenia with multilineage dysplasia and ring sideroblasts"
+	},
+	{
+		"code": "G601",
+		"desc": "Refsum's disease"
+	},
+	{
+		"code": "Q4255",
+		"desc": "Reguard, for topical use only, per square centimeter"
+	},
+	{
+		"code": "H52223",
+		"desc": "Regular astigmatism, bilateral"
+	},
+	{
+		"code": "H52222",
+		"desc": "Regular astigmatism, left eye"
+	},
+	{
+		"code": "H52221",
+		"desc": "Regular astigmatism, right eye"
+	},
+	{
+		"code": "H52229",
+		"desc": "Regular astigmatism, unspecified eye"
+	},
+	{
+		"code": "E1353",
+		"desc": "Regulator"
+	},
+	{
+		"code": "P921",
+		"desc": "Regurgitation and rumination of newborn"
+	},
+	{
+		"code": "E0739",
+		"desc": "Rehab system with interactive interface providing active assistance in rehabilitation therapy, includes all components and accessories, motors, microprocessors, sensors"
+	},
+	{
+		"code": "H2001",
+		"desc": "Rehabilitation program, per 1/2 day"
+	},
+	{
+		"code": "G8700",
+		"desc": "Rehabilitation services (occupational, physical or speech) not indicated at or prior to discharge\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "G8699",
+		"desc": "Rehabilitation services (occupational, physical or speech) ordered at or prior to discharge\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "G8701",
+		"desc": "Rehabilitation services were not ordered, reason not otherwise specified\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "M1370",
+		"desc": "Rehabilitative support for musculoskeletal care mips value pathway"
+	},
+	{
+		"code": "M02372",
+		"desc": "Reiter's disease, left ankle and foot"
+	},
+	{
+		"code": "M02322",
+		"desc": "Reiter's disease, left elbow"
+	},
+	{
+		"code": "M02342",
+		"desc": "Reiter's disease, left hand"
+	},
+	{
+		"code": "M02352",
+		"desc": "Reiter's disease, left hip"
+	},
+	{
+		"code": "M02362",
+		"desc": "Reiter's disease, left knee"
+	},
+	{
+		"code": "M02312",
+		"desc": "Reiter's disease, left shoulder"
+	},
+	{
+		"code": "M02332",
+		"desc": "Reiter's disease, left wrist"
+	},
+	{
+		"code": "M0239",
+		"desc": "Reiter's disease, multiple sites"
+	},
+	{
+		"code": "M02371",
+		"desc": "Reiter's disease, right ankle and foot"
+	},
+	{
+		"code": "M02321",
+		"desc": "Reiter's disease, right elbow"
+	},
+	{
+		"code": "M02341",
+		"desc": "Reiter's disease, right hand"
+	},
+	{
+		"code": "M02351",
+		"desc": "Reiter's disease, right hip"
+	},
+	{
+		"code": "M02361",
+		"desc": "Reiter's disease, right knee"
+	},
+	{
+		"code": "M02311",
+		"desc": "Reiter's disease, right shoulder"
+	},
+	{
+		"code": "M02331",
+		"desc": "Reiter's disease, right wrist"
+	},
+	{
+		"code": "M02379",
+		"desc": "Reiter's disease, unspecified ankle and foot"
+	},
+	{
+		"code": "M02329",
+		"desc": "Reiter's disease, unspecified elbow"
+	},
+	{
+		"code": "M02349",
+		"desc": "Reiter's disease, unspecified hand"
+	},
+	{
+		"code": "M02359",
+		"desc": "Reiter's disease, unspecified hip"
+	},
+	{
+		"code": "M02369",
+		"desc": "Reiter's disease, unspecified knee"
+	},
+	{
+		"code": "M02319",
+		"desc": "Reiter's disease, unspecified shoulder"
+	},
+	{
+		"code": "M0230",
+		"desc": "Reiter's disease, unspecified site"
+	},
+	{
+		"code": "M02339",
+		"desc": "Reiter's disease, unspecified wrist"
+	},
+	{
+		"code": "M0238",
+		"desc": "Reiter's disease, vertebrae"
+	},
+	{
+		"code": "A689",
+		"desc": "Relapsing fever, unspecified"
+	},
+	{
+		"code": "M356",
+		"desc": "Relapsing panniculitis [Weber-Christian]"
+	},
+	{
+		"code": "M941",
+		"desc": "Relapsing polychondritis"
+	},
+	{
+		"code": "Q4257",
+		"desc": "Relese, per square centimeter"
+	},
+	{
+		"code": "Y9222",
+		"desc": "Religious institution as the place of occurrence of the external cause"
+	},
+	{
+		"code": "G2250",
+		"desc": "Remote assessment of recorded video and/or images submitted by an established patient (e.g., store and forward), including interpretation with follow-up with the patient within 24 business hours, not originating from a related service provided within the previous 7 days nor leading to a service or procedure within the next 24 hours or soonest available appointment"
+	},
+	{
+		"code": "G2010",
+		"desc": "Remote evaluation of recorded video and/or images submitted by an established patient (e.g., store and forward), including interpretation with follow-up with the patient within 24 business hours, not originating from a related e/m service provided within the previous 7 days nor leading to an e/m service or procedure within the next 24 hours or soonest available appointment"
+	},
+	{
+		"code": "G9982",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires these 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are of moderate to high severity. typically, 60 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9981",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires these 3 key components: a comprehensive history; a comprehensive examination; medical decision making of moderate complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are of moderate to high severity. typically, 45 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9980",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting  problem(s) are of moderate severity. typically, 30 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9978",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires these 3 key components: a problem focused history; a problem focused examination; and straightforward medical decision making, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are self limited or minor. typically, 10 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9979",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires these 3 key components: an expanded problem focused history;  an expanded problem focused examination; straightforward medical decision making, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are of low to moderate severity. typically, 20 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9485",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved cms innovation center demonstration project, which requires these 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity, furnished in real time using interactive audio and video technology. counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both.  usually, the presenting problem(s) are of moderate to high severity.  typically, 60 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9484",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved cms innovation center demonstration project, which requires these 3 key components: a comprehensive history; a comprehensive examination; medical decision making of moderate complexity, furnished in real time using interactive audio and video technology. counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both.  usually, the presenting problem(s) are of moderate to high severity.  typically, 45 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9483",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved cms innovation center demonstration project, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both.  usually, the presenting problem(s) are of moderate severity.  typically, 30 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9481",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved cms innovation center demonstration project, which requires these 3 key components: a problem focused history;  a problem focused examination; and straightforward medical decision making, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are self limited or minor.  typically, 10 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9482",
+		"desc": "Remote in-home visit for the evaluation and management of a new patient for use only in a medicare-approved cms innovation center demonstration project, which requires these 3 key components: an expanded problem focused history; an expanded problem focused examination;  straightforward medical decision making, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both.  usually, the presenting problem(s) are of low to moderate severity.  typically, 20 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9986",
+		"desc": "Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires at least 2 of the following 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are of moderate to high severity. typically, 40 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9985",
+		"desc": "Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires at least 2 of the following 3 key components: a detailed history;  a detailed examination; medical decision making of moderate complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are of moderate to high severity. typically, 25 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9983",
+		"desc": "Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires at least 2 of the following 3 key components: a problem focused history; a problem focused examination; straightforward medical decision making, furnished in real time using interactive audio and video technology. counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are self limited or minor. typically, 10 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9984",
+		"desc": "Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved bundled payments for care improvement advanced (bpci advanced) model episode of care, which requires at least 2 of the following 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both. usually, the presenting problem(s) are of low to moderate severity. typically, 15 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9488",
+		"desc": "Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved cms innovation center demonstration project, which requires at least 2 of the following 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both.  usually, the presenting problem(s) are of moderate to high severity.  typically, 25 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9486",
+		"desc": "Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved cms innovation center demonstration project, which requires at least 2 of the following 3 key components: a problem focused history; a problem focused examination; straightforward medical decision making, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both.  usually, the presenting problem(s) are self limited or minor.  typically, 10 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9487",
+		"desc": "Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved cms innovation center demonstration project, which requires at least 2 of the following 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both.  usually, the presenting problem(s) are of low to moderate severity.  typically, 15 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "G9489",
+		"desc": "Remote in-home visit for the evaluation and management of an established patient for use only in a medicare-approved coms innovation center demonstration project, which requires at least 2 of the following 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity, furnished in real time using interactive audio and video technology.  counseling and coordination of care with other physicians, other qualified health care professionals or agencies are provided consistent with the nature of the problem(s) and the needs of the patient or the family or both.  usually, the presenting problem(s) are of moderate to high severity.  typically, 40 minutes are spent with the patient or family or both via real time, audio and video intercommunications technology"
+	},
+	{
+		"code": "C7546",
+		"desc": "Removal and replacement of externally accessible nephroureteral catheter (eg, external/internal stent) requiring fluoroscopic guidance, with ureteral stricture balloon dilation, including imaging guidance and all associated radiological supervision and interpretation"
+	},
+	{
+		"code": "G0268",
+		"desc": "Removal of impacted cerumen (one or both ears) by physician on same date of service as audiologic function testing"
+	},
+	{
+		"code": "G0309",
+		"desc": "Removal of implantable interstitial glucose sensor with creation of subcutaneous pocket at different anatomic site and insertion of new 180 day implantable sensor, including system activation\n                                    \n                                        \n                                        Terminated December 31, 2022."
+	},
+	{
+		"code": "G0517",
+		"desc": "Removal of non-biodegradable drug delivery implants, 4 or more (services for subdermal implants)"
+	},
+	{
+		"code": "Y836",
+		"desc": "Removal of other organ (partial) (total) as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+	},
+	{
+		"code": "C7540",
+		"desc": "Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator, dual lead system, with insertion of pacing electrode, cardiac venous system, for left ventricular pacing, at time of insertion of implantable defibrillator or pacemaker pulse generator (eg, for upgrade to dual chamber system)"
+	},
+	{
+		"code": "S0630",
+		"desc": "Removal of sutures; by a physician other than the physician who originally closed the wound"
+	},
+	{
+		"code": "G0518",
+		"desc": "Removal with reinsertion, non-biodegradable drug delivery implants, 4 or more (services for subdermal implants)"
+	},
+	{
+		"code": "Q601",
+		"desc": "Renal agenesis, bilateral"
+	},
+	{
+		"code": "Q600",
+		"desc": "Renal agenesis, unilateral"
+	},
+	{
+		"code": "Q602",
+		"desc": "Renal agenesis, unspecified"
+	},
+	{
+		"code": "N151",
+		"desc": "Renal and perinephric abscess"
+	},
+	{
+		"code": "Q614",
+		"desc": "Renal dysplasia"
+	},
+	{
+		"code": "O0482",
+		"desc": "Renal failure following (induced) termination of pregnancy"
+	},
+	{
+		"code": "O0382",
+		"desc": "Renal failure following complete or unspecified spontaneous abortion"
+	},
+	{
+		"code": "O084",
+		"desc": "Renal failure following ectopic and molar pregnancy"
+	},
+	{
+		"code": "O0732",
+		"desc": "Renal failure following failed attempted termination of pregnancy"
+	},
+	{
+		"code": "O0332",
+		"desc": "Renal failure following incomplete spontaneous abortion"
+	},
+	{
+		"code": "Q604",
+		"desc": "Renal hypoplasia, bilateral"
+	},
+	{
+		"code": "Q603",
+		"desc": "Renal hypoplasia, unilateral"
+	},
+	{
+		"code": "Q605",
+		"desc": "Renal hypoplasia, unspecified"
+	},
+	{
+		"code": "N250",
+		"desc": "Renal osteodystrophy"
+	},
+	{
+		"code": "N269",
+		"desc": "Renal sclerosis, unspecified"
+	},
+	{
+		"code": "N159",
+		"desc": "Renal tubulo-interstitial disease, unspecified"
+	},
+	{
+		"code": "N16",
+		"desc": "Renal tubulo-interstitial disorders in diseases classified elsewhere"
+	},
+	{
+		"code": "I150",
+		"desc": "Renovascular hypertension"
+	},
+	{
+		"code": "B975",
+		"desc": "Reovirus as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "C1771",
+		"desc": "Repair device, urinary, incontinence, with sling graft"
+	},
+	{
+		"code": "C2631",
+		"desc": "Repair device, urinary, incontinence, without sling graft"
+	},
+	{
+		"code": "C9796",
+		"desc": "Repair of enterocutaneous fistula small intestine or colon (excluding anorectal fistula) with plug (e.g., porcine small intestine submucosa [sis])"
+	},
+	{
+		"code": "C9749",
+		"desc": "Repair of nasal vestibular lateral wall stenosis with implant(s)\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "L4205",
+		"desc": "Repair of orthotic device, labor component, per 15 minutes"
+	},
+	{
+		"code": "L4210",
+		"desc": "Repair of orthotic device, repair or replace minor parts"
+	},
+	{
+		"code": "L7510",
+		"desc": "Repair of prosthetic device, repair or replace minor parts"
+	},
+	{
+		"code": "S2405",
+		"desc": "Repair of sacrococcygeal teratoma in the fetus, procedure performed in utero"
+	},
+	{
+		"code": "L8049",
+		"desc": "Repair or modification of maxillofacial prosthesis, labor component, 15 minute increments, provided by a non-physician"
+	},
+	{
+		"code": "K0739",
+		"desc": "Repair or nonroutine service for durable medical equipment other than oxygen equipment requiring the skill of a technician, labor component, per 15 minutes"
+	},
+	{
+		"code": "K0740",
+		"desc": "Repair or nonroutine service for oxygen equipment requiring the skill of a technician, labor component, per 15 minutes"
+	},
+	{
+		"code": "L7520",
+		"desc": "Repair prosthetic device, labor component, per 15 minutes"
+	},
+	{
+		"code": "S2402",
+		"desc": "Repair, congenital cystic adenomatoid malformation in the fetus, procedure performed in utero"
+	},
+	{
+		"code": "S2400",
+		"desc": "Repair, congenital diaphragmatic hernia in the fetus using temporary tracheal occlusion, procedure performed in utero"
+	},
+	{
+		"code": "S2409",
+		"desc": "Repair, congenital malformation of fetus, procedure performed in utero, not otherwise classified"
+	},
+	{
+		"code": "S2403",
+		"desc": "Repair, extralobar pulmonary sequestration in the fetus, procedure performed in utero"
+	},
+	{
+		"code": "S2404",
+		"desc": "Repair, myelomeningocele in the fetus, procedure performed in utero"
+	},
+	{
+		"code": "S2401",
+		"desc": "Repair, urinary tract obstruction in the fetus, procedure performed in utero"
+	},
+	{
+		"code": "V5014",
+		"desc": "Repair/modification of a hearing aid"
+	},
+	{
+		"code": "V5336",
+		"desc": "Repair/modification of augmentative communicative system or device (excludes adaptive hearing aid)"
+	},
+	{
+		"code": "R296",
+		"desc": "Repeated falls"
+	},
+	{
+		"code": "L4000",
+		"desc": "Replace girdle for spinal orthosis (ctlso or so)"
+	},
+	{
+		"code": "L4060",
+		"desc": "Replace high roll cuff"
+	},
+	{
+		"code": "L4100",
+		"desc": "Replace leather cuff kafo, proximal thigh"
+	},
+	{
+		"code": "L4110",
+		"desc": "Replace leather cuff kafo-afo, calf or distal thigh"
+	},
+	{
+		"code": "L4080",
+		"desc": "Replace metal bands kafo, proximal thigh"
+	},
+	{
+		"code": "L4090",
+		"desc": "Replace metal bands kafo-afo, calf or distal thigh"
+	},
+	{
+		"code": "L4050",
+		"desc": "Replace molded calf lacer, for custom fabricated orthosis only"
+	},
+	{
+		"code": "L4040",
+		"desc": "Replace molded thigh lacer, for custom fabricated orthosis only"
+	},
+	{
+		"code": "L4055",
+		"desc": "Replace non-molded calf lacer, for custom fabricated orthosis only"
+	},
+	{
+		"code": "L4045",
+		"desc": "Replace non-molded thigh lacer, for custom fabricated orthosis only"
+	},
+	{
+		"code": "L4130",
+		"desc": "Replace pretibial shell"
+	},
+	{
+		"code": "L4070",
+		"desc": "Replace proximal and distal upright for kafo"
+	},
+	{
+		"code": "L4030",
+		"desc": "Replace quadrilateral socket brim, custom fitted"
+	},
+	{
+		"code": "L4020",
+		"desc": "Replace quadrilateral socket brim, molded to patient model"
+	},
+	{
+		"code": "L4394",
+		"desc": "Replace soft interface material, foot drop splint"
+	},
+	{
+		"code": "L4010",
+		"desc": "Replace trilateral socket brim"
+	},
+	{
+		"code": "A4630",
+		"desc": "Replacement batteries, medically necessary, transcutaneous electrical stimulator, owned by patient"
+	},
+	{
+		"code": "K0607",
+		"desc": "Replacement battery for automated external defibrillator, garment type only, each"
+	},
+	{
+		"code": "K0603",
+		"desc": "Replacement battery for external infusion pump owned by patient, alkaline, 1.5 volt, each"
+	},
+	{
+		"code": "A4602",
+		"desc": "Replacement battery for external infusion pump owned by patient, lithium, 1.5 volt, each"
+	},
+	{
+		"code": "K0604",
+		"desc": "Replacement battery for external infusion pump owned by patient, lithium, 3.6 volt, each"
+	},
+	{
+		"code": "K0605",
+		"desc": "Replacement battery for external infusion pump owned by patient, lithium, 4.5 volt, each"
+	},
+	{
+		"code": "K0601",
+		"desc": "Replacement battery for external infusion pump owned by patient, silver oxide, 1.5 volt, each"
+	},
+	{
+		"code": "K0602",
+		"desc": "Replacement battery for external infusion pump owned by patient, silver oxide, 3 volt, each"
+	},
+	{
+		"code": "A4638",
+		"desc": "Replacement battery for patient-owned ear pulse generator, each"
+	},
+	{
+		"code": "A4233",
+		"desc": "Replacement battery, alkaline (other than j cell), for use with medically necessary home blood glucose monitor owned by patient, each"
+	},
+	{
+		"code": "A4234",
+		"desc": "Replacement battery, alkaline, j cell, for use with medically necessary home blood glucose monitor owned by patient, each"
+	},
+	{
+		"code": "A4235",
+		"desc": "Replacement battery, lithium, for use with medically necessary home blood glucose monitor owned by patient, each"
+	},
+	{
+		"code": "A4236",
+		"desc": "Replacement battery, silver oxide, for use with medically necessary home blood glucose monitor owned by patient, each"
+	},
+	{
+		"code": "A4634",
+		"desc": "Replacement bulb for therapeutic light box, tabletop model"
+	},
+	{
+		"code": "A4633",
+		"desc": "Replacement bulb/lamp for ultraviolet light therapy system, each"
+	},
+	{
+		"code": "E2619",
+		"desc": "Replacement cover for wheelchair seat cushion or back cushion, each"
+	},
+	{
+		"code": "E1701",
+		"desc": "Replacement cushions for jaw motion rehabilitation system, pkg. of 6"
+	},
+	{
+		"code": "A7502",
+		"desc": "Replacement diaphragm/faceplate for tracheostoma valve, each"
+	},
+	{
+		"code": "K0609",
+		"desc": "Replacement electrodes for use with automated external defibrillator, garment type only, each"
+	},
+	{
+		"code": "K0608",
+		"desc": "Replacement garment for use with automated external defibrillator, each"
+	},
+	{
+		"code": "A4257",
+		"desc": "Replacement lens shield cartridge for use with laser skin piercing device, each"
+	},
+	{
+		"code": "E1702",
+		"desc": "Replacement measuring scales for jaw motion rehabilitation system, pkg. of 200"
+	},
+	{
+		"code": "A4639",
+		"desc": "Replacement pad for infrared heating pad system, each"
+	},
+	{
+		"code": "A4640",
+		"desc": "Replacement pad for use with medically necessary alternating pressure pad owned by patient"
+	},
+	{
+		"code": "L6884",
+		"desc": "Replacement socket, above elbow/elbow disarticulation, molded to patient model, for use with or without external power"
+	},
+	{
+		"code": "L6883",
+		"desc": "Replacement socket, below elbow/wrist disarticulation, molded to patient model, for use with or without external power"
+	},
+	{
+		"code": "L6885",
+		"desc": "Replacement socket, shoulder disarticulation/interscapular thoracic, molded to patient model, for use with or without external power"
+	},
+	{
+		"code": "E1820",
+		"desc": "Replacement soft interface material, dynamic adjustable extension/flexion device"
+	},
+	{
+		"code": "E1821",
+		"desc": "Replacement soft interface material/cuffs for bi-directional static progressive stretch device"
+	},
+	{
+		"code": "L4002",
+		"desc": "Replacement strap, any orthosis, includes all components, any length, any type"
+	},
+	{
+		"code": "A4636",
+		"desc": "Replacement, handgrip, cane, crutch, or walker, each"
+	},
+	{
+		"code": "L5701",
+		"desc": "Replacement, socket, above knee/knee disarticulation, including attachment plate, molded to patient model"
+	},
+	{
+		"code": "L5700",
+		"desc": "Replacement, socket, below knee, molded to patient model"
+	},
+	{
+		"code": "L5702",
+		"desc": "Replacement, socket, hip disarticulation, including hip joint, molded to patient model"
+	},
+	{
+		"code": "L4392",
+		"desc": "Replacement, soft interface material, static afo"
+	},
+	{
+		"code": "A4637",
+		"desc": "Replacement, tip, cane, crutch, walker, each."
+	},
+	{
+		"code": "Q4143",
+		"desc": "Repriza, per square centimeter"
+	},
+	{
+		"code": "A7009",
+		"desc": "Reservoir bottle, non-disposable, used with large volume ultrasonic nebulizer"
+	},
+	{
+		"code": "T2033",
+		"desc": "Residential care, not otherwise specified (nos), waiver; per diem"
+	},
+	{
+		"code": "T2032",
+		"desc": "Residential care, not otherwise specified (nos), waiver; per month"
+	},
+	{
+		"code": "M795",
+		"desc": "Residual foreign body in soft tissue"
+	},
+	{
+		"code": "K644",
+		"desc": "Residual hemorrhoidal skin tags"
+	},
+	{
+		"code": "E1020",
+		"desc": "Residual limb support system for wheelchair, any type"
+	},
+	{
+		"code": "N9983",
+		"desc": "Residual ovary syndrome"
+	},
+	{
+		"code": "F205",
+		"desc": "Residual schizophrenia"
+	},
+	{
+		"code": "G8670",
+		"desc": "Residual score for the elbow, wrist or hand impairment not measured because the patient did not complete the elbow/wrist/hand fs prom at initial evaluation and/or near discharge, reason not given"
+	},
+	{
+		"code": "G8667",
+		"desc": "Residual score for the elbow, wrist or hand impairment successfully calculated and the score was equal to zero (0) or greater than zero (> 0)"
+	},
+	{
+		"code": "G8668",
+		"desc": "Residual score for the elbow, wrist or hand impairment successfully calculated and the score was less than zero (< 0)"
+	},
+	{
+		"code": "G8654",
+		"desc": "Residual score for the hip impairment not measured because the patient did not complete the lepf prom at initial evaluation and/or near discharge, reason not given"
+	},
+	{
+		"code": "G8651",
+		"desc": "Residual score for the hip impairment successfully calculated and the score was equal to zero (0) or greater than zero (> 0)"
+	},
+	{
+		"code": "G8652",
+		"desc": "Residual score for the hip impairment successfully calculated and the score was less than zero (< 0)"
+	},
+	{
+		"code": "G8650",
+		"desc": "Residual score for the knee impairment not measured because the patient did not complete the lepf prom at initial evaluation and/or near discharge, reason not given"
+	},
+	{
+		"code": "G8647",
+		"desc": "Residual score for the knee impairment successfully calculated and the score was equal to zero (0) or greater than zero (> 0)"
+	},
+	{
+		"code": "G8648",
+		"desc": "Residual score for the knee impairment successfully calculated and the score was less than zero (< 0)"
+	},
+	{
+		"code": "G8662",
+		"desc": "Residual score for the low back impairment not measured because the patient did not complete the low back fs prom at initial evaluation and/or near discharge, reason not given"
+	},
+	{
+		"code": "G8659",
+		"desc": "Residual score for the low back impairment successfully calculated and the score was equal to zero (0) or greater than zero (> 0)"
+	},
+	{
+		"code": "G8660",
+		"desc": "Residual score for the low back impairment successfully calculated and the score was less than zero (< 0)"
+	},
+	{
+		"code": "G8658",
+		"desc": "Residual score for the lower leg, foot or ankle impairment not measured because the patient did not complete the lepf prom at initial evaluation and/or near discharge, reason not given"
+	},
+	{
+		"code": "G8655",
+		"desc": "Residual score for the lower leg, foot or ankle impairment successfully calculated and the score was equal to zero (0) or greater than zero ( > 0)"
+	},
+	{
+		"code": "G8656",
+		"desc": "Residual score for the lower leg, foot or ankle impairment successfully calculated and the score was less than zero (< 0)"
+	},
+	{
+		"code": "G2210",
+		"desc": "Residual score for the neck impairment not measured because the patient did not complete the neck fs prom at initial evaluation and/or near discharge, reason not given"
+	},
+	{
+		"code": "G2152",
+		"desc": "Residual score for the neck impairment successfully calculated and the score was equal to zero (0) or greater than zero (> 0)"
+	},
+	{
+		"code": "G2167",
+		"desc": "Residual score for the neck impairment successfully calculated and the score was less than zero (< 0)"
+	},
+	{
+		"code": "G8666",
+		"desc": "Residual score for the shoulder impairment not measured because the patient did not complete the shoulder fs prom at initial evaluation and/or near discharge, reason not given"
+	},
+	{
+		"code": "G8663",
+		"desc": "Residual score for the shoulder impairment successfully calculated and the score was equal to zero (0) or greater than zero (> 0)"
+	},
+	{
+		"code": "G8664",
+		"desc": "Residual score for the shoulder impairment successfully calculated and the score was less than zero (< 0)"
+	},
+	{
+		"code": "H40243",
+		"desc": "Residual stage of angle-closure glaucoma, bilateral"
+	},
+	{
+		"code": "H40242",
+		"desc": "Residual stage of angle-closure glaucoma, left eye"
+	},
+	{
+		"code": "H40241",
+		"desc": "Residual stage of angle-closure glaucoma, right eye"
+	},
+	{
+		"code": "H40249",
+		"desc": "Residual stage of angle-closure glaucoma, unspecified eye"
+	},
+	{
+		"code": "H40153",
+		"desc": "Residual stage of open-angle glaucoma, bilateral"
+	},
+	{
+		"code": "H40152",
+		"desc": "Residual stage of open-angle glaucoma, left eye"
+	},
+	{
+		"code": "H40151",
+		"desc": "Residual stage of open-angle glaucoma, right eye"
+	},
+	{
+		"code": "H40159",
+		"desc": "Residual stage of open-angle glaucoma, unspecified eye"
+	},
+	{
+		"code": "Z1632",
+		"desc": "Resistance to antifungal drug(s)"
+	},
+	{
+		"code": "Z1631",
+		"desc": "Resistance to antiparasitic drug(s)"
+	},
+	{
+		"code": "Z1633",
+		"desc": "Resistance to antiviral drug(s)"
+	},
+	{
+		"code": "Z1624",
+		"desc": "Resistance to multiple antibiotics"
+	},
+	{
+		"code": "Z1635",
+		"desc": "Resistance to multiple antimicrobial drugs"
+	},
+	{
+		"code": "Z16342",
+		"desc": "Resistance to multiple antimycobacterial drugs"
+	},
+	{
+		"code": "Z1629",
+		"desc": "Resistance to other single specified antibiotic"
+	},
+	{
+		"code": "Z1639",
+		"desc": "Resistance to other specified antimicrobial drug"
+	},
+	{
+		"code": "Z1619",
+		"desc": "Resistance to other specified beta lactam antibiotics"
+	},
+	{
+		"code": "Z1611",
+		"desc": "Resistance to penicillins"
+	},
+	{
+		"code": "Z1623",
+		"desc": "Resistance to quinolones and fluoroquinolones"
+	},
+	{
+		"code": "Z16341",
+		"desc": "Resistance to single antimycobacterial drug"
+	},
+	{
+		"code": "Z1620",
+		"desc": "Resistance to unspecified antibiotic"
+	},
+	{
+		"code": "Z1630",
+		"desc": "Resistance to unspecified antimicrobial drugs"
+	},
+	{
+		"code": "Z1610",
+		"desc": "Resistance to unspecified beta lactam antibiotics"
+	},
+	{
+		"code": "Z1621",
+		"desc": "Resistance to vancomycin"
+	},
+	{
+		"code": "Z1622",
+		"desc": "Resistance to vancomycin related antibiotics"
+	},
+	{
+		"code": "A2024",
+		"desc": "Resolve matrix, per square centimeter"
+	},
+	{
+		"code": "P2811",
+		"desc": "Resorption atelectasis without respiratory distress syndrome"
+	},
+	{
+		"code": "G0501",
+		"desc": "Resource-intensive services for patients for whom the use of specialized mobility-assistive technology (such as adjustable height chairs or tables, patient lift, and adjustable padded leg supports) is medically necessary and used during the provision of an office/outpatient, evaluation and management  visit (list separately in addition to primary service)"
+	},
+	{
+		"code": "R092",
+		"desc": "Respiratory arrest"
+	},
+	{
+		"code": "P2881",
+		"desc": "Respiratory arrest of newborn"
+	},
+	{
+		"code": "E0471",
+		"desc": "Respiratory assist device, bi-level pressure capability, with back-up rate feature, used with noninvasive interface, e.g., nasal or facial mask (intermittent assist device with continuous positive airway pressure device)"
+	},
+	{
+		"code": "E0472",
+		"desc": "Respiratory assist device, bi-level pressure capability, with backup rate feature, used with invasive interface, e.g., tracheostomy tube (intermittent assist device with continuous positive airway pressure device)"
+	},
+	{
+		"code": "E0470",
+		"desc": "Respiratory assist device, bi-level pressure capability, without backup rate feature, used with noninvasive interface, e.g., nasal or facial mask (intermittent assist device with continuous positive airway pressure device)"
+	},
+	{
+		"code": "J84115",
+		"desc": "Respiratory bronchiolitis interstitial lung disease"
+	},
+	{
+		"code": "P289",
+		"desc": "Respiratory condition of newborn, unspecified"
+	},
+	{
+		"code": "J708",
+		"desc": "Respiratory conditions due to other specified external agents"
+	},
+	{
+		"code": "J705",
+		"desc": "Respiratory conditions due to smoke inhalation"
+	},
+	{
+		"code": "J709",
+		"desc": "Respiratory conditions due to unspecified external agent"
+	},
+	{
+		"code": "J989",
+		"desc": "Respiratory disorder, unspecified"
+	},
+	{
+		"code": "J99",
+		"desc": "Respiratory disorders in diseases classified elsewhere"
+	},
+	{
+		"code": "P229",
+		"desc": "Respiratory distress of newborn, unspecified"
+	},
+	{
+		"code": "P220",
+		"desc": "Respiratory distress syndrome of newborn"
+	},
+	{
+		"code": "P285",
+		"desc": "Respiratory failure of newborn"
+	},
+	{
+		"code": "J9692",
+		"desc": "Respiratory failure, unspecified with hypercapnia"
+	},
+	{
+		"code": "J9691",
+		"desc": "Respiratory failure, unspecified with hypoxia"
+	},
+	{
+		"code": "J9690",
+		"desc": "Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia"
+	},
+	{
+		"code": "E0600",
+		"desc": "Respiratory suction pump, home model, portable or stationary, electric"
+	},
+	{
+		"code": "B974",
+		"desc": "Respiratory syncytial virus as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "J121",
+		"desc": "Respiratory syncytial virus pneumonia"
+	},
+	{
+		"code": "A159",
+		"desc": "Respiratory tuberculosis unspecified"
+	},
+	{
+		"code": "H0045",
+		"desc": "Respite care services, not in the home, per diem"
+	},
+	{
+		"code": "T1005",
+		"desc": "Respite care services, up to 15 minutes"
+	},
+	{
+		"code": "S9125",
+		"desc": "Respite care, in the home, per diem"
+	},
+	{
+		"code": "Y92511",
+		"desc": "Restaurant or cafe as the place of occurrence of the external cause"
+	},
+	{
+		"code": "G2581",
+		"desc": "Restless legs syndrome"
+	},
+	{
+		"code": "R451",
+		"desc": "Restlessness and agitation"
+	},
+	{
+		"code": "Q4192",
+		"desc": "Restorigin, 1 cc"
+	},
+	{
+		"code": "Q4191",
+		"desc": "Restorigin, per square centimeter"
+	},
+	{
+		"code": "E0710",
+		"desc": "Restraints, any type (body, chest, wrist or ankle)"
+	},
+	{
+		"code": "A2026",
+		"desc": "Restrata minimatrix, 5 mg"
+	},
+	{
+		"code": "A2007",
+		"desc": "Restrata, per square centimeter"
+	},
+	{
+		"code": "S8999",
+		"desc": "Resuscitation bag (for use by patient on artificial respiration during power failure or other catastrophic event)"
+	},
+	{
+		"code": "H44713",
+		"desc": "Retained (nonmagnetic) (old) foreign body in anterior chamber, bilateral"
+	},
+	{
+		"code": "H44712",
+		"desc": "Retained (nonmagnetic) (old) foreign body in anterior chamber, left eye"
+	},
+	{
+		"code": "H44711",
+		"desc": "Retained (nonmagnetic) (old) foreign body in anterior chamber, right eye"
+	},
+	{
+		"code": "H44719",
+		"desc": "Retained (nonmagnetic) (old) foreign body in anterior chamber, unspecified eye"
+	},
+	{
+		"code": "H44723",
+		"desc": "Retained (nonmagnetic) (old) foreign body in iris or ciliary body, bilateral"
+	},
+	{
+		"code": "H44722",
+		"desc": "Retained (nonmagnetic) (old) foreign body in iris or ciliary body, left eye"
+	},
+	{
+		"code": "H44721",
+		"desc": "Retained (nonmagnetic) (old) foreign body in iris or ciliary body, right eye"
+	},
+	{
+		"code": "H44729",
+		"desc": "Retained (nonmagnetic) (old) foreign body in iris or ciliary body, unspecified eye"
+	},
+	{
+		"code": "H44733",
+		"desc": "Retained (nonmagnetic) (old) foreign body in lens, bilateral"
+	},
+	{
+		"code": "H44732",
+		"desc": "Retained (nonmagnetic) (old) foreign body in lens, left eye"
+	},
+	{
+		"code": "H44731",
+		"desc": "Retained (nonmagnetic) (old) foreign body in lens, right eye"
+	},
+	{
+		"code": "H44739",
+		"desc": "Retained (nonmagnetic) (old) foreign body in lens, unspecified eye"
+	},
+	{
+		"code": "H44743",
+		"desc": "Retained (nonmagnetic) (old) foreign body in posterior wall of globe, bilateral"
+	},
+	{
+		"code": "H44742",
+		"desc": "Retained (nonmagnetic) (old) foreign body in posterior wall of globe, left eye"
+	},
+	{
+		"code": "H44741",
+		"desc": "Retained (nonmagnetic) (old) foreign body in posterior wall of globe, right eye"
+	},
+	{
+		"code": "H44749",
+		"desc": "Retained (nonmagnetic) (old) foreign body in posterior wall of globe, unspecified eye"
+	},
+	{
+		"code": "H44753",
+		"desc": "Retained (nonmagnetic) (old) foreign body in vitreous body, bilateral"
+	},
+	{
+		"code": "H44752",
+		"desc": "Retained (nonmagnetic) (old) foreign body in vitreous body, left eye"
+	},
+	{
+		"code": "H44751",
+		"desc": "Retained (nonmagnetic) (old) foreign body in vitreous body, right eye"
+	},
+	{
+		"code": "H44759",
+		"desc": "Retained (nonmagnetic) (old) foreign body in vitreous body, unspecified eye"
+	},
+	{
+		"code": "H0553",
+		"desc": "Retained (old) foreign body following penetrating wound of bilateral orbits"
+	},
+	{
+		"code": "H0552",
+		"desc": "Retained (old) foreign body following penetrating wound of left orbit"
+	},
+	{
+		"code": "H0551",
+		"desc": "Retained (old) foreign body following penetrating wound of right orbit"
+	},
+	{
+		"code": "H0550",
+		"desc": "Retained (old) foreign body following penetrating wound of unspecified orbit"
+	},
+	{
+		"code": "H44693",
+		"desc": "Retained (old) intraocular foreign body, magnetic, in other or multiple sites, bilateral"
+	},
+	{
+		"code": "H44692",
+		"desc": "Retained (old) intraocular foreign body, magnetic, in other or multiple sites, left eye"
+	},
+	{
+		"code": "H44691",
+		"desc": "Retained (old) intraocular foreign body, magnetic, in other or multiple sites, right eye"
+	},
+	{
+		"code": "H44699",
+		"desc": "Retained (old) intraocular foreign body, magnetic, in other or multiple sites, unspecified eye"
+	},
+	{
+		"code": "H44793",
+		"desc": "Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, bilateral"
+	},
+	{
+		"code": "H44792",
+		"desc": "Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, left eye"
+	},
+	{
+		"code": "H44791",
+		"desc": "Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, right eye"
+	},
+	{
+		"code": "H44799",
+		"desc": "Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, unspecified eye"
+	},
+	{
+		"code": "H44613",
+		"desc": "Retained (old) magnetic foreign body in anterior chamber, bilateral"
+	},
+	{
+		"code": "H44612",
+		"desc": "Retained (old) magnetic foreign body in anterior chamber, left eye"
+	},
+	{
+		"code": "H44611",
+		"desc": "Retained (old) magnetic foreign body in anterior chamber, right eye"
+	},
+	{
+		"code": "H44619",
+		"desc": "Retained (old) magnetic foreign body in anterior chamber, unspecified eye"
+	},
+	{
+		"code": "H44623",
+		"desc": "Retained (old) magnetic foreign body in iris or ciliary body, bilateral"
+	},
+	{
+		"code": "H44622",
+		"desc": "Retained (old) magnetic foreign body in iris or ciliary body, left eye"
+	},
+	{
+		"code": "H44621",
+		"desc": "Retained (old) magnetic foreign body in iris or ciliary body, right eye"
+	},
+	{
+		"code": "H44629",
+		"desc": "Retained (old) magnetic foreign body in iris or ciliary body, unspecified eye"
+	},
+	{
+		"code": "H44633",
+		"desc": "Retained (old) magnetic foreign body in lens, bilateral"
+	},
+	{
+		"code": "H44632",
+		"desc": "Retained (old) magnetic foreign body in lens, left eye"
+	},
+	{
+		"code": "H44631",
+		"desc": "Retained (old) magnetic foreign body in lens, right eye"
+	},
+	{
+		"code": "H44639",
+		"desc": "Retained (old) magnetic foreign body in lens, unspecified eye"
+	},
+	{
+		"code": "H44643",
+		"desc": "Retained (old) magnetic foreign body in posterior wall of globe, bilateral"
+	},
+	{
+		"code": "H44642",
+		"desc": "Retained (old) magnetic foreign body in posterior wall of globe, left eye"
+	},
+	{
+		"code": "H44641",
+		"desc": "Retained (old) magnetic foreign body in posterior wall of globe, right eye"
+	},
+	{
+		"code": "H44649",
+		"desc": "Retained (old) magnetic foreign body in posterior wall of globe, unspecified eye"
+	},
+	{
+		"code": "H44653",
+		"desc": "Retained (old) magnetic foreign body in vitreous body, bilateral"
+	},
+	{
+		"code": "H44652",
+		"desc": "Retained (old) magnetic foreign body in vitreous body, left eye"
+	},
+	{
+		"code": "H44651",
+		"desc": "Retained (old) magnetic foreign body in vitreous body, right eye"
+	},
+	{
+		"code": "H44659",
+		"desc": "Retained (old) magnetic foreign body in vitreous body, unspecified eye"
+	},
+	{
+		"code": "Z1831",
+		"desc": "Retained animal quills or spines"
+	},
+	{
+		"code": "K9186",
+		"desc": "Retained cholelithiasis following cholecystectomy"
+	},
+	{
+		"code": "K083",
+		"desc": "Retained dental root"
+	},
+	{
+		"code": "Z1801",
+		"desc": "Retained depleted uranium fragments"
+	},
+	{
+		"code": "Z189",
+		"desc": "Retained foreign body fragments, unspecified material"
+	},
+	{
+		"code": "H02816",
+		"desc": "Retained foreign body in left eye, unspecified eyelid"
+	},
+	{
+		"code": "H02815",
+		"desc": "Retained foreign body in left lower eyelid"
+	},
+	{
+		"code": "H02814",
+		"desc": "Retained foreign body in left upper eyelid"
+	},
+	{
+		"code": "H02813",
+		"desc": "Retained foreign body in right eye, unspecified eyelid"
+	},
+	{
+		"code": "H02812",
+		"desc": "Retained foreign body in right lower eyelid"
+	},
+	{
+		"code": "H02811",
+		"desc": "Retained foreign body in right upper eyelid"
+	},
+	{
+		"code": "H02819",
+		"desc": "Retained foreign body in unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "Z1881",
+		"desc": "Retained glass fragments"
+	},
+	{
+		"code": "O2631",
+		"desc": "Retained intrauterine contraceptive device in pregnancy, first trimester"
+	},
+	{
+		"code": "O2632",
+		"desc": "Retained intrauterine contraceptive device in pregnancy, second trimester"
+	},
+	{
+		"code": "O2633",
+		"desc": "Retained intrauterine contraceptive device in pregnancy, third trimester"
+	},
+	{
+		"code": "O2630",
+		"desc": "Retained intrauterine contraceptive device in pregnancy, unspecified trimester"
+	},
+	{
+		"code": "Z1811",
+		"desc": "Retained magnetic metal fragments"
+	},
+	{
+		"code": "Z1810",
+		"desc": "Retained metal fragments, unspecified"
+	},
+	{
+		"code": "Z1812",
+		"desc": "Retained nonmagnetic metal fragments"
+	},
+	{
+		"code": "O730",
+		"desc": "Retained placenta without hemorrhage"
+	},
+	{
+		"code": "Z182",
+		"desc": "Retained plastic fragments"
+	},
+	{
+		"code": "O731",
+		"desc": "Retained portions of placenta and membranes, without hemorrhage"
+	},
+	{
+		"code": "Z1883",
+		"desc": "Retained stone or crystalline fragments"
+	},
+	{
+		"code": "Z1832",
+		"desc": "Retained tooth"
+	},
+	{
+		"code": "Z1833",
+		"desc": "Retained wood fragments"
+	},
+	{
+		"code": "E45",
+		"desc": "Retarded development following protein-calorie malnutrition"
+	},
+	{
+		"code": "N5311",
+		"desc": "Retarded ejaculation"
+	},
+	{
+		"code": "R339",
+		"desc": "Retention of urine, unspecified"
+	},
+	{
+		"code": "L415",
+		"desc": "Retiform parapsoriasis"
+	},
+	{
+		"code": "H34233",
+		"desc": "Retinal artery branch occlusion, bilateral"
+	},
+	{
+		"code": "H34232",
+		"desc": "Retinal artery branch occlusion, left eye"
+	},
+	{
+		"code": "H34231",
+		"desc": "Retinal artery branch occlusion, right eye"
+	},
+	{
+		"code": "H34239",
+		"desc": "Retinal artery branch occlusion, unspecified eye"
+	},
+	{
+		"code": "H33033",
+		"desc": "Retinal detachment with giant retinal tear, bilateral"
+	},
+	{
+		"code": "H33032",
+		"desc": "Retinal detachment with giant retinal tear, left eye"
+	},
+	{
+		"code": "H33031",
+		"desc": "Retinal detachment with giant retinal tear, right eye"
+	},
+	{
+		"code": "H33039",
+		"desc": "Retinal detachment with giant retinal tear, unspecified eye"
+	},
+	{
+		"code": "H33023",
+		"desc": "Retinal detachment with multiple breaks, bilateral"
+	},
+	{
+		"code": "H33022",
+		"desc": "Retinal detachment with multiple breaks, left eye"
+	},
+	{
+		"code": "H33021",
+		"desc": "Retinal detachment with multiple breaks, right eye"
+	},
+	{
+		"code": "H33029",
+		"desc": "Retinal detachment with multiple breaks, unspecified eye"
+	},
+	{
+		"code": "H33043",
+		"desc": "Retinal detachment with retinal dialysis, bilateral"
+	},
+	{
+		"code": "H33042",
+		"desc": "Retinal detachment with retinal dialysis, left eye"
+	},
+	{
+		"code": "H33041",
+		"desc": "Retinal detachment with retinal dialysis, right eye"
+	},
+	{
+		"code": "H33049",
+		"desc": "Retinal detachment with retinal dialysis, unspecified eye"
+	},
+	{
+		"code": "H33013",
+		"desc": "Retinal detachment with single break, bilateral"
+	},
+	{
+		"code": "H33012",
+		"desc": "Retinal detachment with single break, left eye"
+	},
+	{
+		"code": "H33011",
+		"desc": "Retinal detachment with single break, right eye"
+	},
+	{
+		"code": "H33019",
+		"desc": "Retinal detachment with single break, unspecified eye"
+	},
+	{
+		"code": "H36",
+		"desc": "Retinal disorders in diseases classified elsewhere"
+	},
+	{
+		"code": "H3581",
+		"desc": "Retinal edema"
+	},
+	{
+		"code": "H3563",
+		"desc": "Retinal hemorrhage, bilateral"
+	},
+	{
+		"code": "H3562",
+		"desc": "Retinal hemorrhage, left eye"
+	},
+	{
+		"code": "H3561",
+		"desc": "Retinal hemorrhage, right eye"
+	},
+	{
+		"code": "H3560",
+		"desc": "Retinal hemorrhage, unspecified eye"
+	},
+	{
+		"code": "H3582",
+		"desc": "Retinal ischemia"
+	},
+	{
+		"code": "H35043",
+		"desc": "Retinal micro-aneurysms, unspecified, bilateral"
+	},
+	{
+		"code": "H35042",
+		"desc": "Retinal micro-aneurysms, unspecified, left eye"
+	},
+	{
+		"code": "H35041",
+		"desc": "Retinal micro-aneurysms, unspecified, right eye"
+	},
+	{
+		"code": "H35049",
+		"desc": "Retinal micro-aneurysms, unspecified, unspecified eye"
+	},
+	{
+		"code": "H35053",
+		"desc": "Retinal neovascularization, unspecified, bilateral"
+	},
+	{
+		"code": "H35052",
+		"desc": "Retinal neovascularization, unspecified, left eye"
+	},
+	{
+		"code": "H35051",
+		"desc": "Retinal neovascularization, unspecified, right eye"
+	},
+	{
+		"code": "H35059",
+		"desc": "Retinal neovascularization, unspecified, unspecified eye"
+	},
+	{
+		"code": "C1841",
+		"desc": "Retinal prosthesis, includes all internal and external components\n                                    \n                                        \n                                        Terminated December 31, 2022."
+	},
+	{
+		"code": "C1842",
+		"desc": "Retinal prosthesis, includes all internal and external components; add-on to c1841\n                                    \n                                        \n                                        Terminated December 31, 2022."
+	},
+	{
+		"code": "C1814",
+		"desc": "Retinal tamponade device, silicone oil"
+	},
+	{
+		"code": "H35073",
+		"desc": "Retinal telangiectasis, bilateral"
+	},
+	{
+		"code": "H35072",
+		"desc": "Retinal telangiectasis, left eye"
+	},
+	{
+		"code": "H35071",
+		"desc": "Retinal telangiectasis, right eye"
+	},
+	{
+		"code": "H35079",
+		"desc": "Retinal telangiectasis, unspecified eye"
+	},
+	{
+		"code": "H35063",
+		"desc": "Retinal vasculitis, bilateral"
+	},
+	{
+		"code": "H35062",
+		"desc": "Retinal vasculitis, left eye"
+	},
+	{
+		"code": "H35061",
+		"desc": "Retinal vasculitis, right eye"
+	},
+	{
+		"code": "H35069",
+		"desc": "Retinal vasculitis, unspecified eye"
+	},
+	{
+		"code": "H35113",
+		"desc": "Retinopathy of prematurity, stage 0, bilateral"
+	},
+	{
+		"code": "H35112",
+		"desc": "Retinopathy of prematurity, stage 0, left eye"
+	},
+	{
+		"code": "H35111",
+		"desc": "Retinopathy of prematurity, stage 0, right eye"
+	},
+	{
+		"code": "H35119",
+		"desc": "Retinopathy of prematurity, stage 0, unspecified eye"
+	},
+	{
+		"code": "H35123",
+		"desc": "Retinopathy of prematurity, stage 1, bilateral"
+	},
+	{
+		"code": "H35122",
+		"desc": "Retinopathy of prematurity, stage 1, left eye"
+	},
+	{
+		"code": "H35121",
+		"desc": "Retinopathy of prematurity, stage 1, right eye"
+	},
+	{
+		"code": "H35129",
+		"desc": "Retinopathy of prematurity, stage 1, unspecified eye"
+	},
+	{
+		"code": "H35133",
+		"desc": "Retinopathy of prematurity, stage 2, bilateral"
+	},
+	{
+		"code": "H35132",
+		"desc": "Retinopathy of prematurity, stage 2, left eye"
+	},
+	{
+		"code": "H35131",
+		"desc": "Retinopathy of prematurity, stage 2, right eye"
+	},
+	{
+		"code": "H35139",
+		"desc": "Retinopathy of prematurity, stage 2, unspecified eye"
+	},
+	{
+		"code": "H35143",
+		"desc": "Retinopathy of prematurity, stage 3, bilateral"
+	},
+	{
+		"code": "H35142",
+		"desc": "Retinopathy of prematurity, stage 3, left eye"
+	},
+	{
+		"code": "H35141",
+		"desc": "Retinopathy of prematurity, stage 3, right eye"
+	},
+	{
+		"code": "H35149",
+		"desc": "Retinopathy of prematurity, stage 3, unspecified eye"
+	},
+	{
+		"code": "H35153",
+		"desc": "Retinopathy of prematurity, stage 4, bilateral"
+	},
+	{
+		"code": "H35152",
+		"desc": "Retinopathy of prematurity, stage 4, left eye"
+	},
+	{
+		"code": "H35151",
+		"desc": "Retinopathy of prematurity, stage 4, right eye"
+	},
+	{
+		"code": "H35159",
+		"desc": "Retinopathy of prematurity, stage 4, unspecified eye"
+	},
+	{
+		"code": "H35163",
+		"desc": "Retinopathy of prematurity, stage 5, bilateral"
+	},
+	{
+		"code": "H35162",
+		"desc": "Retinopathy of prematurity, stage 5, left eye"
+	},
+	{
+		"code": "H35161",
+		"desc": "Retinopathy of prematurity, stage 5, right eye"
+	},
+	{
+		"code": "H35169",
+		"desc": "Retinopathy of prematurity, stage 5, unspecified eye"
+	},
+	{
+		"code": "H35103",
+		"desc": "Retinopathy of prematurity, unspecified, bilateral"
+	},
+	{
+		"code": "H35102",
+		"desc": "Retinopathy of prematurity, unspecified, left eye"
+	},
+	{
+		"code": "H35101",
+		"desc": "Retinopathy of prematurity, unspecified, right eye"
+	},
+	{
+		"code": "H35109",
+		"desc": "Retinopathy of prematurity, unspecified, unspecified eye"
+	},
+	{
+		"code": "O9203",
+		"desc": "Retracted nipple associated with lactation"
+	},
+	{
+		"code": "O92011",
+		"desc": "Retracted nipple associated with pregnancy, first trimester"
+	},
+	{
+		"code": "O92012",
+		"desc": "Retracted nipple associated with pregnancy, second trimester"
+	},
+	{
+		"code": "O92013",
+		"desc": "Retracted nipple associated with pregnancy, third trimester"
+	},
+	{
+		"code": "O92019",
+		"desc": "Retracted nipple associated with pregnancy, unspecified trimester"
+	},
+	{
+		"code": "O9202",
+		"desc": "Retracted nipple associated with the puerperium"
+	},
+	{
+		"code": "Q5522",
+		"desc": "Retractile testis"
+	},
+	{
+		"code": "N6453",
+		"desc": "Retraction of nipple"
+	},
+	{
+		"code": "C1773",
+		"desc": "Retrieval device, insertable (used to retrieve fractured medical devices)"
+	},
+	{
+		"code": "C1603",
+		"desc": "Retrieval device, insertable, laser (used to retrieve intravascular inferior vena cava filter)"
+	},
+	{
+		"code": "H4613",
+		"desc": "Retrobulbar neuritis, bilateral"
+	},
+	{
+		"code": "H4612",
+		"desc": "Retrobulbar neuritis, left eye"
+	},
+	{
+		"code": "H4611",
+		"desc": "Retrobulbar neuritis, right eye"
+	},
+	{
+		"code": "H4610",
+		"desc": "Retrobulbar neuritis, unspecified eye"
+	},
+	{
+		"code": "R412",
+		"desc": "Retrograde amnesia"
+	},
+	{
+		"code": "N5314",
+		"desc": "Retrograde ejaculation"
+	},
+	{
+		"code": "H35173",
+		"desc": "Retrolental fibroplasia, bilateral"
+	},
+	{
+		"code": "H35172",
+		"desc": "Retrolental fibroplasia, left eye"
+	},
+	{
+		"code": "H35171",
+		"desc": "Retrolental fibroplasia, right eye"
+	},
+	{
+		"code": "H35179",
+		"desc": "Retrolental fibroplasia, unspecified eye"
+	},
+	{
+		"code": "A1839",
+		"desc": "Retroperitoneal tuberculosis"
+	},
+	{
+		"code": "J390",
+		"desc": "Retropharyngeal and parapharyngeal abscess"
+	},
+	{
+		"code": "B333",
+		"desc": "Retrovirus infections, not elsewhere classified"
+	},
+	{
+		"code": "F842",
+		"desc": "Rett's syndrome"
+	},
+	{
+		"code": "C9773",
+		"desc": "Revascularization, endovascular, open or percutaneous,  tibial/peroneal artery(ies); with intravascular lithotripsy, and transluminal stent placement(s), includes angioplasty  within the same vessel(s), when performed"
+	},
+	{
+		"code": "C7534",
+		"desc": "Revascularization, endovascular, open or percutaneous, femoral, popliteal artery(ies), unilateral, with atherectomy, includes angioplasty within the same vessel, when performed with intravascular ultrasound (initial noncoronary vessel) during diagnostic evaluation and/or therapeutic intervention, including radiological supervision and interpretation"
+	},
+	{
+		"code": "C7531",
+		"desc": "Revascularization, endovascular, open or percutaneous, femoral, popliteal artery(ies), unilateral, with transluminal angioplasty with intravascular ultrasound (initial noncoronary vessel) during diagnostic evaluation and/or therapeutic intervention, including radiological supervision and interpretation"
+	},
+	{
+		"code": "C7535",
+		"desc": "Revascularization, endovascular, open or percutaneous, femoral, popliteal artery(ies), unilateral, with transluminal stent placement(s), includes angioplasty within the same vessel, when performed, with intravascular ultrasound (initial noncoronary vessel) during diagnostic evaluation and/or therapeutic intervention, including radiological supervision and interpretation"
+	},
+	{
+		"code": "C9766",
+		"desc": "Revascularization, endovascular, open or percutaneous, lower extremity artery(ies), except tibial/peroneal; with intravascular lithotripsy and atherectomy, includes angioplasty within the same vessel(s), when performed"
+	},
+	{
+		"code": "C9767",
+		"desc": "Revascularization, endovascular, open or percutaneous, lower extremity artery(ies), except tibial/peroneal; with intravascular lithotripsy and transluminal stent placement(s), and atherectomy, includes angioplasty within the same vessel(s), when performed"
+	},
+	{
+		"code": "C9765",
+		"desc": "Revascularization, endovascular, open or percutaneous, lower extremity artery(ies), except tibial/peroneal; with intravascular lithotripsy, and transluminal stent placement(s), includes angioplasty within the same vessel(s), when performed"
+	},
+	{
+		"code": "C9764",
+		"desc": "Revascularization, endovascular, open or percutaneous, lower extremity artery(ies), except tibial/peroneal; with intravascular lithotripsy, includes angioplasty within the same vessel(s), when performed"
+	},
+	{
+		"code": "C9772",
+		"desc": "Revascularization, endovascular, open or percutaneous, tibial/peroneal artery(ies), with intravascular lithotripsy, includes angioplasty within the same vessel (s), when performed"
+	},
+	{
+		"code": "C9774",
+		"desc": "Revascularization, endovascular, open or percutaneous, tibial/peroneal artery(ies); with intravascular lithotripsy and atherectomy, includes angioplasty within the same vessel (s), when performed"
+	},
+	{
+		"code": "C9775",
+		"desc": "Revascularization, endovascular, open or percutaneous, tibial/peroneal artery(ies); with intravascular lithotripsy and transluminal stent placement(s), and atherectomy, includes angioplasty within the same vessel (s), when performed"
+	},
+	{
+		"code": "J7677",
+		"desc": "Revefenacin inhalation solution, fda-approved final product, non-compounded, administered through dme, 1 microgram"
+	},
+	{
+		"code": "M2624",
+		"desc": "Reverse articulation"
+	},
+	{
+		"code": "E1610",
+		"desc": "Reverse osmosis water purification system, for hemodialysis"
+	},
+	{
+		"code": "I67841",
+		"desc": "Reversible cerebrovascular vasoconstriction syndrome"
+	},
+	{
+		"code": "K0401",
+		"desc": "Reversible pulpitis"
+	},
+	{
+		"code": "Q4180",
+		"desc": "Revita, per square centimeter"
+	},
+	{
+		"code": "Q4157",
+		"desc": "Revitalon, per square centimeter"
+	},
+	{
+		"code": "Q4289",
+		"desc": "Revoshield + amniotic barrier, per square centimeter"
+	},
+	{
+		"code": "G937",
+		"desc": "Reye's syndrome"
+	},
+	{
+		"code": "T8040XA",
+		"desc": "Rh incompatibility reaction due to transfusion of blood or blood products, unspecified, initial encounter"
+	},
+	{
+		"code": "T8040XS",
+		"desc": "Rh incompatibility reaction due to transfusion of blood or blood products, unspecified, sequela"
+	},
+	{
+		"code": "T8040XD",
+		"desc": "Rh incompatibility reaction due to transfusion of blood or blood products, unspecified, subsequent encounter"
+	},
+	{
+		"code": "T80410A",
+		"desc": "Rh incompatibility with acute hemolytic transfusion reaction, initial encounter"
+	},
+	{
+		"code": "T80410S",
+		"desc": "Rh incompatibility with acute hemolytic transfusion reaction, sequela"
+	},
+	{
+		"code": "T80410D",
+		"desc": "Rh incompatibility with acute hemolytic transfusion reaction, subsequent encounter"
+	},
+	{
+		"code": "T80411A",
+		"desc": "Rh incompatibility with delayed hemolytic transfusion reaction, initial encounter"
+	},
+	{
+		"code": "T80411S",
+		"desc": "Rh incompatibility with delayed hemolytic transfusion reaction, sequela"
+	},
+	{
+		"code": "T80411D",
+		"desc": "Rh incompatibility with delayed hemolytic transfusion reaction, subsequent encounter"
+	},
+	{
+		"code": "T80419A",
+		"desc": "Rh incompatibility with hemolytic transfusion reaction, unspecified, initial encounter"
+	},
+	{
+		"code": "T80419S",
+		"desc": "Rh incompatibility with hemolytic transfusion reaction, unspecified, sequela"
+	},
+	{
+		"code": "T80419D",
+		"desc": "Rh incompatibility with hemolytic transfusion reaction, unspecified, subsequent encounter"
+	},
+	{
+		"code": "P550",
+		"desc": "Rh isoimmunization of newborn"
+	},
+	{
+		"code": "G8810",
+		"desc": "Rh-immunoglobulin (rhogam) not ordered for reasons documented by clinician (e.g., patient had prior documented receipt of rhogam within 12 weeks, patient refusal)\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G8809",
+		"desc": "Rh-immunoglobulin (rhogam) ordered\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "M6282",
+		"desc": "Rhabdomyolysis"
+	},
+	{
+		"code": "I061",
+		"desc": "Rheumatic aortic insufficiency"
+	},
+	{
+		"code": "I060",
+		"desc": "Rheumatic aortic stenosis"
+	},
+	{
+		"code": "I062",
+		"desc": "Rheumatic aortic stenosis with insufficiency"
+	},
+	{
+		"code": "I069",
+		"desc": "Rheumatic aortic valve disease, unspecified"
+	},
+	{
+		"code": "I020",
+		"desc": "Rheumatic chorea with heart involvement"
+	},
+	{
+		"code": "I029",
+		"desc": "Rheumatic chorea without heart involvement"
+	},
+	{
+		"code": "I091",
+		"desc": "Rheumatic diseases of endocardium, valve unspecified"
+	},
+	{
+		"code": "I082",
+		"desc": "Rheumatic disorders of both aortic and tricuspid valves"
+	},
+	{
+		"code": "I080",
+		"desc": "Rheumatic disorders of both mitral and aortic valves"
+	},
+	{
+		"code": "I081",
+		"desc": "Rheumatic disorders of both mitral and tricuspid valves"
+	},
+	{
+		"code": "I00",
+		"desc": "Rheumatic fever without heart involvement"
+	},
+	{
+		"code": "I099",
+		"desc": "Rheumatic heart disease, unspecified"
+	},
+	{
+		"code": "I0981",
+		"desc": "Rheumatic heart failure"
+	},
+	{
+		"code": "I051",
+		"desc": "Rheumatic mitral insufficiency"
+	},
+	{
+		"code": "I050",
+		"desc": "Rheumatic mitral stenosis"
+	},
+	{
+		"code": "I052",
+		"desc": "Rheumatic mitral stenosis with insufficiency"
+	},
+	{
+		"code": "I059",
+		"desc": "Rheumatic mitral valve disease, unspecified"
+	},
+	{
+		"code": "I089",
+		"desc": "Rheumatic multiple valve disease, unspecified"
+	},
+	{
+		"code": "I090",
+		"desc": "Rheumatic myocarditis"
+	},
+	{
+		"code": "I071",
+		"desc": "Rheumatic tricuspid insufficiency"
+	},
+	{
+		"code": "I070",
+		"desc": "Rheumatic tricuspid stenosis"
+	},
+	{
+		"code": "I072",
+		"desc": "Rheumatic tricuspid stenosis and insufficiency"
+	},
+	{
+		"code": "I079",
+		"desc": "Rheumatic tricuspid valve disease, unspecified"
+	},
+	{
+		"code": "M790",
+		"desc": "Rheumatism, unspecified"
+	},
+	{
+		"code": "M05672",
+		"desc": "Rheumatoid arthritis of left ankle and foot with involvement of other organs and systems"
+	},
+	{
+		"code": "M05622",
+		"desc": "Rheumatoid arthritis of left elbow with involvement of other organs and systems"
+	},
+	{
+		"code": "M05642",
+		"desc": "Rheumatoid arthritis of left hand with involvement of other organs and systems"
+	},
+	{
+		"code": "M05652",
+		"desc": "Rheumatoid arthritis of left hip with involvement of other organs and systems"
+	},
+	{
+		"code": "M05662",
+		"desc": "Rheumatoid arthritis of left knee with involvement of other organs and systems"
+	},
+	{
+		"code": "M05612",
+		"desc": "Rheumatoid arthritis of left shoulder with involvement of other organs and systems"
+	},
+	{
+		"code": "M05632",
+		"desc": "Rheumatoid arthritis of left wrist with involvement of other organs and systems"
+	},
+	{
+		"code": "M0569",
+		"desc": "Rheumatoid arthritis of multiple sites with involvement of other organs and systems"
+	},
+	{
+		"code": "M05671",
+		"desc": "Rheumatoid arthritis of right ankle and foot with involvement of other organs and systems"
+	},
+	{
+		"code": "M05621",
+		"desc": "Rheumatoid arthritis of right elbow with involvement of other organs and systems"
+	},
+	{
+		"code": "M05641",
+		"desc": "Rheumatoid arthritis of right hand with involvement of other organs and systems"
+	},
+	{
+		"code": "M05651",
+		"desc": "Rheumatoid arthritis of right hip with involvement of other organs and systems"
+	},
+	{
+		"code": "M05661",
+		"desc": "Rheumatoid arthritis of right knee with involvement of other organs and systems"
+	},
+	{
+		"code": "M05611",
+		"desc": "Rheumatoid arthritis of right shoulder with involvement of other organs and systems"
+	},
+	{
+		"code": "M05631",
+		"desc": "Rheumatoid arthritis of right wrist with involvement of other organs and systems"
+	},
+	{
+		"code": "M05679",
+		"desc": "Rheumatoid arthritis of unspecified ankle and foot with involvement of other organs and systems"
+	},
+	{
+		"code": "M05629",
+		"desc": "Rheumatoid arthritis of unspecified elbow with involvement of other organs and systems"
+	},
+	{
+		"code": "M05649",
+		"desc": "Rheumatoid arthritis of unspecified hand with involvement of other organs and systems"
+	},
+	{
+		"code": "M05659",
+		"desc": "Rheumatoid arthritis of unspecified hip with involvement of other organs and systems"
+	},
+	{
+		"code": "M05669",
+		"desc": "Rheumatoid arthritis of unspecified knee with involvement of other organs and systems"
+	},
+	{
+		"code": "M05619",
+		"desc": "Rheumatoid arthritis of unspecified shoulder with involvement of other organs and systems"
+	},
+	{
+		"code": "M0560",
+		"desc": "Rheumatoid arthritis of unspecified site with involvement of other organs and systems"
+	},
+	{
+		"code": "M05639",
+		"desc": "Rheumatoid arthritis of unspecified wrist with involvement of other organs and systems"
+	},
+	{
+		"code": "M05772",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of left ankle and foot without organ or systems involvement"
+	},
+	{
+		"code": "M05722",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of left elbow without organ or systems involvement"
+	},
+	{
+		"code": "M05742",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of left hand without organ or systems involvement"
+	},
+	{
+		"code": "M05752",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement"
+	},
+	{
+		"code": "M05762",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of left knee without organ or systems involvement"
+	},
+	{
+		"code": "M05712",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of left shoulder without organ or systems involvement"
+	},
+	{
+		"code": "M05732",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of left wrist without organ or systems involvement"
+	},
+	{
+		"code": "M0579",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement"
+	},
+	{
+		"code": "M05771",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of right ankle and foot without organ or systems involvement"
+	},
+	{
+		"code": "M05721",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of right elbow without organ or systems involvement"
+	},
+	{
+		"code": "M05741",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of right hand without organ or systems involvement"
+	},
+	{
+		"code": "M05751",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of right hip without organ or systems involvement"
+	},
+	{
+		"code": "M05761",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of right knee without organ or systems involvement"
+	},
+	{
+		"code": "M05711",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of right shoulder without organ or systems involvement"
+	},
+	{
+		"code": "M05731",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of right wrist without organ or systems involvement"
+	},
+	{
+		"code": "M05779",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot without organ or systems involvement"
+	},
+	{
+		"code": "M05729",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of unspecified elbow without organ or systems involvement"
+	},
+	{
+		"code": "M05749",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of unspecified hand without organ or systems involvement"
+	},
+	{
+		"code": "M05759",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of unspecified hip without organ or systems involvement"
+	},
+	{
+		"code": "M05769",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of unspecified knee without organ or systems involvement"
+	},
+	{
+		"code": "M05719",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of unspecified shoulder without organ or systems involvement"
+	},
+	{
+		"code": "M0570",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of unspecified site without organ or systems involvement"
+	},
+	{
+		"code": "M05739",
+		"desc": "Rheumatoid arthritis with rheumatoid factor of unspecified wrist without organ or systems involvement"
+	},
+	{
+		"code": "M059",
+		"desc": "Rheumatoid arthritis with rheumatoid factor, unspecified"
+	},
+	{
+		"code": "M06072",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, left ankle and foot"
+	},
+	{
+		"code": "M06022",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, left elbow"
+	},
+	{
+		"code": "M06042",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, left hand"
+	},
+	{
+		"code": "M06052",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, left hip"
+	},
+	{
+		"code": "M06062",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, left knee"
+	},
+	{
+		"code": "M06012",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, left shoulder"
+	},
+	{
+		"code": "M06032",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, left wrist"
+	},
+	{
+		"code": "M0609",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, multiple sites"
+	},
+	{
+		"code": "M06071",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, right ankle and foot"
+	},
+	{
+		"code": "M06021",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, right elbow"
+	},
+	{
+		"code": "M06041",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, right hand"
+	},
+	{
+		"code": "M06051",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, right hip"
+	},
+	{
+		"code": "M06061",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, right knee"
+	},
+	{
+		"code": "M06011",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, right shoulder"
+	},
+	{
+		"code": "M06031",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, right wrist"
+	},
+	{
+		"code": "M06079",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, unspecified ankle and foot"
+	},
+	{
+		"code": "M06029",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, unspecified elbow"
+	},
+	{
+		"code": "M06049",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, unspecified hand"
+	},
+	{
+		"code": "M06059",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, unspecified hip"
+	},
+	{
+		"code": "M06069",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, unspecified knee"
+	},
+	{
+		"code": "M06019",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, unspecified shoulder"
+	},
+	{
+		"code": "M0600",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, unspecified site"
+	},
+	{
+		"code": "M06039",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, unspecified wrist"
+	},
+	{
+		"code": "M0608",
+		"desc": "Rheumatoid arthritis without rheumatoid factor, vertebrae"
+	},
+	{
+		"code": "M069",
+		"desc": "Rheumatoid arthritis, unspecified"
+	},
+	{
+		"code": "M06272",
+		"desc": "Rheumatoid bursitis, left ankle and foot"
+	},
+	{
+		"code": "M06222",
+		"desc": "Rheumatoid bursitis, left elbow"
+	},
+	{
+		"code": "M06242",
+		"desc": "Rheumatoid bursitis, left hand"
+	},
+	{
+		"code": "M06252",
+		"desc": "Rheumatoid bursitis, left hip"
+	},
+	{
+		"code": "M06262",
+		"desc": "Rheumatoid bursitis, left knee"
+	},
+	{
+		"code": "M06212",
+		"desc": "Rheumatoid bursitis, left shoulder"
+	},
+	{
+		"code": "M06232",
+		"desc": "Rheumatoid bursitis, left wrist"
+	},
+	{
+		"code": "M0629",
+		"desc": "Rheumatoid bursitis, multiple sites"
+	},
+	{
+		"code": "M06271",
+		"desc": "Rheumatoid bursitis, right ankle and foot"
+	},
+	{
+		"code": "M06221",
+		"desc": "Rheumatoid bursitis, right elbow"
+	},
+	{
+		"code": "M06241",
+		"desc": "Rheumatoid bursitis, right hand"
+	},
+	{
+		"code": "M06251",
+		"desc": "Rheumatoid bursitis, right hip"
+	},
+	{
+		"code": "M06261",
+		"desc": "Rheumatoid bursitis, right knee"
+	},
+	{
+		"code": "M06211",
+		"desc": "Rheumatoid bursitis, right shoulder"
+	},
+	{
+		"code": "M06231",
+		"desc": "Rheumatoid bursitis, right wrist"
+	},
+	{
+		"code": "M06279",
+		"desc": "Rheumatoid bursitis, unspecified ankle and foot"
+	},
+	{
+		"code": "M06229",
+		"desc": "Rheumatoid bursitis, unspecified elbow"
+	},
+	{
+		"code": "M06249",
+		"desc": "Rheumatoid bursitis, unspecified hand"
+	},
+	{
+		"code": "M06259",
+		"desc": "Rheumatoid bursitis, unspecified hip"
+	},
+	{
+		"code": "M06269",
+		"desc": "Rheumatoid bursitis, unspecified knee"
+	},
+	{
+		"code": "M06219",
+		"desc": "Rheumatoid bursitis, unspecified shoulder"
+	},
+	{
+		"code": "M0620",
+		"desc": "Rheumatoid bursitis, unspecified site"
+	},
+	{
+		"code": "M06239",
+		"desc": "Rheumatoid bursitis, unspecified wrist"
+	},
+	{
+		"code": "M0628",
+		"desc": "Rheumatoid bursitis, vertebrae"
+	},
+	{
+		"code": "M05372",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of left ankle and foot"
+	},
+	{
+		"code": "M05322",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of left elbow"
+	},
+	{
+		"code": "M05342",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of left hand"
+	},
+	{
+		"code": "M05352",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of left hip"
+	},
+	{
+		"code": "M05362",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of left knee"
+	},
+	{
+		"code": "M05312",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of left shoulder"
+	},
+	{
+		"code": "M05332",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of left wrist"
+	},
+	{
+		"code": "M0539",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of multiple sites"
+	},
+	{
+		"code": "M05371",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of right ankle and foot"
+	},
+	{
+		"code": "M05321",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of right elbow"
+	},
+	{
+		"code": "M05341",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of right hand"
+	},
+	{
+		"code": "M05351",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of right hip"
+	},
+	{
+		"code": "M05361",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of right knee"
+	},
+	{
+		"code": "M05311",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of right shoulder"
+	},
+	{
+		"code": "M05331",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of right wrist"
+	},
+	{
+		"code": "M05379",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of unspecified ankle and foot"
+	},
+	{
+		"code": "M05329",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of unspecified elbow"
+	},
+	{
+		"code": "M05349",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of unspecified hand"
+	},
+	{
+		"code": "M05359",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of unspecified hip"
+	},
+	{
+		"code": "M05369",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of unspecified knee"
+	},
+	{
+		"code": "M05319",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of unspecified shoulder"
+	},
+	{
+		"code": "M0530",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of unspecified site"
+	},
+	{
+		"code": "M05339",
+		"desc": "Rheumatoid heart disease with rheumatoid arthritis of unspecified wrist"
+	},
+	{
+		"code": "M05172",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of left ankle and foot"
+	},
+	{
+		"code": "M05122",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of left elbow"
+	},
+	{
+		"code": "M05142",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of left hand"
+	},
+	{
+		"code": "M05152",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of left hip"
+	},
+	{
+		"code": "M05162",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of left knee"
+	},
+	{
+		"code": "M05112",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of left shoulder"
+	},
+	{
+		"code": "M05132",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of left wrist"
+	},
+	{
+		"code": "M0519",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of multiple sites"
+	},
+	{
+		"code": "M05171",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of right ankle and foot"
+	},
+	{
+		"code": "M05121",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of right elbow"
+	},
+	{
+		"code": "M05141",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of right hand"
+	},
+	{
+		"code": "M05151",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of right hip"
+	},
+	{
+		"code": "M05161",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of right knee"
+	},
+	{
+		"code": "M05111",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of right shoulder"
+	},
+	{
+		"code": "M05131",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of right wrist"
+	},
+	{
+		"code": "M05179",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified ankle and foot"
+	},
+	{
+		"code": "M05129",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified elbow"
+	},
+	{
+		"code": "M05149",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified hand"
+	},
+	{
+		"code": "M05159",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified hip"
+	},
+	{
+		"code": "M05169",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified knee"
+	},
+	{
+		"code": "M05119",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified shoulder"
+	},
+	{
+		"code": "M0510",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified site"
+	},
+	{
+		"code": "M05139",
+		"desc": "Rheumatoid lung disease with rheumatoid arthritis of unspecified wrist"
+	},
+	{
+		"code": "M05472",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of left ankle and foot"
+	},
+	{
+		"code": "M05422",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of left elbow"
+	},
+	{
+		"code": "M05442",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of left hand"
+	},
+	{
+		"code": "M05452",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of left hip"
+	},
+	{
+		"code": "M05462",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of left knee"
+	},
+	{
+		"code": "M05412",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of left shoulder"
+	},
+	{
+		"code": "M05432",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of left wrist"
+	},
+	{
+		"code": "M0549",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of multiple sites"
+	},
+	{
+		"code": "M05471",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of right ankle and foot"
+	},
+	{
+		"code": "M05421",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of right elbow"
+	},
+	{
+		"code": "M05441",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of right hand"
+	},
+	{
+		"code": "M05451",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of right hip"
+	},
+	{
+		"code": "M05461",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of right knee"
+	},
+	{
+		"code": "M05411",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of right shoulder"
+	},
+	{
+		"code": "M05431",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of right wrist"
+	},
+	{
+		"code": "M05479",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of unspecified ankle and foot"
+	},
+	{
+		"code": "M05429",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of unspecified elbow"
+	},
+	{
+		"code": "M05449",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of unspecified hand"
+	},
+	{
+		"code": "M05459",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of unspecified hip"
+	},
+	{
+		"code": "M05469",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of unspecified knee"
+	},
+	{
+		"code": "M05419",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of unspecified shoulder"
+	},
+	{
+		"code": "M0540",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of unspecified site"
+	},
+	{
+		"code": "M05439",
+		"desc": "Rheumatoid myopathy with rheumatoid arthritis of unspecified wrist"
+	},
+	{
+		"code": "M06372",
+		"desc": "Rheumatoid nodule, left ankle and foot"
+	},
+	{
+		"code": "M06322",
+		"desc": "Rheumatoid nodule, left elbow"
+	},
+	{
+		"code": "M06342",
+		"desc": "Rheumatoid nodule, left hand"
+	},
+	{
+		"code": "M06352",
+		"desc": "Rheumatoid nodule, left hip"
+	},
+	{
+		"code": "M06362",
+		"desc": "Rheumatoid nodule, left knee"
+	},
+	{
+		"code": "M06312",
+		"desc": "Rheumatoid nodule, left shoulder"
+	},
+	{
+		"code": "M06332",
+		"desc": "Rheumatoid nodule, left wrist"
+	},
+	{
+		"code": "M0639",
+		"desc": "Rheumatoid nodule, multiple sites"
+	},
+	{
+		"code": "M06371",
+		"desc": "Rheumatoid nodule, right ankle and foot"
+	},
+	{
+		"code": "M06321",
+		"desc": "Rheumatoid nodule, right elbow"
+	},
+	{
+		"code": "M06341",
+		"desc": "Rheumatoid nodule, right hand"
+	},
+	{
+		"code": "M06351",
+		"desc": "Rheumatoid nodule, right hip"
+	},
+	{
+		"code": "M06361",
+		"desc": "Rheumatoid nodule, right knee"
+	},
+	{
+		"code": "M06311",
+		"desc": "Rheumatoid nodule, right shoulder"
+	},
+	{
+		"code": "M06331",
+		"desc": "Rheumatoid nodule, right wrist"
+	},
+	{
+		"code": "M06379",
+		"desc": "Rheumatoid nodule, unspecified ankle and foot"
+	},
+	{
+		"code": "M06329",
+		"desc": "Rheumatoid nodule, unspecified elbow"
+	},
+	{
+		"code": "M06349",
+		"desc": "Rheumatoid nodule, unspecified hand"
+	},
+	{
+		"code": "M06359",
+		"desc": "Rheumatoid nodule, unspecified hip"
+	},
+	{
+		"code": "M06369",
+		"desc": "Rheumatoid nodule, unspecified knee"
+	},
+	{
+		"code": "M06319",
+		"desc": "Rheumatoid nodule, unspecified shoulder"
+	},
+	{
+		"code": "M0630",
+		"desc": "Rheumatoid nodule, unspecified site"
+	},
+	{
+		"code": "M06339",
+		"desc": "Rheumatoid nodule, unspecified wrist"
+	},
+	{
+		"code": "M0638",
+		"desc": "Rheumatoid nodule, vertebrae"
+	},
+	{
+		"code": "M05572",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of left ankle and foot"
+	},
+	{
+		"code": "M05522",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of left elbow"
+	},
+	{
+		"code": "M05542",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of left hand"
+	},
+	{
+		"code": "M05552",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of left hip"
+	},
+	{
+		"code": "M05562",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of left knee"
+	},
+	{
+		"code": "M05512",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of left shoulder"
+	},
+	{
+		"code": "M05532",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of left wrist"
+	},
+	{
+		"code": "M0559",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites"
+	},
+	{
+		"code": "M05571",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of right ankle and foot"
+	},
+	{
+		"code": "M05521",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of right elbow"
+	},
+	{
+		"code": "M05541",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of right hand"
+	},
+	{
+		"code": "M05551",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of right hip"
+	},
+	{
+		"code": "M05561",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of right knee"
+	},
+	{
+		"code": "M05511",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder"
+	},
+	{
+		"code": "M05531",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of right wrist"
+	},
+	{
+		"code": "M05579",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified ankle and foot"
+	},
+	{
+		"code": "M05529",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified elbow"
+	},
+	{
+		"code": "M05549",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hand"
+	},
+	{
+		"code": "M05559",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hip"
+	},
+	{
+		"code": "M05569",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified knee"
+	},
+	{
+		"code": "M05519",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified shoulder"
+	},
+	{
+		"code": "M0550",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site"
+	},
+	{
+		"code": "M05539",
+		"desc": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified wrist"
+	},
+	{
+		"code": "M05272",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot"
+	},
+	{
+		"code": "M05222",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of left elbow"
+	},
+	{
+		"code": "M05242",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of left hand"
+	},
+	{
+		"code": "M05252",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of left hip"
+	},
+	{
+		"code": "M05262",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of left knee"
+	},
+	{
+		"code": "M05212",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of left shoulder"
+	},
+	{
+		"code": "M05232",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of left wrist"
+	},
+	{
+		"code": "M0529",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of multiple sites"
+	},
+	{
+		"code": "M05271",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of right ankle and foot"
+	},
+	{
+		"code": "M05221",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of right elbow"
+	},
+	{
+		"code": "M05241",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of right hand"
+	},
+	{
+		"code": "M05251",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of right hip"
+	},
+	{
+		"code": "M05261",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of right knee"
+	},
+	{
+		"code": "M05211",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of right shoulder"
+	},
+	{
+		"code": "M05231",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of right wrist"
+	},
+	{
+		"code": "M05279",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified ankle and foot"
+	},
+	{
+		"code": "M05229",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified elbow"
+	},
+	{
+		"code": "M05249",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified hand"
+	},
+	{
+		"code": "M05259",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified hip"
+	},
+	{
+		"code": "M05269",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified knee"
+	},
+	{
+		"code": "M05219",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified shoulder"
+	},
+	{
+		"code": "M0520",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified site"
+	},
+	{
+		"code": "M05239",
+		"desc": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified wrist"
+	},
+	{
+		"code": "G4032",
+		"desc": "Rheumatology mips specialty set"
+	},
+	{
+		"code": "B461",
+		"desc": "Rhinocerebral mucormycosis"
+	},
+	{
+		"code": "L711",
+		"desc": "Rhinophyma"
+	},
+	{
+		"code": "B481",
+		"desc": "Rhinosporidiosis"
+	},
+	{
+		"code": "E71540",
+		"desc": "Rhizomelic chondrodysplasia punctata"
+	},
+	{
+		"code": "B561",
+		"desc": "Rhodesiense trypanosomiasis"
+	},
+	{
+		"code": "J2787",
+		"desc": "Riboflavin 5'-phosphate, ophthalmic solution, up to 3 ml"
+	},
+	{
+		"code": "E530",
+		"desc": "Riboflavin deficiency"
+	},
+	{
+		"code": "E550",
+		"desc": "Rickets, active"
+	},
+	{
+		"code": "A791",
+		"desc": "Rickettsialpox due to Rickettsia akari"
+	},
+	{
+		"code": "A7981",
+		"desc": "Rickettsiosis due to Ehrlichia sennetsu"
+	},
+	{
+		"code": "A799",
+		"desc": "Rickettsiosis, unspecified"
+	},
+	{
+		"code": "V9421XA",
+		"desc": "Rider of nonpowered watercraft struck by other nonpowered watercraft, initial encounter"
+	},
+	{
+		"code": "V9421XS",
+		"desc": "Rider of nonpowered watercraft struck by other nonpowered watercraft, sequela"
+	},
+	{
+		"code": "V9421XD",
+		"desc": "Rider of nonpowered watercraft struck by other nonpowered watercraft, subsequent encounter"
+	},
+	{
+		"code": "V9422XA",
+		"desc": "Rider of nonpowered watercraft struck by powered watercraft, initial encounter"
+	},
+	{
+		"code": "V9422XS",
+		"desc": "Rider of nonpowered watercraft struck by powered watercraft, sequela"
+	},
+	{
+		"code": "V9422XD",
+		"desc": "Rider of nonpowered watercraft struck by powered watercraft, subsequent encounter"
+	},
+	{
+		"code": "Q1381",
+		"desc": "Rieger's anomaly"
+	},
+	{
+		"code": "A924",
+		"desc": "Rift Valley fever"
+	},
+	{
+		"code": "Q2547",
+		"desc": "Right aortic arch"
+	},
+	{
+		"code": "I450",
+		"desc": "Right fascicular block"
+	},
+	{
+		"code": "C9741",
+		"desc": "Right heart catheterization with implantation of wireless pressure sensor in the pulmonary artery, including any type of measurement, angiography, imaging supervision, interpretation, and report\n                                    \n                                        \n                                        Terminated December 31, 2018."
+	},
+	{
+		"code": "I50814",
+		"desc": "Right heart failure due to left heart failure"
+	},
+	{
+		"code": "I50810",
+		"desc": "Right heart failure, unspecified"
+	},
+	{
+		"code": "R1933",
+		"desc": "Right lower quadrant abdominal rigidity"
+	},
+	{
+		"code": "R1903",
+		"desc": "Right lower quadrant abdominal swelling, mass and lump"
+	},
+	{
+		"code": "R10813",
+		"desc": "Right lower quadrant abdominal tenderness"
+	},
+	{
+		"code": "R1031",
+		"desc": "Right lower quadrant pain"
+	},
+	{
+		"code": "R10823",
+		"desc": "Right lower quadrant rebound abdominal tenderness"
+	},
+	{
+		"code": "O00211",
+		"desc": "Right ovarian pregnancy with intrauterine pregnancy"
+	},
+	{
+		"code": "O00201",
+		"desc": "Right ovarian pregnancy without intrauterine pregnancy"
+	},
+	{
+		"code": "M26601",
+		"desc": "Right temporomandibular joint disorder, unspecified"
+	},
+	{
+		"code": "N50811",
+		"desc": "Right testicular pain"
+	},
+	{
+		"code": "O00111",
+		"desc": "Right tubal pregnancy with intrauterine pregnancy"
+	},
+	{
+		"code": "O00101",
+		"desc": "Right tubal pregnancy without intrauterine pregnancy"
+	},
+	{
+		"code": "R1931",
+		"desc": "Right upper quadrant abdominal rigidity"
+	},
+	{
+		"code": "R1901",
+		"desc": "Right upper quadrant abdominal swelling, mass and lump"
+	},
+	{
+		"code": "R10811",
+		"desc": "Right upper quadrant abdominal tenderness"
+	},
+	{
+		"code": "R1011",
+		"desc": "Right upper quadrant pain"
+	},
+	{
+		"code": "R10821",
+		"desc": "Right upper quadrant rebound abdominal tenderness"
+	},
+	{
+		"code": "G9036",
+		"desc": "Rimantadine hydrochloride, oral, brand, per 100 mg (for use in a medicare-approved demonstration project)\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G9020",
+		"desc": "Rimantadine hydrochloride, oral, per 100 mg (for use in a medicare-approved demonstration project)\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "H16023",
+		"desc": "Ring corneal ulcer, bilateral"
+	},
+	{
+		"code": "H16022",
+		"desc": "Ring corneal ulcer, left eye"
+	},
+	{
+		"code": "H16021",
+		"desc": "Ring corneal ulcer, right eye"
+	},
+	{
+		"code": "H16029",
+		"desc": "Ring corneal ulcer, unspecified eye"
+	},
+	{
+		"code": "W4904XA",
+		"desc": "Ring or other jewelry causing external constriction, initial encounter"
+	},
+	{
+		"code": "W4904XS",
+		"desc": "Ring or other jewelry causing external constriction, sequela"
+	},
+	{
+		"code": "W4904XD",
+		"desc": "Ring or other jewelry causing external constriction, subsequent encounter"
+	},
+	{
+		"code": "H15853",
+		"desc": "Ring staphyloma, bilateral"
+	},
+	{
+		"code": "H15852",
+		"desc": "Ring staphyloma, left eye"
+	},
+	{
+		"code": "H15851",
+		"desc": "Ring staphyloma, right eye"
+	},
+	{
+		"code": "H15859",
+		"desc": "Ring staphyloma, unspecified eye"
+	},
+	{
+		"code": "J7120",
+		"desc": "Ringers lactate infusion, up to 1000 cc"
+	},
+	{
+		"code": "R9721",
+		"desc": "Rising PSA following treatment for malignant neoplasm of prostate"
+	},
+	{
+		"code": "Z91843",
+		"desc": "Risk for dental caries, high"
+	},
+	{
+		"code": "Z91841",
+		"desc": "Risk for dental caries, low"
+	},
+	{
+		"code": "Z91842",
+		"desc": "Risk for dental caries, moderate"
+	},
+	{
+		"code": "G8669",
+		"desc": "Risk-adjusted functional status change residual score for the elbow, wrist or hand impairment not measured because the patient did not complete the fs status survey near discharge, patient not appropriate\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G8649",
+		"desc": "Risk-adjusted functional status change residual score for the knee impairment not measured because the patient did not complete the fs status survey near discharge, patient not appropriate\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G8661",
+		"desc": "Risk-adjusted functional status change residual score for the low back impairment not measured because the patient did not complete the fs status survey near discharge, patient not appropriate"
+	},
+	{
+		"code": "G8657",
+		"desc": "Risk-adjusted functional status change residual score for the lower leg, foot or ankle impairment not measured because the patient did not complete the fs status survey near discharge, patient not appropriate\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G8673",
+		"desc": "Risk-adjusted functional status change residual score for the neck, cranium, mandible, thoracic spine, ribs or other general orthopedic impairment not measured because the patient did not complete the fs status survey near discharge, patient not appropriate\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G8674",
+		"desc": "Risk-adjusted functional status change residual score for the neck, cranium, mandible, thoracic spine, ribs or other general orthopedic impairment not measured because the patient did not complete the general orthopedic fs prom at initial evaluation and/or near discharge, reason not given\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G8671",
+		"desc": "Risk-adjusted functional status change residual score for the neck, cranium, mandible, thoracic spine, ribs or other general orthopedic impairment successfully calculated and the score was equal to zero (0) or greater than zero (> 0)\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G8672",
+		"desc": "Risk-adjusted functional status change residual score for the neck, cranium, mandible, thoracic spine, ribs or other general orthopedic impairment successfully calculated and the score was less than zero (< 0)\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G8665",
+		"desc": "Risk-adjusted functional status change residual score for the shoulder impairment not measured because the patient did not complete the fs status survey near discharge, patient not appropriate\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G8653",
+		"desc": "Risk-adjusted functional status change residual scores for the hip impairment not measured because the patient did not complete the fs status survey near discharge, patient not appropriate\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "T1002",
+		"desc": "Rn services, up to 15 minutes"
+	},
+	{
+		"code": "G9203",
+		"desc": "Rna testing for hepatitis c documented as performed within 12 months prior to initiation of antiviral treatment for hepatitis c\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "G9204",
+		"desc": "Rna testing for hepatitis c was not documented as performed within 12 months prior to initiation of antiviral treatment for hepatitis c, reason not given\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "A836",
+		"desc": "Rocio virus disease"
+	},
+	{
+		"code": "E0462",
+		"desc": "Rocking bed with or without side rails"
+	},
+	{
+		"code": "J8670",
+		"desc": "Rolapitant, oral, 1 mg"
+	},
+	{
+		"code": "Q9981",
+		"desc": "Rolapitant, oral, 1 mg\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "E1031",
+		"desc": "Rollabout chair, any and all types with casters 5\" or greater"
+	},
+	{
+		"code": "Y92331",
+		"desc": "Roller skating rink as the place of occurrence of the external cause"
+	},
+	{
+		"code": "L719",
+		"desc": "Rosacea, unspecified"
+	},
+	{
+		"code": "B331",
+		"desc": "Ross River disease"
+	},
+	{
+		"code": "A0436",
+		"desc": "Rotary wing air mileage, per statute mile"
+	},
+	{
+		"code": "M2635",
+		"desc": "Rotation of fully erupted tooth or teeth"
+	},
+	{
+		"code": "A080",
+		"desc": "Rotaviral enteritis"
+	},
+	{
+		"code": "H33323",
+		"desc": "Round hole, bilateral"
+	},
+	{
+		"code": "H33322",
+		"desc": "Round hole, left eye"
+	},
+	{
+		"code": "H33321",
+		"desc": "Round hole, right eye"
+	},
+	{
+		"code": "H33329",
+		"desc": "Round hole, unspecified eye"
+	},
+	{
+		"code": "G0247",
+		"desc": "Routine foot care by a physician of a diabetic patient with diabetic sensory neuropathy resulting in a loss of protective sensation (lops) to include, the local care of superficial wounds (i.e. superficial to muscle and fascia) and at least the following if present: (1) local care of superficial wounds, (2) debridement of corns and calluses, and (3) trimming and debridement of nails"
+	},
+	{
+		"code": "S0390",
+		"desc": "Routine foot care; removal and/or trimming of corns, calluses and/or nails and preventive maintenance in specific medical conditions (e.g., diabetes), per visit"
+	},
+	{
+		"code": "S0621",
+		"desc": "Routine ophthalmological examination including refraction; established patient"
+	},
+	{
+		"code": "S0620",
+		"desc": "Routine ophthalmological examination including refraction; new patient"
+	},
+	{
+		"code": "S9529",
+		"desc": "Routine venipuncture for collection of specimen(s), single home bound, nursing home, or skilled nursing facility patient"
+	},
+	{
+		"code": "W4903XA",
+		"desc": "Rubber band causing external constriction, initial encounter"
+	},
+	{
+		"code": "W4903XS",
+		"desc": "Rubber band causing external constriction, sequela"
+	},
+	{
+		"code": "W4903XD",
+		"desc": "Rubber band causing external constriction, subsequent encounter"
+	},
+	{
+		"code": "B0682",
+		"desc": "Rubella arthritis"
+	},
+	{
+		"code": "B0601",
+		"desc": "Rubella encephalitis"
+	},
+	{
+		"code": "B0602",
+		"desc": "Rubella meningitis"
+	},
+	{
+		"code": "B0681",
+		"desc": "Rubella pneumonia"
+	},
+	{
+		"code": "B0600",
+		"desc": "Rubella with neurological complication, unspecified"
+	},
+	{
+		"code": "B069",
+		"desc": "Rubella without complication"
+	},
+	{
+		"code": "A9555",
+		"desc": "Rubidium rb-82, diagnostic, per study dose, up to 60 millicuries"
+	},
+	{
+		"code": "F9821",
+		"desc": "Rumination disorder of infancy"
+	},
+	{
+		"code": "H18333",
+		"desc": "Rupture in Descemet's membrane, bilateral"
+	},
+	{
+		"code": "H18332",
+		"desc": "Rupture in Descemet's membrane, left eye"
+	},
+	{
+		"code": "H18331",
+		"desc": "Rupture in Descemet's membrane, right eye"
+	},
+	{
+		"code": "H18339",
+		"desc": "Rupture in Descemet's membrane, unspecified eye"
+	},
+	{
+		"code": "I772",
+		"desc": "Rupture of artery"
+	},
+	{
+		"code": "I233",
+		"desc": "Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction"
+	},
+	{
+		"code": "I234",
+		"desc": "Rupture of chordae tendineae as current complication following acute myocardial infarction"
+	},
+	{
+		"code": "I511",
+		"desc": "Rupture of chordae tendineae, not elsewhere classified"
+	},
+	{
+		"code": "I235",
+		"desc": "Rupture of papillary muscle as current complication following acute myocardial infarction"
+	},
+	{
+		"code": "I512",
+		"desc": "Rupture of papillary muscle, not elsewhere classified"
+	},
+	{
+		"code": "M660",
+		"desc": "Rupture of popliteal cyst"
+	},
+	{
+		"code": "M66172",
+		"desc": "Rupture of synovium, left ankle"
+	},
+	{
+		"code": "M66122",
+		"desc": "Rupture of synovium, left elbow"
+	},
+	{
+		"code": "M66145",
+		"desc": "Rupture of synovium, left finger(s)"
+	},
+	{
+		"code": "M66175",
+		"desc": "Rupture of synovium, left foot"
+	},
+	{
+		"code": "M66142",
+		"desc": "Rupture of synovium, left hand"
+	},
+	{
+		"code": "M66152",
+		"desc": "Rupture of synovium, left hip"
+	},
+	{
+		"code": "M66112",
+		"desc": "Rupture of synovium, left shoulder"
+	},
+	{
+		"code": "M66178",
+		"desc": "Rupture of synovium, left toe(s)"
+	},
+	{
+		"code": "M66132",
+		"desc": "Rupture of synovium, left wrist"
+	},
+	{
+		"code": "M6618",
+		"desc": "Rupture of synovium, other site"
+	},
+	{
+		"code": "M66171",
+		"desc": "Rupture of synovium, right ankle"
+	},
+	{
+		"code": "M66121",
+		"desc": "Rupture of synovium, right elbow"
+	},
+	{
+		"code": "M66144",
+		"desc": "Rupture of synovium, right finger(s)"
+	},
+	{
+		"code": "M66174",
+		"desc": "Rupture of synovium, right foot"
+	},
+	{
+		"code": "M66141",
+		"desc": "Rupture of synovium, right hand"
+	},
+	{
+		"code": "M66151",
+		"desc": "Rupture of synovium, right hip"
+	},
+	{
+		"code": "M66111",
+		"desc": "Rupture of synovium, right shoulder"
+	},
+	{
+		"code": "M66177",
+		"desc": "Rupture of synovium, right toe(s)"
+	},
+	{
+		"code": "M66131",
+		"desc": "Rupture of synovium, right wrist"
+	},
+	{
+		"code": "M66173",
+		"desc": "Rupture of synovium, unspecified ankle"
+	},
+	{
+		"code": "M66129",
+		"desc": "Rupture of synovium, unspecified elbow"
+	},
+	{
+		"code": "M66146",
+		"desc": "Rupture of synovium, unspecified finger(s)"
+	},
+	{
+		"code": "M66176",
+		"desc": "Rupture of synovium, unspecified foot"
+	},
+	{
+		"code": "M66143",
+		"desc": "Rupture of synovium, unspecified hand"
+	},
+	{
+		"code": "M66159",
+		"desc": "Rupture of synovium, unspecified hip"
+	},
+	{
+		"code": "M6610",
+		"desc": "Rupture of synovium, unspecified joint"
+	},
+	{
+		"code": "M66119",
+		"desc": "Rupture of synovium, unspecified shoulder"
+	},
+	{
+		"code": "M66179",
+		"desc": "Rupture of synovium, unspecified toe(s)"
+	},
+	{
+		"code": "M66139",
+		"desc": "Rupture of synovium, unspecified wrist"
+	},
+	{
+		"code": "O7102",
+		"desc": "Rupture of uterus before onset of labor, second trimester"
+	},
+	{
+		"code": "O7103",
+		"desc": "Rupture of uterus before onset of labor, third trimester"
+	},
+	{
+		"code": "O7100",
+		"desc": "Rupture of uterus before onset of labor, unspecified trimester"
+	},
+	{
+		"code": "O711",
+		"desc": "Rupture of uterus during labor"
+	},
+	{
+		"code": "G0511",
+		"desc": "Rural health clinic or federally qualified health center (rhc or fqhc) only, general care management, 20 minutes or more of clinical staff time for chronic care management services or behavioral health integration services directed by an rhc or fqhc practitioner (physician, np, pa, or cnm), per calendar month"
+	},
+	{
+		"code": "G0512",
+		"desc": "Rural health clinic or federally qualified health center (rhc/fqhc) only, psychiatric collaborative care model (psychiatric cocm), 60 minutes or more of clinical staff time for psychiatric cocm services directed by an rhc or fqhc practitioner (physician, np, pa, or cnm) and including services furnished by a behavioral health care manager and consultation with a psychiatric consultant, per calendar month"
+	},
+	{
+		"code": "E71440",
+		"desc": "Ruvalcaba-Myhre-Smith syndrome"
+	}
+]

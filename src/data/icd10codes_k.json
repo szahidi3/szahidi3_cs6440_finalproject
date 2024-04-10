@@ -1,0 +1,662 @@
+[
+    {
+		"code": "L2136",
+		"desc": "Kafo, fracture orthosis, femoral fracture cast orthosis, rigid, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L2134",
+		"desc": "Kafo, fracture orthosis, femoral fracture cast orthosis, semi-rigid, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L2132",
+		"desc": "Kafo, fracture orthosis, femoral fracture cast orthosis, soft, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "C464",
+		"desc": "Kaposi's sarcoma of gastrointestinal sites"
+	},
+	{
+		"code": "C4652",
+		"desc": "Kaposi's sarcoma of left lung"
+	},
+	{
+		"code": "C463",
+		"desc": "Kaposi's sarcoma of lymph nodes"
+	},
+	{
+		"code": "C467",
+		"desc": "Kaposi's sarcoma of other sites"
+	},
+	{
+		"code": "C462",
+		"desc": "Kaposi's sarcoma of palate"
+	},
+	{
+		"code": "C4651",
+		"desc": "Kaposi's sarcoma of right lung"
+	},
+	{
+		"code": "C460",
+		"desc": "Kaposi's sarcoma of skin"
+	},
+	{
+		"code": "C461",
+		"desc": "Kaposi's sarcoma of soft tissue"
+	},
+	{
+		"code": "C4650",
+		"desc": "Kaposi's sarcoma of unspecified lung"
+	},
+	{
+		"code": "C469",
+		"desc": "Kaposi's sarcoma, unspecified"
+	},
+	{
+		"code": "Q960",
+		"desc": "Karyotype 45, X"
+	},
+	{
+		"code": "Q961",
+		"desc": "Karyotype 46, X iso (Xq)"
+	},
+	{
+		"code": "Q962",
+		"desc": "Karyotype 46, X with abnormal sex chromosome, except iso (Xq)"
+	},
+	{
+		"code": "Q970",
+		"desc": "Karyotype 47, XXX"
+	},
+	{
+		"code": "Q985",
+		"desc": "Karyotype 47, XYY"
+	},
+	{
+		"code": "M12172",
+		"desc": "Kaschin-Beck disease, left ankle and foot"
+	},
+	{
+		"code": "M12122",
+		"desc": "Kaschin-Beck disease, left elbow"
+	},
+	{
+		"code": "M12142",
+		"desc": "Kaschin-Beck disease, left hand"
+	},
+	{
+		"code": "M12152",
+		"desc": "Kaschin-Beck disease, left hip"
+	},
+	{
+		"code": "M12162",
+		"desc": "Kaschin-Beck disease, left knee"
+	},
+	{
+		"code": "M12112",
+		"desc": "Kaschin-Beck disease, left shoulder"
+	},
+	{
+		"code": "M12132",
+		"desc": "Kaschin-Beck disease, left wrist"
+	},
+	{
+		"code": "M1219",
+		"desc": "Kaschin-Beck disease, multiple sites"
+	},
+	{
+		"code": "M12171",
+		"desc": "Kaschin-Beck disease, right ankle and foot"
+	},
+	{
+		"code": "M12121",
+		"desc": "Kaschin-Beck disease, right elbow"
+	},
+	{
+		"code": "M12141",
+		"desc": "Kaschin-Beck disease, right hand"
+	},
+	{
+		"code": "M12151",
+		"desc": "Kaschin-Beck disease, right hip"
+	},
+	{
+		"code": "M12161",
+		"desc": "Kaschin-Beck disease, right knee"
+	},
+	{
+		"code": "M12111",
+		"desc": "Kaschin-Beck disease, right shoulder"
+	},
+	{
+		"code": "M12131",
+		"desc": "Kaschin-Beck disease, right wrist"
+	},
+	{
+		"code": "M12179",
+		"desc": "Kaschin-Beck disease, unspecified ankle and foot"
+	},
+	{
+		"code": "M12129",
+		"desc": "Kaschin-Beck disease, unspecified elbow"
+	},
+	{
+		"code": "M12149",
+		"desc": "Kaschin-Beck disease, unspecified hand"
+	},
+	{
+		"code": "M12159",
+		"desc": "Kaschin-Beck disease, unspecified hip"
+	},
+	{
+		"code": "M12169",
+		"desc": "Kaschin-Beck disease, unspecified knee"
+	},
+	{
+		"code": "M12119",
+		"desc": "Kaschin-Beck disease, unspecified shoulder"
+	},
+	{
+		"code": "M1210",
+		"desc": "Kaschin-Beck disease, unspecified site"
+	},
+	{
+		"code": "M12139",
+		"desc": "Kaschin-Beck disease, unspecified wrist"
+	},
+	{
+		"code": "M1218",
+		"desc": "Kaschin-Beck disease, vertebrae"
+	},
+	{
+		"code": "H18043",
+		"desc": "Kayser-Fleischer ring, bilateral"
+	},
+	{
+		"code": "H18042",
+		"desc": "Kayser-Fleischer ring, left eye"
+	},
+	{
+		"code": "H18041",
+		"desc": "Kayser-Fleischer ring, right eye"
+	},
+	{
+		"code": "H18049",
+		"desc": "Kayser-Fleischer ring, unspecified eye"
+	},
+	{
+		"code": "H49813",
+		"desc": "Kearns-Sayre syndrome, bilateral"
+	},
+	{
+		"code": "H49812",
+		"desc": "Kearns-Sayre syndrome, left eye"
+	},
+	{
+		"code": "H49811",
+		"desc": "Kearns-Sayre syndrome, right eye"
+	},
+	{
+		"code": "H49819",
+		"desc": "Kearns-Sayre syndrome, unspecified eye"
+	},
+	{
+		"code": "Q4165",
+		"desc": "Keramatrix or kerasorb, per square centimeter"
+	},
+	{
+		"code": "B6013",
+		"desc": "Keratoconjunctivitis due to Acanthamoeba"
+	},
+	{
+		"code": "B300",
+		"desc": "Keratoconjunctivitis due to adenovirus"
+	},
+	{
+		"code": "H16223",
+		"desc": "Keratoconjunctivitis sicca, not specified as Sjogren's, bilateral"
+	},
+	{
+		"code": "H16222",
+		"desc": "Keratoconjunctivitis sicca, not specified as Sjogren's, left eye"
+	},
+	{
+		"code": "H16221",
+		"desc": "Keratoconjunctivitis sicca, not specified as Sjogren's, right eye"
+	},
+	{
+		"code": "H16229",
+		"desc": "Keratoconjunctivitis sicca, not specified as Sjogren's, unspecified eye"
+	},
+	{
+		"code": "H18613",
+		"desc": "Keratoconus, stable, bilateral"
+	},
+	{
+		"code": "H18612",
+		"desc": "Keratoconus, stable, left eye"
+	},
+	{
+		"code": "H18611",
+		"desc": "Keratoconus, stable, right eye"
+	},
+	{
+		"code": "H18619",
+		"desc": "Keratoconus, stable, unspecified eye"
+	},
+	{
+		"code": "H18603",
+		"desc": "Keratoconus, unspecified, bilateral"
+	},
+	{
+		"code": "H18602",
+		"desc": "Keratoconus, unspecified, left eye"
+	},
+	{
+		"code": "H18601",
+		"desc": "Keratoconus, unspecified, right eye"
+	},
+	{
+		"code": "H18609",
+		"desc": "Keratoconus, unspecified, unspecified eye"
+	},
+	{
+		"code": "H18623",
+		"desc": "Keratoconus, unstable, bilateral"
+	},
+	{
+		"code": "H18622",
+		"desc": "Keratoconus, unstable, left eye"
+	},
+	{
+		"code": "H18621",
+		"desc": "Keratoconus, unstable, right eye"
+	},
+	{
+		"code": "H18629",
+		"desc": "Keratoconus, unstable, unspecified eye"
+	},
+	{
+		"code": "L86",
+		"desc": "Keratoderma in diseases classified elsewhere"
+	},
+	{
+		"code": "H18443",
+		"desc": "Keratomalacia, bilateral"
+	},
+	{
+		"code": "H18442",
+		"desc": "Keratomalacia, left eye"
+	},
+	{
+		"code": "H18441",
+		"desc": "Keratomalacia, right eye"
+	},
+	{
+		"code": "H18449",
+		"desc": "Keratomalacia, unspecified eye"
+	},
+	{
+		"code": "H59013",
+		"desc": "Keratopathy (bullous aphakic) following cataract surgery, bilateral"
+	},
+	{
+		"code": "H59012",
+		"desc": "Keratopathy (bullous aphakic) following cataract surgery, left eye"
+	},
+	{
+		"code": "H59011",
+		"desc": "Keratopathy (bullous aphakic) following cataract surgery, right eye"
+	},
+	{
+		"code": "H59019",
+		"desc": "Keratopathy (bullous aphakic) following cataract surgery, unspecified eye"
+	},
+	{
+		"code": "L870",
+		"desc": "Keratosis follicularis et parafollicularis in cutem penetrans"
+	},
+	{
+		"code": "L852",
+		"desc": "Keratosis punctata (palmaris et plantaris)"
+	},
+	{
+		"code": "A2019",
+		"desc": "Kerecis omega3 marigen shield, per square centimeter"
+	},
+	{
+		"code": "Q4158",
+		"desc": "Kerecis omega3, per square centimeter"
+	},
+	{
+		"code": "P570",
+		"desc": "Kernicterus due to isoimmunization"
+	},
+	{
+		"code": "P579",
+		"desc": "Kernicterus, unspecified"
+	},
+	{
+		"code": "Q4202",
+		"desc": "Keroxx (2.5g/cc), 1cc"
+	},
+	{
+		"code": "Y841",
+		"desc": "Kidney dialysis as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+	},
+	{
+		"code": "Z524",
+		"desc": "Kidney donor"
+	},
+	{
+		"code": "T8612",
+		"desc": "Kidney transplant failure"
+	},
+	{
+		"code": "T8613",
+		"desc": "Kidney transplant infection"
+	},
+	{
+		"code": "T8611",
+		"desc": "Kidney transplant rejection"
+	},
+	{
+		"code": "Z940",
+		"desc": "Kidney transplant status"
+	},
+	{
+		"code": "E1510",
+		"desc": "Kidney, dialysate delivery syst kidney machine, pump recirculating, air removal syst, flowrate meter, power off, heater and temperature control with alarm, i.v. poles, pressure gauge, concentrate container"
+	},
+	{
+		"code": "M931",
+		"desc": "Kienbock's disease of adults"
+	},
+	{
+		"code": "M4822",
+		"desc": "Kissing spine, cervical region"
+	},
+	{
+		"code": "M4823",
+		"desc": "Kissing spine, cervicothoracic region"
+	},
+	{
+		"code": "M4826",
+		"desc": "Kissing spine, lumbar region"
+	},
+	{
+		"code": "M4827",
+		"desc": "Kissing spine, lumbosacral region"
+	},
+	{
+		"code": "M4821",
+		"desc": "Kissing spine, occipito-atlanto-axial region"
+	},
+	{
+		"code": "M4820",
+		"desc": "Kissing spine, site unspecified"
+	},
+	{
+		"code": "M4824",
+		"desc": "Kissing spine, thoracic region"
+	},
+	{
+		"code": "M4825",
+		"desc": "Kissing spine, thoracolumbar region"
+	},
+	{
+		"code": "Y92030",
+		"desc": "Kitchen in apartment as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92040",
+		"desc": "Kitchen in boarding-house as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92110",
+		"desc": "Kitchen in children's home and orphanage as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92020",
+		"desc": "Kitchen in mobile home as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92120",
+		"desc": "Kitchen in nursing home as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92090",
+		"desc": "Kitchen in other non-institutional residence as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92190",
+		"desc": "Kitchen in other specified residential institution as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92140",
+		"desc": "Kitchen in prison as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92150",
+		"desc": "Kitchen in reform school as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92160",
+		"desc": "Kitchen in school dormitory as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92010",
+		"desc": "Kitchen of single-family (private) house as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92000",
+		"desc": "Kitchen of unspecified non-institutional (private) residence as  the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92130",
+		"desc": "Kitchen on military base as the place of occurrence of the external cause"
+	},
+	{
+		"code": "B961",
+		"desc": "Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "F632",
+		"desc": "Kleptomania"
+	},
+	{
+		"code": "Q980",
+		"desc": "Klinefelter syndrome karyotype 47, XXY"
+	},
+	{
+		"code": "Q981",
+		"desc": "Klinefelter syndrome, male with more than two X chromosomes"
+	},
+	{
+		"code": "Q984",
+		"desc": "Klinefelter syndrome, unspecified"
+	},
+	{
+		"code": "Q761",
+		"desc": "Klippel-Feil syndrome"
+	},
+	{
+		"code": "P141",
+		"desc": "Klumpke's paralysis due to birth injury"
+	},
+	{
+		"code": "L2006",
+		"desc": "Knee ankle foot device, any material, single or double upright, swing and stance phase microprocessor control with adjustability, includes all components (e.g., sensors, batteries, charger), any type activation, with or without ankle joint(s), custom fabricated"
+	},
+	{
+		"code": "L2005",
+		"desc": "Knee ankle foot orthosis, any material, single or double upright, stance control, automatic lock and swing phase release, any type activation, includes ankle joint, any type, custom fabricated"
+	},
+	{
+		"code": "L2020",
+		"desc": "Knee ankle foot orthosis, double upright, free ankle, solid stirrup, thigh and calf bands/cuffs (double bar 'ak' orthosis), custom fabricated"
+	},
+	{
+		"code": "L2030",
+		"desc": "Knee ankle foot orthosis, double upright, free ankle, solid stirrup, thigh and calf bands/cuffs, (double bar 'ak' orthosis), without knee joint, custom fabricated"
+	},
+	{
+		"code": "L2128",
+		"desc": "Knee ankle foot orthosis, fracture orthosis, femoral fracture cast orthosis, custom fabricated"
+	},
+	{
+		"code": "L2126",
+		"desc": "Knee ankle foot orthosis, fracture orthosis, femoral fracture cast orthosis, thermoplastic type casting material, custom fabricated"
+	},
+	{
+		"code": "L2036",
+		"desc": "Knee ankle foot orthosis, full plastic, double upright, with or without free motion knee, with or without free motion ankle, custom fabricated"
+	},
+	{
+		"code": "L2034",
+		"desc": "Knee ankle foot orthosis, full plastic, single upright, with or without free motion knee, medial lateral rotation control, with or without free motion ankle, custom fabricated"
+	},
+	{
+		"code": "L2037",
+		"desc": "Knee ankle foot orthosis, full plastic, single upright, with or without free motion knee, with or without free motion ankle, custom fabricated"
+	},
+	{
+		"code": "L2035",
+		"desc": "Knee ankle foot orthosis, full plastic, static (pediatric size), without free motion ankle, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L2038",
+		"desc": "Knee ankle foot orthosis, full plastic, with or without free motion knee, multi-axis ankle, custom fabricated"
+	},
+	{
+		"code": "L2010",
+		"desc": "Knee ankle foot orthosis, single upright, free ankle, solid stirrup, thigh and calf bands/cuffs (single bar 'ak' orthosis), without knee joint, custom fabricated"
+	},
+	{
+		"code": "L2000",
+		"desc": "Knee ankle foot orthosis, single upright, free knee, free ankle, solid stirrup, thigh and calf bands/cuffs (single bar 'ak' orthosis), custom fabricated"
+	},
+	{
+		"code": "L5160",
+		"desc": "Knee disarticulation (or through knee), molded socket, bent knee configuration, external knee joints, shin, sach foot"
+	},
+	{
+		"code": "L5150",
+		"desc": "Knee disarticulation (or through knee), molded socket, external knee joints, shin, sach foot"
+	},
+	{
+		"code": "L5312",
+		"desc": "Knee disarticulation (or through knee), molded socket, single axis knee, pylon, sach foot, endoskeletal system"
+	},
+	{
+		"code": "L1852",
+		"desc": "Knee orthosis (ko), double upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "K0902",
+		"desc": "Knee orthosis (ko), double upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, prefabricated, off-the-shelf\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "L1851",
+		"desc": "Knee orthosis (ko), single upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "K0901",
+		"desc": "Knee orthosis (ko), single upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, prefabricated, off-the-shelf\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "L1832",
+		"desc": "Knee orthosis, adjustable knee joints (unicentric or polycentric), positional orthosis, rigid support, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L1833",
+		"desc": "Knee orthosis, adjustable knee joints (unicentric or polycentric), positional orthosis, rigid support, prefabricated, off-the shelf"
+	},
+	{
+		"code": "L1840",
+		"desc": "Knee orthosis, derotation, medial-lateral, anterior cruciate ligament, custom fabricated"
+	},
+	{
+		"code": "L1847",
+		"desc": "Knee orthosis, double upright with adjustable joint, with inflatable air support chamber(s), prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L1848",
+		"desc": "Knee orthosis, double upright with adjustable joint, with inflatable air support chamber(s), prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L1846",
+		"desc": "Knee orthosis, double upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, custom fabricated"
+	},
+	{
+		"code": "L1845",
+		"desc": "Knee orthosis, double upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L1820",
+		"desc": "Knee orthosis, elastic with condylar pads and joints, with or without patellar control, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L1810",
+		"desc": "Knee orthosis, elastic with joints, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L1812",
+		"desc": "Knee orthosis, elastic with joints, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L1830",
+		"desc": "Knee orthosis, immobilizer, canvas longitudinal, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L1831",
+		"desc": "Knee orthosis, locking knee joint(s), positional orthosis, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L1860",
+		"desc": "Knee orthosis, modification of supracondylar prosthetic socket, custom fabricated (sk)"
+	},
+	{
+		"code": "L1836",
+		"desc": "Knee orthosis, rigid, without joint(s), includes soft interface material, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L1844",
+		"desc": "Knee orthosis, single upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, custom fabricated"
+	},
+	{
+		"code": "L1843",
+		"desc": "Knee orthosis, single upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L1850",
+		"desc": "Knee orthosis, swedish type, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L1834",
+		"desc": "Knee orthosis, without knee joint, rigid, custom fabricated"
+	},
+	{
+		"code": "M721",
+		"desc": "Knuckle pads"
+	},
+	{
+		"code": "E7523",
+		"desc": "Krabbe disease"
+	},
+	{
+		"code": "A8181",
+		"desc": "Kuru"
+	},
+	{
+		"code": "E40",
+		"desc": "Kwashiorkor"
+	},
+	{
+		"code": "A982",
+		"desc": "Kyasanur Forest disease"
+	},
+	{
+		"code": "I271",
+		"desc": "Kyphoscoliotic heart disease"
+	}
+]

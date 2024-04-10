@@ -1,0 +1,750 @@
+[
+    {
+		"code": "A830",
+		"desc": "Japanese encephalitis"
+	},
+	{
+		"code": "E1700",
+		"desc": "Jaw motion rehabilitation system"
+	},
+	{
+		"code": "R6884",
+		"desc": "Jaw pain"
+	},
+	{
+		"code": "M249",
+		"desc": "Joint derangement, unspecified"
+	},
+	{
+		"code": "C1776",
+		"desc": "Joint device (implantable)"
+	},
+	{
+		"code": "M259",
+		"desc": "Joint disorder, unspecified"
+	},
+	{
+		"code": "X025XXA",
+		"desc": "Jump from burning building or structure in controlled fire, initial encounter"
+	},
+	{
+		"code": "X025XXS",
+		"desc": "Jump from burning building or structure in controlled fire, sequela"
+	},
+	{
+		"code": "X025XXD",
+		"desc": "Jump from burning building or structure in controlled fire, subsequent encounter"
+	},
+	{
+		"code": "X005XXA",
+		"desc": "Jump from burning building or structure in uncontrolled fire, initial encounter"
+	},
+	{
+		"code": "X005XXS",
+		"desc": "Jump from burning building or structure in uncontrolled fire, sequela"
+	},
+	{
+		"code": "X005XXD",
+		"desc": "Jump from burning building or structure in uncontrolled fire, subsequent encounter"
+	},
+	{
+		"code": "W16721A",
+		"desc": "Jumping or diving from boat striking bottom causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16721S",
+		"desc": "Jumping or diving from boat striking bottom causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16721D",
+		"desc": "Jumping or diving from boat striking bottom causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16722A",
+		"desc": "Jumping or diving from boat striking bottom causing other injury, initial encounter"
+	},
+	{
+		"code": "W16722S",
+		"desc": "Jumping or diving from boat striking bottom causing other injury, sequela"
+	},
+	{
+		"code": "W16722D",
+		"desc": "Jumping or diving from boat striking bottom causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16711A",
+		"desc": "Jumping or diving from boat striking water surface causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16711S",
+		"desc": "Jumping or diving from boat striking water surface causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16711D",
+		"desc": "Jumping or diving from boat striking water surface causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16712A",
+		"desc": "Jumping or diving from boat striking water surface causing other injury, initial encounter"
+	},
+	{
+		"code": "W16712S",
+		"desc": "Jumping or diving from boat striking water surface causing other injury, sequela"
+	},
+	{
+		"code": "W16712D",
+		"desc": "Jumping or diving from boat striking water surface causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16621A",
+		"desc": "Jumping or diving into natural body of water striking bottom causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16621S",
+		"desc": "Jumping or diving into natural body of water striking bottom causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16621D",
+		"desc": "Jumping or diving into natural body of water striking bottom causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16622A",
+		"desc": "Jumping or diving into natural body of water striking bottom causing other injury, initial encounter"
+	},
+	{
+		"code": "W16622S",
+		"desc": "Jumping or diving into natural body of water striking bottom causing other injury, sequela"
+	},
+	{
+		"code": "W16622D",
+		"desc": "Jumping or diving into natural body of water striking bottom causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16611A",
+		"desc": "Jumping or diving into natural body of water striking water surface causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16611S",
+		"desc": "Jumping or diving into natural body of water striking water surface causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16611D",
+		"desc": "Jumping or diving into natural body of water striking water surface causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16612A",
+		"desc": "Jumping or diving into natural body of water striking water surface causing other injury, initial encounter"
+	},
+	{
+		"code": "W16612S",
+		"desc": "Jumping or diving into natural body of water striking water surface causing other injury, sequela"
+	},
+	{
+		"code": "W16612D",
+		"desc": "Jumping or diving into natural body of water striking water surface causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16821A",
+		"desc": "Jumping or diving into other water striking bottom causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16821S",
+		"desc": "Jumping or diving into other water striking bottom causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16821D",
+		"desc": "Jumping or diving into other water striking bottom causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16822A",
+		"desc": "Jumping or diving into other water striking bottom causing other injury, initial encounter"
+	},
+	{
+		"code": "W16822S",
+		"desc": "Jumping or diving into other water striking bottom causing other injury, sequela"
+	},
+	{
+		"code": "W16822D",
+		"desc": "Jumping or diving into other water striking bottom causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16831A",
+		"desc": "Jumping or diving into other water striking wall causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16831S",
+		"desc": "Jumping or diving into other water striking wall causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16831D",
+		"desc": "Jumping or diving into other water striking wall causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16832A",
+		"desc": "Jumping or diving into other water striking wall causing other injury, initial encounter"
+	},
+	{
+		"code": "W16832S",
+		"desc": "Jumping or diving into other water striking wall causing other injury, sequela"
+	},
+	{
+		"code": "W16832D",
+		"desc": "Jumping or diving into other water striking wall causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16811A",
+		"desc": "Jumping or diving into other water striking water surface causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16811S",
+		"desc": "Jumping or diving into other water striking water surface causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16811D",
+		"desc": "Jumping or diving into other water striking water surface causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16812A",
+		"desc": "Jumping or diving into other water striking water surface causing other injury, initial encounter"
+	},
+	{
+		"code": "W16812S",
+		"desc": "Jumping or diving into other water striking water surface causing other injury, sequela"
+	},
+	{
+		"code": "W16812D",
+		"desc": "Jumping or diving into other water striking water surface causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16521A",
+		"desc": "Jumping or diving into swimming pool striking bottom causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16521S",
+		"desc": "Jumping or diving into swimming pool striking bottom causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16521D",
+		"desc": "Jumping or diving into swimming pool striking bottom causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16522A",
+		"desc": "Jumping or diving into swimming pool striking bottom causing other injury, initial encounter"
+	},
+	{
+		"code": "W16522S",
+		"desc": "Jumping or diving into swimming pool striking bottom causing other injury, sequela"
+	},
+	{
+		"code": "W16522D",
+		"desc": "Jumping or diving into swimming pool striking bottom causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16531A",
+		"desc": "Jumping or diving into swimming pool striking wall causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16531S",
+		"desc": "Jumping or diving into swimming pool striking wall causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16531D",
+		"desc": "Jumping or diving into swimming pool striking wall causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16532A",
+		"desc": "Jumping or diving into swimming pool striking wall causing other injury, initial encounter"
+	},
+	{
+		"code": "W16532S",
+		"desc": "Jumping or diving into swimming pool striking wall causing other injury, sequela"
+	},
+	{
+		"code": "W16532D",
+		"desc": "Jumping or diving into swimming pool striking wall causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W16511A",
+		"desc": "Jumping or diving into swimming pool striking water surface causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W16511S",
+		"desc": "Jumping or diving into swimming pool striking water surface causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W16511D",
+		"desc": "Jumping or diving into swimming pool striking water surface causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W16512A",
+		"desc": "Jumping or diving into swimming pool striking water surface causing other injury, initial encounter"
+	},
+	{
+		"code": "W16512S",
+		"desc": "Jumping or diving into swimming pool striking water surface causing other injury, sequela"
+	},
+	{
+		"code": "W16512D",
+		"desc": "Jumping or diving into swimming pool striking water surface causing other injury, subsequent encounter"
+	},
+	{
+		"code": "W1691XA",
+		"desc": "Jumping or diving into unspecified water causing drowning and submersion, initial encounter"
+	},
+	{
+		"code": "W1691XS",
+		"desc": "Jumping or diving into unspecified water causing drowning and submersion, sequela"
+	},
+	{
+		"code": "W1691XD",
+		"desc": "Jumping or diving into unspecified water causing drowning and submersion, subsequent encounter"
+	},
+	{
+		"code": "W1692XA",
+		"desc": "Jumping or diving into unspecified water causing other injury, initial encounter"
+	},
+	{
+		"code": "W1692XS",
+		"desc": "Jumping or diving into unspecified water causing other injury, sequela"
+	},
+	{
+		"code": "W1692XD",
+		"desc": "Jumping or diving into unspecified water causing other injury, subsequent encounter"
+	},
+	{
+		"code": "I492",
+		"desc": "Junctional premature depolarization"
+	},
+	{
+		"code": "A960",
+		"desc": "Junin hemorrhagic fever"
+	},
+	{
+		"code": "M081",
+		"desc": "Juvenile ankylosing spondylitis"
+	},
+	{
+		"code": "M08972",
+		"desc": "Juvenile arthritis, unspecified, left ankle and foot"
+	},
+	{
+		"code": "M08922",
+		"desc": "Juvenile arthritis, unspecified, left elbow"
+	},
+	{
+		"code": "M08942",
+		"desc": "Juvenile arthritis, unspecified, left hand"
+	},
+	{
+		"code": "M08952",
+		"desc": "Juvenile arthritis, unspecified, left hip"
+	},
+	{
+		"code": "M08962",
+		"desc": "Juvenile arthritis, unspecified, left knee"
+	},
+	{
+		"code": "M08912",
+		"desc": "Juvenile arthritis, unspecified, left shoulder"
+	},
+	{
+		"code": "M08932",
+		"desc": "Juvenile arthritis, unspecified, left wrist"
+	},
+	{
+		"code": "M0899",
+		"desc": "Juvenile arthritis, unspecified, multiple sites"
+	},
+	{
+		"code": "M08971",
+		"desc": "Juvenile arthritis, unspecified, right ankle and foot"
+	},
+	{
+		"code": "M08921",
+		"desc": "Juvenile arthritis, unspecified, right elbow"
+	},
+	{
+		"code": "M08941",
+		"desc": "Juvenile arthritis, unspecified, right hand"
+	},
+	{
+		"code": "M08951",
+		"desc": "Juvenile arthritis, unspecified, right hip"
+	},
+	{
+		"code": "M08961",
+		"desc": "Juvenile arthritis, unspecified, right knee"
+	},
+	{
+		"code": "M08911",
+		"desc": "Juvenile arthritis, unspecified, right shoulder"
+	},
+	{
+		"code": "M08931",
+		"desc": "Juvenile arthritis, unspecified, right wrist"
+	},
+	{
+		"code": "M08979",
+		"desc": "Juvenile arthritis, unspecified, unspecified ankle and foot"
+	},
+	{
+		"code": "M08929",
+		"desc": "Juvenile arthritis, unspecified, unspecified elbow"
+	},
+	{
+		"code": "M08949",
+		"desc": "Juvenile arthritis, unspecified, unspecified hand"
+	},
+	{
+		"code": "M08959",
+		"desc": "Juvenile arthritis, unspecified, unspecified hip"
+	},
+	{
+		"code": "M08969",
+		"desc": "Juvenile arthritis, unspecified, unspecified knee"
+	},
+	{
+		"code": "M08919",
+		"desc": "Juvenile arthritis, unspecified, unspecified shoulder"
+	},
+	{
+		"code": "M0890",
+		"desc": "Juvenile arthritis, unspecified, unspecified site"
+	},
+	{
+		"code": "M08939",
+		"desc": "Juvenile arthritis, unspecified, unspecified wrist"
+	},
+	{
+		"code": "M0898",
+		"desc": "Juvenile arthritis, unspecified, vertebrae"
+	},
+	{
+		"code": "M3302",
+		"desc": "Juvenile dermatomyositis with myopathy"
+	},
+	{
+		"code": "M3309",
+		"desc": "Juvenile dermatomyositis with other organ involvement"
+	},
+	{
+		"code": "M3301",
+		"desc": "Juvenile dermatomyositis with respiratory involvement"
+	},
+	{
+		"code": "M3303",
+		"desc": "Juvenile dermatomyositis without myopathy"
+	},
+	{
+		"code": "M3300",
+		"desc": "Juvenile dermatomyositis, organ involvement unspecified"
+	},
+	{
+		"code": "A5045",
+		"desc": "Juvenile general paresis"
+	},
+	{
+		"code": "M41112",
+		"desc": "Juvenile idiopathic scoliosis, cervical region"
+	},
+	{
+		"code": "M41113",
+		"desc": "Juvenile idiopathic scoliosis, cervicothoracic region"
+	},
+	{
+		"code": "M41116",
+		"desc": "Juvenile idiopathic scoliosis, lumbar region"
+	},
+	{
+		"code": "M41117",
+		"desc": "Juvenile idiopathic scoliosis, lumbosacral region"
+	},
+	{
+		"code": "M41119",
+		"desc": "Juvenile idiopathic scoliosis, site unspecified"
+	},
+	{
+		"code": "M41114",
+		"desc": "Juvenile idiopathic scoliosis, thoracic region"
+	},
+	{
+		"code": "M41115",
+		"desc": "Juvenile idiopathic scoliosis, thoracolumbar region"
+	},
+	{
+		"code": "C9332",
+		"desc": "Juvenile myelomonocytic leukemia, in relapse"
+	},
+	{
+		"code": "C9331",
+		"desc": "Juvenile myelomonocytic leukemia, in remission"
+	},
+	{
+		"code": "C9330",
+		"desc": "Juvenile myelomonocytic leukemia, not having achieved remission"
+	},
+	{
+		"code": "G40B11",
+		"desc": "Juvenile myoclonic epilepsy, intractable, with status epilepticus"
+	},
+	{
+		"code": "G40B19",
+		"desc": "Juvenile myoclonic epilepsy, intractable, without status epilepticus"
+	},
+	{
+		"code": "G40B01",
+		"desc": "Juvenile myoclonic epilepsy, not intractable, with status epilepticus"
+	},
+	{
+		"code": "G40B09",
+		"desc": "Juvenile myoclonic epilepsy, not intractable, without status epilepticus"
+	},
+	{
+		"code": "M9112",
+		"desc": "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], left leg"
+	},
+	{
+		"code": "M9111",
+		"desc": "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], right leg"
+	},
+	{
+		"code": "M9110",
+		"desc": "Juvenile osteochondrosis of head of femur [Legg-Calve-Perthes], unspecified leg"
+	},
+	{
+		"code": "M9192",
+		"desc": "Juvenile osteochondrosis of hip and pelvis, unspecified, left leg"
+	},
+	{
+		"code": "M9191",
+		"desc": "Juvenile osteochondrosis of hip and pelvis, unspecified, right leg"
+	},
+	{
+		"code": "M9190",
+		"desc": "Juvenile osteochondrosis of hip and pelvis, unspecified, unspecified leg"
+	},
+	{
+		"code": "M9202",
+		"desc": "Juvenile osteochondrosis of humerus, left arm"
+	},
+	{
+		"code": "M9201",
+		"desc": "Juvenile osteochondrosis of humerus, right arm"
+	},
+	{
+		"code": "M9200",
+		"desc": "Juvenile osteochondrosis of humerus, unspecified arm"
+	},
+	{
+		"code": "M9272",
+		"desc": "Juvenile osteochondrosis of metatarsus, left foot"
+	},
+	{
+		"code": "M9271",
+		"desc": "Juvenile osteochondrosis of metatarsus, right foot"
+	},
+	{
+		"code": "M9270",
+		"desc": "Juvenile osteochondrosis of metatarsus, unspecified foot"
+	},
+	{
+		"code": "M9242",
+		"desc": "Juvenile osteochondrosis of patella, left knee"
+	},
+	{
+		"code": "M9241",
+		"desc": "Juvenile osteochondrosis of patella, right knee"
+	},
+	{
+		"code": "M9240",
+		"desc": "Juvenile osteochondrosis of patella, unspecified knee"
+	},
+	{
+		"code": "M910",
+		"desc": "Juvenile osteochondrosis of pelvis"
+	},
+	{
+		"code": "M9212",
+		"desc": "Juvenile osteochondrosis of radius and ulna, left arm"
+	},
+	{
+		"code": "M9211",
+		"desc": "Juvenile osteochondrosis of radius and ulna, right arm"
+	},
+	{
+		"code": "M9210",
+		"desc": "Juvenile osteochondrosis of radius and ulna, unspecified arm"
+	},
+	{
+		"code": "M4202",
+		"desc": "Juvenile osteochondrosis of spine, cervical region"
+	},
+	{
+		"code": "M4203",
+		"desc": "Juvenile osteochondrosis of spine, cervicothoracic region"
+	},
+	{
+		"code": "M4206",
+		"desc": "Juvenile osteochondrosis of spine, lumbar region"
+	},
+	{
+		"code": "M4207",
+		"desc": "Juvenile osteochondrosis of spine, lumbosacral region"
+	},
+	{
+		"code": "M4209",
+		"desc": "Juvenile osteochondrosis of spine, multiple sites in spine"
+	},
+	{
+		"code": "M4201",
+		"desc": "Juvenile osteochondrosis of spine, occipito-atlanto-axial region"
+	},
+	{
+		"code": "M4208",
+		"desc": "Juvenile osteochondrosis of spine, sacral and sacrococcygeal region"
+	},
+	{
+		"code": "M4200",
+		"desc": "Juvenile osteochondrosis of spine, site unspecified"
+	},
+	{
+		"code": "M4204",
+		"desc": "Juvenile osteochondrosis of spine, thoracic region"
+	},
+	{
+		"code": "M4205",
+		"desc": "Juvenile osteochondrosis of spine, thoracolumbar region"
+	},
+	{
+		"code": "M9262",
+		"desc": "Juvenile osteochondrosis of tarsus, left ankle"
+	},
+	{
+		"code": "M9261",
+		"desc": "Juvenile osteochondrosis of tarsus, right ankle"
+	},
+	{
+		"code": "M9260",
+		"desc": "Juvenile osteochondrosis of tarsus, unspecified ankle"
+	},
+	{
+		"code": "M9252",
+		"desc": "Juvenile osteochondrosis of tibia and fibula, left leg"
+	},
+	{
+		"code": "M9251",
+		"desc": "Juvenile osteochondrosis of tibia and fibula, right leg"
+	},
+	{
+		"code": "M9250",
+		"desc": "Juvenile osteochondrosis of tibia and fibula, unspecified leg"
+	},
+	{
+		"code": "M929",
+		"desc": "Juvenile osteochondrosis, unspecified"
+	},
+	{
+		"code": "M302",
+		"desc": "Juvenile polyarteritis"
+	},
+	{
+		"code": "M08272",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, left ankle and foot"
+	},
+	{
+		"code": "M08222",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, left elbow"
+	},
+	{
+		"code": "M08242",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, left hand"
+	},
+	{
+		"code": "M08252",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, left hip"
+	},
+	{
+		"code": "M08262",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, left knee"
+	},
+	{
+		"code": "M08212",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, left shoulder"
+	},
+	{
+		"code": "M08232",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, left wrist"
+	},
+	{
+		"code": "M0829",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, multiple sites"
+	},
+	{
+		"code": "M08271",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, right ankle and foot"
+	},
+	{
+		"code": "M08221",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, right elbow"
+	},
+	{
+		"code": "M08241",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, right hand"
+	},
+	{
+		"code": "M08251",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, right hip"
+	},
+	{
+		"code": "M08261",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, right knee"
+	},
+	{
+		"code": "M08211",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, right shoulder"
+	},
+	{
+		"code": "M08231",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, right wrist"
+	},
+	{
+		"code": "M08279",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, unspecified ankle and foot"
+	},
+	{
+		"code": "M08229",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, unspecified elbow"
+	},
+	{
+		"code": "M08249",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, unspecified hand"
+	},
+	{
+		"code": "M08259",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, unspecified hip"
+	},
+	{
+		"code": "M08269",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, unspecified knee"
+	},
+	{
+		"code": "M08219",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, unspecified shoulder"
+	},
+	{
+		"code": "M0820",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, unspecified site"
+	},
+	{
+		"code": "M08239",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, unspecified wrist"
+	},
+	{
+		"code": "M0828",
+		"desc": "Juvenile rheumatoid arthritis with systemic onset, vertebrae"
+	},
+	{
+		"code": "M083",
+		"desc": "Juvenile rheumatoid polyarthritis (seronegative)"
+	}
+]

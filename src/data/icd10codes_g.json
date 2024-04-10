@@ -1,0 +1,3038 @@
+[
+    {
+		"code": "E7500",
+		"desc": "GM2 gangliosidosis, unspecified"
+	},
+	{
+		"code": "E8002",
+		"desc": "Gait trainer, pediatric size, anterior support, includes all accessories and components"
+	},
+	{
+		"code": "E8000",
+		"desc": "Gait trainer, pediatric size, posterior support, includes all accessories and components"
+	},
+	{
+		"code": "E8001",
+		"desc": "Gait trainer, pediatric size, upright support, includes all accessories and components"
+	},
+	{
+		"code": "O926",
+		"desc": "Galactorrhea"
+	},
+	{
+		"code": "N643",
+		"desc": "Galactorrhea not associated with childbirth"
+	},
+	{
+		"code": "E7421",
+		"desc": "Galactosemia"
+	},
+	{
+		"code": "S52372A",
+		"desc": "Galeazzi's fracture of left radius, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52372B",
+		"desc": "Galeazzi's fracture of left radius, initial encounter for open fracture type I or II"
+	},
+	{
+		"code": "S52372C",
+		"desc": "Galeazzi's fracture of left radius, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+	},
+	{
+		"code": "S52372S",
+		"desc": "Galeazzi's fracture of left radius, sequela"
+	},
+	{
+		"code": "S52372G",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for closed fracture with delayed healing"
+	},
+	{
+		"code": "S52372P",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for closed fracture with malunion"
+	},
+	{
+		"code": "S52372K",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for closed fracture with nonunion"
+	},
+	{
+		"code": "S52372D",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for closed fracture with routine healing"
+	},
+	{
+		"code": "S52372H",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for open fracture type I or II with delayed healing"
+	},
+	{
+		"code": "S52372Q",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for open fracture type I or II with malunion"
+	},
+	{
+		"code": "S52372M",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for open fracture type I or II with nonunion"
+	},
+	{
+		"code": "S52372E",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for open fracture type I or II with routine healing"
+	},
+	{
+		"code": "S52372J",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+	},
+	{
+		"code": "S52372R",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+	},
+	{
+		"code": "S52372N",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+	},
+	{
+		"code": "S52372F",
+		"desc": "Galeazzi's fracture of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+	},
+	{
+		"code": "S52371A",
+		"desc": "Galeazzi's fracture of right radius, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52371B",
+		"desc": "Galeazzi's fracture of right radius, initial encounter for open fracture type I or II"
+	},
+	{
+		"code": "S52371C",
+		"desc": "Galeazzi's fracture of right radius, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+	},
+	{
+		"code": "S52371S",
+		"desc": "Galeazzi's fracture of right radius, sequela"
+	},
+	{
+		"code": "S52371G",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for closed fracture with delayed healing"
+	},
+	{
+		"code": "S52371P",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for closed fracture with malunion"
+	},
+	{
+		"code": "S52371K",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for closed fracture with nonunion"
+	},
+	{
+		"code": "S52371D",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for closed fracture with routine healing"
+	},
+	{
+		"code": "S52371H",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for open fracture type I or II with delayed healing"
+	},
+	{
+		"code": "S52371Q",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for open fracture type I or II with malunion"
+	},
+	{
+		"code": "S52371M",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for open fracture type I or II with nonunion"
+	},
+	{
+		"code": "S52371E",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for open fracture type I or II with routine healing"
+	},
+	{
+		"code": "S52371J",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+	},
+	{
+		"code": "S52371R",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+	},
+	{
+		"code": "S52371N",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+	},
+	{
+		"code": "S52371F",
+		"desc": "Galeazzi's fracture of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+	},
+	{
+		"code": "S52379A",
+		"desc": "Galeazzi's fracture of unspecified radius, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52379B",
+		"desc": "Galeazzi's fracture of unspecified radius, initial encounter for open fracture type I or II"
+	},
+	{
+		"code": "S52379C",
+		"desc": "Galeazzi's fracture of unspecified radius, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+	},
+	{
+		"code": "S52379S",
+		"desc": "Galeazzi's fracture of unspecified radius, sequela"
+	},
+	{
+		"code": "S52379G",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for closed fracture with delayed healing"
+	},
+	{
+		"code": "S52379P",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for closed fracture with malunion"
+	},
+	{
+		"code": "S52379K",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for closed fracture with nonunion"
+	},
+	{
+		"code": "S52379D",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for closed fracture with routine healing"
+	},
+	{
+		"code": "S52379H",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type I or II with delayed healing"
+	},
+	{
+		"code": "S52379Q",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type I or II with malunion"
+	},
+	{
+		"code": "S52379M",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type I or II with nonunion"
+	},
+	{
+		"code": "S52379E",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type I or II with routine healing"
+	},
+	{
+		"code": "S52379J",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+	},
+	{
+		"code": "S52379R",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+	},
+	{
+		"code": "S52379N",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+	},
+	{
+		"code": "S52379F",
+		"desc": "Galeazzi's fracture of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+	},
+	{
+		"code": "A9556",
+		"desc": "Gallium ga-67 citrate, diagnostic, per millicurie"
+	},
+	{
+		"code": "A9596",
+		"desc": "Gallium ga-68 gozetotide, diagnostic, (illuccix), 1 millicurie"
+	},
+	{
+		"code": "A9800",
+		"desc": "Gallium ga-68 gozetotide, diagnostic, (locametz), 1 millicurie"
+	},
+	{
+		"code": "A9594",
+		"desc": "Gallium ga-68 psma-11, diagnostic, (ucla), 1 millicurie"
+	},
+	{
+		"code": "A9593",
+		"desc": "Gallium ga-68 psma-11, diagnostic, (ucsf), 1 millicurie"
+	},
+	{
+		"code": "A9587",
+		"desc": "Gallium ga-68, dotatate, diagnostic, 0.1 millicurie"
+	},
+	{
+		"code": "C9067",
+		"desc": "Gallium ga-68, dotatoc, diagnostic, 0.01 mci"
+	},
+	{
+		"code": "K563",
+		"desc": "Gallstone ileus"
+	},
+	{
+		"code": "B560",
+		"desc": "Gambiense trypanosomiasis"
+	},
+	{
+		"code": "Z726",
+		"desc": "Gambling and betting"
+	},
+	{
+		"code": "Q4111",
+		"desc": "Gammagraft, per square centimeter"
+	},
+	{
+		"code": "B2702",
+		"desc": "Gammaherpesviral mononucleosis with meningitis"
+	},
+	{
+		"code": "B2709",
+		"desc": "Gammaherpesviral mononucleosis with other complications"
+	},
+	{
+		"code": "B2701",
+		"desc": "Gammaherpesviral mononucleosis with polyneuropathy"
+	},
+	{
+		"code": "B2700",
+		"desc": "Gammaherpesviral mononucleosis without complication"
+	},
+	{
+		"code": "J7310",
+		"desc": "Ganciclovir, 4.5 mg, long-acting implant"
+	},
+	{
+		"code": "M67472",
+		"desc": "Ganglion, left ankle and foot"
+	},
+	{
+		"code": "M67422",
+		"desc": "Ganglion, left elbow"
+	},
+	{
+		"code": "M67442",
+		"desc": "Ganglion, left hand"
+	},
+	{
+		"code": "M67452",
+		"desc": "Ganglion, left hip"
+	},
+	{
+		"code": "M67462",
+		"desc": "Ganglion, left knee"
+	},
+	{
+		"code": "M67412",
+		"desc": "Ganglion, left shoulder"
+	},
+	{
+		"code": "M67432",
+		"desc": "Ganglion, left wrist"
+	},
+	{
+		"code": "M6749",
+		"desc": "Ganglion, multiple sites"
+	},
+	{
+		"code": "M6748",
+		"desc": "Ganglion, other site"
+	},
+	{
+		"code": "M67471",
+		"desc": "Ganglion, right ankle and foot"
+	},
+	{
+		"code": "M67421",
+		"desc": "Ganglion, right elbow"
+	},
+	{
+		"code": "M67441",
+		"desc": "Ganglion, right hand"
+	},
+	{
+		"code": "M67451",
+		"desc": "Ganglion, right hip"
+	},
+	{
+		"code": "M67461",
+		"desc": "Ganglion, right knee"
+	},
+	{
+		"code": "M67411",
+		"desc": "Ganglion, right shoulder"
+	},
+	{
+		"code": "M67431",
+		"desc": "Ganglion, right wrist"
+	},
+	{
+		"code": "M67479",
+		"desc": "Ganglion, unspecified ankle and foot"
+	},
+	{
+		"code": "M67429",
+		"desc": "Ganglion, unspecified elbow"
+	},
+	{
+		"code": "M67449",
+		"desc": "Ganglion, unspecified hand"
+	},
+	{
+		"code": "M67459",
+		"desc": "Ganglion, unspecified hip"
+	},
+	{
+		"code": "M67469",
+		"desc": "Ganglion, unspecified knee"
+	},
+	{
+		"code": "M67419",
+		"desc": "Ganglion, unspecified shoulder"
+	},
+	{
+		"code": "M6740",
+		"desc": "Ganglion, unspecified site"
+	},
+	{
+		"code": "M67439",
+		"desc": "Ganglion, unspecified wrist"
+	},
+	{
+		"code": "A665",
+		"desc": "Gangosa"
+	},
+	{
+		"code": "J850",
+		"desc": "Gangrene and necrosis of lung"
+	},
+	{
+		"code": "I96",
+		"desc": "Gangrene, not elsewhere classified"
+	},
+	{
+		"code": "Y92044",
+		"desc": "Garage of boarding-house as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92114",
+		"desc": "Garage of children's home and orphanage as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92025",
+		"desc": "Garage of mobile home as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92124",
+		"desc": "Garage of nursing home as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92094",
+		"desc": "Garage of other non-institutional residence as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92195",
+		"desc": "Garage of other specified residential institution as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92155",
+		"desc": "Garage of reform school as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92135",
+		"desc": "Garage on military base as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92017",
+		"desc": "Garden or yard in single-family (private) house as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92046",
+		"desc": "Garden or yard of boarding-house as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92116",
+		"desc": "Garden or yard of children's home and orphanage as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92027",
+		"desc": "Garden or yard of mobile home as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92126",
+		"desc": "Garden or yard of nursing home as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92096",
+		"desc": "Garden or yard of other non-institutional residence as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92197",
+		"desc": "Garden or yard of other specified residential institution as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92157",
+		"desc": "Garden or yard of reform school as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92007",
+		"desc": "Garden or yard of unspecified non-institutional (private) residence as the place of occurrence of the external cause"
+	},
+	{
+		"code": "Y92137",
+		"desc": "Garden or yard on military base as the place of occurrence of the external cause"
+	},
+	{
+		"code": "A4466",
+		"desc": "Garment, belt, sleeve or other covering, elastic or similar stretchable material, any type, each Terminated December 31, 2016."
+	},
+	{
+		"code": "A480",
+		"desc": "Gas gangrene"
+	},
+	{
+		"code": "R141",
+		"desc": "Gas pain"
+	},
+	{
+		"code": "Y92524",
+		"desc": "Gas station as the place of occurrence of the external cause"
+	},
+	{
+		"code": "L7700",
+		"desc": "Gasket or seal, for use with prosthetic socket insert, any type, each"
+	},
+	{
+		"code": "T17510A",
+		"desc": "Gastric contents in bronchus causing asphyxiation, initial encounter"
+	},
+	{
+		"code": "T17510S",
+		"desc": "Gastric contents in bronchus causing asphyxiation, sequela"
+	},
+	{
+		"code": "T17510D",
+		"desc": "Gastric contents in bronchus causing asphyxiation, subsequent encounter"
+	},
+	{
+		"code": "T17518A",
+		"desc": "Gastric contents in bronchus causing other injury, initial encounter"
+	},
+	{
+		"code": "T17518S",
+		"desc": "Gastric contents in bronchus causing other injury, sequela"
+	},
+	{
+		"code": "T17518D",
+		"desc": "Gastric contents in bronchus causing other injury, subsequent encounter"
+	},
+	{
+		"code": "T18110A",
+		"desc": "Gastric contents in esophagus causing compression of trachea, initial encounter"
+	},
+	{
+		"code": "T18110S",
+		"desc": "Gastric contents in esophagus causing compression of trachea, sequela"
+	},
+	{
+		"code": "T18110D",
+		"desc": "Gastric contents in esophagus causing compression of trachea, subsequent encounter"
+	},
+	{
+		"code": "T18118A",
+		"desc": "Gastric contents in esophagus causing other injury, initial encounter"
+	},
+	{
+		"code": "T18118S",
+		"desc": "Gastric contents in esophagus causing other injury, sequela"
+	},
+	{
+		"code": "T18118D",
+		"desc": "Gastric contents in esophagus causing other injury, subsequent encounter"
+	},
+	{
+		"code": "T17310A",
+		"desc": "Gastric contents in larynx causing asphyxiation, initial encounter"
+	},
+	{
+		"code": "T17310S",
+		"desc": "Gastric contents in larynx causing asphyxiation, sequela"
+	},
+	{
+		"code": "T17310D",
+		"desc": "Gastric contents in larynx causing asphyxiation, subsequent encounter"
+	},
+	{
+		"code": "T17318A",
+		"desc": "Gastric contents in larynx causing other injury, initial encounter"
+	},
+	{
+		"code": "T17318S",
+		"desc": "Gastric contents in larynx causing other injury, sequela"
+	},
+	{
+		"code": "T17318D",
+		"desc": "Gastric contents in larynx causing other injury, subsequent encounter"
+	},
+	{
+		"code": "T17810A",
+		"desc": "Gastric contents in other parts of respiratory tract causing asphyxiation, initial encounter"
+	},
+	{
+		"code": "T17810S",
+		"desc": "Gastric contents in other parts of respiratory tract causing asphyxiation, sequela"
+	},
+	{
+		"code": "T17810D",
+		"desc": "Gastric contents in other parts of respiratory tract causing asphyxiation, subsequent encounter"
+	},
+	{
+		"code": "T17818A",
+		"desc": "Gastric contents in other parts of respiratory tract causing other injury, initial encounter"
+	},
+	{
+		"code": "T17818S",
+		"desc": "Gastric contents in other parts of respiratory tract causing other injury, sequela"
+	},
+	{
+		"code": "T17818D",
+		"desc": "Gastric contents in other parts of respiratory tract causing other injury, subsequent encounter"
+	},
+	{
+		"code": "T17210A",
+		"desc": "Gastric contents in pharynx causing asphyxiation, initial encounter"
+	},
+	{
+		"code": "T17210S",
+		"desc": "Gastric contents in pharynx causing asphyxiation, sequela"
+	},
+	{
+		"code": "T17210D",
+		"desc": "Gastric contents in pharynx causing asphyxiation, subsequent encounter"
+	},
+	{
+		"code": "T17218A",
+		"desc": "Gastric contents in pharynx causing other injury, initial encounter"
+	},
+	{
+		"code": "T17218S",
+		"desc": "Gastric contents in pharynx causing other injury, sequela"
+	},
+	{
+		"code": "T17218D",
+		"desc": "Gastric contents in pharynx causing other injury, subsequent encounter"
+	},
+	{
+		"code": "T17910A",
+		"desc": "Gastric contents in respiratory tract, part unspecified causing asphyxiation, initial encounter"
+	},
+	{
+		"code": "T17910S",
+		"desc": "Gastric contents in respiratory tract, part unspecified causing asphyxiation, sequela"
+	},
+	{
+		"code": "T17910D",
+		"desc": "Gastric contents in respiratory tract, part unspecified causing asphyxiation, subsequent encounter"
+	},
+	{
+		"code": "T17918A",
+		"desc": "Gastric contents in respiratory tract, part unspecified causing other injury, initial encounter"
+	},
+	{
+		"code": "T17918S",
+		"desc": "Gastric contents in respiratory tract, part unspecified causing other injury, sequela"
+	},
+	{
+		"code": "T17918D",
+		"desc": "Gastric contents in respiratory tract, part unspecified causing other injury, subsequent encounter"
+	},
+	{
+		"code": "T17410A",
+		"desc": "Gastric contents in trachea causing asphyxiation, initial encounter"
+	},
+	{
+		"code": "T17410S",
+		"desc": "Gastric contents in trachea causing asphyxiation, sequela"
+	},
+	{
+		"code": "T17410D",
+		"desc": "Gastric contents in trachea causing asphyxiation, subsequent encounter"
+	},
+	{
+		"code": "T17418A",
+		"desc": "Gastric contents in trachea causing other injury, initial encounter"
+	},
+	{
+		"code": "T17418S",
+		"desc": "Gastric contents in trachea causing other injury, sequela"
+	},
+	{
+		"code": "T17418D",
+		"desc": "Gastric contents in trachea causing other injury, subsequent encounter"
+	},
+	{
+		"code": "K314",
+		"desc": "Gastric diverticulum"
+	},
+	{
+		"code": "C9787",
+		"desc": "Gastric electrophysiology mapping with simultaneous patient symptom profiling"
+	},
+	{
+		"code": "C9784",
+		"desc": "Gastric restrictive procedure, endoscopic sleeve gastroplasty, with esophagogastroduodenoscopy and intraluminal tube insertion, if performed, including all system and tissue anchoring components"
+	},
+	{
+		"code": "E2000",
+		"desc": "Gastric suction pump, home model, portable or stationary, electric"
+	},
+	{
+		"code": "K259",
+		"desc": "Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
+	},
+	{
+		"code": "I864",
+		"desc": "Gastric varices"
+	},
+	{
+		"code": "K2971",
+		"desc": "Gastritis, unspecified, with bleeding"
+	},
+	{
+		"code": "K2970",
+		"desc": "Gastritis, unspecified, without bleeding"
+	},
+	{
+		"code": "G4006",
+		"desc": "Gastro-enterology mips specialty set"
+	},
+	{
+		"code": "K226",
+		"desc": "Gastro-esophageal laceration-hemorrhage syndrome"
+	},
+	{
+		"code": "K210",
+		"desc": "Gastro-esophageal reflux disease with esophagitis"
+	},
+	{
+		"code": "K219",
+		"desc": "Gastro-esophageal reflux disease without esophagitis"
+	},
+	{
+		"code": "K2991",
+		"desc": "Gastroduodenitis, unspecified, with bleeding"
+	},
+	{
+		"code": "K2990",
+		"desc": "Gastroduodenitis, unspecified, without bleeding"
+	},
+	{
+		"code": "K520",
+		"desc": "Gastroenteritis and colitis due to radiation"
+	},
+	{
+		"code": "A222",
+		"desc": "Gastrointestinal anthrax"
+	},
+	{
+		"code": "S3708",
+		"desc": "Gastrointestinal fat absorption study"
+	},
+	{
+		"code": "K922",
+		"desc": "Gastrointestinal hemorrhage, unspecified"
+	},
+	{
+		"code": "B462",
+		"desc": "Gastrointestinal mucormycosis"
+	},
+	{
+		"code": "K9281",
+		"desc": "Gastrointestinal mucositis (ulcerative)"
+	},
+	{
+		"code": "C49A1",
+		"desc": "Gastrointestinal stromal tumor of esophagus"
+	},
+	{
+		"code": "C49A4",
+		"desc": "Gastrointestinal stromal tumor of large intestine"
+	},
+	{
+		"code": "C49A9",
+		"desc": "Gastrointestinal stromal tumor of other sites"
+	},
+	{
+		"code": "C49A5",
+		"desc": "Gastrointestinal stromal tumor of rectum"
+	},
+	{
+		"code": "C49A3",
+		"desc": "Gastrointestinal stromal tumor of small intestine"
+	},
+	{
+		"code": "C49A2",
+		"desc": "Gastrointestinal stromal tumor of stomach"
+	},
+	{
+		"code": "C49A0",
+		"desc": "Gastrointestinal stromal tumor, unspecified site"
+	},
+	{
+		"code": "A213",
+		"desc": "Gastrointestinal tularemia"
+	},
+	{
+		"code": "K289",
+		"desc": "Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation"
+	},
+	{
+		"code": "K3184",
+		"desc": "Gastroparesis"
+	},
+	{
+		"code": "Q793",
+		"desc": "Gastroschisis"
+	},
+	{
+		"code": "K9420",
+		"desc": "Gastrostomy complication, unspecified"
+	},
+	{
+		"code": "K9421",
+		"desc": "Gastrostomy hemorrhage"
+	},
+	{
+		"code": "K9422",
+		"desc": "Gastrostomy infection"
+	},
+	{
+		"code": "K9423",
+		"desc": "Gastrostomy malfunction"
+	},
+	{
+		"code": "Z931",
+		"desc": "Gastrostomy status"
+	},
+	{
+		"code": "B4088",
+		"desc": "Gastrostomy/jejunostomy tube, low-profile, any material, any type, each"
+	},
+	{
+		"code": "B4087",
+		"desc": "Gastrostomy/jejunostomy tube, standard, any material, any type, each"
+	},
+	{
+		"code": "E7522",
+		"desc": "Gaucher disease"
+	},
+	{
+		"code": "A6222",
+		"desc": "Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+	},
+	{
+		"code": "A6223",
+		"desc": "Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size more than 16 sq. in., but less than or equal to 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6224",
+		"desc": "Gauze, impregnated with other than water, normal saline, or hydrogel, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6231",
+		"desc": "Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size 16 sq. in. or less, each dressing"
+	},
+	{
+		"code": "A6232",
+		"desc": "Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size greater than 16 sq. in., but less than or equal to 48 sq. in., each dressing"
+	},
+	{
+		"code": "A6233",
+		"desc": "Gauze, impregnated, hydrogel, for direct wound contact, sterile, pad size more than 48 sq. in., each dressing"
+	},
+	{
+		"code": "A6266",
+		"desc": "Gauze, impregnated, other than water, normal saline, or zinc paste, sterile, any width, per linear yard"
+	},
+	{
+		"code": "A6228",
+		"desc": "Gauze, impregnated, water or normal saline, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+	},
+	{
+		"code": "A6229",
+		"desc": "Gauze, impregnated, water or normal saline, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6230",
+		"desc": "Gauze, impregnated, water or normal saline, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6216",
+		"desc": "Gauze, non-impregnated, non-sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+	},
+	{
+		"code": "A6217",
+		"desc": "Gauze, non-impregnated, non-sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6218",
+		"desc": "Gauze, non-impregnated, non-sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6219",
+		"desc": "Gauze, non-impregnated, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6402",
+		"desc": "Gauze, non-impregnated, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+	},
+	{
+		"code": "A6220",
+		"desc": "Gauze, non-impregnated, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6403",
+		"desc": "Gauze, non-impregnated, sterile, pad size more than 16 sq. in. less than or equal to 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6221",
+		"desc": "Gauze, non-impregnated, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6404",
+		"desc": "Gauze, non-impregnated, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "J8565",
+		"desc": "Gefitinib, oral, 250 mg"
+	},
+	{
+		"code": "E0185",
+		"desc": "Gel or gel-like pressure pad for mattress, standard mattress length and width"
+	},
+	{
+		"code": "E0196",
+		"desc": "Gel pressure mattress"
+	},
+	{
+		"code": "A6025",
+		"desc": "Gel sheet for dermal or epidermal application, (e.g., silicone, hydrogel, other), each"
+	},
+	{
+		"code": "L8515",
+		"desc": "Gelatin capsule, application device for use with tracheoesophageal voice prosthesis, each"
+	},
+	{
+		"code": "L8512",
+		"desc": "Gelatin capsules or equivalent, for use with tracheoesophageal voice prosthesis, replacement only, per 10"
+	},
+	{
+		"code": "F642",
+		"desc": "Gender identity disorder of childhood"
+	},
+	{
+		"code": "F649",
+		"desc": "Gender identity disorder, unspecified"
+	},
+	{
+		"code": "S3854",
+		"desc": "Gene expression profiling panel for use in the management of breast cancer treatment"
+	},
+	{
+		"code": "A5217",
+		"desc": "General paresis"
+	},
+	{
+		"code": "G4007",
+		"desc": "General surgery mips specialty set"
+	},
+	{
+		"code": "E2612",
+		"desc": "General use wheelchair back cushion, width 22 inches or greater, any height, including any type mounting hardware"
+	},
+	{
+		"code": "E2611",
+		"desc": "General use wheelchair back cushion, width less than 22 inches, any height, including any type mounting hardware"
+	},
+	{
+		"code": "E2602",
+		"desc": "General use wheelchair seat cushion, width 22 inches or greater, any depth"
+	},
+	{
+		"code": "E2601",
+		"desc": "General use wheelchair seat cushion, width less than 22 inches, any depth"
+	},
+	{
+		"code": "K650",
+		"desc": "Generalized (acute) peritonitis"
+	},
+	{
+		"code": "R1084",
+		"desc": "Generalized abdominal pain"
+	},
+	{
+		"code": "R1937",
+		"desc": "Generalized abdominal rigidity"
+	},
+	{
+		"code": "R10817",
+		"desc": "Generalized abdominal tenderness"
+	},
+	{
+		"code": "F411",
+		"desc": "Generalized anxiety disorder"
+	},
+	{
+		"code": "I7091",
+		"desc": "Generalized atherosclerosis"
+	},
+	{
+		"code": "H53483",
+		"desc": "Generalized contraction of visual field, bilateral"
+	},
+	{
+		"code": "H53482",
+		"desc": "Generalized contraction of visual field, left eye"
+	},
+	{
+		"code": "H53481",
+		"desc": "Generalized contraction of visual field, right eye"
+	},
+	{
+		"code": "H53489",
+		"desc": "Generalized contraction of visual field, unspecified eye"
+	},
+	{
+		"code": "R601",
+		"desc": "Generalized edema"
+	},
+	{
+		"code": "R591",
+		"desc": "Generalized enlarged lymph nodes"
+	},
+	{
+		"code": "K06021",
+		"desc": "Generalized gingival recession, minimal"
+	},
+	{
+		"code": "K06022",
+		"desc": "Generalized gingival recession, moderate"
+	},
+	{
+		"code": "K06023",
+		"desc": "Generalized gingival recession, severe"
+	},
+	{
+		"code": "K06020",
+		"desc": "Generalized gingival recession, unspecified"
+	},
+	{
+		"code": "R61",
+		"desc": "Generalized hyperhidrosis"
+	},
+	{
+		"code": "G40311",
+		"desc": "Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus"
+	},
+	{
+		"code": "G40319",
+		"desc": "Generalized idiopathic epilepsy and epileptic syndromes, intractable, without status epilepticus"
+	},
+	{
+		"code": "G40301",
+		"desc": "Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus"
+	},
+	{
+		"code": "G40309",
+		"desc": "Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+	},
+	{
+		"code": "R1907",
+		"desc": "Generalized intra-abdominal and pelvic swelling, mass and lump"
+	},
+	{
+		"code": "L401",
+		"desc": "Generalized pustular psoriasis"
+	},
+	{
+		"code": "R10827",
+		"desc": "Generalized rebound abdominal tenderness"
+	},
+	{
+		"code": "L270",
+		"desc": "Generalized skin eruption due to drugs and medicaments taken internally"
+	},
+	{
+		"code": "A217",
+		"desc": "Generalized tularemia"
+	},
+	{
+		"code": "C1824",
+		"desc": "Generator, cardiac contractility modulation (implantable)"
+	},
+	{
+		"code": "C1822",
+		"desc": "Generator, neurostimulator (implantable), high frequency, with rechargeable battery and charging system"
+	},
+	{
+		"code": "C1826",
+		"desc": "Generator, neurostimulator (implantable), includes closed feedback loop leads and all implantable components, with rechargeable battery and charging system"
+	},
+	{
+		"code": "C1767",
+		"desc": "Generator, neurostimulator (implantable), non-rechargeable"
+	},
+	{
+		"code": "C1825",
+		"desc": "Generator, neurostimulator (implantable), non-rechargeable with carotid sinus baroreceptor stimulation lead(s)"
+	},
+	{
+		"code": "C1827",
+		"desc": "Generator, neurostimulator (implantable), non-rechargeable, with implantable stimulation lead and external paired stimulation controller"
+	},
+	{
+		"code": "C1823",
+		"desc": "Generator, neurostimulator (implantable), non-rechargeable, with transvenous sensing and stimulation leads"
+	},
+	{
+		"code": "C1820",
+		"desc": "Generator, neurostimulator (implantable), with rechargeable battery and charging system"
+	},
+	{
+		"code": "Q4198",
+		"desc": "Genesis amniotic membrane, per square centimeter"
+	},
+	{
+		"code": "S3866",
+		"desc": "Genetic analysis for a specific gene mutation for hypertrophic cardiomyopathy (hcm) in an individual with a known hcm mutation in the family"
+	},
+	{
+		"code": "D720",
+		"desc": "Genetic anomalies of leukocytes"
+	},
+	{
+		"code": "Z148",
+		"desc": "Genetic carrier of other disease"
+	},
+	{
+		"code": "S0265",
+		"desc": "Genetic counseling, under physician supervision, each 15 minutes"
+	},
+	{
+		"code": "Z1501",
+		"desc": "Genetic susceptibility to malignant neoplasm of breast"
+	},
+	{
+		"code": "Z1504",
+		"desc": "Genetic susceptibility to malignant neoplasm of endometrium"
+	},
+	{
+		"code": "Z1502",
+		"desc": "Genetic susceptibility to malignant neoplasm of ovary"
+	},
+	{
+		"code": "Z1503",
+		"desc": "Genetic susceptibility to malignant neoplasm of prostate"
+	},
+	{
+		"code": "Z1581",
+		"desc": "Genetic susceptibility to multiple endocrine neoplasia [MEN]"
+	},
+	{
+		"code": "Z1589",
+		"desc": "Genetic susceptibility to other disease"
+	},
+	{
+		"code": "Z1509",
+		"desc": "Genetic susceptibility to other malignant neoplasm"
+	},
+	{
+		"code": "S3845",
+		"desc": "Genetic testing for alpha-thalassemia"
+	},
+	{
+		"code": "S3800",
+		"desc": "Genetic testing for amyotrophic lateral sclerosis (als)"
+	},
+	{
+		"code": "S3855",
+		"desc": "Genetic testing for detection of mutations in the presenilin - 1 gene\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "S3846",
+		"desc": "Genetic testing for hemoglobin e beta-thalassemia"
+	},
+	{
+		"code": "S3853",
+		"desc": "Genetic testing for myotonic muscular dystrophy"
+	},
+	{
+		"code": "S3849",
+		"desc": "Genetic testing for niemann-pick disease"
+	},
+	{
+		"code": "S3841",
+		"desc": "Genetic testing for retinoblastoma"
+	},
+	{
+		"code": "S3850",
+		"desc": "Genetic testing for sickle cell anemia"
+	},
+	{
+		"code": "S3842",
+		"desc": "Genetic testing for von hippel-lindau disease"
+	},
+	{
+		"code": "S3861",
+		"desc": "Genetic testing, sodium channel, voltage-gated, type v, alpha subunit (scn5a) and variants for suspected brugada syndrome"
+	},
+	{
+		"code": "G241",
+		"desc": "Genetic torsion dystonia"
+	},
+	{
+		"code": "G511",
+		"desc": "Geniculate ganglionitis"
+	},
+	{
+		"code": "O045",
+		"desc": "Genital tract and pelvic infection following (induced) termination of pregnancy"
+	},
+	{
+		"code": "O035",
+		"desc": "Genital tract and pelvic infection following complete or unspecified spontaneous abortion"
+	},
+	{
+		"code": "O080",
+		"desc": "Genital tract and pelvic infection following ectopic and molar pregnancy"
+	},
+	{
+		"code": "O070",
+		"desc": "Genital tract and pelvic infection following failed attempted termination of pregnancy"
+	},
+	{
+		"code": "O030",
+		"desc": "Genital tract and pelvic infection following incomplete spontaneous abortion"
+	},
+	{
+		"code": "O2211",
+		"desc": "Genital varices in pregnancy, first trimester"
+	},
+	{
+		"code": "O2212",
+		"desc": "Genital varices in pregnancy, second trimester"
+	},
+	{
+		"code": "O2213",
+		"desc": "Genital varices in pregnancy, third trimester"
+	},
+	{
+		"code": "O2210",
+		"desc": "Genital varices in pregnancy, unspecified trimester"
+	},
+	{
+		"code": "B8781",
+		"desc": "Genitourinary myiasis"
+	},
+	{
+		"code": "K141",
+		"desc": "Geographic tongue"
+	},
+	{
+		"code": "B483",
+		"desc": "Geotrichosis"
+	},
+	{
+		"code": "G4008",
+		"desc": "Geriatrics mips specialty set"
+	},
+	{
+		"code": "A8182",
+		"desc": "Gerstmann-Straussler-Scheinker syndrome"
+	},
+	{
+		"code": "O134",
+		"desc": "Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth"
+	},
+	{
+		"code": "O135",
+		"desc": "Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating the puerperium"
+	},
+	{
+		"code": "O131",
+		"desc": "Gestational [pregnancy-induced] hypertension without significant proteinuria, first trimester"
+	},
+	{
+		"code": "O132",
+		"desc": "Gestational [pregnancy-induced] hypertension without significant proteinuria, second trimester"
+	},
+	{
+		"code": "O133",
+		"desc": "Gestational [pregnancy-induced] hypertension without significant proteinuria, third trimester"
+	},
+	{
+		"code": "O139",
+		"desc": "Gestational [pregnancy-induced] hypertension without significant proteinuria, unspecified trimester"
+	},
+	{
+		"code": "P7884",
+		"desc": "Gestational alloimmune liver disease"
+	},
+	{
+		"code": "O24425",
+		"desc": "Gestational diabetes mellitus in childbirth, controlled by oral hypoglycemic drugs"
+	},
+	{
+		"code": "O24420",
+		"desc": "Gestational diabetes mellitus in childbirth, diet controlled"
+	},
+	{
+		"code": "O24424",
+		"desc": "Gestational diabetes mellitus in childbirth, insulin controlled"
+	},
+	{
+		"code": "O24429",
+		"desc": "Gestational diabetes mellitus in childbirth, unspecified control"
+	},
+	{
+		"code": "O24415",
+		"desc": "Gestational diabetes mellitus in pregnancy, controlled by oral hypoglycemic drugs"
+	},
+	{
+		"code": "O24410",
+		"desc": "Gestational diabetes mellitus in pregnancy, diet controlled"
+	},
+	{
+		"code": "O24414",
+		"desc": "Gestational diabetes mellitus in pregnancy, insulin controlled"
+	},
+	{
+		"code": "O24419",
+		"desc": "Gestational diabetes mellitus in pregnancy, unspecified control"
+	},
+	{
+		"code": "O24435",
+		"desc": "Gestational diabetes mellitus in puerperium, controlled by oral hypoglycemic drugs"
+	},
+	{
+		"code": "O24430",
+		"desc": "Gestational diabetes mellitus in the puerperium, diet controlled"
+	},
+	{
+		"code": "O24434",
+		"desc": "Gestational diabetes mellitus in the puerperium, insulin controlled"
+	},
+	{
+		"code": "O24439",
+		"desc": "Gestational diabetes mellitus in the puerperium, unspecified control"
+	},
+	{
+		"code": "O1224",
+		"desc": "Gestational edema with proteinuria, complicating childbirth"
+	},
+	{
+		"code": "O1225",
+		"desc": "Gestational edema with proteinuria, complicating the puerperium"
+	},
+	{
+		"code": "O1221",
+		"desc": "Gestational edema with proteinuria, first trimester"
+	},
+	{
+		"code": "O1222",
+		"desc": "Gestational edema with proteinuria, second trimester"
+	},
+	{
+		"code": "O1223",
+		"desc": "Gestational edema with proteinuria, third trimester"
+	},
+	{
+		"code": "O1220",
+		"desc": "Gestational edema with proteinuria, unspecified trimester"
+	},
+	{
+		"code": "O1204",
+		"desc": "Gestational edema, complicating childbirth"
+	},
+	{
+		"code": "O1205",
+		"desc": "Gestational edema, complicating the puerperium"
+	},
+	{
+		"code": "O1201",
+		"desc": "Gestational edema, first trimester"
+	},
+	{
+		"code": "O1202",
+		"desc": "Gestational edema, second trimester"
+	},
+	{
+		"code": "O1203",
+		"desc": "Gestational edema, third trimester"
+	},
+	{
+		"code": "O1200",
+		"desc": "Gestational edema, unspecified trimester"
+	},
+	{
+		"code": "O1214",
+		"desc": "Gestational proteinuria, complicating childbirth"
+	},
+	{
+		"code": "O1215",
+		"desc": "Gestational proteinuria, complicating the puerperium"
+	},
+	{
+		"code": "O1211",
+		"desc": "Gestational proteinuria, first trimester"
+	},
+	{
+		"code": "O1212",
+		"desc": "Gestational proteinuria, second trimester"
+	},
+	{
+		"code": "O1213",
+		"desc": "Gestational proteinuria, third trimester"
+	},
+	{
+		"code": "O1210",
+		"desc": "Gestational proteinuria, unspecified trimester"
+	},
+	{
+		"code": "H16413",
+		"desc": "Ghost vessels (corneal), bilateral"
+	},
+	{
+		"code": "H16412",
+		"desc": "Ghost vessels (corneal), left eye"
+	},
+	{
+		"code": "H16411",
+		"desc": "Ghost vessels (corneal), right eye"
+	},
+	{
+		"code": "H16419",
+		"desc": "Ghost vessels (corneal), unspecified eye"
+	},
+	{
+		"code": "M315",
+		"desc": "Giant cell arteritis with polymyalgia rheumatica"
+	},
+	{
+		"code": "M271",
+		"desc": "Giant cell granuloma, central"
+	},
+	{
+		"code": "A071",
+		"desc": "Giardiasis [lambliasis]"
+	},
+	{
+		"code": "E804",
+		"desc": "Gilbert syndrome"
+	},
+	{
+		"code": "K062",
+		"desc": "Gingival and edentulous alveolar ridge lesions associated with trauma"
+	},
+	{
+		"code": "K061",
+		"desc": "Gingival enlargement"
+	},
+	{
+		"code": "A240",
+		"desc": "Glanders"
+	},
+	{
+		"code": "H5371",
+		"desc": "Glare sensitivity"
+	},
+	{
+		"code": "R402414",
+		"desc": "Glasgow coma scale score 13-15, 24 hours or more after hospital admission"
+	},
+	{
+		"code": "R402412",
+		"desc": "Glasgow coma scale score 13-15, at arrival to emergency department"
+	},
+	{
+		"code": "R402413",
+		"desc": "Glasgow coma scale score 13-15, at hospital admission"
+	},
+	{
+		"code": "R402411",
+		"desc": "Glasgow coma scale score 13-15, in the field [EMT or ambulance]"
+	},
+	{
+		"code": "R402410",
+		"desc": "Glasgow coma scale score 13-15, unspecified time"
+	},
+	{
+		"code": "R402434",
+		"desc": "Glasgow coma scale score 3-8, 24 hours or more after hospital admission"
+	},
+	{
+		"code": "R402432",
+		"desc": "Glasgow coma scale score 3-8, at arrival to emergency department"
+	},
+	{
+		"code": "R402433",
+		"desc": "Glasgow coma scale score 3-8, at hospital admission"
+	},
+	{
+		"code": "R402431",
+		"desc": "Glasgow coma scale score 3-8, in the field [EMT or ambulance]"
+	},
+	{
+		"code": "R402430",
+		"desc": "Glasgow coma scale score 3-8, unspecified time"
+	},
+	{
+		"code": "R402424",
+		"desc": "Glasgow coma scale score 9-12, 24 hours or more after hospital admission"
+	},
+	{
+		"code": "R402422",
+		"desc": "Glasgow coma scale score 9-12, at arrival to emergency department"
+	},
+	{
+		"code": "R402423",
+		"desc": "Glasgow coma scale score 9-12, at hospital admission"
+	},
+	{
+		"code": "R402421",
+		"desc": "Glasgow coma scale score 9-12, in the field [EMT or ambulance]"
+	},
+	{
+		"code": "R402420",
+		"desc": "Glasgow coma scale score 9-12, unspecified time"
+	},
+	{
+		"code": "V5070",
+		"desc": "Glasses, air conduction"
+	},
+	{
+		"code": "V5080",
+		"desc": "Glasses, bone conduction"
+	},
+	{
+		"code": "H42",
+		"desc": "Glaucoma in diseases classified elsewhere"
+	},
+	{
+		"code": "M1223",
+		"desc": "Glaucoma plan of care documented"
+	},
+	{
+		"code": "M1222",
+		"desc": "Glaucoma plan of care not documented, reason not otherwise specified"
+	},
+	{
+		"code": "G0118",
+		"desc": "Glaucoma screening for high risk patient furnished under the direct supervision of an optometrist or ophthalmologist"
+	},
+	{
+		"code": "G0117",
+		"desc": "Glaucoma screening for high risk patients furnished by an optometrist or ophthalmologist"
+	},
+	{
+		"code": "H4063X4",
+		"desc": "Glaucoma secondary to drugs, bilateral, indeterminate stage"
+	},
+	{
+		"code": "H4063X1",
+		"desc": "Glaucoma secondary to drugs, bilateral, mild stage"
+	},
+	{
+		"code": "H4063X2",
+		"desc": "Glaucoma secondary to drugs, bilateral, moderate stage"
+	},
+	{
+		"code": "H4063X3",
+		"desc": "Glaucoma secondary to drugs, bilateral, severe stage"
+	},
+	{
+		"code": "H4063X0",
+		"desc": "Glaucoma secondary to drugs, bilateral, stage unspecified"
+	},
+	{
+		"code": "H4062X4",
+		"desc": "Glaucoma secondary to drugs, left eye, indeterminate stage"
+	},
+	{
+		"code": "H4062X1",
+		"desc": "Glaucoma secondary to drugs, left eye, mild stage"
+	},
+	{
+		"code": "H4062X2",
+		"desc": "Glaucoma secondary to drugs, left eye, moderate stage"
+	},
+	{
+		"code": "H4062X3",
+		"desc": "Glaucoma secondary to drugs, left eye, severe stage"
+	},
+	{
+		"code": "H4062X0",
+		"desc": "Glaucoma secondary to drugs, left eye, stage unspecified"
+	},
+	{
+		"code": "H4061X4",
+		"desc": "Glaucoma secondary to drugs, right eye, indeterminate stage"
+	},
+	{
+		"code": "H4061X1",
+		"desc": "Glaucoma secondary to drugs, right eye, mild stage"
+	},
+	{
+		"code": "H4061X2",
+		"desc": "Glaucoma secondary to drugs, right eye, moderate stage"
+	},
+	{
+		"code": "H4061X3",
+		"desc": "Glaucoma secondary to drugs, right eye, severe stage"
+	},
+	{
+		"code": "H4061X0",
+		"desc": "Glaucoma secondary to drugs, right eye, stage unspecified"
+	},
+	{
+		"code": "H4060X4",
+		"desc": "Glaucoma secondary to drugs, unspecified eye, indeterminate stage"
+	},
+	{
+		"code": "H4060X1",
+		"desc": "Glaucoma secondary to drugs, unspecified eye, mild stage"
+	},
+	{
+		"code": "H4060X2",
+		"desc": "Glaucoma secondary to drugs, unspecified eye, moderate stage"
+	},
+	{
+		"code": "H4060X3",
+		"desc": "Glaucoma secondary to drugs, unspecified eye, severe stage"
+	},
+	{
+		"code": "H4060X0",
+		"desc": "Glaucoma secondary to drugs, unspecified eye, stage unspecified"
+	},
+	{
+		"code": "H4043X4",
+		"desc": "Glaucoma secondary to eye inflammation, bilateral, indeterminate stage"
+	},
+	{
+		"code": "H4043X1",
+		"desc": "Glaucoma secondary to eye inflammation, bilateral, mild stage"
+	},
+	{
+		"code": "H4043X2",
+		"desc": "Glaucoma secondary to eye inflammation, bilateral, moderate stage"
+	},
+	{
+		"code": "H4043X3",
+		"desc": "Glaucoma secondary to eye inflammation, bilateral, severe stage"
+	},
+	{
+		"code": "H4043X0",
+		"desc": "Glaucoma secondary to eye inflammation, bilateral, stage unspecified"
+	},
+	{
+		"code": "H4042X4",
+		"desc": "Glaucoma secondary to eye inflammation, left eye, indeterminate stage"
+	},
+	{
+		"code": "H4042X1",
+		"desc": "Glaucoma secondary to eye inflammation, left eye, mild stage"
+	},
+	{
+		"code": "H4042X2",
+		"desc": "Glaucoma secondary to eye inflammation, left eye, moderate stage"
+	},
+	{
+		"code": "H4042X3",
+		"desc": "Glaucoma secondary to eye inflammation, left eye, severe stage"
+	},
+	{
+		"code": "H4042X0",
+		"desc": "Glaucoma secondary to eye inflammation, left eye, stage unspecified"
+	},
+	{
+		"code": "H4041X4",
+		"desc": "Glaucoma secondary to eye inflammation, right eye, indeterminate stage"
+	},
+	{
+		"code": "H4041X1",
+		"desc": "Glaucoma secondary to eye inflammation, right eye, mild stage"
+	},
+	{
+		"code": "H4041X2",
+		"desc": "Glaucoma secondary to eye inflammation, right eye, moderate stage"
+	},
+	{
+		"code": "H4041X3",
+		"desc": "Glaucoma secondary to eye inflammation, right eye, severe stage"
+	},
+	{
+		"code": "H4041X0",
+		"desc": "Glaucoma secondary to eye inflammation, right eye, stage unspecified"
+	},
+	{
+		"code": "H4040X4",
+		"desc": "Glaucoma secondary to eye inflammation, unspecified eye, indeterminate stage"
+	},
+	{
+		"code": "H4040X1",
+		"desc": "Glaucoma secondary to eye inflammation, unspecified eye, mild stage"
+	},
+	{
+		"code": "H4040X2",
+		"desc": "Glaucoma secondary to eye inflammation, unspecified eye, moderate stage"
+	},
+	{
+		"code": "H4040X3",
+		"desc": "Glaucoma secondary to eye inflammation, unspecified eye, severe stage"
+	},
+	{
+		"code": "H4040X0",
+		"desc": "Glaucoma secondary to eye inflammation, unspecified eye, stage unspecified"
+	},
+	{
+		"code": "H4033X4",
+		"desc": "Glaucoma secondary to eye trauma, bilateral, indeterminate stage"
+	},
+	{
+		"code": "H4033X1",
+		"desc": "Glaucoma secondary to eye trauma, bilateral, mild stage"
+	},
+	{
+		"code": "H4033X2",
+		"desc": "Glaucoma secondary to eye trauma, bilateral, moderate stage"
+	},
+	{
+		"code": "H4033X3",
+		"desc": "Glaucoma secondary to eye trauma, bilateral, severe stage"
+	},
+	{
+		"code": "H4033X0",
+		"desc": "Glaucoma secondary to eye trauma, bilateral, stage unspecified"
+	},
+	{
+		"code": "H4032X4",
+		"desc": "Glaucoma secondary to eye trauma, left eye, indeterminate stage"
+	},
+	{
+		"code": "H4032X1",
+		"desc": "Glaucoma secondary to eye trauma, left eye, mild stage"
+	},
+	{
+		"code": "H4032X2",
+		"desc": "Glaucoma secondary to eye trauma, left eye, moderate stage"
+	},
+	{
+		"code": "H4032X3",
+		"desc": "Glaucoma secondary to eye trauma, left eye, severe stage"
+	},
+	{
+		"code": "H4032X0",
+		"desc": "Glaucoma secondary to eye trauma, left eye, stage unspecified"
+	},
+	{
+		"code": "H4031X4",
+		"desc": "Glaucoma secondary to eye trauma, right eye, indeterminate stage"
+	},
+	{
+		"code": "H4031X1",
+		"desc": "Glaucoma secondary to eye trauma, right eye, mild stage"
+	},
+	{
+		"code": "H4031X2",
+		"desc": "Glaucoma secondary to eye trauma, right eye, moderate stage"
+	},
+	{
+		"code": "H4031X3",
+		"desc": "Glaucoma secondary to eye trauma, right eye, severe stage"
+	},
+	{
+		"code": "H4031X0",
+		"desc": "Glaucoma secondary to eye trauma, right eye, stage unspecified"
+	},
+	{
+		"code": "H4030X4",
+		"desc": "Glaucoma secondary to eye trauma, unspecified eye, indeterminate stage"
+	},
+	{
+		"code": "H4030X1",
+		"desc": "Glaucoma secondary to eye trauma, unspecified eye, mild stage"
+	},
+	{
+		"code": "H4030X2",
+		"desc": "Glaucoma secondary to eye trauma, unspecified eye, moderate stage"
+	},
+	{
+		"code": "H4030X3",
+		"desc": "Glaucoma secondary to eye trauma, unspecified eye, severe stage"
+	},
+	{
+		"code": "H4030X0",
+		"desc": "Glaucoma secondary to eye trauma, unspecified eye, stage unspecified"
+	},
+	{
+		"code": "H4053X4",
+		"desc": "Glaucoma secondary to other eye disorders, bilateral, indeterminate stage"
+	},
+	{
+		"code": "H4053X1",
+		"desc": "Glaucoma secondary to other eye disorders, bilateral, mild stage"
+	},
+	{
+		"code": "H4053X2",
+		"desc": "Glaucoma secondary to other eye disorders, bilateral, moderate stage"
+	},
+	{
+		"code": "H4053X3",
+		"desc": "Glaucoma secondary to other eye disorders, bilateral, severe stage"
+	},
+	{
+		"code": "H4053X0",
+		"desc": "Glaucoma secondary to other eye disorders, bilateral, stage unspecified"
+	},
+	{
+		"code": "H4052X4",
+		"desc": "Glaucoma secondary to other eye disorders, left eye, indeterminate stage"
+	},
+	{
+		"code": "H4052X1",
+		"desc": "Glaucoma secondary to other eye disorders, left eye, mild stage"
+	},
+	{
+		"code": "H4052X2",
+		"desc": "Glaucoma secondary to other eye disorders, left eye, moderate stage"
+	},
+	{
+		"code": "H4052X3",
+		"desc": "Glaucoma secondary to other eye disorders, left eye, severe stage"
+	},
+	{
+		"code": "H4052X0",
+		"desc": "Glaucoma secondary to other eye disorders, left eye, stage unspecified"
+	},
+	{
+		"code": "H4051X4",
+		"desc": "Glaucoma secondary to other eye disorders, right eye, indeterminate stage"
+	},
+	{
+		"code": "H4051X1",
+		"desc": "Glaucoma secondary to other eye disorders, right eye, mild stage"
+	},
+	{
+		"code": "H4051X2",
+		"desc": "Glaucoma secondary to other eye disorders, right eye, moderate stage"
+	},
+	{
+		"code": "H4051X3",
+		"desc": "Glaucoma secondary to other eye disorders, right eye, severe stage"
+	},
+	{
+		"code": "H4051X0",
+		"desc": "Glaucoma secondary to other eye disorders, right eye, stage unspecified"
+	},
+	{
+		"code": "H4050X4",
+		"desc": "Glaucoma secondary to other eye disorders, unspecified eye, indeterminate stage"
+	},
+	{
+		"code": "H4050X1",
+		"desc": "Glaucoma secondary to other eye disorders, unspecified eye, mild stage"
+	},
+	{
+		"code": "H4050X2",
+		"desc": "Glaucoma secondary to other eye disorders, unspecified eye, moderate stage"
+	},
+	{
+		"code": "H4050X3",
+		"desc": "Glaucoma secondary to other eye disorders, unspecified eye, severe stage"
+	},
+	{
+		"code": "H4050X0",
+		"desc": "Glaucoma secondary to other eye disorders, unspecified eye, stage unspecified"
+	},
+	{
+		"code": "H40813",
+		"desc": "Glaucoma with increased episcleral venous pressure, bilateral"
+	},
+	{
+		"code": "H40812",
+		"desc": "Glaucoma with increased episcleral venous pressure, left eye"
+	},
+	{
+		"code": "H40811",
+		"desc": "Glaucoma with increased episcleral venous pressure, right eye"
+	},
+	{
+		"code": "H40819",
+		"desc": "Glaucoma with increased episcleral venous pressure, unspecified eye"
+	},
+	{
+		"code": "H26233",
+		"desc": "Glaucomatous flecks (subcapsular), bilateral"
+	},
+	{
+		"code": "H26232",
+		"desc": "Glaucomatous flecks (subcapsular), left eye"
+	},
+	{
+		"code": "H26231",
+		"desc": "Glaucomatous flecks (subcapsular), right eye"
+	},
+	{
+		"code": "H26239",
+		"desc": "Glaucomatous flecks (subcapsular), unspecified eye"
+	},
+	{
+		"code": "H47233",
+		"desc": "Glaucomatous optic atrophy, bilateral"
+	},
+	{
+		"code": "H47232",
+		"desc": "Glaucomatous optic atrophy, left eye"
+	},
+	{
+		"code": "H47231",
+		"desc": "Glaucomatous optic atrophy, right eye"
+	},
+	{
+		"code": "H47239",
+		"desc": "Glaucomatous optic atrophy, unspecified eye"
+	},
+	{
+		"code": "V9623XA",
+		"desc": "Glider (nonpowered) collision injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9623XS",
+		"desc": "Glider (nonpowered) collision injuring occupant, sequela"
+	},
+	{
+		"code": "V9623XD",
+		"desc": "Glider (nonpowered) collision injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9621XA",
+		"desc": "Glider (nonpowered) crash injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9621XS",
+		"desc": "Glider (nonpowered) crash injuring occupant, sequela"
+	},
+	{
+		"code": "V9621XD",
+		"desc": "Glider (nonpowered) crash injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9625XA",
+		"desc": "Glider (nonpowered) explosion injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9625XS",
+		"desc": "Glider (nonpowered) explosion injuring occupant, sequela"
+	},
+	{
+		"code": "V9625XD",
+		"desc": "Glider (nonpowered) explosion injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9624XA",
+		"desc": "Glider (nonpowered) fire injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9624XS",
+		"desc": "Glider (nonpowered) fire injuring occupant, sequela"
+	},
+	{
+		"code": "V9624XD",
+		"desc": "Glider (nonpowered) fire injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "S0400",
+		"desc": "Global fee for extracorporeal shock wave lithotripsy treatment of kidney stone(s)"
+	},
+	{
+		"code": "S9083",
+		"desc": "Global fee urgent care centers"
+	},
+	{
+		"code": "M3214",
+		"desc": "Glomerular disease in systemic lupus erythematosus"
+	},
+	{
+		"code": "N08",
+		"desc": "Glomerular disorders in diseases classified elsewhere"
+	},
+	{
+		"code": "K140",
+		"desc": "Glossitis"
+	},
+	{
+		"code": "K146",
+		"desc": "Glossodynia"
+	},
+	{
+		"code": "A4927",
+		"desc": "Gloves, non-sterile, per 100"
+	},
+	{
+		"code": "A4930",
+		"desc": "Gloves, sterile, per pair"
+	},
+	{
+		"code": "E2602",
+		"desc": "Glucocorticoid-remediable aldosteronism"
+	},
+	{
+		"code": "E769",
+		"desc": "Glucosaminoglycan metabolism disorder, unspecified"
+	},
+	{
+		"code": "E71313",
+		"desc": "Glutaric aciduria type II"
+	},
+	{
+		"code": "M7602",
+		"desc": "Gluteal tendinitis, left hip"
+	},
+	{
+		"code": "M7601",
+		"desc": "Gluteal tendinitis, right hip"
+	},
+	{
+		"code": "M7600",
+		"desc": "Gluteal tendinitis, unspecified hip"
+	},
+	{
+		"code": "E7400",
+		"desc": "Glycogen storage disease, unspecified"
+	},
+	{
+		"code": "J7642",
+		"desc": "Glycopyrrolate, inhalation solution, compounded product, administered through dme, concentrated form, per milligram"
+	},
+	{
+		"code": "J7643",
+		"desc": "Glycopyrrolate, inhalation solution, compounded product, administered through dme, unit dose form, per milligram"
+	},
+	{
+		"code": "R81",
+		"desc": "Glycosuria"
+	},
+	{
+		"code": "B831",
+		"desc": "Gnathostomiasis"
+	},
+	{
+		"code": "G6035",
+		"desc": "Gold\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "H21523",
+		"desc": "Goniosynechiae, bilateral"
+	},
+	{
+		"code": "H21522",
+		"desc": "Goniosynechiae, left eye"
+	},
+	{
+		"code": "H21521",
+		"desc": "Goniosynechiae, right eye"
+	},
+	{
+		"code": "H21529",
+		"desc": "Goniosynechiae, unspecified eye"
+	},
+	{
+		"code": "A5442",
+		"desc": "Gonococcal arthritis"
+	},
+	{
+		"code": "A5482",
+		"desc": "Gonococcal brain abscess"
+	},
+	{
+		"code": "A5403",
+		"desc": "Gonococcal cervicitis, unspecified"
+	},
+	{
+		"code": "A5431",
+		"desc": "Gonococcal conjunctivitis"
+	},
+	{
+		"code": "A5401",
+		"desc": "Gonococcal cystitis and urethritis, unspecified"
+	},
+	{
+		"code": "A5424",
+		"desc": "Gonococcal female pelvic inflammatory disease"
+	},
+	{
+		"code": "A5483",
+		"desc": "Gonococcal heart infection"
+	},
+	{
+		"code": "A546",
+		"desc": "Gonococcal infection of anus and rectum"
+	},
+	{
+		"code": "A5430",
+		"desc": "Gonococcal infection of eye, unspecified"
+	},
+	{
+		"code": "A5421",
+		"desc": "Gonococcal infection of kidney and ureter"
+	},
+	{
+		"code": "A541",
+		"desc": "Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess"
+	},
+	{
+		"code": "A5400",
+		"desc": "Gonococcal infection of lower genitourinary tract, unspecified"
+	},
+	{
+		"code": "A5440",
+		"desc": "Gonococcal infection of musculoskeletal system, unspecified"
+	},
+	{
+		"code": "A5423",
+		"desc": "Gonococcal infection of other male genital organs"
+	},
+	{
+		"code": "A5449",
+		"desc": "Gonococcal infection of other musculoskeletal tissue"
+	},
+	{
+		"code": "A549",
+		"desc": "Gonococcal infection, unspecified"
+	},
+	{
+		"code": "A5432",
+		"desc": "Gonococcal iridocyclitis"
+	},
+	{
+		"code": "A5433",
+		"desc": "Gonococcal keratitis"
+	},
+	{
+		"code": "A5481",
+		"desc": "Gonococcal meningitis"
+	},
+	{
+		"code": "A5443",
+		"desc": "Gonococcal osteomyelitis"
+	},
+	{
+		"code": "A5485",
+		"desc": "Gonococcal peritonitis"
+	},
+	{
+		"code": "A545",
+		"desc": "Gonococcal pharyngitis"
+	},
+	{
+		"code": "A5484",
+		"desc": "Gonococcal pneumonia"
+	},
+	{
+		"code": "A5422",
+		"desc": "Gonococcal prostatitis"
+	},
+	{
+		"code": "A5486",
+		"desc": "Gonococcal sepsis"
+	},
+	{
+		"code": "A5441",
+		"desc": "Gonococcal spondylopathy"
+	},
+	{
+		"code": "A5402",
+		"desc": "Gonococcal vulvovaginitis, unspecified"
+	},
+	{
+		"code": "O9822",
+		"desc": "Gonorrhea complicating childbirth"
+	},
+	{
+		"code": "O98211",
+		"desc": "Gonorrhea complicating pregnancy, first trimester"
+	},
+	{
+		"code": "O98212",
+		"desc": "Gonorrhea complicating pregnancy, second trimester"
+	},
+	{
+		"code": "O98213",
+		"desc": "Gonorrhea complicating pregnancy, third trimester"
+	},
+	{
+		"code": "O98219",
+		"desc": "Gonorrhea complicating pregnancy, unspecified trimester"
+	},
+	{
+		"code": "O9823",
+		"desc": "Gonorrhea complicating the puerperium"
+	},
+	{
+		"code": "J9202",
+		"desc": "Goserelin acetate implant, per 3.6 mg"
+	},
+	{
+		"code": "L944",
+		"desc": "Gottron's papules"
+	},
+	{
+		"code": "M10372",
+		"desc": "Gout due to renal impairment, left ankle and foot"
+	},
+	{
+		"code": "M10322",
+		"desc": "Gout due to renal impairment, left elbow"
+	},
+	{
+		"code": "M10342",
+		"desc": "Gout due to renal impairment, left hand"
+	},
+	{
+		"code": "M10352",
+		"desc": "Gout due to renal impairment, left hip"
+	},
+	{
+		"code": "M10362",
+		"desc": "Gout due to renal impairment, left knee"
+	},
+	{
+		"code": "M10312",
+		"desc": "Gout due to renal impairment, left shoulder"
+	},
+	{
+		"code": "M10332",
+		"desc": "Gout due to renal impairment, left wrist"
+	},
+	{
+		"code": "M1039",
+		"desc": "Gout due to renal impairment, multiple sites"
+	},
+	{
+		"code": "M10371",
+		"desc": "Gout due to renal impairment, right ankle and foot"
+	},
+	{
+		"code": "M10321",
+		"desc": "Gout due to renal impairment, right elbow"
+	},
+	{
+		"code": "M10341",
+		"desc": "Gout due to renal impairment, right hand"
+	},
+	{
+		"code": "M10351",
+		"desc": "Gout due to renal impairment, right hip"
+	},
+	{
+		"code": "M10361",
+		"desc": "Gout due to renal impairment, right knee"
+	},
+	{
+		"code": "M10311",
+		"desc": "Gout due to renal impairment, right shoulder"
+	},
+	{
+		"code": "M10331",
+		"desc": "Gout due to renal impairment, right wrist"
+	},
+	{
+		"code": "M10379",
+		"desc": "Gout due to renal impairment, unspecified ankle and foot"
+	},
+	{
+		"code": "M10329",
+		"desc": "Gout due to renal impairment, unspecified elbow"
+	},
+	{
+		"code": "M10349",
+		"desc": "Gout due to renal impairment, unspecified hand"
+	},
+	{
+		"code": "M10359",
+		"desc": "Gout due to renal impairment, unspecified hip"
+	},
+	{
+		"code": "M10369",
+		"desc": "Gout due to renal impairment, unspecified knee"
+	},
+	{
+		"code": "M10319",
+		"desc": "Gout due to renal impairment, unspecified shoulder"
+	},
+	{
+		"code": "M1030",
+		"desc": "Gout due to renal impairment, unspecified site"
+	},
+	{
+		"code": "M10339",
+		"desc": "Gout due to renal impairment, unspecified wrist"
+	},
+	{
+		"code": "M1038",
+		"desc": "Gout due to renal impairment, vertebrae"
+	},
+	{
+		"code": "M109",
+		"desc": "Gout, unspecified"
+	},
+	{
+		"code": "M1181",
+		"desc": "Grade 2 or above diarrhea and/or grade 2 or above colitis"
+	},
+	{
+		"code": "A6575",
+		"desc": "Gradient  compression arm sleeve and glove combination, each"
+	},
+	{
+		"code": "A6577",
+		"desc": "Gradient  compression arm sleeve, custom, heavy weight, each"
+	},
+	{
+		"code": "A6576",
+		"desc": "Gradient  compression arm sleeve, custom, medium weight, each"
+	},
+	{
+		"code": "A6578",
+		"desc": "Gradient  compression arm sleeve, each"
+	},
+	{
+		"code": "A6580",
+		"desc": "Gradient  compression glove, custom, heavy weight, each"
+	},
+	{
+		"code": "A6574",
+		"desc": "Gradient compression arm sleeve and glove combination, custom, each"
+	},
+	{
+		"code": "A6597",
+		"desc": "Gradient compression bandage roll, elastic long stretch, linear yard, any width, each"
+	},
+	{
+		"code": "A6598",
+		"desc": "Gradient compression bandage roll, elastic medium stretch, per linear yard, any width, each"
+	},
+	{
+		"code": "A6599",
+		"desc": "Gradient compression bandage roll, inelastic short stretch, per linear yard, any width, each"
+	},
+	{
+		"code": "A6594",
+		"desc": "Gradient compression bandaging supply, bandage liner, lower extremity, any size or length, each"
+	},
+	{
+		"code": "A6595",
+		"desc": "Gradient compression bandaging supply, bandage liner, upper extremity, any size or length, each"
+	},
+	{
+		"code": "A6596",
+		"desc": "Gradient compression bandaging supply, conforming gauze, per linear yard, any width, each"
+	},
+	{
+		"code": "A6601",
+		"desc": "Gradient compression bandaging supply, high density foam pad, any size or shape, each"
+	},
+	{
+		"code": "A6602",
+		"desc": "Gradient compression bandaging supply, high density foam roll for bandage, per linear yard, any width, each"
+	},
+	{
+		"code": "A6600",
+		"desc": "Gradient compression bandaging supply, high density foam sheet, per 250 square centimeters, each"
+	},
+	{
+		"code": "A6603",
+		"desc": "Gradient compression bandaging supply, low density channel foam sheet, per 250 square centimeters, each"
+	},
+	{
+		"code": "A6604",
+		"desc": "Gradient compression bandaging supply, low density flat foam sheet, per 250 square centimeters, each"
+	},
+	{
+		"code": "A6609",
+		"desc": "Gradient compression bandaging supply, not otherwise specified"
+	},
+	{
+		"code": "A6605",
+		"desc": "Gradient compression bandaging supply, padded foam, per linear yard, any width, each"
+	},
+	{
+		"code": "A6606",
+		"desc": "Gradient compression bandaging supply, padded textile, per linear yard, any width, each"
+	},
+	{
+		"code": "A6607",
+		"desc": "Gradient compression bandaging supply, tubular protective absorption layer, per linear yard, any width, each"
+	},
+	{
+		"code": "A6608",
+		"desc": "Gradient compression bandaging supply, tubular protective absorption padded layer, per linear yard, any width, each"
+	},
+	{
+		"code": "A6523",
+		"desc": "Gradient compression garment, arm, padded, for nighttime use, custom, each"
+	},
+	{
+		"code": "A6522",
+		"desc": "Gradient compression garment, arm, padded, for nighttime use, each"
+	},
+	{
+		"code": "A6529",
+		"desc": "Gradient compression garment, bra, for nighttime use, custom, each"
+	},
+	{
+		"code": "A6528",
+		"desc": "Gradient compression garment, bra, for nighttime use, each"
+	},
+	{
+		"code": "A6527",
+		"desc": "Gradient compression garment, full leg and foot, padded, for nighttime use, custom, each"
+	},
+	{
+		"code": "A6526",
+		"desc": "Gradient compression garment, full leg and foot, padded, for nighttime use, each"
+	},
+	{
+		"code": "A6571",
+		"desc": "Gradient compression garment, genital region, custom, each"
+	},
+	{
+		"code": "A6570",
+		"desc": "Gradient compression garment, genital region, each"
+	},
+	{
+		"code": "A6521",
+		"desc": "Gradient compression garment, glove, padded, for nighttime use, custom, each"
+	},
+	{
+		"code": "A6520",
+		"desc": "Gradient compression garment, glove, padded, for nighttime use, each"
+	},
+	{
+		"code": "A6525",
+		"desc": "Gradient compression garment, lower leg and foot, padded, for nighttime use, custom, each"
+	},
+	{
+		"code": "A6524",
+		"desc": "Gradient compression garment, lower leg and foot, padded, for nighttime use, each"
+	},
+	{
+		"code": "A6567",
+		"desc": "Gradient compression garment, neck/head, custom, each"
+	},
+	{
+		"code": "A6566",
+		"desc": "Gradient compression garment, neck/head, each"
+	},
+	{
+		"code": "A6549",
+		"desc": "Gradient compression garment, not otherwise specified"
+	},
+	{
+		"code": "A6573",
+		"desc": "Gradient compression garment, toe caps, custom, each"
+	},
+	{
+		"code": "A6572",
+		"desc": "Gradient compression garment, toe caps, each"
+	},
+	{
+		"code": "A6568",
+		"desc": "Gradient compression garment, torso and shoulder, each"
+	},
+	{
+		"code": "A6569",
+		"desc": "Gradient compression garment, torso/shoulder, custom, each"
+	},
+	{
+		"code": "A6565",
+		"desc": "Gradient compression gauntlet, custom, each"
+	},
+	{
+		"code": "A6582",
+		"desc": "Gradient compression gauntlet, each"
+	},
+	{
+		"code": "A6579",
+		"desc": "Gradient compression glove, custom, medium weight, each"
+	},
+	{
+		"code": "A6581",
+		"desc": "Gradient compression glove, each"
+	},
+	{
+		"code": "A6610",
+		"desc": "Gradient compression stocking, below knee, 18-30 mmhg, custom, each"
+	},
+	{
+		"code": "A6530",
+		"desc": "Gradient compression stocking, below knee, 18-30 mmhg, each"
+	},
+	{
+		"code": "A6553",
+		"desc": "Gradient compression stocking, below knee, 30-40 mmhg, custom, each"
+	},
+	{
+		"code": "A6552",
+		"desc": "Gradient compression stocking, below knee, 30-40 mmhg, each"
+	},
+	{
+		"code": "A6531",
+		"desc": "Gradient compression stocking, below knee, 30-40 mmhg, used as a surgical dressing, each"
+	},
+	{
+		"code": "A6555",
+		"desc": "Gradient compression stocking, below knee, 40 mmhg or greater, custom, each"
+	},
+	{
+		"code": "A6554",
+		"desc": "Gradient compression stocking, below knee, 40 mmhg or greater, each"
+	},
+	{
+		"code": "A6532",
+		"desc": "Gradient compression stocking, below knee, 40-50 mmhg, used as a surgical dressing, each"
+	},
+	{
+		"code": "A6559",
+		"desc": "Gradient compression stocking, full length/chap style, 18-30 mmhg, custom, each"
+	},
+	{
+		"code": "A6536",
+		"desc": "Gradient compression stocking, full length/chap style, 18-30 mmhg, each"
+	},
+	{
+		"code": "A6560",
+		"desc": "Gradient compression stocking, full length/chap style, 30-40 mmhg, custom, each"
+	},
+	{
+		"code": "A6537",
+		"desc": "Gradient compression stocking, full length/chap style, 30-40 mmhg, each"
+	},
+	{
+		"code": "A6561",
+		"desc": "Gradient compression stocking, full length/chap style, 40 mmhg or greater, custom, each"
+	},
+	{
+		"code": "A6538",
+		"desc": "Gradient compression stocking, full length/chap style, 40 mmhg or greater, each"
+	},
+	{
+		"code": "A6544",
+		"desc": "Gradient compression stocking, garter belt"
+	},
+	{
+		"code": "A6556",
+		"desc": "Gradient compression stocking, thigh length, 18-30 mmhg, custom, each"
+	},
+	{
+		"code": "A6533",
+		"desc": "Gradient compression stocking, thigh length, 18-30 mmhg, each"
+	},
+	{
+		"code": "A6557",
+		"desc": "Gradient compression stocking, thigh length, 30-40 mmhg, custom, each"
+	},
+	{
+		"code": "A6534",
+		"desc": "Gradient compression stocking, thigh length, 30-40 mmhg, each"
+	},
+	{
+		"code": "A6558",
+		"desc": "Gradient compression stocking, thigh length, 40 mmhg or greater, custom, each"
+	},
+	{
+		"code": "A6535",
+		"desc": "Gradient compression stocking, thigh length, 40 mmhg or greater, each"
+	},
+	{
+		"code": "A6562",
+		"desc": "Gradient compression stocking, waist length, 18-30 mmhg, custom, each"
+	},
+	{
+		"code": "A6539",
+		"desc": "Gradient compression stocking, waist length, 18-30 mmhg, each"
+	},
+	{
+		"code": "A6563",
+		"desc": "Gradient compression stocking, waist length, 30-40 mmhg, custom, each"
+	},
+	{
+		"code": "A6540",
+		"desc": "Gradient compression stocking, waist length, 30-40 mmhg, each"
+	},
+	{
+		"code": "A6564",
+		"desc": "Gradient compression stocking, waist length, 40 mmhg or greater, custom, each"
+	},
+	{
+		"code": "A6541",
+		"desc": "Gradient compression stocking, waist length, 40 mmhg or greater, each"
+	},
+	{
+		"code": "A6583",
+		"desc": "Gradient compression wrap with adjustable straps, below knee, 30-50 mmhg, each"
+	},
+	{
+		"code": "A6584",
+		"desc": "Gradient compression wrap with adjustable straps, not otherwise specified"
+	},
+	{
+		"code": "A6545",
+		"desc": "Gradient compression wrap, non-elastic, below knee, 30-50 mmhg, used as a surgical dressing, each"
+	},
+	{
+		"code": "S8428",
+		"desc": "Gradient pressure aid (gauntlet), ready made"
+	},
+	{
+		"code": "S8426",
+		"desc": "Gradient pressure aid (glove), custom made, heavy weight"
+	},
+	{
+		"code": "S8425",
+		"desc": "Gradient pressure aid (glove), custom made, medium weight"
+	},
+	{
+		"code": "S8427",
+		"desc": "Gradient pressure aid (glove), ready made"
+	},
+	{
+		"code": "S8420",
+		"desc": "Gradient pressure aid (sleeve and glove combination), custom made"
+	},
+	{
+		"code": "S8421",
+		"desc": "Gradient pressure aid (sleeve and glove combination), ready made"
+	},
+	{
+		"code": "S8423",
+		"desc": "Gradient pressure aid (sleeve), custom made, heavy weight"
+	},
+	{
+		"code": "S8422",
+		"desc": "Gradient pressure aid (sleeve), custom made, medium weight"
+	},
+	{
+		"code": "S8424",
+		"desc": "Gradient pressure aid (sleeve), ready made"
+	},
+	{
+		"code": "S8429",
+		"desc": "Gradient pressure exterior wrap"
+	},
+	{
+		"code": "A6585",
+		"desc": "Gradient pressure wrap with adjustable straps, above knee, each"
+	},
+	{
+		"code": "A6588",
+		"desc": "Gradient pressure wrap with adjustable straps, arm, each"
+	},
+	{
+		"code": "A6589",
+		"desc": "Gradient pressure wrap with adjustable straps, bra, each"
+	},
+	{
+		"code": "A6587",
+		"desc": "Gradient pressure wrap with adjustable straps, foot, each"
+	},
+	{
+		"code": "A6586",
+		"desc": "Gradient pressure wrap with adjustable straps, full leg, each"
+	},
+	{
+		"code": "Q4132",
+		"desc": "Grafix core and grafixpl core, per square centimeter"
+	},
+	{
+		"code": "Q4304",
+		"desc": "Grafix plus, per square centimeter"
+	},
+	{
+		"code": "Q4133",
+		"desc": "Grafix prime, grafixpl prime, stravix and stravixpl, per square centimeter"
+	},
+	{
+		"code": "C1604",
+		"desc": "Graft, transmural transvenous arterial bypass (implantable), with all delivery system components"
+	},
+	{
+		"code": "C1768",
+		"desc": "Graft, vascular"
+	},
+	{
+		"code": "D89813",
+		"desc": "Graft-versus-host disease, unspecified"
+	},
+	{
+		"code": "Q4113",
+		"desc": "Graftjacket xpress, injectable, 1 cc"
+	},
+	{
+		"code": "Q4107",
+		"desc": "Graftjacket, per square centimeter"
+	},
+	{
+		"code": "A4150",
+		"desc": "Gram-negative sepsis, unspecified"
+	},
+	{
+		"code": "S0091",
+		"desc": "Granisetron hydrochloride, 1 mg (for circumstances falling under the medicare statute, use q0166)"
+	},
+	{
+		"code": "Q0166",
+		"desc": "Granisetron hydrochloride, 1 mg, oral, fda approved prescription anti-emetic, for use as a complete therapeutic substitute for an iv anti-emetic at the time of chemotherapy treatment, not to exceed a 24 hour dosage regimen"
+	},
+	{
+		"code": "H1853",
+		"desc": "Granular corneal dystrophy"
+	},
+	{
+		"code": "H95123",
+		"desc": "Granulation of postmastoidectomy cavity, bilateral ears"
+	},
+	{
+		"code": "H95122",
+		"desc": "Granulation of postmastoidectomy cavity, left ear"
+	},
+	{
+		"code": "H95121",
+		"desc": "Granulation of postmastoidectomy cavity, right ear"
+	},
+	{
+		"code": "H95129",
+		"desc": "Granulation of postmastoidectomy cavity, unspecified ear"
+	},
+	{
+		"code": "P9050",
+		"desc": "Granulocytes, pheresis, each unit"
+	},
+	{
+		"code": "K134",
+		"desc": "Granuloma and granuloma-like lesions of oral mucosa"
+	},
+	{
+		"code": "L920",
+		"desc": "Granuloma annulare"
+	},
+	{
+		"code": "L922",
+		"desc": "Granuloma faciale [eosinophilic granuloma of skin]"
+	},
+	{
+		"code": "A58",
+		"desc": "Granuloma inguinale"
+	},
+	{
+		"code": "H04813",
+		"desc": "Granuloma of bilateral lacrimal passages"
+	},
+	{
+		"code": "H05113",
+		"desc": "Granuloma of bilateral orbits"
+	},
+	{
+		"code": "H04812",
+		"desc": "Granuloma of left lacrimal passage"
+	},
+	{
+		"code": "H05112",
+		"desc": "Granuloma of left orbit"
+	},
+	{
+		"code": "H04811",
+		"desc": "Granuloma of right lacrimal passage"
+	},
+	{
+		"code": "H05111",
+		"desc": "Granuloma of right orbit"
+	},
+	{
+		"code": "H04819",
+		"desc": "Granuloma of unspecified lacrimal passage"
+	},
+	{
+		"code": "H05119",
+		"desc": "Granuloma of unspecified orbit"
+	},
+	{
+		"code": "L929",
+		"desc": "Granulomatous disorder of the skin and subcutaneous tissue, unspecified"
+	},
+	{
+		"code": "K753",
+		"desc": "Granulomatous hepatitis, not elsewhere classified"
+	},
+	{
+		"code": "N414",
+		"desc": "Granulomatous prostatitis"
+	},
+	{
+		"code": "J633",
+		"desc": "Graphite fibrosis (of lung)"
+	},
+	{
+		"code": "E0941",
+		"desc": "Gravity assisted traction device, any type"
+	},
+	{
+		"code": "A4470",
+		"desc": "Gravlee jet washer"
+	},
+	{
+		"code": "Z3A49",
+		"desc": "Greater than 42 weeks gestation of pregnancy"
+	},
+	{
+		"code": "S42312A",
+		"desc": "Greenstick fracture of shaft of humerus, left arm, initial encounter for closed fracture"
+	},
+	{
+		"code": "S42312S",
+		"desc": "Greenstick fracture of shaft of humerus, left arm, sequela"
+	},
+	{
+		"code": "S42312G",
+		"desc": "Greenstick fracture of shaft of humerus, left arm, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S42312P",
+		"desc": "Greenstick fracture of shaft of humerus, left arm, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S42312K",
+		"desc": "Greenstick fracture of shaft of humerus, left arm, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S42312D",
+		"desc": "Greenstick fracture of shaft of humerus, left arm, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S42311A",
+		"desc": "Greenstick fracture of shaft of humerus, right arm, initial encounter for closed fracture"
+	},
+	{
+		"code": "S42311S",
+		"desc": "Greenstick fracture of shaft of humerus, right arm, sequela"
+	},
+	{
+		"code": "S42311G",
+		"desc": "Greenstick fracture of shaft of humerus, right arm, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S42311P",
+		"desc": "Greenstick fracture of shaft of humerus, right arm, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S42311K",
+		"desc": "Greenstick fracture of shaft of humerus, right arm, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S42311D",
+		"desc": "Greenstick fracture of shaft of humerus, right arm, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S42319A",
+		"desc": "Greenstick fracture of shaft of humerus, unspecified arm, initial encounter for closed fracture"
+	},
+	{
+		"code": "S42319S",
+		"desc": "Greenstick fracture of shaft of humerus, unspecified arm, sequela"
+	},
+	{
+		"code": "S42319G",
+		"desc": "Greenstick fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S42319P",
+		"desc": "Greenstick fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S42319K",
+		"desc": "Greenstick fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S42319D",
+		"desc": "Greenstick fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S52212A",
+		"desc": "Greenstick fracture of shaft of left ulna, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52212S",
+		"desc": "Greenstick fracture of shaft of left ulna, sequela"
+	},
+	{
+		"code": "S52212G",
+		"desc": "Greenstick fracture of shaft of left ulna, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S52212P",
+		"desc": "Greenstick fracture of shaft of left ulna, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S52212K",
+		"desc": "Greenstick fracture of shaft of left ulna, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S52212D",
+		"desc": "Greenstick fracture of shaft of left ulna, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S52312A",
+		"desc": "Greenstick fracture of shaft of radius, left arm, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52312S",
+		"desc": "Greenstick fracture of shaft of radius, left arm, sequela"
+	},
+	{
+		"code": "S52312G",
+		"desc": "Greenstick fracture of shaft of radius, left arm, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S52312P",
+		"desc": "Greenstick fracture of shaft of radius, left arm, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S52312K",
+		"desc": "Greenstick fracture of shaft of radius, left arm, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S52312D",
+		"desc": "Greenstick fracture of shaft of radius, left arm, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S52311A",
+		"desc": "Greenstick fracture of shaft of radius, right arm, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52311S",
+		"desc": "Greenstick fracture of shaft of radius, right arm, sequela"
+	},
+	{
+		"code": "S52311G",
+		"desc": "Greenstick fracture of shaft of radius, right arm, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S52311P",
+		"desc": "Greenstick fracture of shaft of radius, right arm, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S52311K",
+		"desc": "Greenstick fracture of shaft of radius, right arm, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S52311D",
+		"desc": "Greenstick fracture of shaft of radius, right arm, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S52319A",
+		"desc": "Greenstick fracture of shaft of radius, unspecified arm, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52319S",
+		"desc": "Greenstick fracture of shaft of radius, unspecified arm, sequela"
+	},
+	{
+		"code": "S52319G",
+		"desc": "Greenstick fracture of shaft of radius, unspecified arm, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S52319P",
+		"desc": "Greenstick fracture of shaft of radius, unspecified arm, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S52319K",
+		"desc": "Greenstick fracture of shaft of radius, unspecified arm, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S52319D",
+		"desc": "Greenstick fracture of shaft of radius, unspecified arm, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S52211A",
+		"desc": "Greenstick fracture of shaft of right ulna, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52211S",
+		"desc": "Greenstick fracture of shaft of right ulna, sequela"
+	},
+	{
+		"code": "S52211G",
+		"desc": "Greenstick fracture of shaft of right ulna, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S52211P",
+		"desc": "Greenstick fracture of shaft of right ulna, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S52211K",
+		"desc": "Greenstick fracture of shaft of right ulna, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S52211D",
+		"desc": "Greenstick fracture of shaft of right ulna, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S52219A",
+		"desc": "Greenstick fracture of shaft of unspecified ulna, initial encounter for closed fracture"
+	},
+	{
+		"code": "S52219S",
+		"desc": "Greenstick fracture of shaft of unspecified ulna, sequela"
+	},
+	{
+		"code": "S52219G",
+		"desc": "Greenstick fracture of shaft of unspecified ulna, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S52219P",
+		"desc": "Greenstick fracture of shaft of unspecified ulna, subsequent encounter for fracture with malunion"
+	},
+	{
+		"code": "S52219K",
+		"desc": "Greenstick fracture of shaft of unspecified ulna, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S52219D",
+		"desc": "Greenstick fracture of shaft of unspecified ulna, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "P930",
+		"desc": "Grey baby syndrome"
+	},
+	{
+		"code": "R310",
+		"desc": "Gross hematuria"
+	},
+	{
+		"code": "A0425",
+		"desc": "Ground mileage, per statute mile"
+	},
+	{
+		"code": "G0410",
+		"desc": "Group psychotherapy other than of a multiple-family group, in a partial hospitalization or intensive outpatient setting, approximately 45 to 50 minutes"
+	},
+	{
+		"code": "C7903",
+		"desc": "Group psychotherapy service for diagnosis, evaluation, or treatment of a mental health or substance use disorder provided remotely by hospital staff who are licensed to provide mental health services under applicable state law(s), when the patient is in their home, and there is no associated professional service"
+	},
+	{
+		"code": "C1769",
+		"desc": "Guide wire"
+	},
+	{
+		"code": "G610",
+		"desc": "Guillain-Barre syndrome"
+	},
+	{
+		"code": "A664",
+		"desc": "Gummata and ulcers of yaws"
+	},
+	{
+		"code": "L404",
+		"desc": "Guttate psoriasis"
+	},
+	{
+		"code": "F40291",
+		"desc": "Gynephobia"
+	},
+	{
+		"code": "H3123",
+		"desc": "Gyrate atrophy, choroid"
+	}
+]

@@ -3,6 +3,15 @@
   position: relative;
 }
 
+.container2 {
+  max-width: 1250px;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+}
+
 body {
   background-color: lightblue;
 }
@@ -42,7 +51,7 @@ main {
 
 .process {
   display: flex;
-  width: 20em;
+  width: 26em;
   margin-bottom: 1em;
   border: solid 1.5px black;
 }
@@ -51,11 +60,13 @@ main {
 .process-meta li {
   margin-bottom: 20px;
   font-size: 20px;
+  width: 24em;
 }
 
 .process-meta li:last-child {
   margin-bottom: 0;
   font-size: 20px;
+  width: 24em;
 }
 
 .search label {
@@ -73,13 +84,15 @@ main {
   border: solid 1.5px black;
   outline: none;
   border-radius: .3em;
-  width: 18em;
+  width: 24em;
 }
 
 li {
-  font-size: 20px;;
+  font-size: 20px;
+  width: 24em;
 }
 
 box{
   border: solid 1.5px black;
+  width: 24em;
 }

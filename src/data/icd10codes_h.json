@@ -1,0 +1,4782 @@
+[
+	{
+		"code": "O1422",
+		"desc": "HELLP syndrome (HELLP), second trimester"
+	},
+	{
+		"code": "O1423",
+		"desc": "HELLP syndrome (HELLP), third trimester"
+	},
+	{
+		"code": "O1420",
+		"desc": "HELLP syndrome (HELLP), unspecified trimester"
+	},
+	{
+		"code": "O1424",
+		"desc": "HELLP syndrome, complicating childbirth"
+	},
+	{
+		"code": "O1425",
+		"desc": "HELLP syndrome, complicating the puerperium"
+	},
+	{
+		"code": "S8265",
+		"desc": "Haberman feeder for cleft lip/palate"
+	},
+	{
+		"code": "T2013",
+		"desc": "Habilitation, educational, waiver; per hour"
+	},
+	{
+		"code": "T2012",
+		"desc": "Habilitation, educational; waiver, per diem"
+	},
+	{
+		"code": "T2047",
+		"desc": "Habilitation, prevocational, waiver; per 15 minutes"
+	},
+	{
+		"code": "T2014",
+		"desc": "Habilitation, prevocational, waiver; per diem"
+	},
+	{
+		"code": "T2015",
+		"desc": "Habilitation, prevocational, waiver; per hour"
+	},
+	{
+		"code": "T2017",
+		"desc": "Habilitation, residential, waiver; 15 minutes"
+	},
+	{
+		"code": "T2016",
+		"desc": "Habilitation, residential, waiver; per diem"
+	},
+	{
+		"code": "T2019",
+		"desc": "Habilitation, supported employment, waiver; per 15 minutes"
+	},
+	{
+		"code": "T2018",
+		"desc": "Habilitation, supported employment, waiver; per diem"
+	},
+	{
+		"code": "P2031",
+		"desc": "Hair analysis (excluding arsenic)"
+	},
+	{
+		"code": "W4901XA",
+		"desc": "Hair causing external constriction, initial encounter"
+	},
+	{
+		"code": "W4901XS",
+		"desc": "Hair causing external constriction, sequela"
+	},
+	{
+		"code": "W4901XD",
+		"desc": "Hair causing external constriction, subsequent encounter"
+	},
+	{
+		"code": "L679",
+		"desc": "Hair color and hair shaft abnormality, unspecified"
+	},
+	{
+		"code": "C9140",
+		"desc": "Hairy cell leukemia not having achieved remission"
+	},
+	{
+		"code": "C9142",
+		"desc": "Hairy cell leukemia, in relapse"
+	},
+	{
+		"code": "C9141",
+		"desc": "Hairy cell leukemia, in remission"
+	},
+	{
+		"code": "K133",
+		"desc": "Hairy leukoplakia"
+	},
+	{
+		"code": "R196",
+		"desc": "Halitosis"
+	},
+	{
+		"code": "G230",
+		"desc": "Hallervorden-Spatz disease"
+	},
+	{
+		"code": "R443",
+		"desc": "Hallucinations, unspecified"
+	},
+	{
+		"code": "F16183",
+		"desc": "Hallucinogen abuse with hallucinogen persisting perception disorder (flashbacks)"
+	},
+	{
+		"code": "F16180",
+		"desc": "Hallucinogen abuse with hallucinogen-induced anxiety disorder"
+	},
+	{
+		"code": "F1614",
+		"desc": "Hallucinogen abuse with hallucinogen-induced mood disorder"
+	},
+	{
+		"code": "F16150",
+		"desc": "Hallucinogen abuse with hallucinogen-induced psychotic disorder with delusions"
+	},
+	{
+		"code": "F16151",
+		"desc": "Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations"
+	},
+	{
+		"code": "F16159",
+		"desc": "Hallucinogen abuse with hallucinogen-induced psychotic disorder, unspecified"
+	},
+	{
+		"code": "F16121",
+		"desc": "Hallucinogen abuse with intoxication with delirium"
+	},
+	{
+		"code": "F16122",
+		"desc": "Hallucinogen abuse with intoxication with perceptual disturbance"
+	},
+	{
+		"code": "F16120",
+		"desc": "Hallucinogen abuse with intoxication, uncomplicated"
+	},
+	{
+		"code": "F16129",
+		"desc": "Hallucinogen abuse with intoxication, unspecified"
+	},
+	{
+		"code": "F16188",
+		"desc": "Hallucinogen abuse with other hallucinogen-induced disorder"
+	},
+	{
+		"code": "F1619",
+		"desc": "Hallucinogen abuse with unspecified hallucinogen-induced disorder"
+	},
+	{
+		"code": "F1611",
+		"desc": "Hallucinogen abuse, in remission"
+	},
+	{
+		"code": "F1610",
+		"desc": "Hallucinogen abuse, uncomplicated"
+	},
+	{
+		"code": "F16283",
+		"desc": "Hallucinogen dependence with hallucinogen persisting perception disorder (flashbacks)"
+	},
+	{
+		"code": "F16280",
+		"desc": "Hallucinogen dependence with hallucinogen-induced anxiety disorder"
+	},
+	{
+		"code": "F1624",
+		"desc": "Hallucinogen dependence with hallucinogen-induced mood disorder"
+	},
+	{
+		"code": "F16250",
+		"desc": "Hallucinogen dependence with hallucinogen-induced psychotic disorder with delusions"
+	},
+	{
+		"code": "F16251",
+		"desc": "Hallucinogen dependence with hallucinogen-induced psychotic disorder with hallucinations"
+	},
+	{
+		"code": "F16259",
+		"desc": "Hallucinogen dependence with hallucinogen-induced psychotic disorder, unspecified"
+	},
+	{
+		"code": "F16221",
+		"desc": "Hallucinogen dependence with intoxication with delirium"
+	},
+	{
+		"code": "F16220",
+		"desc": "Hallucinogen dependence with intoxication, uncomplicated"
+	},
+	{
+		"code": "F16229",
+		"desc": "Hallucinogen dependence with intoxication, unspecified"
+	},
+	{
+		"code": "F16288",
+		"desc": "Hallucinogen dependence with other hallucinogen-induced disorder"
+	},
+	{
+		"code": "F1629",
+		"desc": "Hallucinogen dependence with unspecified hallucinogen-induced disorder"
+	},
+	{
+		"code": "F1621",
+		"desc": "Hallucinogen dependence, in remission"
+	},
+	{
+		"code": "F1620",
+		"desc": "Hallucinogen dependence, uncomplicated"
+	},
+	{
+		"code": "F16983",
+		"desc": "Hallucinogen use, unspecified with hallucinogen persisting perception disorder (flashbacks)"
+	},
+	{
+		"code": "F16980",
+		"desc": "Hallucinogen use, unspecified with hallucinogen-induced anxiety disorder"
+	},
+	{
+		"code": "F1694",
+		"desc": "Hallucinogen use, unspecified with hallucinogen-induced mood disorder"
+	},
+	{
+		"code": "F16950",
+		"desc": "Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with delusions"
+	},
+	{
+		"code": "F16951",
+		"desc": "Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with hallucinations"
+	},
+	{
+		"code": "F16959",
+		"desc": "Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder, unspecified"
+	},
+	{
+		"code": "F16921",
+		"desc": "Hallucinogen use, unspecified with intoxication with delirium"
+	},
+	{
+		"code": "F16920",
+		"desc": "Hallucinogen use, unspecified with intoxication, uncomplicated"
+	},
+	{
+		"code": "F16929",
+		"desc": "Hallucinogen use, unspecified with intoxication, unspecified"
+	},
+	{
+		"code": "F16988",
+		"desc": "Hallucinogen use, unspecified with other hallucinogen-induced disorder"
+	},
+	{
+		"code": "F1699",
+		"desc": "Hallucinogen use, unspecified with unspecified hallucinogen-induced disorder"
+	},
+	{
+		"code": "F1690",
+		"desc": "Hallucinogen use, unspecified, uncomplicated"
+	},
+	{
+		"code": "L3100",
+		"desc": "Hallus-valgus night dynamic splint, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L8642",
+		"desc": "Hallux implant"
+	},
+	{
+		"code": "M2022",
+		"desc": "Hallux rigidus, left foot"
+	},
+	{
+		"code": "M2021",
+		"desc": "Hallux rigidus, right foot"
+	},
+	{
+		"code": "M2020",
+		"desc": "Hallux rigidus, unspecified foot"
+	},
+	{
+		"code": "M2012",
+		"desc": "Hallux valgus (acquired), left foot"
+	},
+	{
+		"code": "M2011",
+		"desc": "Hallux valgus (acquired), right foot"
+	},
+	{
+		"code": "M2010",
+		"desc": "Hallux valgus (acquired), unspecified foot"
+	},
+	{
+		"code": "M2032",
+		"desc": "Hallux varus (acquired), left foot"
+	},
+	{
+		"code": "M2031",
+		"desc": "Hallux varus (acquired), right foot"
+	},
+	{
+		"code": "M2030",
+		"desc": "Hallux varus (acquired), unspecified foot"
+	},
+	{
+		"code": "L0810",
+		"desc": "Halo procedure, cervical halo incorporated into jacket vest"
+	},
+	{
+		"code": "L0830",
+		"desc": "Halo procedure, cervical halo incorporated into milwaukee type orthosis"
+	},
+	{
+		"code": "L0820",
+		"desc": "Halo procedure, cervical halo incorporated into plaster body jacket"
+	},
+	{
+		"code": "L3912",
+		"desc": "Hand finger orthosis (hfo), flexion glove with elastic finger control, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L3929",
+		"desc": "Hand finger orthosis, includes one or more nontorsion joint(s), turnbuckles, elastic bands/springs, may include soft interface material, straps, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L3930",
+		"desc": "Hand finger orthosis, includes one or more nontorsion joint(s), turnbuckles, elastic bands/springs, may include soft interface material, straps, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L3921",
+		"desc": "Hand finger orthosis, includes one or more nontorsion joints, elastic bands, turnbuckles, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3913",
+		"desc": "Hand finger orthosis, without joints, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3923",
+		"desc": "Hand finger orthosis, without joints, may include soft interface, straps, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L3924",
+		"desc": "Hand finger orthosis, without joints, may include soft interface, straps, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "V2600",
+		"desc": "Hand held low vision aids and other nonspectacle mounted aids"
+	},
+	{
+		"code": "L3917",
+		"desc": "Hand orthosis, metacarpal fracture orthosis, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L3918",
+		"desc": "Hand orthosis, metacarpal fracture orthosis, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L3919",
+		"desc": "Hand orthosis, without joints, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L6905",
+		"desc": "Hand restoration (casts, shading and measurements included), partial hand, with glove, multiple fingers remaining"
+	},
+	{
+		"code": "L6910",
+		"desc": "Hand restoration (casts, shading and measurements included), partial hand, with glove, no fingers remaining"
+	},
+	{
+		"code": "L6900",
+		"desc": "Hand restoration (casts, shading and measurements included), partial hand, with glove, thumb or one finger remaining"
+	},
+	{
+		"code": "L6915",
+		"desc": "Hand restoration (shading, and measurements included), replacement glove for above"
+	},
+	{
+		"code": "Y22XXXA",
+		"desc": "Handgun discharge, undetermined intent, initial encounter"
+	},
+	{
+		"code": "Y22XXXS",
+		"desc": "Handgun discharge, undetermined intent, sequela"
+	},
+	{
+		"code": "Y22XXXD",
+		"desc": "Handgun discharge, undetermined intent, subsequent encounter"
+	},
+	{
+		"code": "V9613XA",
+		"desc": "Hang-glider collision injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9613XS",
+		"desc": "Hang-glider collision injuring occupant, sequela"
+	},
+	{
+		"code": "V9613XD",
+		"desc": "Hang-glider collision injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9611XA",
+		"desc": "Hang-glider crash injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9611XS",
+		"desc": "Hang-glider crash injuring occupant, sequela"
+	},
+	{
+		"code": "V9611XD",
+		"desc": "Hang-glider crash injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9615XA",
+		"desc": "Hang-glider explosion injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9615XS",
+		"desc": "Hang-glider explosion injuring occupant, sequela"
+	},
+	{
+		"code": "V9615XD",
+		"desc": "Hang-glider explosion injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9614XA",
+		"desc": "Hang-glider fire injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9614XS",
+		"desc": "Hang-glider fire injuring occupant, sequela"
+	},
+	{
+		"code": "V9614XD",
+		"desc": "Hang-glider fire injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "B334",
+		"desc": "Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]"
+	},
+	{
+		"code": "H30813",
+		"desc": "Harada's disease, bilateral"
+	},
+	{
+		"code": "H30812",
+		"desc": "Harada's disease, left eye"
+	},
+	{
+		"code": "H30811",
+		"desc": "Harada's disease, right eye"
+	},
+	{
+		"code": "H30819",
+		"desc": "Harada's disease, unspecified eye"
+	},
+	{
+		"code": "Q804",
+		"desc": "Harlequin fetus"
+	},
+	{
+		"code": "E7202",
+		"desc": "Hartnup's disease"
+	},
+	{
+		"code": "S2055",
+		"desc": "Harvesting of donor multivisceral organs, with preparation and maintenance of allografts; from cadaver donor"
+	},
+	{
+		"code": "D5701",
+		"desc": "Hb-SS disease with acute chest syndrome"
+	},
+	{
+		"code": "D5700",
+		"desc": "Hb-SS disease with crisis, unspecified"
+	},
+	{
+		"code": "D5702",
+		"desc": "Hb-SS disease with splenic sequestration"
+	},
+	{
+		"code": "R51",
+		"desc": "Headache"
+	},
+	{
+		"code": "G4482",
+		"desc": "Headache associated with sexual activity"
+	},
+	{
+		"code": "A7035",
+		"desc": "Headgear used with positive airway pressure device"
+	},
+	{
+		"code": "L8615",
+		"desc": "Headset/headpiece for use with cochlear implant device, replacement"
+	},
+	{
+		"code": "G2021",
+		"desc": "Health care practitioners rendering treatment in place (tip)"
+	},
+	{
+		"code": "Y92531",
+		"desc": "Health care provider office as the place of occurrence of the external cause"
+	},
+	{
+		"code": "S9970",
+		"desc": "Health club membership, annual"
+	},
+	{
+		"code": "Z00111",
+		"desc": "Health examination for newborn 8 to 28 days old"
+	},
+	{
+		"code": "Z00110",
+		"desc": "Health examination for newborn under 8 days old"
+	},
+	{
+		"code": "G9634",
+		"desc": "Health-related quality of life assessed with tool during at least two visits and quality of life score remained the same or improved\n                                    \n                                        \n                                        Terminated December 31, 2021."
+	},
+	{
+		"code": "G9636",
+		"desc": "Health-related quality of life not assessed with tool during at least two visits or quality of life score declined\n                                    \n                                        \n                                        Terminated December 31, 2021."
+	},
+	{
+		"code": "G9635",
+		"desc": "Health-related quality of life not assessed with tool for documented reason(s) (e.g., patient has a cognitive or neuropsychiatric impairment that impairs his/her ability to complete the hrqol survey, patient has the inability to read and/or write in order to complete the hrqol questionnaire)\n                                    \n                                        \n                                        Terminated December 31, 2021."
+	},
+	{
+		"code": "Z763",
+		"desc": "Healthy person accompanying sick person"
+	},
+	{
+		"code": "V5267",
+		"desc": "Hearing aid or assistive listening device/supplies/accessories, not otherwise specified"
+	},
+	{
+		"code": "V5248",
+		"desc": "Hearing aid, analog, binaural, cic"
+	},
+	{
+		"code": "V5249",
+		"desc": "Hearing aid, analog, binaural, itc"
+	},
+	{
+		"code": "V5242",
+		"desc": "Hearing aid, analog, monaural, cic (completely in the ear canal)"
+	},
+	{
+		"code": "V5243",
+		"desc": "Hearing aid, analog, monaural, itc (in the canal)"
+	},
+	{
+		"code": "V5220",
+		"desc": "Hearing aid, bicros, behind the ear\n                                    \n                                        \n                                        Terminated December 31, 2018."
+	},
+	{
+		"code": "V5210",
+		"desc": "Hearing aid, bicros, in the ear\n                                    \n                                        \n                                        Terminated December 31, 2018."
+	},
+	{
+		"code": "V5100",
+		"desc": "Hearing aid, bilateral, body worn"
+	},
+	{
+		"code": "V5181",
+		"desc": "Hearing aid, contralateral routing device, monaural, behind the ear (bte)"
+	},
+	{
+		"code": "V5172",
+		"desc": "Hearing aid, contralateral routing device, monaural, in the canal (itc)"
+	},
+	{
+		"code": "V5171",
+		"desc": "Hearing aid, contralateral routing device, monaural, in the ear (ite)"
+	},
+	{
+		"code": "V5221",
+		"desc": "Hearing aid, contralateral routing system, binaural, bte/bte"
+	},
+	{
+		"code": "V5230",
+		"desc": "Hearing aid, contralateral routing system, binaural, glasses"
+	},
+	{
+		"code": "V5215",
+		"desc": "Hearing aid, contralateral routing system, binaural, itc/bte"
+	},
+	{
+		"code": "V5214",
+		"desc": "Hearing aid, contralateral routing system, binaural, itc/itc"
+	},
+	{
+		"code": "V5213",
+		"desc": "Hearing aid, contralateral routing system, binaural, ite/bte"
+	},
+	{
+		"code": "V5212",
+		"desc": "Hearing aid, contralateral routing system, binaural, ite/itc"
+	},
+	{
+		"code": "V5211",
+		"desc": "Hearing aid, contralateral routing system, binaural, ite/ite"
+	},
+	{
+		"code": "V5190",
+		"desc": "Hearing aid, contralateral routing, monaural, glasses"
+	},
+	{
+		"code": "V5180",
+		"desc": "Hearing aid, cros, behind the ear\n                                    \n                                        \n                                        Terminated December 31, 2018."
+	},
+	{
+		"code": "V5170",
+		"desc": "Hearing aid, cros, in the ear\n                                    \n                                        \n                                        Terminated December 31, 2018."
+	},
+	{
+		"code": "V5261",
+		"desc": "Hearing aid, digital, binaural, bte"
+	},
+	{
+		"code": "V5258",
+		"desc": "Hearing aid, digital, binaural, cic"
+	},
+	{
+		"code": "V5259",
+		"desc": "Hearing aid, digital, binaural, itc"
+	},
+	{
+		"code": "V5260",
+		"desc": "Hearing aid, digital, binaural, ite"
+	},
+	{
+		"code": "V5257",
+		"desc": "Hearing aid, digital, monaural, bte"
+	},
+	{
+		"code": "V5254",
+		"desc": "Hearing aid, digital, monaural, cic"
+	},
+	{
+		"code": "V5255",
+		"desc": "Hearing aid, digital, monaural, itc"
+	},
+	{
+		"code": "V5256",
+		"desc": "Hearing aid, digital, monaural, ite"
+	},
+	{
+		"code": "V5250",
+		"desc": "Hearing aid, digitally programmable analog, binaural, cic"
+	},
+	{
+		"code": "V5251",
+		"desc": "Hearing aid, digitally programmable analog, binaural, itc"
+	},
+	{
+		"code": "V5247",
+		"desc": "Hearing aid, digitally programmable analog, monaural, bte (behind the ear)"
+	},
+	{
+		"code": "V5244",
+		"desc": "Hearing aid, digitally programmable analog, monaural, cic"
+	},
+	{
+		"code": "V5246",
+		"desc": "Hearing aid, digitally programmable analog, monaural, ite (in the ear)"
+	},
+	{
+		"code": "V5245",
+		"desc": "Hearing aid, digitally programmable, analog, monaural, itc"
+	},
+	{
+		"code": "V5253",
+		"desc": "Hearing aid, digitally programmable, binaural, bte"
+	},
+	{
+		"code": "V5252",
+		"desc": "Hearing aid, digitally programmable, binaural, ite"
+	},
+	{
+		"code": "V5263",
+		"desc": "Hearing aid, disposable, any type, binaural"
+	},
+	{
+		"code": "V5262",
+		"desc": "Hearing aid, disposable, any type, monaural"
+	},
+	{
+		"code": "V5060",
+		"desc": "Hearing aid, monaural, behind the ear"
+	},
+	{
+		"code": "V5030",
+		"desc": "Hearing aid, monaural, body worn, air conduction"
+	},
+	{
+		"code": "V5040",
+		"desc": "Hearing aid, monaural, body worn, bone conduction"
+	},
+	{
+		"code": "V5050",
+		"desc": "Hearing aid, monaural, in the ear"
+	},
+	{
+		"code": "V5298",
+		"desc": "Hearing aid, not otherwise classified"
+	},
+	{
+		"code": "V5008",
+		"desc": "Hearing screening"
+	},
+	{
+		"code": "V5299",
+		"desc": "Hearing service, miscellaneous"
+	},
+	{
+		"code": "Z943",
+		"desc": "Heart and lungs transplant status"
+	},
+	{
+		"code": "I519",
+		"desc": "Heart disease, unspecified"
+	},
+	{
+		"code": "I509",
+		"desc": "Heart failure, unspecified"
+	},
+	{
+		"code": "T8622",
+		"desc": "Heart transplant failure"
+	},
+	{
+		"code": "T8623",
+		"desc": "Heart transplant infection"
+	},
+	{
+		"code": "T8621",
+		"desc": "Heart transplant rejection"
+	},
+	{
+		"code": "Z941",
+		"desc": "Heart transplant status"
+	},
+	{
+		"code": "T8632",
+		"desc": "Heart-lung transplant failure"
+	},
+	{
+		"code": "T8633",
+		"desc": "Heart-lung transplant infection"
+	},
+	{
+		"code": "T8631",
+		"desc": "Heart-lung transplant rejection"
+	},
+	{
+		"code": "R12",
+		"desc": "Heartburn"
+	},
+	{
+		"code": "T672XXA",
+		"desc": "Heat cramp, initial encounter"
+	},
+	{
+		"code": "T672XXS",
+		"desc": "Heat cramp, sequela"
+	},
+	{
+		"code": "T672XXD",
+		"desc": "Heat cramp, subsequent encounter"
+	},
+	{
+		"code": "T677XXA",
+		"desc": "Heat edema, initial encounter"
+	},
+	{
+		"code": "T677XXS",
+		"desc": "Heat edema, sequela"
+	},
+	{
+		"code": "T677XXD",
+		"desc": "Heat edema, subsequent encounter"
+	},
+	{
+		"code": "T674XXA",
+		"desc": "Heat exhaustion due to salt depletion, initial encounter"
+	},
+	{
+		"code": "T674XXS",
+		"desc": "Heat exhaustion due to salt depletion, sequela"
+	},
+	{
+		"code": "T674XXD",
+		"desc": "Heat exhaustion due to salt depletion, subsequent encounter"
+	},
+	{
+		"code": "T673XXA",
+		"desc": "Heat exhaustion, anhydrotic, initial encounter"
+	},
+	{
+		"code": "T673XXS",
+		"desc": "Heat exhaustion, anhydrotic, sequela"
+	},
+	{
+		"code": "T673XXD",
+		"desc": "Heat exhaustion, anhydrotic, subsequent encounter"
+	},
+	{
+		"code": "T675XXA",
+		"desc": "Heat exhaustion, unspecified, initial encounter"
+	},
+	{
+		"code": "T675XXS",
+		"desc": "Heat exhaustion, unspecified, sequela"
+	},
+	{
+		"code": "T675XXD",
+		"desc": "Heat exhaustion, unspecified, subsequent encounter"
+	},
+	{
+		"code": "V9322XA",
+		"desc": "Heat exposure on board fishing boat, initial encounter"
+	},
+	{
+		"code": "V9322XS",
+		"desc": "Heat exposure on board fishing boat, sequela"
+	},
+	{
+		"code": "V9322XD",
+		"desc": "Heat exposure on board fishing boat, subsequent encounter"
+	},
+	{
+		"code": "V9320XA",
+		"desc": "Heat exposure on board merchant ship, initial encounter"
+	},
+	{
+		"code": "V9320XS",
+		"desc": "Heat exposure on board merchant ship, sequela"
+	},
+	{
+		"code": "V9320XD",
+		"desc": "Heat exposure on board merchant ship, subsequent encounter"
+	},
+	{
+		"code": "V9323XA",
+		"desc": "Heat exposure on board other powered watercraft, initial encounter"
+	},
+	{
+		"code": "V9323XS",
+		"desc": "Heat exposure on board other powered watercraft, sequela"
+	},
+	{
+		"code": "V9323XD",
+		"desc": "Heat exposure on board other powered watercraft, subsequent encounter"
+	},
+	{
+		"code": "V9321XA",
+		"desc": "Heat exposure on board passenger ship, initial encounter"
+	},
+	{
+		"code": "V9321XS",
+		"desc": "Heat exposure on board passenger ship, sequela"
+	},
+	{
+		"code": "V9321XD",
+		"desc": "Heat exposure on board passenger ship, subsequent encounter"
+	},
+	{
+		"code": "V9324XA",
+		"desc": "Heat exposure on board sailboat, initial encounter"
+	},
+	{
+		"code": "V9324XS",
+		"desc": "Heat exposure on board sailboat, sequela"
+	},
+	{
+		"code": "V9324XD",
+		"desc": "Heat exposure on board sailboat, subsequent encounter"
+	},
+	{
+		"code": "V9329XA",
+		"desc": "Heat exposure on board unspecified watercraft, initial encounter"
+	},
+	{
+		"code": "V9329XS",
+		"desc": "Heat exposure on board unspecified watercraft, sequela"
+	},
+	{
+		"code": "V9329XD",
+		"desc": "Heat exposure on board unspecified watercraft, subsequent encounter"
+	},
+	{
+		"code": "T676XXA",
+		"desc": "Heat fatigue, transient, initial encounter"
+	},
+	{
+		"code": "T676XXS",
+		"desc": "Heat fatigue, transient, sequela"
+	},
+	{
+		"code": "T676XXD",
+		"desc": "Heat fatigue, transient, subsequent encounter"
+	},
+	{
+		"code": "E0205",
+		"desc": "Heat lamp, with stand, includes bulb, or infrared element"
+	},
+	{
+		"code": "E0200",
+		"desc": "Heat lamp, without stand (table model), includes bulb, or infrared element"
+	},
+	{
+		"code": "T671XXA",
+		"desc": "Heat syncope, initial encounter"
+	},
+	{
+		"code": "T671XXS",
+		"desc": "Heat syncope, sequela"
+	},
+	{
+		"code": "T671XXD",
+		"desc": "Heat syncope, subsequent encounter"
+	},
+	{
+		"code": "T670XXA",
+		"desc": "Heatstroke and sunstroke, initial encounter"
+	},
+	{
+		"code": "T670XXS",
+		"desc": "Heatstroke and sunstroke, sequela"
+	},
+	{
+		"code": "T670XXD",
+		"desc": "Heatstroke and sunstroke, subsequent encounter"
+	},
+	{
+		"code": "C882",
+		"desc": "Heavy chain disease"
+	},
+	{
+		"code": "E1017",
+		"desc": "Heavy duty shock absorber for heavy duty or extra heavy duty manual wheelchair, each"
+	},
+	{
+		"code": "E1018",
+		"desc": "Heavy duty shock absorber for heavy duty or extra heavy duty power wheelchair, each"
+	},
+	{
+		"code": "K0006",
+		"desc": "Heavy duty wheelchair"
+	},
+	{
+		"code": "E1280",
+		"desc": "Heavy duty wheelchair, detachable arms (desk or full length) elevating legrests"
+	},
+	{
+		"code": "E1290",
+		"desc": "Heavy duty wheelchair, detachable arms (desk or full length) swing away detachable footrest"
+	},
+	{
+		"code": "E1295",
+		"desc": "Heavy duty wheelchair, fixed full length arms, elevating legrest"
+	},
+	{
+		"code": "E1195",
+		"desc": "Heavy duty wheelchair, fixed full length arms, swing away detachable elevating legrests"
+	},
+	{
+		"code": "E1285",
+		"desc": "Heavy duty wheelchair, fixed full length arms, swing away detachable footrest"
+	},
+	{
+		"code": "M151",
+		"desc": "Heberden's nodes (with arthropathy)"
+	},
+	{
+		"code": "E0951",
+		"desc": "Heel loop/holder, any type, with or without ankle strap, each"
+	},
+	{
+		"code": "E0191",
+		"desc": "Heel or elbow protector, each"
+	},
+	{
+		"code": "L3350",
+		"desc": "Heel wedge"
+	},
+	{
+		"code": "L3340",
+		"desc": "Heel wedge, sach"
+	},
+	{
+		"code": "L3440",
+		"desc": "Heel, counter, leather reinforced"
+	},
+	{
+		"code": "L3430",
+		"desc": "Heel, counter, plastic reinforced"
+	},
+	{
+		"code": "L3455",
+		"desc": "Heel, new leather, standard"
+	},
+	{
+		"code": "L3460",
+		"desc": "Heel, new rubber, standard"
+	},
+	{
+		"code": "L3480",
+		"desc": "Heel, pad and depression for spur"
+	},
+	{
+		"code": "L3485",
+		"desc": "Heel, pad, removable for spur"
+	},
+	{
+		"code": "L3450",
+		"desc": "Heel, sach cushion type"
+	},
+	{
+		"code": "L3470",
+		"desc": "Heel, thomas extended to ball"
+	},
+	{
+		"code": "L3465",
+		"desc": "Heel, thomas with wedge"
+	},
+	{
+		"code": "V00152A",
+		"desc": "Heelies colliding with stationary object, initial encounter"
+	},
+	{
+		"code": "V00152S",
+		"desc": "Heelies colliding with stationary object, sequela"
+	},
+	{
+		"code": "V00152D",
+		"desc": "Heelies colliding with stationary object, subsequent encounter"
+	},
+	{
+		"code": "B9681",
+		"desc": "Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "Q4164",
+		"desc": "Helicoll, per square centimeter"
+	},
+	{
+		"code": "V9503XA",
+		"desc": "Helicopter collision injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9503XS",
+		"desc": "Helicopter collision injuring occupant, sequela"
+	},
+	{
+		"code": "V9503XD",
+		"desc": "Helicopter collision injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9501XA",
+		"desc": "Helicopter crash injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9501XS",
+		"desc": "Helicopter crash injuring occupant, sequela"
+	},
+	{
+		"code": "V9501XD",
+		"desc": "Helicopter crash injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9505XA",
+		"desc": "Helicopter explosion injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9505XS",
+		"desc": "Helicopter explosion injuring occupant, sequela"
+	},
+	{
+		"code": "V9505XD",
+		"desc": "Helicopter explosion injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "V9504XA",
+		"desc": "Helicopter fire injuring occupant, initial encounter"
+	},
+	{
+		"code": "V9504XS",
+		"desc": "Helicopter fire injuring occupant, sequela"
+	},
+	{
+		"code": "V9504XD",
+		"desc": "Helicopter fire injuring occupant, subsequent encounter"
+	},
+	{
+		"code": "A8003",
+		"desc": "Helmet, protective, hard, custom fabricated, includes all components and accessories"
+	},
+	{
+		"code": "A8001",
+		"desc": "Helmet, protective, hard, prefabricated, includes all components and accessories"
+	},
+	{
+		"code": "A8002",
+		"desc": "Helmet, protective, soft, custom fabricated, includes all components and accessories"
+	},
+	{
+		"code": "A8000",
+		"desc": "Helmet, protective, soft, prefabricated, includes all components and accessories"
+	},
+	{
+		"code": "B839",
+		"desc": "Helminthiasis, unspecified"
+	},
+	{
+		"code": "D1803",
+		"desc": "Hemangioma of intra-abdominal structures"
+	},
+	{
+		"code": "D1802",
+		"desc": "Hemangioma of intracranial structures"
+	},
+	{
+		"code": "D1809",
+		"desc": "Hemangioma of other sites"
+	},
+	{
+		"code": "D1801",
+		"desc": "Hemangioma of skin and subcutaneous tissue"
+	},
+	{
+		"code": "D1800",
+		"desc": "Hemangioma unspecified site"
+	},
+	{
+		"code": "M25072",
+		"desc": "Hemarthrosis, left ankle"
+	},
+	{
+		"code": "M25022",
+		"desc": "Hemarthrosis, left elbow"
+	},
+	{
+		"code": "M25075",
+		"desc": "Hemarthrosis, left foot"
+	},
+	{
+		"code": "M25042",
+		"desc": "Hemarthrosis, left hand"
+	},
+	{
+		"code": "M25052",
+		"desc": "Hemarthrosis, left hip"
+	},
+	{
+		"code": "M25062",
+		"desc": "Hemarthrosis, left knee"
+	},
+	{
+		"code": "M25012",
+		"desc": "Hemarthrosis, left shoulder"
+	},
+	{
+		"code": "M25032",
+		"desc": "Hemarthrosis, left wrist"
+	},
+	{
+		"code": "M2508",
+		"desc": "Hemarthrosis, other specified site"
+	},
+	{
+		"code": "M25071",
+		"desc": "Hemarthrosis, right ankle"
+	},
+	{
+		"code": "M25021",
+		"desc": "Hemarthrosis, right elbow"
+	},
+	{
+		"code": "M25074",
+		"desc": "Hemarthrosis, right foot"
+	},
+	{
+		"code": "M25041",
+		"desc": "Hemarthrosis, right hand"
+	},
+	{
+		"code": "M25051",
+		"desc": "Hemarthrosis, right hip"
+	},
+	{
+		"code": "M25061",
+		"desc": "Hemarthrosis, right knee"
+	},
+	{
+		"code": "M25011",
+		"desc": "Hemarthrosis, right shoulder"
+	},
+	{
+		"code": "M25031",
+		"desc": "Hemarthrosis, right wrist"
+	},
+	{
+		"code": "M25073",
+		"desc": "Hemarthrosis, unspecified ankle"
+	},
+	{
+		"code": "M25029",
+		"desc": "Hemarthrosis, unspecified elbow"
+	},
+	{
+		"code": "M25076",
+		"desc": "Hemarthrosis, unspecified foot"
+	},
+	{
+		"code": "M25049",
+		"desc": "Hemarthrosis, unspecified hand"
+	},
+	{
+		"code": "M25059",
+		"desc": "Hemarthrosis, unspecified hip"
+	},
+	{
+		"code": "M2500",
+		"desc": "Hemarthrosis, unspecified joint"
+	},
+	{
+		"code": "M25069",
+		"desc": "Hemarthrosis, unspecified knee"
+	},
+	{
+		"code": "M25019",
+		"desc": "Hemarthrosis, unspecified shoulder"
+	},
+	{
+		"code": "M25039",
+		"desc": "Hemarthrosis, unspecified wrist"
+	},
+	{
+		"code": "K920",
+		"desc": "Hematemesis"
+	},
+	{
+		"code": "N897",
+		"desc": "Hematocolpos"
+	},
+	{
+		"code": "N837",
+		"desc": "Hematoma of broad ligament"
+	},
+	{
+		"code": "O902",
+		"desc": "Hematoma of obstetric wound"
+	},
+	{
+		"code": "H61123",
+		"desc": "Hematoma of pinna, bilateral"
+	},
+	{
+		"code": "H61122",
+		"desc": "Hematoma of pinna, left ear"
+	},
+	{
+		"code": "H61121",
+		"desc": "Hematoma of pinna, right ear"
+	},
+	{
+		"code": "H61129",
+		"desc": "Hematoma of pinna, unspecified ear"
+	},
+	{
+		"code": "N857",
+		"desc": "Hematometra"
+	},
+	{
+		"code": "N836",
+		"desc": "Hematosalpinx"
+	},
+	{
+		"code": "R361",
+		"desc": "Hematospermia"
+	},
+	{
+		"code": "R319",
+		"desc": "Hematuria, unspecified"
+	},
+	{
+		"code": "L8044",
+		"desc": "Hemi-facial prosthesis, provided by a non-physician"
+	},
+	{
+		"code": "E1086",
+		"desc": "Hemi-wheelchair detachable arms desk or full length, swing away detachable footrests"
+	},
+	{
+		"code": "E1084",
+		"desc": "Hemi-wheelchair, detachable arms desk or full length arms, swing away detachable elevating leg rests"
+	},
+	{
+		"code": "E1083",
+		"desc": "Hemi-wheelchair, fixed full length arms, swing away detachable elevating leg rest"
+	},
+	{
+		"code": "E1085",
+		"desc": "Hemi-wheelchair, fixed full length arms, swing away detachable foot rests"
+	},
+	{
+		"code": "G4451",
+		"desc": "Hemicrania continua"
+	},
+	{
+		"code": "L5341",
+		"desc": "Hemipelvectomy, canadian type, molded socket, endoskeletal system, hip joint, single axis knee, sach foot"
+	},
+	{
+		"code": "L5280",
+		"desc": "Hemipelvectomy, canadian type; molded socket, hip joint, single axis constant friction knee, shin, sach foot"
+	},
+	{
+		"code": "I69352",
+		"desc": "Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side"
+	},
+	{
+		"code": "I69354",
+		"desc": "Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side"
+	},
+	{
+		"code": "I69351",
+		"desc": "Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side"
+	},
+	{
+		"code": "I69353",
+		"desc": "Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side"
+	},
+	{
+		"code": "I69359",
+		"desc": "Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side"
+	},
+	{
+		"code": "I69152",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left dominant side"
+	},
+	{
+		"code": "I69154",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left non-dominant side"
+	},
+	{
+		"code": "I69151",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right dominant side"
+	},
+	{
+		"code": "I69153",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right non-dominant side"
+	},
+	{
+		"code": "I69159",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting unspecified side"
+	},
+	{
+		"code": "I69052",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left dominant side"
+	},
+	{
+		"code": "I69054",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left non-dominant side"
+	},
+	{
+		"code": "I69051",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right dominant side"
+	},
+	{
+		"code": "I69053",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right non-dominant side"
+	},
+	{
+		"code": "I69059",
+		"desc": "Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting unspecified side"
+	},
+	{
+		"code": "I69852",
+		"desc": "Hemiplegia and hemiparesis following other cerebrovascular disease affecting left dominant side"
+	},
+	{
+		"code": "I69854",
+		"desc": "Hemiplegia and hemiparesis following other cerebrovascular disease affecting left non-dominant side"
+	},
+	{
+		"code": "I69851",
+		"desc": "Hemiplegia and hemiparesis following other cerebrovascular disease affecting right dominant side"
+	},
+	{
+		"code": "I69853",
+		"desc": "Hemiplegia and hemiparesis following other cerebrovascular disease affecting right non-dominant side"
+	},
+	{
+		"code": "I69859",
+		"desc": "Hemiplegia and hemiparesis following other cerebrovascular disease affecting unspecified side"
+	},
+	{
+		"code": "I69252",
+		"desc": "Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left dominant side"
+	},
+	{
+		"code": "I69254",
+		"desc": "Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left non-dominant side"
+	},
+	{
+		"code": "I69251",
+		"desc": "Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right dominant side"
+	},
+	{
+		"code": "I69253",
+		"desc": "Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right non-dominant side"
+	},
+	{
+		"code": "I69259",
+		"desc": "Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting unspecified side"
+	},
+	{
+		"code": "I69952",
+		"desc": "Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left dominant side"
+	},
+	{
+		"code": "I69954",
+		"desc": "Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left non-dominant side"
+	},
+	{
+		"code": "I69951",
+		"desc": "Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right dominant side"
+	},
+	{
+		"code": "I69953",
+		"desc": "Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right non-dominant side"
+	},
+	{
+		"code": "I69959",
+		"desc": "Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting unspecified side"
+	},
+	{
+		"code": "G8192",
+		"desc": "Hemiplegia, unspecified affecting left dominant side"
+	},
+	{
+		"code": "G8194",
+		"desc": "Hemiplegia, unspecified affecting left nondominant side"
+	},
+	{
+		"code": "G8191",
+		"desc": "Hemiplegia, unspecified affecting right dominant side"
+	},
+	{
+		"code": "G8193",
+		"desc": "Hemiplegia, unspecified affecting right nondominant side"
+	},
+	{
+		"code": "G8190",
+		"desc": "Hemiplegia, unspecified affecting unspecified side"
+	},
+	{
+		"code": "G43411",
+		"desc": "Hemiplegic migraine, intractable, with status migrainosus"
+	},
+	{
+		"code": "G43419",
+		"desc": "Hemiplegic migraine, intractable, without status migrainosus"
+	},
+	{
+		"code": "G43401",
+		"desc": "Hemiplegic migraine, not intractable, with status migrainosus"
+	},
+	{
+		"code": "G43409",
+		"desc": "Hemiplegic migraine, not intractable, without status migrainosus"
+	},
+	{
+		"code": "E83111",
+		"desc": "Hemochromatosis due to repeated red blood cell transfusions"
+	},
+	{
+		"code": "E83119",
+		"desc": "Hemochromatosis, unspecified"
+	},
+	{
+		"code": "E1590",
+		"desc": "Hemodialysis machine"
+	},
+	{
+		"code": "G8714",
+		"desc": "Hemodialysis treatment performed exactly three times per week for > 90 days\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "D565",
+		"desc": "Hemoglobin E-beta thalassemia"
+	},
+	{
+		"code": "M1212",
+		"desc": "Hemoglobin a1c level is missing, or was not performed during the measurement period (12 months)"
+	},
+	{
+		"code": "G0909",
+		"desc": "Hemoglobin level measurement not documented, reason not given\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "G8974",
+		"desc": "Hemoglobin level measurement not documented, reason not given\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "R823",
+		"desc": "Hemoglobinuria"
+	},
+	{
+		"code": "D596",
+		"desc": "Hemoglobinuria due to hemolysis from other external causes"
+	},
+	{
+		"code": "P559",
+		"desc": "Hemolytic disease of newborn, unspecified"
+	},
+	{
+		"code": "T80919A",
+		"desc": "Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed, initial encounter"
+	},
+	{
+		"code": "T80919S",
+		"desc": "Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed, sequela"
+	},
+	{
+		"code": "T80919D",
+		"desc": "Hemolytic transfusion reaction, unspecified incompatibility, unspecified as acute or delayed, subsequent encounter"
+	},
+	{
+		"code": "D593",
+		"desc": "Hemolytic-uremic syndrome"
+	},
+	{
+		"code": "I230",
+		"desc": "Hemopericardium as current complication following acute myocardial infarction"
+	},
+	{
+		"code": "I312",
+		"desc": "Hemopericardium, not elsewhere classified"
+	},
+	{
+		"code": "K661",
+		"desc": "Hemoperitoneum"
+	},
+	{
+		"code": "D761",
+		"desc": "Hemophagocytic lymphohistiocytosis"
+	},
+	{
+		"code": "D762",
+		"desc": "Hemophagocytic syndrome, infection-associated"
+	},
+	{
+		"code": "J7199",
+		"desc": "Hemophilia clotting factor, not otherwise classified"
+	},
+	{
+		"code": "M362",
+		"desc": "Hemophilic arthropathy"
+	},
+	{
+		"code": "B963",
+		"desc": "Hemophilus influenzae [H. influenzae] as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "A492",
+		"desc": "Hemophilus influenzae infection, unspecified site"
+	},
+	{
+		"code": "G000",
+		"desc": "Hemophilus meningitis"
+	},
+	{
+		"code": "H44813",
+		"desc": "Hemophthalmos, bilateral"
+	},
+	{
+		"code": "H44812",
+		"desc": "Hemophthalmos, left eye"
+	},
+	{
+		"code": "H44811",
+		"desc": "Hemophthalmos, right eye"
+	},
+	{
+		"code": "H44819",
+		"desc": "Hemophthalmos, unspecified eye"
+	},
+	{
+		"code": "R042",
+		"desc": "Hemoptysis"
+	},
+	{
+		"code": "T82837A",
+		"desc": "Hemorrhage due to cardiac prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T82837S",
+		"desc": "Hemorrhage due to cardiac prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T82837D",
+		"desc": "Hemorrhage due to cardiac prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T8383XA",
+		"desc": "Hemorrhage due to genitourinary prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T8383XS",
+		"desc": "Hemorrhage due to genitourinary prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T8383XD",
+		"desc": "Hemorrhage due to genitourinary prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T8483XA",
+		"desc": "Hemorrhage due to internal orthopedic prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T8483XS",
+		"desc": "Hemorrhage due to internal orthopedic prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T8483XD",
+		"desc": "Hemorrhage due to internal orthopedic prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T85830A",
+		"desc": "Hemorrhage due to nervous system prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T85830S",
+		"desc": "Hemorrhage due to nervous system prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T85830D",
+		"desc": "Hemorrhage due to nervous system prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T85838A",
+		"desc": "Hemorrhage due to other internal prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T85838S",
+		"desc": "Hemorrhage due to other internal prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T85838D",
+		"desc": "Hemorrhage due to other internal prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T82838A",
+		"desc": "Hemorrhage due to vascular prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T82838S",
+		"desc": "Hemorrhage due to vascular prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T82838D",
+		"desc": "Hemorrhage due to vascular prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "R0489",
+		"desc": "Hemorrhage from other sites in respiratory passages"
+	},
+	{
+		"code": "R049",
+		"desc": "Hemorrhage from respiratory passages, unspecified"
+	},
+	{
+		"code": "R041",
+		"desc": "Hemorrhage from throat"
+	},
+	{
+		"code": "J9501",
+		"desc": "Hemorrhage from tracheostomy stoma"
+	},
+	{
+		"code": "O209",
+		"desc": "Hemorrhage in early pregnancy, unspecified"
+	},
+	{
+		"code": "H47023",
+		"desc": "Hemorrhage in optic nerve sheath, bilateral"
+	},
+	{
+		"code": "H47022",
+		"desc": "Hemorrhage in optic nerve sheath, left eye"
+	},
+	{
+		"code": "H47021",
+		"desc": "Hemorrhage in optic nerve sheath, right eye"
+	},
+	{
+		"code": "H47029",
+		"desc": "Hemorrhage in optic nerve sheath, unspecified eye"
+	},
+	{
+		"code": "K625",
+		"desc": "Hemorrhage of anus and rectum"
+	},
+	{
+		"code": "H05233",
+		"desc": "Hemorrhage of bilateral orbit"
+	},
+	{
+		"code": "N99530",
+		"desc": "Hemorrhage of continent stoma of urinary tract"
+	},
+	{
+		"code": "N99520",
+		"desc": "Hemorrhage of incontinent external stoma of urinary tract"
+	},
+	{
+		"code": "H05232",
+		"desc": "Hemorrhage of left orbit"
+	},
+	{
+		"code": "H05231",
+		"desc": "Hemorrhage of right orbit"
+	},
+	{
+		"code": "H05239",
+		"desc": "Hemorrhage of unspecified orbit"
+	},
+	{
+		"code": "R58",
+		"desc": "Hemorrhage, not elsewhere classified"
+	},
+	{
+		"code": "H31413",
+		"desc": "Hemorrhagic choroidal detachment, bilateral"
+	},
+	{
+		"code": "H31412",
+		"desc": "Hemorrhagic choroidal detachment, left eye"
+	},
+	{
+		"code": "H31411",
+		"desc": "Hemorrhagic choroidal detachment, right eye"
+	},
+	{
+		"code": "H31419",
+		"desc": "Hemorrhagic choroidal detachment, unspecified eye"
+	},
+	{
+		"code": "D699",
+		"desc": "Hemorrhagic condition, unspecified"
+	},
+	{
+		"code": "H35733",
+		"desc": "Hemorrhagic detachment of retinal pigment epithelium, bilateral"
+	},
+	{
+		"code": "H35732",
+		"desc": "Hemorrhagic detachment of retinal pigment epithelium, left eye"
+	},
+	{
+		"code": "H35731",
+		"desc": "Hemorrhagic detachment of retinal pigment epithelium, right eye"
+	},
+	{
+		"code": "H35739",
+		"desc": "Hemorrhagic detachment of retinal pigment epithelium, unspecified eye"
+	},
+	{
+		"code": "P53",
+		"desc": "Hemorrhagic disease of newborn"
+	},
+	{
+		"code": "D6832",
+		"desc": "Hemorrhagic disorder due to extrinsic circulating anticoagulants"
+	},
+	{
+		"code": "A985",
+		"desc": "Hemorrhagic fever with renal syndrome"
+	},
+	{
+		"code": "H60323",
+		"desc": "Hemorrhagic otitis externa, bilateral"
+	},
+	{
+		"code": "H60322",
+		"desc": "Hemorrhagic otitis externa, left ear"
+	},
+	{
+		"code": "H60321",
+		"desc": "Hemorrhagic otitis externa, right ear"
+	},
+	{
+		"code": "H60329",
+		"desc": "Hemorrhagic otitis externa, unspecified ear"
+	},
+	{
+		"code": "O2241",
+		"desc": "Hemorrhoids in pregnancy, first trimester"
+	},
+	{
+		"code": "O2242",
+		"desc": "Hemorrhoids in pregnancy, second trimester"
+	},
+	{
+		"code": "O2243",
+		"desc": "Hemorrhoids in pregnancy, third trimester"
+	},
+	{
+		"code": "O2240",
+		"desc": "Hemorrhoids in pregnancy, unspecified trimester"
+	},
+	{
+		"code": "O872",
+		"desc": "Hemorrhoids in the puerperium"
+	},
+	{
+		"code": "C1052",
+		"desc": "Hemostatic agent, gastrointestinal, topical"
+	},
+	{
+		"code": "E1637",
+		"desc": "Hemostats, each"
+	},
+	{
+		"code": "J942",
+		"desc": "Hemothorax"
+	},
+	{
+		"code": "D7582",
+		"desc": "Heparin induced thrombocytopenia (HIT)"
+	},
+	{
+		"code": "E1520",
+		"desc": "Heparin infusion pump for hemodialysis"
+	},
+	{
+		"code": "K7291",
+		"desc": "Hepatic failure, unspecified with coma"
+	},
+	{
+		"code": "K7290",
+		"desc": "Hepatic failure, unspecified without coma"
+	},
+	{
+		"code": "K740",
+		"desc": "Hepatic fibrosis"
+	},
+	{
+		"code": "K742",
+		"desc": "Hepatic fibrosis with hepatic sclerosis"
+	},
+	{
+		"code": "K741",
+		"desc": "Hepatic sclerosis"
+	},
+	{
+		"code": "K765",
+		"desc": "Hepatic veno-occlusive disease"
+	},
+	{
+		"code": "B150",
+		"desc": "Hepatitis A with hepatic coma"
+	},
+	{
+		"code": "B159",
+		"desc": "Hepatitis A without hepatic coma"
+	},
+	{
+		"code": "G0499",
+		"desc": "Hepatitis b screening in non-pregnant, high risk individual includes hepatitis b surface antigen (hbsag), antibodies to hbsag (anti-hbs) and antibodies to hepatitis b core antigen (anti-hbc), and is followed by a neutralizing confirmatory test, when performed, only for an initially reactive hbsag result"
+	},
+	{
+		"code": "G8870",
+		"desc": "Hepatitis b vaccine injection administered or previously received and is receiving a first course of anti-tnf therapy\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "G9912",
+		"desc": "Hepatitis b virus (hbv) status assessed and results interpreted prior to initiating anti-tnf (tumor necrosis factor) therapy"
+	},
+	{
+		"code": "G9913",
+		"desc": "Hepatitis b virus (hbv) status not assessed and results interpreted prior to initiating anti-tnf (tumor necrosis factor) therapy, reason not otherwise specified"
+	},
+	{
+		"code": "G0472",
+		"desc": "Hepatitis c antibody screening, for individual at high risk and other covered indication(s)"
+	},
+	{
+		"code": "G9207",
+		"desc": "Hepatitis c genotype testing documented as performed within 12 months prior to initiation of antiviral treatment for hepatitis c\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "G9208",
+		"desc": "Hepatitis c genotype testing was not documented as performed within 12 months prior to initiation of antiviral treatment for hepatitis c, reason not given\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "G9209",
+		"desc": "Hepatitis c quantitative rna testing documented as performed between 4-12 weeks after the initiation of antiviral treatment\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "G9210",
+		"desc": "Hepatitis c quantitative rna testing not performed between 4-12 weeks after the initiation of antiviral treatment for documented reason(s) (e.g., patients whose treatment was discontinued during the testing period prior to testing, other medical reasons, patient declined, other patient reasons)\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "G9211",
+		"desc": "Hepatitis c quantitative rna testing was not documented as performed between 4-12 weeks after the initiation of antiviral treatment, reason not given\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "C222",
+		"desc": "Hepatoblastoma"
+	},
+	{
+		"code": "R162",
+		"desc": "Hepatomegaly with splenomegaly, not elsewhere classified"
+	},
+	{
+		"code": "R160",
+		"desc": "Hepatomegaly, not elsewhere classified"
+	},
+	{
+		"code": "K7681",
+		"desc": "Hepatopulmonary syndrome"
+	},
+	{
+		"code": "K767",
+		"desc": "Hepatorenal syndrome"
+	},
+	{
+		"code": "C861",
+		"desc": "Hepatosplenic T-cell lymphoma"
+	},
+	{
+		"code": "G9825",
+		"desc": "Her-2/neu negative or undocumented/unknown\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G9830",
+		"desc": "Her-2/neu positive"
+	},
+	{
+		"code": "G9828",
+		"desc": "Her2-targeted therapies administered during the initial course of treatment\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G9827",
+		"desc": "Her2-targeted therapies not administered during the initial course of treatment\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G609",
+		"desc": "Hereditary and idiopathic neuropathy, unspecified"
+	},
+	{
+		"code": "G119",
+		"desc": "Hereditary ataxia, unspecified"
+	},
+	{
+		"code": "H3120",
+		"desc": "Hereditary choroidal dystrophy, unspecified"
+	},
+	{
+		"code": "D682",
+		"desc": "Hereditary deficiency of other clotting factors"
+	},
+	{
+		"code": "K005",
+		"desc": "Hereditary disturbances in tooth structure, not elsewhere classified"
+	},
+	{
+		"code": "D581",
+		"desc": "Hereditary elliptocytosis"
+	},
+	{
+		"code": "E800",
+		"desc": "Hereditary erythropoietic porphyria"
+	},
+	{
+		"code": "D67",
+		"desc": "Hereditary factor IX deficiency"
+	},
+	{
+		"code": "D66",
+		"desc": "Hereditary factor VIII deficiency"
+	},
+	{
+		"code": "D681",
+		"desc": "Hereditary factor XI deficiency"
+	},
+	{
+		"code": "E7412",
+		"desc": "Hereditary fructose intolerance"
+	},
+	{
+		"code": "E83110",
+		"desc": "Hereditary hemochromatosis"
+	},
+	{
+		"code": "D589",
+		"desc": "Hereditary hemolytic anemia, unspecified"
+	},
+	{
+		"code": "I780",
+		"desc": "Hereditary hemorrhagic telangiectasia"
+	},
+	{
+		"code": "D800",
+		"desc": "Hereditary hypogammaglobulinemia"
+	},
+	{
+		"code": "Q820",
+		"desc": "Hereditary lymphedema"
+	},
+	{
+		"code": "G600",
+		"desc": "Hereditary motor and sensory neuropathy"
+	},
+	{
+		"code": "N076",
+		"desc": "Hereditary nephropathy, not elsewhere classified with dense deposit disease"
+	},
+	{
+		"code": "N077",
+		"desc": "Hereditary nephropathy, not elsewhere classified with diffuse crescentic glomerulonephritis"
+	},
+	{
+		"code": "N074",
+		"desc": "Hereditary nephropathy, not elsewhere classified with diffuse endocapillary proliferative glomerulonephritis"
+	},
+	{
+		"code": "N072",
+		"desc": "Hereditary nephropathy, not elsewhere classified with diffuse membranous glomerulonephritis"
+	},
+	{
+		"code": "N073",
+		"desc": "Hereditary nephropathy, not elsewhere classified with diffuse mesangial proliferative glomerulonephritis"
+	},
+	{
+		"code": "N075",
+		"desc": "Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis"
+	},
+	{
+		"code": "N071",
+		"desc": "Hereditary nephropathy, not elsewhere classified with focal and segmental glomerular lesions"
+	},
+	{
+		"code": "N070",
+		"desc": "Hereditary nephropathy, not elsewhere classified with minor glomerular abnormality"
+	},
+	{
+		"code": "N078",
+		"desc": "Hereditary nephropathy, not elsewhere classified with other morphologic lesions"
+	},
+	{
+		"code": "N079",
+		"desc": "Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions"
+	},
+	{
+		"code": "H4722",
+		"desc": "Hereditary optic atrophy"
+	},
+	{
+		"code": "D564",
+		"desc": "Hereditary persistence of fetal hemoglobin [HPFH]"
+	},
+	{
+		"code": "D640",
+		"desc": "Hereditary sideroblastic anemia"
+	},
+	{
+		"code": "G114",
+		"desc": "Hereditary spastic paraplegia"
+	},
+	{
+		"code": "D580",
+		"desc": "Hereditary spherocytosis"
+	},
+	{
+		"code": "E8332",
+		"desc": "Hereditary vitamin D-dependent rickets (type 1) (type 2)"
+	},
+	{
+		"code": "E852",
+		"desc": "Heredofamilial amyloidosis, unspecified"
+	},
+	{
+		"code": "E70331",
+		"desc": "Hermansky-Pudlak syndrome"
+	},
+	{
+		"code": "Q560",
+		"desc": "Hermaphroditism, not elsewhere classified"
+	},
+	{
+		"code": "N99533",
+		"desc": "Herniation of continent stoma of urinary tract"
+	},
+	{
+		"code": "N99523",
+		"desc": "Herniation of incontinent stoma of urinary tract"
+	},
+	{
+		"code": "O2641",
+		"desc": "Herpes gestationis, first trimester"
+	},
+	{
+		"code": "O2642",
+		"desc": "Herpes gestationis, second trimester"
+	},
+	{
+		"code": "O2643",
+		"desc": "Herpes gestationis, third trimester"
+	},
+	{
+		"code": "O2640",
+		"desc": "Herpes gestationis, unspecified trimester"
+	},
+	{
+		"code": "B0082",
+		"desc": "Herpes simplex myelitis"
+	},
+	{
+		"code": "A6003",
+		"desc": "Herpesviral cervicitis"
+	},
+	{
+		"code": "B0053",
+		"desc": "Herpesviral conjunctivitis"
+	},
+	{
+		"code": "B004",
+		"desc": "Herpesviral encephalitis"
+	},
+	{
+		"code": "B002",
+		"desc": "Herpesviral gingivostomatitis and pharyngotonsillitis"
+	},
+	{
+		"code": "B0081",
+		"desc": "Herpesviral hepatitis"
+	},
+	{
+		"code": "A6002",
+		"desc": "Herpesviral infection of other male genital organs"
+	},
+	{
+		"code": "A6009",
+		"desc": "Herpesviral infection of other urogenital tract"
+	},
+	{
+		"code": "A6001",
+		"desc": "Herpesviral infection of penis"
+	},
+	{
+		"code": "A601",
+		"desc": "Herpesviral infection of perianal skin and rectum"
+	},
+	{
+		"code": "A6000",
+		"desc": "Herpesviral infection of urogenital system, unspecified"
+	},
+	{
+		"code": "B009",
+		"desc": "Herpesviral infection, unspecified"
+	},
+	{
+		"code": "B0051",
+		"desc": "Herpesviral iridocyclitis"
+	},
+	{
+		"code": "B0052",
+		"desc": "Herpesviral keratitis"
+	},
+	{
+		"code": "B003",
+		"desc": "Herpesviral meningitis"
+	},
+	{
+		"code": "B0050",
+		"desc": "Herpesviral ocular disease, unspecified"
+	},
+	{
+		"code": "B001",
+		"desc": "Herpesviral vesicular dermatitis"
+	},
+	{
+		"code": "A6004",
+		"desc": "Herpesviral vulvovaginitis"
+	},
+	{
+		"code": "R3911",
+		"desc": "Hesitancy of micturition"
+	},
+	{
+		"code": "H5347",
+		"desc": "Heteronymous bilateral field defects"
+	},
+	{
+		"code": "R066",
+		"desc": "Hiccough"
+	},
+	{
+		"code": "Q5564",
+		"desc": "Hidden penis"
+	},
+	{
+		"code": "L732",
+		"desc": "Hidradenitis suppurativa"
+	},
+	{
+		"code": "G4732",
+		"desc": "High altitude periodic breathing"
+	},
+	{
+		"code": "A6452",
+		"desc": "High compression bandage, elastic, knitted/woven, load resistance greater than or equal to 1.35 foot pounds at 50% maximum stretch, width greater than or equal to three inches and less than five inches, per yard"
+	},
+	{
+		"code": "A7026",
+		"desc": "High frequency chest wall oscillation system hose, replacement for use with patient owned equipment, each"
+	},
+	{
+		"code": "A7025",
+		"desc": "High frequency chest wall oscillation system vest, replacement for use with patient owned equipment, each"
+	},
+	{
+		"code": "E0483",
+		"desc": "High frequency chest wall oscillation system, with full anterior and/or posterior thoracic region receiving simultaneous external oscillation, includes all accessories and supplies, each"
+	},
+	{
+		"code": "R85613",
+		"desc": "High grade squamous intraepithelial lesion on cytologic smear of anus (HGSIL)"
+	},
+	{
+		"code": "R87613",
+		"desc": "High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)"
+	},
+	{
+		"code": "R87623",
+		"desc": "High grade squamous intraepithelial lesion on cytologic smear of vagina (HGSIL)"
+	},
+	{
+		"code": "G0445",
+		"desc": "High intensity behavioral counseling to prevent sexually transmitted infection; face-to-face, individual, includes: education, skills training and guidance on how to change sexual behavior; performed semi-annually, 30 minutes"
+	},
+	{
+		"code": "K0037",
+		"desc": "High mount flip-up footrest, each"
+	},
+	{
+		"code": "G8465",
+		"desc": "High or very high risk of recurrence of prostate cancer"
+	},
+	{
+		"code": "Q9959",
+		"desc": "High osmolar contrast material, 150-199 mg/ml iodine concentration, per ml"
+	},
+	{
+		"code": "Q9960",
+		"desc": "High osmolar contrast material, 200-249 mg/ml iodine concentration, per ml"
+	},
+	{
+		"code": "Q9961",
+		"desc": "High osmolar contrast material, 250-299 mg/ml iodine concentration, per ml"
+	},
+	{
+		"code": "Q9962",
+		"desc": "High osmolar contrast material, 300-349 mg/ml iodine concentration, per ml"
+	},
+	{
+		"code": "Q9963",
+		"desc": "High osmolar contrast material, 350-399 mg/ml iodine concentration, per ml"
+	},
+	{
+		"code": "Q9964",
+		"desc": "High osmolar contrast material, 400 or greater mg/ml iodine concentration, per ml"
+	},
+	{
+		"code": "Q9958",
+		"desc": "High osmolar contrast material, up to 149 mg/ml iodine concentration, per ml"
+	},
+	{
+		"code": "I5083",
+		"desc": "High output heart failure"
+	},
+	{
+		"code": "Z7253",
+		"desc": "High risk bisexual behavior"
+	},
+	{
+		"code": "Z7251",
+		"desc": "High risk heterosexual behavior"
+	},
+	{
+		"code": "Z7252",
+		"desc": "High risk homosexual behavior"
+	},
+	{
+		"code": "Y92213",
+		"desc": "High school as the place of occurrence of the external cause"
+	},
+	{
+		"code": "E1088",
+		"desc": "High strength lightweight wheelchair, detachable arms desk or full length, swing away detachable elevating leg rests"
+	},
+	{
+		"code": "E1090",
+		"desc": "High strength lightweight wheelchair, detachable arms desk or full length, swing away detachable foot rests"
+	},
+	{
+		"code": "E1087",
+		"desc": "High strength lightweight wheelchair, fixed full length arms, swing away detachable elevating leg rests"
+	},
+	{
+		"code": "E1089",
+		"desc": "High strength lightweight wheelchair, fixed length arms, swing away detachable footrest"
+	},
+	{
+		"code": "K0004",
+		"desc": "High strength, lightweight wheelchair"
+	},
+	{
+		"code": "Y92523",
+		"desc": "Highway rest stop as the place of occurrence of the external cause"
+	},
+	{
+		"code": "S2325",
+		"desc": "Hip core decompression"
+	},
+	{
+		"code": "L5331",
+		"desc": "Hip disarticulation, canadian type, molded socket, endoskeletal system, hip joint, single axis knee, sach foot"
+	},
+	{
+		"code": "L5250",
+		"desc": "Hip disarticulation, canadian type; molded socket, hip joint, single axis constant friction knee, shin, sach foot"
+	},
+	{
+		"code": "L5270",
+		"desc": "Hip disarticulation, tilt table type; molded socket, locking hip joint, single axis constant friction knee, shin, sach foot"
+	},
+	{
+		"code": "L2040",
+		"desc": "Hip knee ankle foot orthosis, torsion control, bilateral rotation straps, pelvic band/belt, custom fabricated"
+	},
+	{
+		"code": "L2060",
+		"desc": "Hip knee ankle foot orthosis, torsion control, bilateral torsion cables, ball bearing hip joint, pelvic band/ belt, custom fabricated"
+	},
+	{
+		"code": "L2050",
+		"desc": "Hip knee ankle foot orthosis, torsion control, bilateral torsion cables, hip joint, pelvic band/belt, custom fabricated"
+	},
+	{
+		"code": "L2070",
+		"desc": "Hip knee ankle foot orthosis, torsion control, unilateral rotation straps, pelvic band/belt, custom fabricated"
+	},
+	{
+		"code": "L2090",
+		"desc": "Hip knee ankle foot orthosis, torsion control, unilateral torsion cable, ball bearing hip joint, pelvic band/ belt, custom fabricated"
+	},
+	{
+		"code": "L2080",
+		"desc": "Hip knee ankle foot orthosis, torsion control, unilateral torsion cable, hip joint, pelvic band/belt, custom fabricated"
+	},
+	{
+		"code": "L1685",
+		"desc": "Hip orthosis, abduction control of hip joint, postoperative hip abduction type, custom fabricated"
+	},
+	{
+		"code": "L1686",
+		"desc": "Hip orthosis, abduction control of hip joint, postoperative hip abduction type, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L1680",
+		"desc": "Hip orthosis, abduction control of hip joints, dynamic, pelvic control, adjustable hip motion control, thigh cuffs (rancho hip action type), custom fabricated"
+	},
+	{
+		"code": "L1610",
+		"desc": "Hip orthosis, abduction control of hip joints, flexible, (frejka cover only), prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L1620",
+		"desc": "Hip orthosis, abduction control of hip joints, flexible, (pavlik harness), prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L1600",
+		"desc": "Hip orthosis, abduction control of hip joints, flexible, frejka type with cover, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an inidividual with expertise"
+	},
+	{
+		"code": "L1630",
+		"desc": "Hip orthosis, abduction control of hip joints, semi-flexible (von rosen type), custom fabricated"
+	},
+	{
+		"code": "L1650",
+		"desc": "Hip orthosis, abduction control of hip joints, static, adjustable, (ilfled type), prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L1640",
+		"desc": "Hip orthosis, abduction control of hip joints, static, pelvic band or spreader bar, thigh cuffs, custom fabricated"
+	},
+	{
+		"code": "L1660",
+		"desc": "Hip orthosis, abduction control of hip joints, static, plastic, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L1681",
+		"desc": "Hip orthosis, bilateral hip joints and thigh cuffs, adjustable flexion, extension, abduction control of hip joint, postoperative hip abduction type, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L1652",
+		"desc": "Hip orthosis, bilateral thigh cuffs with adjustable abductor spreader bar, adult size, prefabricated, includes fitting and adjustment, any type"
+	},
+	{
+		"code": "Q431",
+		"desc": "Hirschsprung's disease"
+	},
+	{
+		"code": "L680",
+		"desc": "Hirsutism"
+	},
+	{
+		"code": "E7041",
+		"desc": "Histidinemia"
+	},
+	{
+		"code": "C96A",
+		"desc": "Histiocytic sarcoma"
+	},
+	{
+		"code": "B394",
+		"desc": "Histoplasmosis capsulati, unspecified"
+	},
+	{
+		"code": "B395",
+		"desc": "Histoplasmosis duboisii"
+	},
+	{
+		"code": "B399",
+		"desc": "Histoplasmosis, unspecified"
+	},
+	{
+		"code": "S0260",
+		"desc": "History and physical (outpatient or office) related to surgical procedure (list separately in addition to code for appropriate evaluation and management service)"
+	},
+	{
+		"code": "Z9181",
+		"desc": "History of falling"
+	},
+	{
+		"code": "G9450",
+		"desc": "History of injection drug use\n                                    \n                                        \n                                        Terminated December 31, 2021."
+	},
+	{
+		"code": "G9782",
+		"desc": "History of or active diagnosis of familial hypercholesterolemia"
+	},
+	{
+		"code": "G9759",
+		"desc": "History of preoperative posterior capsule rupture\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G9449",
+		"desc": "History of receiving blood transfusions prior to 1992\n                                    \n                                        \n                                        Terminated December 31, 2021."
+	},
+	{
+		"code": "Z98891",
+		"desc": "History of uterine scar from previous surgery"
+	},
+	{
+		"code": "C9790",
+		"desc": "Histotripsy (ie, non-thermal ablation via acoustic energy delivery) of malignant renal tissue, including image guidance"
+	},
+	{
+		"code": "J9226",
+		"desc": "Histrelin implant (supprelin la), 50 mg"
+	},
+	{
+		"code": "J9225",
+		"desc": "Histrelin implant (vantas), 50 mg"
+	},
+	{
+		"code": "F604",
+		"desc": "Histrionic personality disorder"
+	},
+	{
+		"code": "X034XXA",
+		"desc": "Hit by object due to controlled fire, not in building or structure, initial encounter"
+	},
+	{
+		"code": "X034XXS",
+		"desc": "Hit by object due to controlled fire, not in building or structure, sequela"
+	},
+	{
+		"code": "X034XXD",
+		"desc": "Hit by object due to controlled fire, not in building or structure, subsequent encounter"
+	},
+	{
+		"code": "X014XXA",
+		"desc": "Hit by object due to uncontrolled fire, not in building or structure, initial encounter"
+	},
+	{
+		"code": "X014XXS",
+		"desc": "Hit by object due to uncontrolled fire, not in building or structure, sequela"
+	},
+	{
+		"code": "X014XXD",
+		"desc": "Hit by object due to uncontrolled fire, not in building or structure, subsequent encounter"
+	},
+	{
+		"code": "V9731XA",
+		"desc": "Hit by object falling from aircraft, initial encounter"
+	},
+	{
+		"code": "V9731XS",
+		"desc": "Hit by object falling from aircraft, sequela"
+	},
+	{
+		"code": "V9731XD",
+		"desc": "Hit by object falling from aircraft, subsequent encounter"
+	},
+	{
+		"code": "X024XXA",
+		"desc": "Hit by object from burning building or structure in controlled fire, initial encounter"
+	},
+	{
+		"code": "X024XXS",
+		"desc": "Hit by object from burning building or structure in controlled fire, sequela"
+	},
+	{
+		"code": "X024XXD",
+		"desc": "Hit by object from burning building or structure in controlled fire, subsequent encounter"
+	},
+	{
+		"code": "X004XXA",
+		"desc": "Hit by object from burning building or structure in uncontrolled fire, initial encounter"
+	},
+	{
+		"code": "X004XXS",
+		"desc": "Hit by object from burning building or structure in uncontrolled fire, sequela"
+	},
+	{
+		"code": "X004XXD",
+		"desc": "Hit by object from burning building or structure in uncontrolled fire, subsequent encounter"
+	},
+	{
+		"code": "V9136XA",
+		"desc": "Hit or struck by falling object due to accident to (nonpowered) inflatable craft, initial encounter"
+	},
+	{
+		"code": "V9136XS",
+		"desc": "Hit or struck by falling object due to accident to (nonpowered) inflatable craft, sequela"
+	},
+	{
+		"code": "V9136XD",
+		"desc": "Hit or struck by falling object due to accident to (nonpowered) inflatable craft, subsequent encounter"
+	},
+	{
+		"code": "V9135XA",
+		"desc": "Hit or struck by falling object due to accident to canoe or kayak, initial encounter"
+	},
+	{
+		"code": "V9135XS",
+		"desc": "Hit or struck by falling object due to accident to canoe or kayak, sequela"
+	},
+	{
+		"code": "V9135XD",
+		"desc": "Hit or struck by falling object due to accident to canoe or kayak, subsequent encounter"
+	},
+	{
+		"code": "V9132XA",
+		"desc": "Hit or struck by falling object due to accident to fishing boat, initial encounter"
+	},
+	{
+		"code": "V9132XS",
+		"desc": "Hit or struck by falling object due to accident to fishing boat, sequela"
+	},
+	{
+		"code": "V9132XD",
+		"desc": "Hit or struck by falling object due to accident to fishing boat, subsequent encounter"
+	},
+	{
+		"code": "V9130XA",
+		"desc": "Hit or struck by falling object due to accident to merchant ship, initial encounter"
+	},
+	{
+		"code": "V9130XS",
+		"desc": "Hit or struck by falling object due to accident to merchant ship, sequela"
+	},
+	{
+		"code": "V9130XD",
+		"desc": "Hit or struck by falling object due to accident to merchant ship, subsequent encounter"
+	},
+	{
+		"code": "V9133XA",
+		"desc": "Hit or struck by falling object due to accident to other powered watercraft, initial encounter"
+	},
+	{
+		"code": "V9133XS",
+		"desc": "Hit or struck by falling object due to accident to other powered watercraft, sequela"
+	},
+	{
+		"code": "V9133XD",
+		"desc": "Hit or struck by falling object due to accident to other powered watercraft, subsequent encounter"
+	},
+	{
+		"code": "V9138XA",
+		"desc": "Hit or struck by falling object due to accident to other unpowered watercraft, initial encounter"
+	},
+	{
+		"code": "V9138XS",
+		"desc": "Hit or struck by falling object due to accident to other unpowered watercraft, sequela"
+	},
+	{
+		"code": "V9138XD",
+		"desc": "Hit or struck by falling object due to accident to other unpowered watercraft, subsequent encounter"
+	},
+	{
+		"code": "V9131XA",
+		"desc": "Hit or struck by falling object due to accident to passenger ship, initial encounter"
+	},
+	{
+		"code": "V9131XS",
+		"desc": "Hit or struck by falling object due to accident to passenger ship, sequela"
+	},
+	{
+		"code": "V9131XD",
+		"desc": "Hit or struck by falling object due to accident to passenger ship, subsequent encounter"
+	},
+	{
+		"code": "V9134XA",
+		"desc": "Hit or struck by falling object due to accident to sailboat, initial encounter"
+	},
+	{
+		"code": "V9134XS",
+		"desc": "Hit or struck by falling object due to accident to sailboat, sequela"
+	},
+	{
+		"code": "V9134XD",
+		"desc": "Hit or struck by falling object due to accident to sailboat, subsequent encounter"
+	},
+	{
+		"code": "V9139XA",
+		"desc": "Hit or struck by falling object due to accident to unspecified watercraft, initial encounter"
+	},
+	{
+		"code": "V9139XS",
+		"desc": "Hit or struck by falling object due to accident to unspecified watercraft, sequela"
+	},
+	{
+		"code": "V9139XD",
+		"desc": "Hit or struck by falling object due to accident to unspecified watercraft, subsequent encounter"
+	},
+	{
+		"code": "V9137XA",
+		"desc": "Hit or struck by falling object due to accident to water-skis, initial encounter"
+	},
+	{
+		"code": "V9137XS",
+		"desc": "Hit or struck by falling object due to accident to water-skis, sequela"
+	},
+	{
+		"code": "V9137XD",
+		"desc": "Hit or struck by falling object due to accident to water-skis, subsequent encounter"
+	},
+	{
+		"code": "V940XXA",
+		"desc": "Hitting object or bottom of body of water due to fall from watercraft, initial encounter"
+	},
+	{
+		"code": "V940XXS",
+		"desc": "Hitting object or bottom of body of water due to fall from watercraft, sequela"
+	},
+	{
+		"code": "V940XXD",
+		"desc": "Hitting object or bottom of body of water due to fall from watercraft, subsequent encounter"
+	},
+	{
+		"code": "G0475",
+		"desc": "Hiv antigen/antibody, combination assay, screening"
+	},
+	{
+		"code": "S3645",
+		"desc": "Hiv-1 antibody testing of oral mucosal transudate"
+	},
+	{
+		"code": "Q4134",
+		"desc": "Hmatrix, per square centimeter"
+	},
+	{
+		"code": "F423",
+		"desc": "Hoarding disorder"
+	},
+	{
+		"code": "C8199",
+		"desc": "Hodgkin lymphoma, unspecified, extranodal and solid organ sites"
+	},
+	{
+		"code": "C8193",
+		"desc": "Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes"
+	},
+	{
+		"code": "C8196",
+		"desc": "Hodgkin lymphoma, unspecified, intrapelvic lymph nodes"
+	},
+	{
+		"code": "C8192",
+		"desc": "Hodgkin lymphoma, unspecified, intrathoracic lymph nodes"
+	},
+	{
+		"code": "C8194",
+		"desc": "Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb"
+	},
+	{
+		"code": "C8191",
+		"desc": "Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck"
+	},
+	{
+		"code": "C8195",
+		"desc": "Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb"
+	},
+	{
+		"code": "C8198",
+		"desc": "Hodgkin lymphoma, unspecified, lymph nodes of multiple sites"
+	},
+	{
+		"code": "C8197",
+		"desc": "Hodgkin lymphoma, unspecified, spleen"
+	},
+	{
+		"code": "C8190",
+		"desc": "Hodgkin lymphoma, unspecified, unspecified site"
+	},
+	{
+		"code": "S8101",
+		"desc": "Holding chamber or spacer for use with an inhaler or nebulizer; with mask"
+	},
+	{
+		"code": "S8100",
+		"desc": "Holding chamber or spacer for use with an inhaler or nebulizer; without mask"
+	},
+	{
+		"code": "Z755",
+		"desc": "Holiday relief care"
+	},
+	{
+		"code": "Q042",
+		"desc": "Holoprosencephaly"
+	},
+	{
+		"code": "Q0498",
+		"desc": "Holster for use with electric or electric/pneumatic ventricular assist device, replacement only"
+	},
+	{
+		"code": "S9061",
+		"desc": "Home administration of aerosolized drug therapy (e.g., pentamidine); administrative services, professional pharmacy services, care coordination, all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "E0607",
+		"desc": "Home blood glucose monitor"
+	},
+	{
+		"code": "E2104",
+		"desc": "Home blood glucose monitor for use with integrated lancing/blood sample testing cartridge"
+	},
+	{
+		"code": "S5108",
+		"desc": "Home care training to home care client, per 15 minutes"
+	},
+	{
+		"code": "S5109",
+		"desc": "Home care training to home care client, per session"
+	},
+	{
+		"code": "S5110",
+		"desc": "Home care training, family; per 15 minutes"
+	},
+	{
+		"code": "S5111",
+		"desc": "Home care training, family; per session"
+	},
+	{
+		"code": "S5115",
+		"desc": "Home care training, non-family; per 15 minutes"
+	},
+	{
+		"code": "S5116",
+		"desc": "Home care training, non-family; per session"
+	},
+	{
+		"code": "S5170",
+		"desc": "Home delivered meals, including preparation; per meal"
+	},
+	{
+		"code": "A9275",
+		"desc": "Home glucose disposable monitor, includes test strips"
+	},
+	{
+		"code": "T1021",
+		"desc": "Home health aide or certified nurse assistant, per visit"
+	},
+	{
+		"code": "S9122",
+		"desc": "Home health aide or certified nurse assistant, providing care in the home; per hour"
+	},
+	{
+		"code": "S5180",
+		"desc": "Home health respiratory therapy, initial evaluation"
+	},
+	{
+		"code": "S5181",
+		"desc": "Home health respiratory therapy, nos, per diem"
+	},
+	{
+		"code": "G0320",
+		"desc": "Home health services furnished using synchronous telemedicine rendered via a real-time two-way audio and video telecommunications system"
+	},
+	{
+		"code": "G0321",
+		"desc": "Home health services furnished using synchronous telemedicine rendered via telephone or other real-time interactive audio-only telecommunications system"
+	},
+	{
+		"code": "S5521",
+		"desc": "Home infusion therapy, all supplies (including catheter) necessary for a midline catheter insertion"
+	},
+	{
+		"code": "S5520",
+		"desc": "Home infusion therapy, all supplies (including catheter) necessary for a peripherally inserted central venous catheter (picc) line insertion"
+	},
+	{
+		"code": "S5518",
+		"desc": "Home infusion therapy, all supplies necessary for catheter repair"
+	},
+	{
+		"code": "S5517",
+		"desc": "Home infusion therapy, all supplies necessary for restoration of catheter patency or declotting"
+	},
+	{
+		"code": "S9346",
+		"desc": "Home infusion therapy, alpha-1-proteinase inhibitor (e.g., prolastin); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9345",
+		"desc": "Home infusion therapy, anti-hemophilic agent infusion therapy (e.g., factor viii); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9363",
+		"desc": "Home infusion therapy, anti-spasmotic therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9359",
+		"desc": "Home infusion therapy, anti-tumor necrosis factor intravenous therapy; (e.g., infliximab); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9494",
+		"desc": "Home infusion therapy, antibiotic, antiviral, or antifungal therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use this code with home infusion codes for hourly dosing schedules s9497-s9504)"
+	},
+	{
+		"code": "S9501",
+		"desc": "Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 12 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9500",
+		"desc": "Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 24 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9497",
+		"desc": "Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 3 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9502",
+		"desc": "Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 8 hours, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9504",
+		"desc": "Home infusion therapy, antibiotic, antiviral, or antifungal; once every 4 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9503",
+		"desc": "Home infusion therapy, antibiotic, antiviral, or antifungal; once every 6 hours; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S5501",
+		"desc": "Home infusion therapy, catheter care / maintenance, complex (more than one lumen), includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S5502",
+		"desc": "Home infusion therapy, catheter care / maintenance, implanted access device, includes administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment, (drugs and nursing visits coded separately), per diem (use this code for interim maintenance of vascular access not currently in use)"
+	},
+	{
+		"code": "S5497",
+		"desc": "Home infusion therapy, catheter care / maintenance, not otherwise classified; includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S5498",
+		"desc": "Home infusion therapy, catheter care / maintenance, simple (single lumen), includes administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment, (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9355",
+		"desc": "Home infusion therapy, chelation therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9329",
+		"desc": "Home infusion therapy, chemotherapy infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use this code with s9330 or s9331)"
+	},
+	{
+		"code": "S9330",
+		"desc": "Home infusion therapy, continuous (twenty-four hours or more) chemotherapy infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9326",
+		"desc": "Home infusion therapy, continuous (twenty-four hours or more) pain management infusion; administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9336",
+		"desc": "Home infusion therapy, continuous anticoagulant infusion therapy (e.g., heparin), administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9353",
+		"desc": "Home infusion therapy, continuous insulin infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9351",
+		"desc": "Home infusion therapy, continuous or intermittent anti-emetic infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and visits coded separately), per diem"
+	},
+	{
+		"code": "S9490",
+		"desc": "Home infusion therapy, corticosteroid infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9361",
+		"desc": "Home infusion therapy, diuretic intravenous therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9357",
+		"desc": "Home infusion therapy, enzyme replacement intravenous therapy; (e.g., imiglucerase); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9373",
+		"desc": "Home infusion therapy, hydration therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use with hydration therapy codes s9374-s9377 using daily volume scales)"
+	},
+	{
+		"code": "S9375",
+		"desc": "Home infusion therapy, hydration therapy; more than one liter but no more than two liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9377",
+		"desc": "Home infusion therapy, hydration therapy; more than three liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9376",
+		"desc": "Home infusion therapy, hydration therapy; more than two liters but no more than three liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9374",
+		"desc": "Home infusion therapy, hydration therapy; one liter per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9338",
+		"desc": "Home infusion therapy, immunotherapy, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9328",
+		"desc": "Home infusion therapy, implanted pump pain management infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9379",
+		"desc": "Home infusion therapy, infusion therapy, not otherwise classified; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S5523",
+		"desc": "Home infusion therapy, insertion of midline venous catheter, nursing services only (no supplies or catheter included)"
+	},
+	{
+		"code": "S5522",
+		"desc": "Home infusion therapy, insertion of peripherally inserted central venous catheter (picc), nursing services only (no supplies or catheter included)"
+	},
+	{
+		"code": "S9331",
+		"desc": "Home infusion therapy, intermittent (less than twenty-four hours) chemotherapy infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9327",
+		"desc": "Home infusion therapy, intermittent (less than twenty-four hours) pain management infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9325",
+		"desc": "Home infusion therapy, pain management infusion; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment, (drugs and nursing visits coded separately), per diem (do not use this code with s9326, s9327 or s9328)"
+	},
+	{
+		"code": "S5036",
+		"desc": "Home infusion therapy, repair of infusion device (e.g., pump repair)"
+	},
+	{
+		"code": "S5035",
+		"desc": "Home infusion therapy, routine service of infusion device (e.g., pump maintenance)"
+	},
+	{
+		"code": "S9348",
+		"desc": "Home infusion therapy, sympathomimetic/inotropic agent infusion therapy (e.g., dobutamine); administrative services, professional pharmacy services, care coordination, all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9349",
+		"desc": "Home infusion therapy, tocolytic infusion therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9364",
+		"desc": "Home infusion therapy, total parenteral nutrition (tpn); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem (do not use with home infusion codes s9365-s9368 using daily volume scales)"
+	},
+	{
+		"code": "S9366",
+		"desc": "Home infusion therapy, total parenteral nutrition (tpn); more than one liter but no more than two liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9368",
+		"desc": "Home infusion therapy, total parenteral nutrition (tpn); more than three liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9367",
+		"desc": "Home infusion therapy, total parenteral nutrition (tpn); more than two liters but no more than three liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9365",
+		"desc": "Home infusion therapy, total parenteral nutrition (tpn); one liter per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard tpn formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9347",
+		"desc": "Home infusion therapy, uninterrupted, long-term, controlled rate intravenous or subcutaneous infusion therapy (e.g., epoprostenol); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9563",
+		"desc": "Home injectable therapy, immunotherapy, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9559",
+		"desc": "Home injectable therapy, interferon, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9542",
+		"desc": "Home injectable therapy, not otherwise classified, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9562",
+		"desc": "Home injectable therapy, palivizumab or other monoclonal antibody for rsv, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9558",
+		"desc": "Home injectable therapy; growth hormone, including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9560",
+		"desc": "Home injectable therapy; hormonal therapy (e.g.; leuprolide, goserelin), including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9214",
+		"desc": "Home management of gestational diabetes, includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately); per diem (do not use this code with any home infusion per diem code)"
+	},
+	{
+		"code": "S9211",
+		"desc": "Home management of gestational hypertension, includes administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately); per diem (do not use this code with any home infusion per diem code)"
+	},
+	{
+		"code": "S9212",
+		"desc": "Home management of postpartum hypertension, includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use this code with any home infusion per diem code)"
+	},
+	{
+		"code": "S9213",
+		"desc": "Home management of preeclampsia, includes administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately); per diem (do not use this code with any home infusion per diem code)"
+	},
+	{
+		"code": "S9208",
+		"desc": "Home management of preterm labor, including administrative services, professional pharmacy services, care coordination, and all necessary supplies or equipment (drugs and nursing visits coded separately), per diem (do not use this code with any home infusion per diem code)"
+	},
+	{
+		"code": "S9209",
+		"desc": "Home management of preterm premature rupture of membranes (pprom), including administrative services, professional pharmacy services, care coordination, and all necessary supplies or equipment (drugs and nursing visits coded separately), per diem (do not use this code with any home infusion per diem code)"
+	},
+	{
+		"code": "S5165",
+		"desc": "Home modifications; per service"
+	},
+	{
+		"code": "G0398",
+		"desc": "Home sleep study test (hst) with type ii portable monitor, unattended; minimum of 7 channels: eeg, eog, emg, ecg/heart rate, airflow, respiratory effort and oxygen saturation"
+	},
+	{
+		"code": "G0399",
+		"desc": "Home sleep test (hst) with type iii portable monitor, unattended; minimum of 4 channels: 2 respiratory movement/airflow, 1 ecg/heart rate and 1 oxygen saturation"
+	},
+	{
+		"code": "G0400",
+		"desc": "Home sleep test (hst) with type iv portable monitor, unattended; minimum of 3 channels"
+	},
+	{
+		"code": "S9335",
+		"desc": "Home therapy, hemodialysis; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately), per diem"
+	},
+	{
+		"code": "S9370",
+		"desc": "Home therapy, intermittent anti-emetic injection therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9590",
+		"desc": "Home therapy, irrigation therapy (e.g., sterile irrigation of an organ or anatomical cavity); including administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9343",
+		"desc": "Home therapy; enteral nutrition via bolus; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9341",
+		"desc": "Home therapy; enteral nutrition via gravity; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9342",
+		"desc": "Home therapy; enteral nutrition via pump; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9340",
+		"desc": "Home therapy; enteral nutrition; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9537",
+		"desc": "Home therapy; hematopoietic hormone injection therapy (e.g., erythropoietin, g-csf, gm-csf); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9372",
+		"desc": "Home therapy; intermittent anticoagulant injection therapy (e.g., heparin); administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem (do not use this code for flushing of infusion devices with heparin to maintain patency)"
+	},
+	{
+		"code": "S9339",
+		"desc": "Home therapy; peritoneal dialysis, administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9810",
+		"desc": "Home therapy; professional pharmacy services for provision of infusion, specialty drug administration, and/or disease state management, not otherwise classified, per hour (do not use this code with any per diem code)"
+	},
+	{
+		"code": "S9538",
+		"desc": "Home transfusion of blood product(s); administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (blood products, drugs, and nursing visits coded separately), per diem"
+	},
+	{
+		"code": "S9001",
+		"desc": "Home uterine monitor with or without associated nursing services"
+	},
+	{
+		"code": "E0465",
+		"desc": "Home ventilator, any type, used with invasive interface, (e.g., tracheostomy tube)"
+	},
+	{
+		"code": "E0466",
+		"desc": "Home ventilator, any type, used with non-invasive interface, (e.g., mask, chest shell)"
+	},
+	{
+		"code": "E0468",
+		"desc": "Home ventilator, dual-function respiratory device, also performs additional function of cough stimulation, includes all accessories, components and supplies for all functions"
+	},
+	{
+		"code": "E0467",
+		"desc": "Home ventilator, multi-function respiratory device, also performs any or all of the additional functions of oxygen concentration, drug nebulization, aspiration, and cough stimulation, includes all accessories, components and supplies for all functions"
+	},
+	{
+		"code": "S9097",
+		"desc": "Home visit for wound care"
+	},
+	{
+		"code": "S9098",
+		"desc": "Home visit, phototherapy services (e.g., bili-lite), including equipment rental, nursing services, blood draw, supplies, and other services, per diem"
+	},
+	{
+		"code": "Z590",
+		"desc": "Homelessness"
+	},
+	{
+		"code": "S5130",
+		"desc": "Homemaker service, nos; per 15 minutes"
+	},
+	{
+		"code": "S5131",
+		"desc": "Homemaker service, nos; per diem"
+	},
+	{
+		"code": "R45850",
+		"desc": "Homicidal ideations"
+	},
+	{
+		"code": "E7211",
+		"desc": "Homocystinuria"
+	},
+	{
+		"code": "H53462",
+		"desc": "Homonymous bilateral field defects, left side"
+	},
+	{
+		"code": "H53461",
+		"desc": "Homonymous bilateral field defects, right side"
+	},
+	{
+		"code": "H53469",
+		"desc": "Homonymous bilateral field defects, unspecified side"
+	},
+	{
+		"code": "B769",
+		"desc": "Hookworm disease, unspecified"
+	},
+	{
+		"code": "H00016",
+		"desc": "Hordeolum externum left eye, unspecified eyelid"
+	},
+	{
+		"code": "H00015",
+		"desc": "Hordeolum externum left lower eyelid"
+	},
+	{
+		"code": "H00014",
+		"desc": "Hordeolum externum left upper eyelid"
+	},
+	{
+		"code": "H00013",
+		"desc": "Hordeolum externum right eye, unspecified eyelid"
+	},
+	{
+		"code": "H00012",
+		"desc": "Hordeolum externum right lower eyelid"
+	},
+	{
+		"code": "H00011",
+		"desc": "Hordeolum externum right upper eyelid"
+	},
+	{
+		"code": "H00019",
+		"desc": "Hordeolum externum unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "H00026",
+		"desc": "Hordeolum internum left eye, unspecified eyelid"
+	},
+	{
+		"code": "H00025",
+		"desc": "Hordeolum internum left lower eyelid"
+	},
+	{
+		"code": "H00024",
+		"desc": "Hordeolum internum left upper eyelid"
+	},
+	{
+		"code": "H00023",
+		"desc": "Hordeolum internum right eye, unspecified eyelid"
+	},
+	{
+		"code": "H00022",
+		"desc": "Hordeolum internum right lower eyelid"
+	},
+	{
+		"code": "H00021",
+		"desc": "Hordeolum internum right upper eyelid"
+	},
+	{
+		"code": "H00029",
+		"desc": "Hordeolum internum unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "K063",
+		"desc": "Horizontal alveolar bone loss"
+	},
+	{
+		"code": "M2633",
+		"desc": "Horizontal displacement of fully erupted tooth or teeth"
+	},
+	{
+		"code": "Z79890",
+		"desc": "Hormone replacement therapy"
+	},
+	{
+		"code": "Z192",
+		"desc": "Hormone resistant malignancy status"
+	},
+	{
+		"code": "Z191",
+		"desc": "Hormone sensitive malignancy status"
+	},
+	{
+		"code": "G902",
+		"desc": "Horner's syndrome"
+	},
+	{
+		"code": "H33313",
+		"desc": "Horseshoe tear of retina without detachment, bilateral"
+	},
+	{
+		"code": "H33312",
+		"desc": "Horseshoe tear of retina without detachment, left eye"
+	},
+	{
+		"code": "H33311",
+		"desc": "Horseshoe tear of retina without detachment, right eye"
+	},
+	{
+		"code": "H33319",
+		"desc": "Horseshoe tear of retina without detachment, unspecified eye"
+	},
+	{
+		"code": "Q5006",
+		"desc": "Hospice care provided in inpatient hospice facility"
+	},
+	{
+		"code": "Q5005",
+		"desc": "Hospice care provided in inpatient hospital"
+	},
+	{
+		"code": "Q5008",
+		"desc": "Hospice care provided in inpatient psychiatric facility"
+	},
+	{
+		"code": "Q5007",
+		"desc": "Hospice care provided in long term care facility"
+	},
+	{
+		"code": "Q5003",
+		"desc": "Hospice care provided in nursing long term care facility (ltc) or non-skilled nursing facility (nf)"
+	},
+	{
+		"code": "Q5004",
+		"desc": "Hospice care provided in skilled nursing facility (snf)"
+	},
+	{
+		"code": "S9126",
+		"desc": "Hospice care, in the home, per diem"
+	},
+	{
+		"code": "T2043",
+		"desc": "Hospice continuous home care; per hour"
+	},
+	{
+		"code": "G0337",
+		"desc": "Hospice evaluation and counseling services, pre-election"
+	},
+	{
+		"code": "T2045",
+		"desc": "Hospice general inpatient care; per diem"
+	},
+	{
+		"code": "Q5010",
+		"desc": "Hospice home care provided in a hospice facility"
+	},
+	{
+		"code": "T2044",
+		"desc": "Hospice inpatient respite care; per diem"
+	},
+	{
+		"code": "T2046",
+		"desc": "Hospice long term care, room and board only; per diem"
+	},
+	{
+		"code": "Q5002",
+		"desc": "Hospice or home health care provided in assisted living facility"
+	},
+	{
+		"code": "Q5001",
+		"desc": "Hospice or home health care provided in patient's home/residence"
+	},
+	{
+		"code": "Q5009",
+		"desc": "Hospice or home health care provided in place not otherwise specified (nos)"
+	},
+	{
+		"code": "S0255",
+		"desc": "Hospice referral visit (advising patient and family of care options) performed by nurse, social worker, or other designated staff"
+	},
+	{
+		"code": "T2042",
+		"desc": "Hospice routine home care; per diem"
+	},
+	{
+		"code": "G9720",
+		"desc": "Hospice services for patient occurred any time during the measurement period"
+	},
+	{
+		"code": "M1067",
+		"desc": "Hospice services for patient provided any time during the measurement period"
+	},
+	{
+		"code": "G9718",
+		"desc": "Hospice services for patient provided any time during the measurement period\n                                    \n                                        \n                                        Terminated December 31, 2022."
+	},
+	{
+		"code": "G9723",
+		"desc": "Hospice services for patient received any time during the measurement period"
+	},
+	{
+		"code": "G9740",
+		"desc": "Hospice services given to patient any time during the measurement period"
+	},
+	{
+		"code": "G9687",
+		"desc": "Hospice services provided to patient any time during the measurement period"
+	},
+	{
+		"code": "M1154",
+		"desc": "Hospice services provided to patient any time during the measurement period"
+	},
+	{
+		"code": "M1159",
+		"desc": "Hospice services provided to patient any time during the measurement period"
+	},
+	{
+		"code": "M1191",
+		"desc": "Hospice services provided to patient any time during the measurement period"
+	},
+	{
+		"code": "M1303",
+		"desc": "Hospice services provided to patient any time during the measurement period"
+	},
+	{
+		"code": "G9692",
+		"desc": "Hospice services received by patient any time during the measurement period"
+	},
+	{
+		"code": "G9709",
+		"desc": "Hospice services used by patient any time during the measurement period"
+	},
+	{
+		"code": "G9694",
+		"desc": "Hospice services utilized by patient any time during the measurement period"
+	},
+	{
+		"code": "E0304",
+		"desc": "Hospital bed, extra heavy duty, extra wide, with weight capacity greater than 600 pounds, with any type side rails, with mattress"
+	},
+	{
+		"code": "E0302",
+		"desc": "Hospital bed, extra heavy duty, extra wide, with weight capacity greater than 600 pounds, with any type side rails, without mattress"
+	},
+	{
+		"code": "E0250",
+		"desc": "Hospital bed, fixed height, with any type side rails, with mattress"
+	},
+	{
+		"code": "E0251",
+		"desc": "Hospital bed, fixed height, with any type side rails, without mattress"
+	},
+	{
+		"code": "E0290",
+		"desc": "Hospital bed, fixed height, without side rails, with mattress"
+	},
+	{
+		"code": "E0291",
+		"desc": "Hospital bed, fixed height, without side rails, without mattress"
+	},
+	{
+		"code": "E0303",
+		"desc": "Hospital bed, heavy duty, extra wide, with weight capacity greater than 350 pounds, but less than or equal to 600 pounds, with any type side rails, with mattress"
+	},
+	{
+		"code": "E0301",
+		"desc": "Hospital bed, heavy duty, extra wide, with weight capacity greater than 350 pounds, but less than or equal to 600 pounds, with any type side rails, without mattress"
+	},
+	{
+		"code": "E0270",
+		"desc": "Hospital bed, institutional type includes: oscillating, circulating and stryker frame, with mattress"
+	},
+	{
+		"code": "E0329",
+		"desc": "Hospital bed, pediatric, electric or semi-electric, 360 degree side enclosures, top of headboard, footboard and side rails up to 24 inches above the spring, includes mattress"
+	},
+	{
+		"code": "E0328",
+		"desc": "Hospital bed, pediatric, manual, 360 degree side enclosures, top of headboard, footboard and side rails up to 24 inches above the spring, includes mattress"
+	},
+	{
+		"code": "E0260",
+		"desc": "Hospital bed, semi-electric (head and foot adjustment), with any type side rails, with mattress"
+	},
+	{
+		"code": "E0261",
+		"desc": "Hospital bed, semi-electric (head and foot adjustment), with any type side rails, without mattress"
+	},
+	{
+		"code": "E0294",
+		"desc": "Hospital bed, semi-electric (head and foot adjustment), without side rails, with mattress"
+	},
+	{
+		"code": "E0295",
+		"desc": "Hospital bed, semi-electric (head and foot adjustment), without side rails, without mattress"
+	},
+	{
+		"code": "E0265",
+		"desc": "Hospital bed, total electric (head, foot and height adjustments), with any type side rails, with mattress"
+	},
+	{
+		"code": "E0266",
+		"desc": "Hospital bed, total electric (head, foot and height adjustments), with any type side rails, without mattress"
+	},
+	{
+		"code": "E0296",
+		"desc": "Hospital bed, total electric (head, foot and height adjustments), without side rails, with mattress"
+	},
+	{
+		"code": "E0297",
+		"desc": "Hospital bed, total electric (head, foot and height adjustments), without side rails, without mattress"
+	},
+	{
+		"code": "E0255",
+		"desc": "Hospital bed, variable height, hi-lo, with any type side rails, with mattress"
+	},
+	{
+		"code": "E0256",
+		"desc": "Hospital bed, variable height, hi-lo, with any type side rails, without mattress"
+	},
+	{
+		"code": "E0292",
+		"desc": "Hospital bed, variable height, hi-lo, without side rails, with mattress"
+	},
+	{
+		"code": "E0293",
+		"desc": "Hospital bed, variable height, hi-lo, without side rails, without mattress"
+	},
+	{
+		"code": "G0378",
+		"desc": "Hospital observation service, per hour"
+	},
+	{
+		"code": "G0463",
+		"desc": "Hospital outpatient clinic visit for assessment and management of a patient"
+	},
+	{
+		"code": "C9803",
+		"desc": "Hospital outpatient clinic visit specimen collection for severe acute respiratory syndrome coronavirus  2 (sars-cov-2) (coronavirus disease [covid-19]), any specimen source\n                                    \n                                        \n                                        Terminated December 31, 2023."
+	},
+	{
+		"code": "S0310",
+		"desc": "Hospitalist services (list separately in addition to code for appropriate evaluation and management service)"
+	},
+	{
+		"code": "G4009",
+		"desc": "Hospitalists mips specialty set"
+	},
+	{
+		"code": "G9801",
+		"desc": "Hospitalizations in which the patient was transferred directly to a non-acute care facility for any diagnosis\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G9767",
+		"desc": "Hospitalized patients with newly diagnosed cva considered for endovascular stroke treatment"
+	},
+	{
+		"code": "R455",
+		"desc": "Hostility"
+	},
+	{
+		"code": "Z623",
+		"desc": "Hostility towards and scapegoating of child"
+	},
+	{
+		"code": "K312",
+		"desc": "Hourglass stricture and stenosis of stomach"
+	},
+	{
+		"code": "A7508",
+		"desc": "Housing and integrated adhesive, for use in a tracheostoma heat and moisture exchange system and/or with a tracheostoma valve, each"
+	},
+	{
+		"code": "A7505",
+		"desc": "Housing, reusable without adhesive, for use in a heat and moisture exchange system and/or with a tracheostoma valve, each"
+	},
+	{
+		"code": "B9733",
+		"desc": "Human T-cell lymphotrophic virus, type I [HTLV-I] as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "B9734",
+		"desc": "Human T-cell lymphotrophic virus, type II [HTLV-II] as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "T2101",
+		"desc": "Human breast milk processing, storage and distribution only"
+	},
+	{
+		"code": "Q4224",
+		"desc": "Human health factor 10 amniotic patch (hhf10-p), per square centimeter"
+	},
+	{
+		"code": "B1001",
+		"desc": "Human herpesvirus 6 encephalitis"
+	},
+	{
+		"code": "B1081",
+		"desc": "Human herpesvirus 6 infection"
+	},
+	{
+		"code": "B1082",
+		"desc": "Human herpesvirus 7 infection"
+	},
+	{
+		"code": "Z717",
+		"desc": "Human immunodeficiency virus [HIV] counseling"
+	},
+	{
+		"code": "B20",
+		"desc": "Human immunodeficiency virus [HIV] disease"
+	},
+	{
+		"code": "O9872",
+		"desc": "Human immunodeficiency virus [HIV] disease complicating childbirth"
+	},
+	{
+		"code": "O98711",
+		"desc": "Human immunodeficiency virus [HIV] disease complicating pregnancy, first trimester"
+	},
+	{
+		"code": "O98712",
+		"desc": "Human immunodeficiency virus [HIV] disease complicating pregnancy, second trimester"
+	},
+	{
+		"code": "O98713",
+		"desc": "Human immunodeficiency virus [HIV] disease complicating pregnancy, third trimester"
+	},
+	{
+		"code": "O98719",
+		"desc": "Human immunodeficiency virus [HIV] disease complicating pregnancy, unspecified trimester"
+	},
+	{
+		"code": "O9873",
+		"desc": "Human immunodeficiency virus [HIV] disease complicating the puerperium"
+	},
+	{
+		"code": "B9735",
+		"desc": "Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "B9781",
+		"desc": "Human metapneumovirus as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "J123",
+		"desc": "Human metapneumovirus pneumonia"
+	},
+	{
+		"code": "C9250",
+		"desc": "Human plasma fibrin sealant, vapor-heated, solvent-detergent (artiss), 2 ml"
+	},
+	{
+		"code": "E0550",
+		"desc": "Humidifier, durable for extensive supplemental humidification during ippb treatments or oxygen delivery"
+	},
+	{
+		"code": "E0560",
+		"desc": "Humidifier, durable for supplemental humidification during ippb treatment or oxygen delivery"
+	},
+	{
+		"code": "E0555",
+		"desc": "Humidifier, durable, glass or autoclavable plastic bottle type, for use with regulator or flowmeter"
+	},
+	{
+		"code": "E0562",
+		"desc": "Humidifier, heated, used with positive airway pressure device"
+	},
+	{
+		"code": "E0561",
+		"desc": "Humidifier, non-heated, used with positive airway pressure device"
+	},
+	{
+		"code": "E8381",
+		"desc": "Hungry bone syndrome"
+	},
+	{
+		"code": "Y231XXA",
+		"desc": "Hunting rifle discharge, undetermined intent, initial encounter"
+	},
+	{
+		"code": "Y231XXS",
+		"desc": "Hunting rifle discharge, undetermined intent, sequela"
+	},
+	{
+		"code": "Y231XXD",
+		"desc": "Hunting rifle discharge, undetermined intent, subsequent encounter"
+	},
+	{
+		"code": "G10",
+		"desc": "Huntington's disease"
+	},
+	{
+		"code": "E7601",
+		"desc": "Hurler's syndrome"
+	},
+	{
+		"code": "E7602",
+		"desc": "Hurler-Scheie syndrome"
+	},
+	{
+		"code": "X370XXA",
+		"desc": "Hurricane, initial encounter"
+	},
+	{
+		"code": "X370XXS",
+		"desc": "Hurricane, sequela"
+	},
+	{
+		"code": "X370XXD",
+		"desc": "Hurricane, subsequent encounter"
+	},
+	{
+		"code": "Y0701",
+		"desc": "Husband, perpetrator of maltreatment and neglect"
+	},
+	{
+		"code": "A5052",
+		"desc": "Hutchinson's teeth"
+	},
+	{
+		"code": "A5053",
+		"desc": "Hutchinson's triad"
+	},
+	{
+		"code": "Q4117",
+		"desc": "Hyalomatrix, per square centimeter"
+	},
+	{
+		"code": "J7318",
+		"desc": "Hyaluronan or derivative, durolane, for intra-articular injection, 1 mg"
+	},
+	{
+		"code": "C9465",
+		"desc": "Hyaluronan or derivative, durolane, for intra-articular injection, per dose\n                                    \n                                        \n                                        Terminated December 31, 2018."
+	},
+	{
+		"code": "J7323",
+		"desc": "Hyaluronan or derivative, euflexxa, for intra-articular injection, per dose"
+	},
+	{
+		"code": "J7326",
+		"desc": "Hyaluronan or derivative, gel-one, for intra-articular injection, per dose"
+	},
+	{
+		"code": "J7328",
+		"desc": "Hyaluronan or derivative, gelsyn-3, for intra-articular injection, 0.1 mg"
+	},
+	{
+		"code": "Q9980",
+		"desc": "Hyaluronan or derivative, genvisc 850, for intra-articular injection, 1 mg\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "J7321",
+		"desc": "Hyaluronan or derivative, hyalgan, supartz or visco-3, for intra-articular injection, per dose"
+	},
+	{
+		"code": "J7322",
+		"desc": "Hyaluronan or derivative, hymovis, for intra-articular injection, 1 mg"
+	},
+	{
+		"code": "C9471",
+		"desc": "Hyaluronan or derivative, hymovis, for intra-articular injection, 1 mg\n                                    \n                                        \n                                        Terminated December 31, 2016."
+	},
+	{
+		"code": "J7327",
+		"desc": "Hyaluronan or derivative, monovisc, for intra-articular injection, per dose"
+	},
+	{
+		"code": "J7324",
+		"desc": "Hyaluronan or derivative, orthovisc, for intra-articular injection, per dose"
+	},
+	{
+		"code": "J7331",
+		"desc": "Hyaluronan or derivative, synojoynt, for intra-articular injection, 1 mg"
+	},
+	{
+		"code": "J7325",
+		"desc": "Hyaluronan or derivative, synvisc or synvisc-one, for intra-articular injection, 1 mg"
+	},
+	{
+		"code": "J7332",
+		"desc": "Hyaluronan or derivative, triluron, for intra-articular injection, 1 mg"
+	},
+	{
+		"code": "J7329",
+		"desc": "Hyaluronan or derivative, trivisc, for intra-articular injection, 1 mg"
+	},
+	{
+		"code": "J7333",
+		"desc": "Hyaluronan or derivative, visco-3, for intra-articular injection, per dose\n                                    \n                                        \n                                        Terminated March 31, 2021."
+	},
+	{
+		"code": "J7320",
+		"desc": "Hyaluronan or derivitive, genvisc 850, for intra-articular injection, 1 mg"
+	},
+	{
+		"code": "O019",
+		"desc": "Hydatidiform mole, unspecified"
+	},
+	{
+		"code": "N433",
+		"desc": "Hydrocele, unspecified"
+	},
+	{
+		"code": "G914",
+		"desc": "Hydrocephalus in diseases classified elsewhere"
+	},
+	{
+		"code": "G919",
+		"desc": "Hydrocephalus, unspecified"
+	},
+	{
+		"code": "E0225",
+		"desc": "Hydrocollator unit, includes pads"
+	},
+	{
+		"code": "E0239",
+		"desc": "Hydrocollator unit, portable"
+	},
+	{
+		"code": "A6237",
+		"desc": "Hydrocolloid dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6234",
+		"desc": "Hydrocolloid dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+	},
+	{
+		"code": "A6238",
+		"desc": "Hydrocolloid dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6235",
+		"desc": "Hydrocolloid dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6239",
+		"desc": "Hydrocolloid dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6236",
+		"desc": "Hydrocolloid dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6241",
+		"desc": "Hydrocolloid dressing, wound filler, dry form, sterile, per gram"
+	},
+	{
+		"code": "A6240",
+		"desc": "Hydrocolloid dressing, wound filler, paste, sterile, per ounce"
+	},
+	{
+		"code": "A6245",
+		"desc": "Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6242",
+		"desc": "Hydrogel dressing, wound cover, sterile, pad size 16 sq. in. or less, without adhesive border, each dressing"
+	},
+	{
+		"code": "A6246",
+		"desc": "Hydrogel dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6243",
+		"desc": "Hydrogel dressing, wound cover, sterile, pad size more than 16 sq. in. but less than or equal to 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6247",
+		"desc": "Hydrogel dressing, wound cover, sterile, pad size more than 48 sq. in., with any size adhesive border, each dressing"
+	},
+	{
+		"code": "A6244",
+		"desc": "Hydrogel dressing, wound cover, sterile, pad size more than 48 sq. in., without adhesive border, each dressing"
+	},
+	{
+		"code": "A6248",
+		"desc": "Hydrogel dressing, wound filler, gel, per fluid ounce"
+	},
+	{
+		"code": "Q064",
+		"desc": "Hydromyelia"
+	},
+	{
+		"code": "N132",
+		"desc": "Hydronephrosis with renal and ureteral calculous obstruction"
+	},
+	{
+		"code": "N131",
+		"desc": "Hydronephrosis with ureteral stricture, not elsewhere classified"
+	},
+	{
+		"code": "N130",
+		"desc": "Hydronephrosis with ureteropelvic junction obstruction"
+	},
+	{
+		"code": "P560",
+		"desc": "Hydrops fetalis due to isoimmunization"
+	},
+	{
+		"code": "P5699",
+		"desc": "Hydrops fetalis due to other hemolytic disease"
+	},
+	{
+		"code": "P5690",
+		"desc": "Hydrops fetalis due to unspecified hemolytic disease"
+	},
+	{
+		"code": "P832",
+		"desc": "Hydrops fetalis not due to hemolytic disease"
+	},
+	{
+		"code": "K821",
+		"desc": "Hydrops of gallbladder"
+	},
+	{
+		"code": "N134",
+		"desc": "Hydroureter"
+	},
+	{
+		"code": "M11072",
+		"desc": "Hydroxyapatite deposition disease, left ankle and foot"
+	},
+	{
+		"code": "M11022",
+		"desc": "Hydroxyapatite deposition disease, left elbow"
+	},
+	{
+		"code": "M11042",
+		"desc": "Hydroxyapatite deposition disease, left hand"
+	},
+	{
+		"code": "M11052",
+		"desc": "Hydroxyapatite deposition disease, left hip"
+	},
+	{
+		"code": "M11062",
+		"desc": "Hydroxyapatite deposition disease, left knee"
+	},
+	{
+		"code": "M11012",
+		"desc": "Hydroxyapatite deposition disease, left shoulder"
+	},
+	{
+		"code": "M11032",
+		"desc": "Hydroxyapatite deposition disease, left wrist"
+	},
+	{
+		"code": "M1109",
+		"desc": "Hydroxyapatite deposition disease, multiple sites"
+	},
+	{
+		"code": "M11071",
+		"desc": "Hydroxyapatite deposition disease, right ankle and foot"
+	},
+	{
+		"code": "M11021",
+		"desc": "Hydroxyapatite deposition disease, right elbow"
+	},
+	{
+		"code": "M11041",
+		"desc": "Hydroxyapatite deposition disease, right hand"
+	},
+	{
+		"code": "M11051",
+		"desc": "Hydroxyapatite deposition disease, right hip"
+	},
+	{
+		"code": "M11061",
+		"desc": "Hydroxyapatite deposition disease, right knee"
+	},
+	{
+		"code": "M11011",
+		"desc": "Hydroxyapatite deposition disease, right shoulder"
+	},
+	{
+		"code": "M11031",
+		"desc": "Hydroxyapatite deposition disease, right wrist"
+	},
+	{
+		"code": "M11079",
+		"desc": "Hydroxyapatite deposition disease, unspecified ankle and foot"
+	},
+	{
+		"code": "M11029",
+		"desc": "Hydroxyapatite deposition disease, unspecified elbow"
+	},
+	{
+		"code": "M11049",
+		"desc": "Hydroxyapatite deposition disease, unspecified hand"
+	},
+	{
+		"code": "M11059",
+		"desc": "Hydroxyapatite deposition disease, unspecified hip"
+	},
+	{
+		"code": "M11069",
+		"desc": "Hydroxyapatite deposition disease, unspecified knee"
+	},
+	{
+		"code": "M11019",
+		"desc": "Hydroxyapatite deposition disease, unspecified shoulder"
+	},
+	{
+		"code": "M1100",
+		"desc": "Hydroxyapatite deposition disease, unspecified site"
+	},
+	{
+		"code": "M11039",
+		"desc": "Hydroxyapatite deposition disease, unspecified wrist"
+	},
+	{
+		"code": "M1108",
+		"desc": "Hydroxyapatite deposition disease, vertebrae"
+	},
+	{
+		"code": "S0176",
+		"desc": "Hydroxyurea, oral, 500 mg"
+	},
+	{
+		"code": "Q0177",
+		"desc": "Hydroxyzine pamoate, 25 mg, oral, fda approved prescription anti-emetic, for use as a complete therapeutic substitute for an iv anti-emetic at the time of chemotherapy treatment, not to exceed a 48 hour dosage regimen"
+	},
+	{
+		"code": "A9286",
+		"desc": "Hygienic item or device, disposable or non-disposable, any type, each"
+	},
+	{
+		"code": "B710",
+		"desc": "Hymenolepiasis"
+	},
+	{
+		"code": "R1912",
+		"desc": "Hyperactive bowel sounds"
+	},
+	{
+		"code": "H93233",
+		"desc": "Hyperacusis, bilateral"
+	},
+	{
+		"code": "H93232",
+		"desc": "Hyperacusis, left ear"
+	},
+	{
+		"code": "H93231",
+		"desc": "Hyperacusis, right ear"
+	},
+	{
+		"code": "H93239",
+		"desc": "Hyperacusis, unspecified ear"
+	},
+	{
+		"code": "E269",
+		"desc": "Hyperaldosteronism, unspecified"
+	},
+	{
+		"code": "G0277",
+		"desc": "Hyperbaric oxygen under pressure, full body chamber, per 30 minute interval"
+	},
+	{
+		"code": "C1300",
+		"desc": "Hyperbaric oxygen under pressure, full body chamber, per 30 minute interval\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "E8352",
+		"desc": "Hypercalcemia"
+	},
+	{
+		"code": "E671",
+		"desc": "Hypercarotinemia"
+	},
+	{
+		"code": "K034",
+		"desc": "Hypercementosis"
+	},
+	{
+		"code": "E783",
+		"desc": "Hyperchylomicronemia"
+	},
+	{
+		"code": "O211",
+		"desc": "Hyperemesis gravidarum with metabolic disturbance"
+	},
+	{
+		"code": "R203",
+		"desc": "Hyperesthesia"
+	},
+	{
+		"code": "E229",
+		"desc": "Hyperfunction of pituitary gland, unspecified"
+	},
+	{
+		"code": "D892",
+		"desc": "Hypergammaglobulinemia, unspecified"
+	},
+	{
+		"code": "R739",
+		"desc": "Hyperglycemia, unspecified"
+	},
+	{
+		"code": "D824",
+		"desc": "Hyperimmunoglobulin E [IgE] syndrome"
+	},
+	{
+		"code": "E875",
+		"desc": "Hyperkalemia"
+	},
+	{
+		"code": "A663",
+		"desc": "Hyperkeratosis of yaws"
+	},
+	{
+		"code": "E785",
+		"desc": "Hyperlipidemia, unspecified"
+	},
+	{
+		"code": "E8341",
+		"desc": "Hypermagnesemia"
+	},
+	{
+		"code": "H5203",
+		"desc": "Hypermetropia, bilateral"
+	},
+	{
+		"code": "H5202",
+		"desc": "Hypermetropia, left eye"
+	},
+	{
+		"code": "H5201",
+		"desc": "Hypermetropia, right eye"
+	},
+	{
+		"code": "H5200",
+		"desc": "Hypermetropia, unspecified eye"
+	},
+	{
+		"code": "N3641",
+		"desc": "Hypermobility of urethra"
+	},
+	{
+		"code": "M357",
+		"desc": "Hypermobility syndrome"
+	},
+	{
+		"code": "R4921",
+		"desc": "Hypernasality"
+	},
+	{
+		"code": "E870",
+		"desc": "Hyperosmolality and hypernatremia"
+	},
+	{
+		"code": "M852",
+		"desc": "Hyperostosis of skull"
+	},
+	{
+		"code": "E7253",
+		"desc": "Hyperoxaluria"
+	},
+	{
+		"code": "E213",
+		"desc": "Hyperparathyroidism, unspecified"
+	},
+	{
+		"code": "K380",
+		"desc": "Hyperplasia of appendix"
+	},
+	{
+		"code": "Q633",
+		"desc": "Hyperplastic and giant kidney"
+	},
+	{
+		"code": "E221",
+		"desc": "Hyperprolactinemia"
+	},
+	{
+		"code": "H40823",
+		"desc": "Hypersecretion glaucoma, bilateral"
+	},
+	{
+		"code": "H40822",
+		"desc": "Hypersecretion glaucoma, left eye"
+	},
+	{
+		"code": "H40821",
+		"desc": "Hypersecretion glaucoma, right eye"
+	},
+	{
+		"code": "H40829",
+		"desc": "Hypersecretion glaucoma, unspecified eye"
+	},
+	{
+		"code": "E070",
+		"desc": "Hypersecretion of calcitonin"
+	},
+	{
+		"code": "M310",
+		"desc": "Hypersensitivity angiitis"
+	},
+	{
+		"code": "J678",
+		"desc": "Hypersensitivity pneumonitis due to other organic dusts"
+	},
+	{
+		"code": "J679",
+		"desc": "Hypersensitivity pneumonitis due to unspecified organic dust"
+	},
+	{
+		"code": "G4714",
+		"desc": "Hypersomnia due to medical condition"
+	},
+	{
+		"code": "F5113",
+		"desc": "Hypersomnia due to other mental disorder"
+	},
+	{
+		"code": "G4710",
+		"desc": "Hypersomnia, unspecified"
+	},
+	{
+		"code": "D731",
+		"desc": "Hypersplenism"
+	},
+	{
+		"code": "N981",
+		"desc": "Hyperstimulation of ovaries"
+	},
+	{
+		"code": "Q752",
+		"desc": "Hypertelorism"
+	},
+	{
+		"code": "I152",
+		"desc": "Hypertension secondary to endocrine disorders"
+	},
+	{
+		"code": "I151",
+		"desc": "Hypertension secondary to other renal disorders"
+	},
+	{
+		"code": "I129",
+		"desc": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+	},
+	{
+		"code": "I120",
+		"desc": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease"
+	},
+	{
+		"code": "I169",
+		"desc": "Hypertensive crisis, unspecified"
+	},
+	{
+		"code": "I161",
+		"desc": "Hypertensive emergency"
+	},
+	{
+		"code": "I674",
+		"desc": "Hypertensive encephalopathy"
+	},
+	{
+		"code": "I130",
+		"desc": "Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+	},
+	{
+		"code": "I132",
+		"desc": "Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+	},
+	{
+		"code": "I1310",
+		"desc": "Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+	},
+	{
+		"code": "I1311",
+		"desc": "Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease"
+	},
+	{
+		"code": "I110",
+		"desc": "Hypertensive heart disease with heart failure"
+	},
+	{
+		"code": "I119",
+		"desc": "Hypertensive heart disease without heart failure"
+	},
+	{
+		"code": "H35033",
+		"desc": "Hypertensive retinopathy, bilateral"
+	},
+	{
+		"code": "H35032",
+		"desc": "Hypertensive retinopathy, left eye"
+	},
+	{
+		"code": "H35031",
+		"desc": "Hypertensive retinopathy, right eye"
+	},
+	{
+		"code": "H35039",
+		"desc": "Hypertensive retinopathy, unspecified eye"
+	},
+	{
+		"code": "I160",
+		"desc": "Hypertensive urgency"
+	},
+	{
+		"code": "J7131",
+		"desc": "Hypertonic saline solution, 1 ml"
+	},
+	{
+		"code": "O624",
+		"desc": "Hypertonic, incoordinate, and prolonged uterine contractions"
+	},
+	{
+		"code": "H02866",
+		"desc": "Hypertrichosis of left eye, unspecified eyelid"
+	},
+	{
+		"code": "H02865",
+		"desc": "Hypertrichosis of left lower eyelid"
+	},
+	{
+		"code": "H02864",
+		"desc": "Hypertrichosis of left upper eyelid"
+	},
+	{
+		"code": "H02863",
+		"desc": "Hypertrichosis of right eye, unspecified eyelid"
+	},
+	{
+		"code": "H02862",
+		"desc": "Hypertrichosis of right lower eyelid"
+	},
+	{
+		"code": "H02861",
+		"desc": "Hypertrichosis of right upper eyelid"
+	},
+	{
+		"code": "H02869",
+		"desc": "Hypertrichosis of unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "L689",
+		"desc": "Hypertrichosis, unspecified"
+	},
+	{
+		"code": "L919",
+		"desc": "Hypertrophic disorder of the skin, unspecified"
+	},
+	{
+		"code": "N884",
+		"desc": "Hypertrophic elongation of cervix uteri"
+	},
+	{
+		"code": "L430",
+		"desc": "Hypertrophic lichen planus"
+	},
+	{
+		"code": "L910",
+		"desc": "Hypertrophic scar"
+	},
+	{
+		"code": "M794",
+		"desc": "Hypertrophy of (infrapatellar) fat pad"
+	},
+	{
+		"code": "J352",
+		"desc": "Hypertrophy of adenoids"
+	},
+	{
+		"code": "M89372",
+		"desc": "Hypertrophy of bone, left ankle and foot"
+	},
+	{
+		"code": "M89352",
+		"desc": "Hypertrophy of bone, left femur"
+	},
+	{
+		"code": "M89364",
+		"desc": "Hypertrophy of bone, left fibula"
+	},
+	{
+		"code": "M89342",
+		"desc": "Hypertrophy of bone, left hand"
+	},
+	{
+		"code": "M89322",
+		"desc": "Hypertrophy of bone, left humerus"
+	},
+	{
+		"code": "M89334",
+		"desc": "Hypertrophy of bone, left radius"
+	},
+	{
+		"code": "M89312",
+		"desc": "Hypertrophy of bone, left shoulder"
+	},
+	{
+		"code": "M89362",
+		"desc": "Hypertrophy of bone, left tibia"
+	},
+	{
+		"code": "M89332",
+		"desc": "Hypertrophy of bone, left ulna"
+	},
+	{
+		"code": "M8939",
+		"desc": "Hypertrophy of bone, multiple sites"
+	},
+	{
+		"code": "M8938",
+		"desc": "Hypertrophy of bone, other site"
+	},
+	{
+		"code": "M89371",
+		"desc": "Hypertrophy of bone, right ankle and foot"
+	},
+	{
+		"code": "M89351",
+		"desc": "Hypertrophy of bone, right femur"
+	},
+	{
+		"code": "M89363",
+		"desc": "Hypertrophy of bone, right fibula"
+	},
+	{
+		"code": "M89341",
+		"desc": "Hypertrophy of bone, right hand"
+	},
+	{
+		"code": "M89321",
+		"desc": "Hypertrophy of bone, right humerus"
+	},
+	{
+		"code": "M89333",
+		"desc": "Hypertrophy of bone, right radius"
+	},
+	{
+		"code": "M89311",
+		"desc": "Hypertrophy of bone, right shoulder"
+	},
+	{
+		"code": "M89361",
+		"desc": "Hypertrophy of bone, right tibia"
+	},
+	{
+		"code": "M89331",
+		"desc": "Hypertrophy of bone, right ulna"
+	},
+	{
+		"code": "M89379",
+		"desc": "Hypertrophy of bone, unspecified ankle and foot"
+	},
+	{
+		"code": "M89359",
+		"desc": "Hypertrophy of bone, unspecified femur"
+	},
+	{
+		"code": "M89349",
+		"desc": "Hypertrophy of bone, unspecified hand"
+	},
+	{
+		"code": "M89329",
+		"desc": "Hypertrophy of bone, unspecified humerus"
+	},
+	{
+		"code": "M89319",
+		"desc": "Hypertrophy of bone, unspecified shoulder"
+	},
+	{
+		"code": "M8930",
+		"desc": "Hypertrophy of bone, unspecified site"
+	},
+	{
+		"code": "M89369",
+		"desc": "Hypertrophy of bone, unspecified tibia and fibula"
+	},
+	{
+		"code": "M89339",
+		"desc": "Hypertrophy of bone, unspecified ulna and radius"
+	},
+	{
+		"code": "N62",
+		"desc": "Hypertrophy of breast"
+	},
+	{
+		"code": "N2881",
+		"desc": "Hypertrophy of kidney"
+	},
+	{
+		"code": "J343",
+		"desc": "Hypertrophy of nasal turbinates"
+	},
+	{
+		"code": "K111",
+		"desc": "Hypertrophy of salivary gland"
+	},
+	{
+		"code": "K143",
+		"desc": "Hypertrophy of tongue papillae"
+	},
+	{
+		"code": "J351",
+		"desc": "Hypertrophy of tonsils"
+	},
+	{
+		"code": "J353",
+		"desc": "Hypertrophy of tonsils with hypertrophy of adenoids"
+	},
+	{
+		"code": "N852",
+		"desc": "Hypertrophy of uterus"
+	},
+	{
+		"code": "E790",
+		"desc": "Hyperuricemia without signs of inflammatory arthritis and tophaceous disease"
+	},
+	{
+		"code": "R064",
+		"desc": "Hyperventilation"
+	},
+	{
+		"code": "E670",
+		"desc": "Hypervitaminosis A"
+	},
+	{
+		"code": "E673",
+		"desc": "Hypervitaminosis D"
+	},
+	{
+		"code": "H2103",
+		"desc": "Hyphema, bilateral"
+	},
+	{
+		"code": "H2102",
+		"desc": "Hyphema, left eye"
+	},
+	{
+		"code": "H2101",
+		"desc": "Hyphema, right eye"
+	},
+	{
+		"code": "H2100",
+		"desc": "Hyphema, unspecified eye"
+	},
+	{
+		"code": "G4481",
+		"desc": "Hypnic headache"
+	},
+	{
+		"code": "E871",
+		"desc": "Hypo-osmolality and hyponatremia"
+	},
+	{
+		"code": "F520",
+		"desc": "Hypoactive sexual desire disorder"
+	},
+	{
+		"code": "E8351",
+		"desc": "Hypocalcemia"
+	},
+	{
+		"code": "F4520",
+		"desc": "Hypochondriacal disorder, unspecified"
+	},
+	{
+		"code": "F4521",
+		"desc": "Hypochondriasis"
+	},
+	{
+		"code": "R201",
+		"desc": "Hypoesthesia of skin"
+	},
+	{
+		"code": "O924",
+		"desc": "Hypogalactia"
+	},
+	{
+		"code": "E162",
+		"desc": "Hypoglycemia, unspecified"
+	},
+	{
+		"code": "E876",
+		"desc": "Hypokalemia"
+	},
+	{
+		"code": "E8342",
+		"desc": "Hypomagnesemia"
+	},
+	{
+		"code": "R4922",
+		"desc": "Hyponasality"
+	},
+	{
+		"code": "E209",
+		"desc": "Hypoparathyroidism, unspecified"
+	},
+	{
+		"code": "E230",
+		"desc": "Hypopituitarism"
+	},
+	{
+		"code": "Q061",
+		"desc": "Hypoplasia and dysplasia of spinal cord"
+	},
+	{
+		"code": "Q2542",
+		"desc": "Hypoplasia of aorta"
+	},
+	{
+		"code": "N6482",
+		"desc": "Hypoplasia of breast"
+	},
+	{
+		"code": "Q51821",
+		"desc": "Hypoplasia of cervix"
+	},
+	{
+		"code": "Q5562",
+		"desc": "Hypoplasia of penis"
+	},
+	{
+		"code": "Q551",
+		"desc": "Hypoplasia of testis and scrotum"
+	},
+	{
+		"code": "Q51811",
+		"desc": "Hypoplasia of uterus"
+	},
+	{
+		"code": "Q234",
+		"desc": "Hypoplastic left heart syndrome"
+	},
+	{
+		"code": "Q226",
+		"desc": "Hypoplastic right heart syndrome"
+	},
+	{
+		"code": "H20053",
+		"desc": "Hypopyon, bilateral"
+	},
+	{
+		"code": "H20052",
+		"desc": "Hypopyon, left eye"
+	},
+	{
+		"code": "H20051",
+		"desc": "Hypopyon, right eye"
+	},
+	{
+		"code": "H20059",
+		"desc": "Hypopyon, unspecified eye"
+	},
+	{
+		"code": "Q540",
+		"desc": "Hypospadias, balanic"
+	},
+	{
+		"code": "Q541",
+		"desc": "Hypospadias, penile"
+	},
+	{
+		"code": "Q542",
+		"desc": "Hypospadias, penoscrotal"
+	},
+	{
+		"code": "Q543",
+		"desc": "Hypospadias, perineal"
+	},
+	{
+		"code": "Q549",
+		"desc": "Hypospadias, unspecified"
+	},
+	{
+		"code": "D730",
+		"desc": "Hyposplenism"
+	},
+	{
+		"code": "J182",
+		"desc": "Hypostatic pneumonia, unspecified organism"
+	},
+	{
+		"code": "I952",
+		"desc": "Hypotension due to drugs"
+	},
+	{
+		"code": "I953",
+		"desc": "Hypotension of hemodialysis"
+	},
+	{
+		"code": "I959",
+		"desc": "Hypotension, unspecified"
+	},
+	{
+		"code": "E233",
+		"desc": "Hypothalamic dysfunction, not elsewhere classified"
+	},
+	{
+		"code": "T8851XA",
+		"desc": "Hypothermia following anesthesia, initial encounter"
+	},
+	{
+		"code": "T8851XS",
+		"desc": "Hypothermia following anesthesia, sequela"
+	},
+	{
+		"code": "T8851XD",
+		"desc": "Hypothermia following anesthesia, subsequent encounter"
+	},
+	{
+		"code": "P809",
+		"desc": "Hypothermia of newborn, unspecified"
+	},
+	{
+		"code": "T68XXXA",
+		"desc": "Hypothermia, initial encounter"
+	},
+	{
+		"code": "R680",
+		"desc": "Hypothermia, not associated with low environmental temperature"
+	},
+	{
+		"code": "T68XXXS",
+		"desc": "Hypothermia, sequela"
+	},
+	{
+		"code": "T68XXXD",
+		"desc": "Hypothermia, subsequent encounter"
+	},
+	{
+		"code": "E032",
+		"desc": "Hypothyroidism due to medicaments and other exogenous substances"
+	},
+	{
+		"code": "E039",
+		"desc": "Hypothyroidism, unspecified"
+	},
+	{
+		"code": "H44423",
+		"desc": "Hypotony of eye due to ocular fistula, bilateral"
+	},
+	{
+		"code": "H44433",
+		"desc": "Hypotony of eye due to other ocular disorders, bilateral"
+	},
+	{
+		"code": "H44432",
+		"desc": "Hypotony of eye due to other ocular disorders, left eye"
+	},
+	{
+		"code": "H44431",
+		"desc": "Hypotony of eye due to other ocular disorders, right eye"
+	},
+	{
+		"code": "H44439",
+		"desc": "Hypotony of eye due to other ocular disorders, unspecified eye"
+	},
+	{
+		"code": "H44422",
+		"desc": "Hypotony of left eye due to ocular fistula"
+	},
+	{
+		"code": "H44421",
+		"desc": "Hypotony of right eye due to ocular fistula"
+	},
+	{
+		"code": "H44429",
+		"desc": "Hypotony of unspecified eye due to ocular fistula"
+	},
+	{
+		"code": "E861",
+		"desc": "Hypovolemia"
+	},
+	{
+		"code": "R571",
+		"desc": "Hypovolemic shock"
+	},
+	{
+		"code": "R0902",
+		"desc": "Hypoxemia"
+	},
+	{
+		"code": "P9160",
+		"desc": "Hypoxic ischemic encephalopathy [HIE], unspecified"
+	}
+]

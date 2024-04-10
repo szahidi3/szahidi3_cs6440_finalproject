@@ -1,0 +1,6770 @@
+[
+    {
+		"code": "G3003",
+		"desc": "Each additional 15 minutes of chronic pain management and treatment by a physician or other qualified health care professional, per calendar month. (list separately in addition to code for g3002. when using g3003, 15 minutes must be met or exceeded.)"
+	},
+	{
+		"code": "G2080",
+		"desc": "Each additional 30 minutes of counseling in a week of medication assisted treatment, (provision of the services by a medicare-enrolled opioid treatment program); list separately in addition to code for primary procedure"
+	},
+	{
+		"code": "S2361",
+		"desc": "Each additional cervical vertebral body (list separately in addition to code for primary procedure)\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "V5275",
+		"desc": "Ear impression, each"
+	},
+	{
+		"code": "V5265",
+		"desc": "Ear mold/insert, disposable, any type"
+	},
+	{
+		"code": "V5264",
+		"desc": "Ear mold/insert, not disposable, any type"
+	},
+	{
+		"code": "A501",
+		"desc": "Early congenital syphilis, latent"
+	},
+	{
+		"code": "A502",
+		"desc": "Early congenital syphilis, unspecified"
+	},
+	{
+		"code": "A5001",
+		"desc": "Early congenital syphilitic oculopathy"
+	},
+	{
+		"code": "A5002",
+		"desc": "Early congenital syphilitic osteochondropathy"
+	},
+	{
+		"code": "A5003",
+		"desc": "Early congenital syphilitic pharyngitis"
+	},
+	{
+		"code": "A5004",
+		"desc": "Early congenital syphilitic pneumonia"
+	},
+	{
+		"code": "A5005",
+		"desc": "Early congenital syphilitic rhinitis"
+	},
+	{
+		"code": "A5006",
+		"desc": "Early cutaneous congenital syphilis"
+	},
+	{
+		"code": "A5007",
+		"desc": "Early mucocutaneous congenital syphilis"
+	},
+	{
+		"code": "R6881",
+		"desc": "Early satiety"
+	},
+	{
+		"code": "A515",
+		"desc": "Early syphilis, latent"
+	},
+	{
+		"code": "A519",
+		"desc": "Early syphilis, unspecified"
+	},
+	{
+		"code": "A5008",
+		"desc": "Early visceral congenital syphilis"
+	},
+	{
+		"code": "G111",
+		"desc": "Early-onset cerebellar ataxia"
+	},
+	{
+		"code": "X34XXXA",
+		"desc": "Earthquake, initial encounter"
+	},
+	{
+		"code": "X34XXXS",
+		"desc": "Earthquake, sequela"
+	},
+	{
+		"code": "X34XXXD",
+		"desc": "Earthquake, subsequent encounter"
+	},
+	{
+		"code": "A832",
+		"desc": "Eastern equine encephalitis"
+	},
+	{
+		"code": "F509",
+		"desc": "Eating disorder, unspecified"
+	},
+	{
+		"code": "A984",
+		"desc": "Ebola virus disease"
+	},
+	{
+		"code": "Q225",
+		"desc": "Ebstein's anomaly"
+	},
+	{
+		"code": "L749",
+		"desc": "Eccrine sweat disorder, unspecified"
+	},
+	{
+		"code": "B6790",
+		"desc": "Echinococcosis, unspecified"
+	},
+	{
+		"code": "B678",
+		"desc": "Echinococcosis, unspecified, of liver"
+	},
+	{
+		"code": "B672",
+		"desc": "Echinococcus granulosus infection of bone"
+	},
+	{
+		"code": "B670",
+		"desc": "Echinococcus granulosus infection of liver"
+	},
+	{
+		"code": "B671",
+		"desc": "Echinococcus granulosus infection of lung"
+	},
+	{
+		"code": "B6732",
+		"desc": "Echinococcus granulosus infection, multiple sites"
+	},
+	{
+		"code": "B6739",
+		"desc": "Echinococcus granulosus infection, other sites"
+	},
+	{
+		"code": "B6731",
+		"desc": "Echinococcus granulosus infection, thyroid gland"
+	},
+	{
+		"code": "B674",
+		"desc": "Echinococcus granulosus infection, unspecified"
+	},
+	{
+		"code": "B675",
+		"desc": "Echinococcus multilocularis infection of liver"
+	},
+	{
+		"code": "B6761",
+		"desc": "Echinococcus multilocularis infection, multiple sites"
+	},
+	{
+		"code": "B6769",
+		"desc": "Echinococcus multilocularis infection, other sites"
+	},
+	{
+		"code": "B677",
+		"desc": "Echinococcus multilocularis infection, unspecified"
+	},
+	{
+		"code": "C9786",
+		"desc": "Echocardiography image post processing for computer aided detection of heart failure with preserved ejection fraction, including interpretation and report"
+	},
+	{
+		"code": "S2202",
+		"desc": "Echosclerotherapy"
+	},
+	{
+		"code": "B9712",
+		"desc": "Echovirus as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "O151",
+		"desc": "Eclampsia complicating labor"
+	},
+	{
+		"code": "O1502",
+		"desc": "Eclampsia complicating pregnancy, second trimester"
+	},
+	{
+		"code": "O1503",
+		"desc": "Eclampsia complicating pregnancy, third trimester"
+	},
+	{
+		"code": "O1500",
+		"desc": "Eclampsia complicating pregnancy, unspecified trimester"
+	},
+	{
+		"code": "O152",
+		"desc": "Eclampsia complicating the puerperium"
+	},
+	{
+		"code": "O159",
+		"desc": "Eclampsia, unspecified as to time period"
+	},
+	{
+		"code": "Q824",
+		"desc": "Ectodermal dysplasia (anhidrotic)"
+	},
+	{
+		"code": "E243",
+		"desc": "Ectopic ACTH syndrome"
+	},
+	{
+		"code": "Q435",
+		"desc": "Ectopic anus"
+	},
+	{
+		"code": "E342",
+		"desc": "Ectopic hormone secretion, not elsewhere classified"
+	},
+	{
+		"code": "Q632",
+		"desc": "Ectopic kidney"
+	},
+	{
+		"code": "Q5322",
+		"desc": "Ectopic perineal testis, bilateral"
+	},
+	{
+		"code": "Q5312",
+		"desc": "Ectopic perineal testis, unilateral"
+	},
+	{
+		"code": "Q5302",
+		"desc": "Ectopic testes, bilateral"
+	},
+	{
+		"code": "Q5301",
+		"desc": "Ectopic testis, unilateral"
+	},
+	{
+		"code": "Q5300",
+		"desc": "Ectopic testis, unspecified"
+	},
+	{
+		"code": "Q335",
+		"desc": "Ectopic tissue in lung"
+	},
+	{
+		"code": "B000",
+		"desc": "Eczema herpeticum"
+	},
+	{
+		"code": "H01136",
+		"desc": "Eczematous dermatitis of left eye, unspecified eyelid"
+	},
+	{
+		"code": "H01135",
+		"desc": "Eczematous dermatitis of left lower eyelid"
+	},
+	{
+		"code": "H01134",
+		"desc": "Eczematous dermatitis of left upper eyelid"
+	},
+	{
+		"code": "H01133",
+		"desc": "Eczematous dermatitis of right eye, unspecified eyelid"
+	},
+	{
+		"code": "H01132",
+		"desc": "Eczematous dermatitis of right lower eyelid"
+	},
+	{
+		"code": "H01131",
+		"desc": "Eczematous dermatitis of right upper eyelid"
+	},
+	{
+		"code": "H01139",
+		"desc": "Eczematous dermatitis of unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "H05223",
+		"desc": "Edema of bilateral orbit"
+	},
+	{
+		"code": "J384",
+		"desc": "Edema of larynx"
+	},
+	{
+		"code": "H02846",
+		"desc": "Edema of left eye, unspecified eyelid"
+	},
+	{
+		"code": "H02845",
+		"desc": "Edema of left lower eyelid"
+	},
+	{
+		"code": "H05222",
+		"desc": "Edema of left orbit"
+	},
+	{
+		"code": "H02844",
+		"desc": "Edema of left upper eyelid"
+	},
+	{
+		"code": "H02843",
+		"desc": "Edema of right eye, unspecified eyelid"
+	},
+	{
+		"code": "H02842",
+		"desc": "Edema of right lower eyelid"
+	},
+	{
+		"code": "H05221",
+		"desc": "Edema of right orbit"
+	},
+	{
+		"code": "H02841",
+		"desc": "Edema of right upper eyelid"
+	},
+	{
+		"code": "H02849",
+		"desc": "Edema of unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "H05229",
+		"desc": "Edema of unspecified orbit"
+	},
+	{
+		"code": "R609",
+		"desc": "Edema, unspecified"
+	},
+	{
+		"code": "J3520",
+		"desc": "Edetate disodium, per 150 mg"
+	},
+	{
+		"code": "Z554",
+		"desc": "Educational maladjustment and discord with teachers and classmates"
+	},
+	{
+		"code": "T709XXA",
+		"desc": "Effect of air pressure and water pressure, unspecified, initial encounter"
+	},
+	{
+		"code": "T709XXS",
+		"desc": "Effect of air pressure and water pressure, unspecified, sequela"
+	},
+	{
+		"code": "T709XXD",
+		"desc": "Effect of air pressure and water pressure, unspecified, subsequent encounter"
+	},
+	{
+		"code": "T739XXA",
+		"desc": "Effect of deprivation, unspecified, initial encounter"
+	},
+	{
+		"code": "T739XXS",
+		"desc": "Effect of deprivation, unspecified, sequela"
+	},
+	{
+		"code": "T739XXD",
+		"desc": "Effect of deprivation, unspecified, subsequent encounter"
+	},
+	{
+		"code": "T679XXA",
+		"desc": "Effect of heat and light, unspecified, initial encounter"
+	},
+	{
+		"code": "T679XXS",
+		"desc": "Effect of heat and light, unspecified, sequela"
+	},
+	{
+		"code": "T679XXD",
+		"desc": "Effect of heat and light, unspecified, subsequent encounter"
+	},
+	{
+		"code": "T699XXA",
+		"desc": "Effect of reduced temperature, unspecified, initial encounter"
+	},
+	{
+		"code": "T699XXS",
+		"desc": "Effect of reduced temperature, unspecified, sequela"
+	},
+	{
+		"code": "T699XXD",
+		"desc": "Effect of reduced temperature, unspecified, subsequent encounter"
+	},
+	{
+		"code": "T7581XA",
+		"desc": "Effects of abnormal gravitation [G] forces, initial encounter"
+	},
+	{
+		"code": "T7581XS",
+		"desc": "Effects of abnormal gravitation [G] forces, sequela"
+	},
+	{
+		"code": "T7581XD",
+		"desc": "Effects of abnormal gravitation [G] forces, subsequent encounter"
+	},
+	{
+		"code": "T704XXA",
+		"desc": "Effects of high-pressure fluids, initial encounter"
+	},
+	{
+		"code": "T704XXS",
+		"desc": "Effects of high-pressure fluids, sequela"
+	},
+	{
+		"code": "T704XXD",
+		"desc": "Effects of high-pressure fluids, subsequent encounter"
+	},
+	{
+		"code": "T7582XA",
+		"desc": "Effects of weightlessness, initial encounter"
+	},
+	{
+		"code": "T7582XS",
+		"desc": "Effects of weightlessness, sequela"
+	},
+	{
+		"code": "T7582XD",
+		"desc": "Effects of weightlessness, subsequent encounter"
+	},
+	{
+		"code": "M25472",
+		"desc": "Effusion, left ankle"
+	},
+	{
+		"code": "M25422",
+		"desc": "Effusion, left elbow"
+	},
+	{
+		"code": "M25475",
+		"desc": "Effusion, left foot"
+	},
+	{
+		"code": "M25442",
+		"desc": "Effusion, left hand"
+	},
+	{
+		"code": "M25452",
+		"desc": "Effusion, left hip"
+	},
+	{
+		"code": "M25462",
+		"desc": "Effusion, left knee"
+	},
+	{
+		"code": "M25412",
+		"desc": "Effusion, left shoulder"
+	},
+	{
+		"code": "M25432",
+		"desc": "Effusion, left wrist"
+	},
+	{
+		"code": "M2548",
+		"desc": "Effusion, other site"
+	},
+	{
+		"code": "M25471",
+		"desc": "Effusion, right ankle"
+	},
+	{
+		"code": "M25421",
+		"desc": "Effusion, right elbow"
+	},
+	{
+		"code": "M25474",
+		"desc": "Effusion, right foot"
+	},
+	{
+		"code": "M25441",
+		"desc": "Effusion, right hand"
+	},
+	{
+		"code": "M25451",
+		"desc": "Effusion, right hip"
+	},
+	{
+		"code": "M25461",
+		"desc": "Effusion, right knee"
+	},
+	{
+		"code": "M25411",
+		"desc": "Effusion, right shoulder"
+	},
+	{
+		"code": "M25431",
+		"desc": "Effusion, right wrist"
+	},
+	{
+		"code": "M25473",
+		"desc": "Effusion, unspecified ankle"
+	},
+	{
+		"code": "M25429",
+		"desc": "Effusion, unspecified elbow"
+	},
+	{
+		"code": "M25476",
+		"desc": "Effusion, unspecified foot"
+	},
+	{
+		"code": "M25449",
+		"desc": "Effusion, unspecified hand"
+	},
+	{
+		"code": "M25459",
+		"desc": "Effusion, unspecified hip"
+	},
+	{
+		"code": "M2540",
+		"desc": "Effusion, unspecified joint"
+	},
+	{
+		"code": "M25469",
+		"desc": "Effusion, unspecified knee"
+	},
+	{
+		"code": "M25419",
+		"desc": "Effusion, unspecified shoulder"
+	},
+	{
+		"code": "M25439",
+		"desc": "Effusion, unspecified wrist"
+	},
+	{
+		"code": "Z52812",
+		"desc": "Egg (Oocyte) donor age 35 and over, anonymous recipient"
+	},
+	{
+		"code": "Z52813",
+		"desc": "Egg (Oocyte) donor age 35 and over, designated recipient"
+	},
+	{
+		"code": "Z52810",
+		"desc": "Egg (Oocyte) donor under age 35, anonymous recipient"
+	},
+	{
+		"code": "Z52811",
+		"desc": "Egg (Oocyte) donor under age 35, designated recipient"
+	},
+	{
+		"code": "Z52819",
+		"desc": "Egg (Oocyte) donor, unspecified"
+	},
+	{
+		"code": "Q796",
+		"desc": "Ehlers-Danlos syndrome"
+	},
+	{
+		"code": "A7741",
+		"desc": "Ehrlichiosis chafeensis [E. chafeensis]"
+	},
+	{
+		"code": "A7740",
+		"desc": "Ehrlichiosis, unspecified"
+	},
+	{
+		"code": "I2783",
+		"desc": "Eisenmenger's syndrome"
+	},
+	{
+		"code": "L872",
+		"desc": "Elastosis perforans serpiginosa"
+	},
+	{
+		"code": "L6945",
+		"desc": "Elbow disarticulation, external power, molded inner socket, removable humeral shell, outside locking hinges, forearm, otto bock or equal electrodes, cables, two batteries and one charger, myoelectronic control of terminal device"
+	},
+	{
+		"code": "L6940",
+		"desc": "Elbow disarticulation, external power, molded inner socket, removable humeral shell, outside locking hinges, forearm, otto bock or equal switch, cables, two batteries and one charger, switch control of terminal device"
+	},
+	{
+		"code": "L6205",
+		"desc": "Elbow disarticulation, molded socket with expandable interface, outside locking hinges, forearm"
+	},
+	{
+		"code": "L6450",
+		"desc": "Elbow disarticulation, molded socket, endoskeletal system, including soft prosthetic tissue shaping"
+	},
+	{
+		"code": "L6200",
+		"desc": "Elbow disarticulation, molded socket, outside locking hinge, forearm"
+	},
+	{
+		"code": "L3760",
+		"desc": "Elbow orthosis (eo), with adjustable position locking joint(s), prefabricated, item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific  patient by an individual with expertise"
+	},
+	{
+		"code": "L3761",
+		"desc": "Elbow orthosis (eo), with adjustable position locking joint(s), prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L3740",
+		"desc": "Elbow orthosis, double upright with forearm/arm cuffs, adjustable position lock with active control, custom fabricated"
+	},
+	{
+		"code": "L3730",
+		"desc": "Elbow orthosis, double upright with forearm/arm cuffs, extension/ flexion assist, custom fabricated"
+	},
+	{
+		"code": "L3720",
+		"desc": "Elbow orthosis, double upright with forearm/arm cuffs, free motion, custom fabricated"
+	},
+	{
+		"code": "L3710",
+		"desc": "Elbow orthosis, elastic with metal joints, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L3762",
+		"desc": "Elbow orthosis, rigid, without joints, includes soft interface material, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L3702",
+		"desc": "Elbow orthosis, without joints, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3766",
+		"desc": "Elbow wrist hand finger orthosis, includes one or more nontorsion joints, elastic bands, turnbuckles, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3765",
+		"desc": "Elbow wrist hand finger orthosis, rigid, without joints, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3764",
+		"desc": "Elbow wrist hand orthosis, includes one or more nontorsion joints, elastic bands, turnbuckles, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3763",
+		"desc": "Elbow wrist hand orthosis, rigid, without joints, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "G8734",
+		"desc": "Elder maltreatment screen documented as negative, follow-up is not required"
+	},
+	{
+		"code": "G8733",
+		"desc": "Elder maltreatment screen documented as positive and a follow-up plan is documented"
+	},
+	{
+		"code": "G8941",
+		"desc": "Elder maltreatment screen documented as positive, follow-up plan not documented, documentation the patient is not eligible for follow-up plan at the time of the encounter\n                                    \n                                        \n                                        Terminated December 31, 2023."
+	},
+	{
+		"code": "G8735",
+		"desc": "Elder maltreatment screen documented as positive, follow-up plan not documented, reason not given"
+	},
+	{
+		"code": "G8535",
+		"desc": "Elder maltreatment screen not documented; documentation that patient is not eligible for the elder maltreatment screen at the time of the encounter related to one of the following reasons: (1) patient refuses to participate in the screening and has reasonable decisional capacity for self-protection, or (2) patient is in an urgent or emergent situation where time is of the essence and to delay treatment to perform the screening would jeopardize the patient's health status"
+	},
+	{
+		"code": "G9355",
+		"desc": "Elective delivery (without medical indication) by cesarean birth or induction of labor not performed (<39 weeks of gestation)"
+	},
+	{
+		"code": "G9356",
+		"desc": "Elective delivery (without medical indication) by cesarean birth or induction of labor performed (<39 weeks of gestation)"
+	},
+	{
+		"code": "G9643",
+		"desc": "Elective surgery"
+	},
+	{
+		"code": "L7007",
+		"desc": "Electric hand, switch or myoelectric controlled, adult"
+	},
+	{
+		"code": "L6880",
+		"desc": "Electric hand, switch or myoelectric controlled, independently articulating digits, any grasp pattern or combination of grasp patterns, includes motor(s)"
+	},
+	{
+		"code": "L7008",
+		"desc": "Electric hand, switch or myoelectric, controlled, pediatric"
+	},
+	{
+		"code": "E0215",
+		"desc": "Electric heat pad, moist"
+	},
+	{
+		"code": "E0210",
+		"desc": "Electric heat pad, standard"
+	},
+	{
+		"code": "L7009",
+		"desc": "Electric hook, switch or myoelectric controlled, adult"
+	},
+	{
+		"code": "L7045",
+		"desc": "Electric hook, switch or myoelectric controlled, pediatric"
+	},
+	{
+		"code": "G0283",
+		"desc": "Electrical stimulation (unattended), to one or more areas for indication(s) other than wound care, as part of a therapy plan of care"
+	},
+	{
+		"code": "E0766",
+		"desc": "Electrical stimulation device used for cancer treatment, includes all accessories, any type"
+	},
+	{
+		"code": "S8930",
+		"desc": "Electrical stimulation of auricular acupuncture points; each 15 minutes of personal one-on-one contact with the patient"
+	},
+	{
+		"code": "E0769",
+		"desc": "Electrical stimulation or electromagnetic wound treatment device, not otherwise classified"
+	},
+	{
+		"code": "G0281",
+		"desc": "Electrical stimulation, (unattended), to one or more areas, for chronic stage iii and stage iv pressure ulcers, arterial ulcers, diabetic ulcers, and venous stasis ulcers not demonstrating measurable signs of healing after 30 days of conventional care, as part of a therapy plan of care"
+	},
+	{
+		"code": "G0282",
+		"desc": "Electrical stimulation, (unattended), to one or more areas, for wound care other than described in g0281"
+	},
+	{
+		"code": "L8678",
+		"desc": "Electrical stimulator supplies (external) for use with implantable neurostimulator, per month"
+	},
+	{
+		"code": "A4595",
+		"desc": "Electrical stimulator supplies, 2 lead, per month, (e.g., tens, nmes)"
+	},
+	{
+		"code": "G0405",
+		"desc": "Electrocardiogram, routine ecg with 12 leads; interpretation and report only, performed as a screening for the initial preventive physical examination"
+	},
+	{
+		"code": "G0403",
+		"desc": "Electrocardiogram, routine ecg with 12 leads; performed as a screening for the initial preventive physical examination with interpretation and report"
+	},
+	{
+		"code": "G0404",
+		"desc": "Electrocardiogram, routine ecg with 12 leads; tracing only, without interpretation and report, performed as a screening for the initial preventive physical examination"
+	},
+	{
+		"code": "T754XXA",
+		"desc": "Electrocution, initial encounter"
+	},
+	{
+		"code": "T754XXS",
+		"desc": "Electrocution, sequela"
+	},
+	{
+		"code": "T754XXD",
+		"desc": "Electrocution, subsequent encounter"
+	},
+	{
+		"code": "A4555",
+		"desc": "Electrode/transducer for use with electrical stimulation device used for cancer treatment, replacement only"
+	},
+	{
+		"code": "A4556",
+		"desc": "Electrodes, (e.g., apnea monitor), per pair"
+	},
+	{
+		"code": "G0329",
+		"desc": "Electromagnetic therapy, to one or more areas for chronic stage iii and stage iv pressure ulcers, arterial ulcers, diabetic ulcers and venous stasis ulcers not demonstrating measurable signs of healing after 30 days of conventional care as part of a therapy plan of care"
+	},
+	{
+		"code": "G0295",
+		"desc": "Electromagnetic therapy, to one or more areas, for wound care other than described in g0329 or for other uses"
+	},
+	{
+		"code": "E0746",
+		"desc": "Electromyography (emg), biofeedback device"
+	},
+	{
+		"code": "S8092",
+		"desc": "Electron beam computed tomography (also known as ultrafast ct, cine ct)"
+	},
+	{
+		"code": "L7190",
+		"desc": "Electronic elbow, adolescent, variety village or equal, myoelectronically controlled"
+	},
+	{
+		"code": "L7185",
+		"desc": "Electronic elbow, adolescent, variety village or equal, switch controlled"
+	},
+	{
+		"code": "L7191",
+		"desc": "Electronic elbow, child, variety village or equal, myoelectronically controlled"
+	},
+	{
+		"code": "L7186",
+		"desc": "Electronic elbow, child, variety village or equal, switch controlled"
+	},
+	{
+		"code": "L7170",
+		"desc": "Electronic elbow, hosmer or equal, switch controlled"
+	},
+	{
+		"code": "L7180",
+		"desc": "Electronic elbow, microprocessor sequential control of elbow and terminal device"
+	},
+	{
+		"code": "L7181",
+		"desc": "Electronic elbow, microprocessor simultaneous control of elbow and terminal device"
+	},
+	{
+		"code": "T1505",
+		"desc": "Electronic medication compliance management device, includes all components and accessories, not otherwise classified"
+	},
+	{
+		"code": "E0530",
+		"desc": "Electronic positional obstructive sleep apnea treatment, with sensor, includes all components and accessories, any type"
+	},
+	{
+		"code": "K1001",
+		"desc": "Electronic positional obstructive sleep apnea treatment, with sensor, includes all components and accessories, any type\n                                    \n                                        \n                                        Terminated December 31, 2023."
+	},
+	{
+		"code": "E0755",
+		"desc": "Electronic salivary reflex stimulator (intra-oral/non-invasive)"
+	},
+	{
+		"code": "L7259",
+		"desc": "Electronic wrist rotator, any type"
+	},
+	{
+		"code": "L7261",
+		"desc": "Electronic wrist rotator, for utah arm\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "L7260",
+		"desc": "Electronic wrist rotator, otto bock or equal\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "G4002",
+		"desc": "Electrophysiology cardiac specialist mips specialty set"
+	},
+	{
+		"code": "Y92211",
+		"desc": "Elementary school as the place of occurrence of the external cause"
+	},
+	{
+		"code": "H02856",
+		"desc": "Elephantiasis of left eye, unspecified eyelid"
+	},
+	{
+		"code": "H02855",
+		"desc": "Elephantiasis of left lower eyelid"
+	},
+	{
+		"code": "H02854",
+		"desc": "Elephantiasis of left upper eyelid"
+	},
+	{
+		"code": "H02853",
+		"desc": "Elephantiasis of right eye, unspecified eyelid"
+	},
+	{
+		"code": "H02852",
+		"desc": "Elephantiasis of right lower eyelid"
+	},
+	{
+		"code": "H02851",
+		"desc": "Elephantiasis of right upper eyelid"
+	},
+	{
+		"code": "H02859",
+		"desc": "Elephantiasis of unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "R7982",
+		"desc": "Elevated C-reactive protein (CRP)"
+	},
+	{
+		"code": "R030",
+		"desc": "Elevated blood-pressure reading, without diagnosis of hypertension"
+	},
+	{
+		"code": "R971",
+		"desc": "Elevated cancer antigen 125 [CA 125]"
+	},
+	{
+		"code": "R970",
+		"desc": "Elevated carcinoembryonic antigen [CEA]"
+	},
+	{
+		"code": "R700",
+		"desc": "Elevated erythrocyte sedimentation rate"
+	},
+	{
+		"code": "G8950",
+		"desc": "Elevated or hypertensive blood pressure reading documented, and the indicated follow-up is documented"
+	},
+	{
+		"code": "M1278",
+		"desc": "Elevated or hypertensive blood pressure reading documented, and the indicated follow-up is documented"
+	},
+	{
+		"code": "G8952",
+		"desc": "Elevated or hypertensive blood pressure reading documented, indicated follow-up not documented, reason not given"
+	},
+	{
+		"code": "M1279",
+		"desc": "Elevated or hypertensive blood pressure reading documented, indicated follow-up not documented, reason not given"
+	},
+	{
+		"code": "R9720",
+		"desc": "Elevated prostate specific antigen [PSA]"
+	},
+	{
+		"code": "R825",
+		"desc": "Elevated urine levels of drugs, medicaments and biological substances"
+	},
+	{
+		"code": "D72829",
+		"desc": "Elevated white blood cell count, unspecified"
+	},
+	{
+		"code": "K0053",
+		"desc": "Elevating footrests, articulating (telescoping), each"
+	},
+	{
+		"code": "K0195",
+		"desc": "Elevating leg rests, pair (for use with capped rental wheelchair base)"
+	},
+	{
+		"code": "K0046",
+		"desc": "Elevating legrest, lower extension tube, replacement only, each"
+	},
+	{
+		"code": "K0047",
+		"desc": "Elevating legrest, upper hanger bracket, replacement only, each"
+	},
+	{
+		"code": "G8427",
+		"desc": "Eligible clinician attests to documenting in the medical record they obtained, updated, or reviewed the patient's current medications"
+	},
+	{
+		"code": "K010",
+		"desc": "Embedded teeth"
+	},
+	{
+		"code": "I744",
+		"desc": "Embolism and thrombosis of arteries of extremities, unspecified"
+	},
+	{
+		"code": "I743",
+		"desc": "Embolism and thrombosis of arteries of the lower extremities"
+	},
+	{
+		"code": "I742",
+		"desc": "Embolism and thrombosis of arteries of the upper extremities"
+	},
+	{
+		"code": "I745",
+		"desc": "Embolism and thrombosis of iliac artery"
+	},
+	{
+		"code": "I748",
+		"desc": "Embolism and thrombosis of other arteries"
+	},
+	{
+		"code": "I7419",
+		"desc": "Embolism and thrombosis of other parts of aorta"
+	},
+	{
+		"code": "I823",
+		"desc": "Embolism and thrombosis of renal vein"
+	},
+	{
+		"code": "I82812",
+		"desc": "Embolism and thrombosis of superficial veins of left lower extremity"
+	},
+	{
+		"code": "I82813",
+		"desc": "Embolism and thrombosis of superficial veins of lower extremities, bilateral"
+	},
+	{
+		"code": "I82811",
+		"desc": "Embolism and thrombosis of superficial veins of right lower extremity"
+	},
+	{
+		"code": "I82819",
+		"desc": "Embolism and thrombosis of superficial veins of unspecified lower extremity"
+	},
+	{
+		"code": "I7411",
+		"desc": "Embolism and thrombosis of thoracic aorta"
+	},
+	{
+		"code": "I749",
+		"desc": "Embolism and thrombosis of unspecified artery"
+	},
+	{
+		"code": "I7410",
+		"desc": "Embolism and thrombosis of unspecified parts of aorta"
+	},
+	{
+		"code": "T82817A",
+		"desc": "Embolism due to cardiac prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T82817S",
+		"desc": "Embolism due to cardiac prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T82817D",
+		"desc": "Embolism due to cardiac prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T8381XA",
+		"desc": "Embolism due to genitourinary prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T8381XS",
+		"desc": "Embolism due to genitourinary prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T8381XD",
+		"desc": "Embolism due to genitourinary prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T8481XA",
+		"desc": "Embolism due to internal orthopedic prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T8481XS",
+		"desc": "Embolism due to internal orthopedic prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T8481XD",
+		"desc": "Embolism due to internal orthopedic prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T85810A",
+		"desc": "Embolism due to nervous system prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T85810S",
+		"desc": "Embolism due to nervous system prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T85810D",
+		"desc": "Embolism due to nervous system prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T85818A",
+		"desc": "Embolism due to other internal prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T85818S",
+		"desc": "Embolism due to other internal prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T85818D",
+		"desc": "Embolism due to other internal prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "T82818A",
+		"desc": "Embolism due to vascular prosthetic devices, implants and grafts, initial encounter"
+	},
+	{
+		"code": "T82818S",
+		"desc": "Embolism due to vascular prosthetic devices, implants and grafts, sequela"
+	},
+	{
+		"code": "T82818D",
+		"desc": "Embolism due to vascular prosthetic devices, implants and grafts, subsequent encounter"
+	},
+	{
+		"code": "O047",
+		"desc": "Embolism following (induced) termination of pregnancy"
+	},
+	{
+		"code": "O037",
+		"desc": "Embolism following complete or unspecified spontaneous abortion"
+	},
+	{
+		"code": "O082",
+		"desc": "Embolism following ectopic and molar pregnancy"
+	},
+	{
+		"code": "O072",
+		"desc": "Embolism following failed attempted termination of pregnancy"
+	},
+	{
+		"code": "O032",
+		"desc": "Embolism following incomplete spontaneous abortion"
+	},
+	{
+		"code": "G9962",
+		"desc": "Embolization endpoints are documented separately for each embolized vessel and ovarian artery angiography or embolization performed in the presence of variant uterine artery anatomy"
+	},
+	{
+		"code": "G9963",
+		"desc": "Embolization endpoints are not documented separately for each embolized vessel or ovarian artery angiography or embolization not performed in the presence of variant uterine artery anatomy"
+	},
+	{
+		"code": "C1884",
+		"desc": "Embolization protective system"
+	},
+	{
+		"code": "Q505",
+		"desc": "Embryonic cyst of broad ligament"
+	},
+	{
+		"code": "Q516",
+		"desc": "Embryonic cyst of cervix"
+	},
+	{
+		"code": "Q504",
+		"desc": "Embryonic cyst of fallopian tube"
+	},
+	{
+		"code": "Q4297",
+		"desc": "Emerge matrix, per square centimeter"
+	},
+	{
+		"code": "Q0494",
+		"desc": "Emergency hand pump for use with electric or electric/pneumatic ventricular assist device, replacement only"
+	},
+	{
+		"code": "G4003",
+		"desc": "Emergency medicine mips specialty set"
+	},
+	{
+		"code": "Q0490",
+		"desc": "Emergency power source for use with electric ventricular assist device, replacement only"
+	},
+	{
+		"code": "Q0491",
+		"desc": "Emergency power source for use with electric/pneumatic ventricular assist device, replacement only"
+	},
+	{
+		"code": "Q0492",
+		"desc": "Emergency power supply cable for use with electric ventricular assist device, replacement only"
+	},
+	{
+		"code": "Q0493",
+		"desc": "Emergency power supply cable for use with electric/pneumatic ventricular assist device, replacement only"
+	},
+	{
+		"code": "S5160",
+		"desc": "Emergency response system; installation and testing"
+	},
+	{
+		"code": "S5162",
+		"desc": "Emergency response system; purchase only"
+	},
+	{
+		"code": "S5161",
+		"desc": "Emergency response system; service fee, per month (excludes installation and testing)"
+	},
+	{
+		"code": "S3601",
+		"desc": "Emergency stat laboratory charge for patient who is homebound or residing in a nursing facility"
+	},
+	{
+		"code": "G9752",
+		"desc": "Emergency surgery"
+	},
+	{
+		"code": "M1142",
+		"desc": "Emergent cases"
+	},
+	{
+		"code": "R4586",
+		"desc": "Emotional lability"
+	},
+	{
+		"code": "T8182XA",
+		"desc": "Emphysema (subcutaneous) resulting from a procedure, initial encounter"
+	},
+	{
+		"code": "T8182XS",
+		"desc": "Emphysema (subcutaneous) resulting from a procedure, sequela"
+	},
+	{
+		"code": "T8182XD",
+		"desc": "Emphysema (subcutaneous) resulting from a procedure, subsequent encounter"
+	},
+	{
+		"code": "J439",
+		"desc": "Emphysema, unspecified"
+	},
+	{
+		"code": "J0751",
+		"desc": "Emtricitabine 200mg and tenofovir alafenamide 25mg, oral, fda approved prescription, only for use as hiv pre-exposure prophylaxis (not for use as treatment of hiv)"
+	},
+	{
+		"code": "J0750",
+		"desc": "Emtricitabine 200mg and tenofovir disoproxil fumarate 300mg, oral, fda approved prescription, only for use as hiv pre-exposure prophylaxis (not for use as treatment of hiv)"
+	},
+	{
+		"code": "G053",
+		"desc": "Encephalitis and encephalomyelitis in diseases classified elsewhere"
+	},
+	{
+		"code": "G0490",
+		"desc": "Encephalitis and encephalomyelitis, unspecified"
+	},
+	{
+		"code": "Q018",
+		"desc": "Encephalocele of other sites"
+	},
+	{
+		"code": "Q019",
+		"desc": "Encephalocele, unspecified"
+	},
+	{
+		"code": "G9340",
+		"desc": "Encephalopathy, unspecified"
+	},
+	{
+		"code": "Q784",
+		"desc": "Enchondromatosis"
+	},
+	{
+		"code": "F981",
+		"desc": "Encopresis not due to a substance or known physiological condition"
+	},
+	{
+		"code": "Z3182",
+		"desc": "Encounter for Rh incompatibility status"
+	},
+	{
+		"code": "Z4931",
+		"desc": "Encounter for adequacy testing for hemodialysis"
+	},
+	{
+		"code": "Z4932",
+		"desc": "Encounter for adequacy testing for peritoneal dialysis"
+	},
+	{
+		"code": "Z4502",
+		"desc": "Encounter for adjustment and management of automatic implantable cardiac defibrillator"
+	},
+	{
+		"code": "Z45320",
+		"desc": "Encounter for adjustment and management of bone conduction device"
+	},
+	{
+		"code": "Z4541",
+		"desc": "Encounter for adjustment and management of cerebrospinal fluid drainage device"
+	},
+	{
+		"code": "Z45321",
+		"desc": "Encounter for adjustment and management of cochlear device"
+	},
+	{
+		"code": "Z4531",
+		"desc": "Encounter for adjustment and management of implanted visual substitution device"
+	},
+	{
+		"code": "Z451",
+		"desc": "Encounter for adjustment and management of infusion pump"
+	},
+	{
+		"code": "Z4542",
+		"desc": "Encounter for adjustment and management of neuropacemaker (brain) (peripheral nerve) (spinal cord)"
+	},
+	{
+		"code": "Z4509",
+		"desc": "Encounter for adjustment and management of other cardiac device"
+	},
+	{
+		"code": "Z4589",
+		"desc": "Encounter for adjustment and management of other implanted devices"
+	},
+	{
+		"code": "Z45328",
+		"desc": "Encounter for adjustment and management of other implanted hearing device"
+	},
+	{
+		"code": "Z4549",
+		"desc": "Encounter for adjustment and management of other implanted nervous system device"
+	},
+	{
+		"code": "Z45018",
+		"desc": "Encounter for adjustment and management of other part of cardiac pacemaker"
+	},
+	{
+		"code": "Z459",
+		"desc": "Encounter for adjustment and management of unspecified implanted device"
+	},
+	{
+		"code": "Z452",
+		"desc": "Encounter for adjustment and management of vascular access device"
+	},
+	{
+		"code": "Z45812",
+		"desc": "Encounter for adjustment or removal of left breast implant"
+	},
+	{
+		"code": "Z4582",
+		"desc": "Encounter for adjustment or removal of myringotomy device (stent) (tube)"
+	},
+	{
+		"code": "Z45811",
+		"desc": "Encounter for adjustment or removal of right breast implant"
+	},
+	{
+		"code": "Z45819",
+		"desc": "Encounter for adjustment or removal of unspecified breast implant"
+	},
+	{
+		"code": "Z029",
+		"desc": "Encounter for administrative examinations, unspecified"
+	},
+	{
+		"code": "Z0282",
+		"desc": "Encounter for adoption services"
+	},
+	{
+		"code": "Z48290",
+		"desc": "Encounter for aftercare following bone marrow transplant"
+	},
+	{
+		"code": "Z4821",
+		"desc": "Encounter for aftercare following heart transplant"
+	},
+	{
+		"code": "Z48280",
+		"desc": "Encounter for aftercare following heart-lung transplant"
+	},
+	{
+		"code": "Z4822",
+		"desc": "Encounter for aftercare following kidney transplant"
+	},
+	{
+		"code": "Z4823",
+		"desc": "Encounter for aftercare following liver transplant"
+	},
+	{
+		"code": "Z4824",
+		"desc": "Encounter for aftercare following lung transplant"
+	},
+	{
+		"code": "Z48288",
+		"desc": "Encounter for aftercare following multiple organ transplant"
+	},
+	{
+		"code": "Z48298",
+		"desc": "Encounter for aftercare following other organ transplant"
+	},
+	{
+		"code": "Z0182",
+		"desc": "Encounter for allergy testing"
+	},
+	{
+		"code": "Z3685",
+		"desc": "Encounter for antenatal screening for Streptococcus B"
+	},
+	{
+		"code": "Z3686",
+		"desc": "Encounter for antenatal screening for cervical length"
+	},
+	{
+		"code": "Z360",
+		"desc": "Encounter for antenatal screening for chromosomal anomalies"
+	},
+	{
+		"code": "Z364",
+		"desc": "Encounter for antenatal screening for fetal growth retardation"
+	},
+	{
+		"code": "Z3684",
+		"desc": "Encounter for antenatal screening for fetal lung maturity"
+	},
+	{
+		"code": "Z3688",
+		"desc": "Encounter for antenatal screening for fetal macrosomia"
+	},
+	{
+		"code": "Z3681",
+		"desc": "Encounter for antenatal screening for hydrops fetalis"
+	},
+	{
+		"code": "Z365",
+		"desc": "Encounter for antenatal screening for isoimmunization"
+	},
+	{
+		"code": "Z363",
+		"desc": "Encounter for antenatal screening for malformations"
+	},
+	{
+		"code": "Z3682",
+		"desc": "Encounter for antenatal screening for nuchal translucency"
+	},
+	{
+		"code": "Z368A",
+		"desc": "Encounter for antenatal screening for other genetic defects"
+	},
+	{
+		"code": "Z361",
+		"desc": "Encounter for antenatal screening for raised alphafetoprotein level"
+	},
+	{
+		"code": "Z3687",
+		"desc": "Encounter for antenatal screening for uncertain dates"
+	},
+	{
+		"code": "Z369",
+		"desc": "Encounter for antenatal screening, unspecified"
+	},
+	{
+		"code": "Z0184",
+		"desc": "Encounter for antibody response examination"
+	},
+	{
+		"code": "Z5111",
+		"desc": "Encounter for antineoplastic chemotherapy"
+	},
+	{
+		"code": "Z5112",
+		"desc": "Encounter for antineoplastic immunotherapy"
+	},
+	{
+		"code": "Z510",
+		"desc": "Encounter for antineoplastic radiation therapy"
+	},
+	{
+		"code": "Z3183",
+		"desc": "Encounter for assisted reproductive fertility procedure cycle"
+	},
+	{
+		"code": "Z437",
+		"desc": "Encounter for attention to artificial vagina"
+	},
+	{
+		"code": "Z433",
+		"desc": "Encounter for attention to colostomy"
+	},
+	{
+		"code": "Z435",
+		"desc": "Encounter for attention to cystostomy"
+	},
+	{
+		"code": "Z431",
+		"desc": "Encounter for attention to gastrostomy"
+	},
+	{
+		"code": "Z432",
+		"desc": "Encounter for attention to ileostomy"
+	},
+	{
+		"code": "Z438",
+		"desc": "Encounter for attention to other artificial openings"
+	},
+	{
+		"code": "Z434",
+		"desc": "Encounter for attention to other artificial openings of digestive tract"
+	},
+	{
+		"code": "Z436",
+		"desc": "Encounter for attention to other artificial openings of urinary tract"
+	},
+	{
+		"code": "Z430",
+		"desc": "Encounter for attention to tracheostomy"
+	},
+	{
+		"code": "Z439",
+		"desc": "Encounter for attention to unspecified artificial opening"
+	},
+	{
+		"code": "Z0183",
+		"desc": "Encounter for blood typing"
+	},
+	{
+		"code": "Z0283",
+		"desc": "Encounter for blood-alcohol and blood-drug test"
+	},
+	{
+		"code": "Z421",
+		"desc": "Encounter for breast reconstruction following mastectomy"
+	},
+	{
+		"code": "Z391",
+		"desc": "Encounter for care and examination of lactating mother"
+	},
+	{
+		"code": "Z390",
+		"desc": "Encounter for care and examination of mother immediately after delivery"
+	},
+	{
+		"code": "Z0142",
+		"desc": "Encounter for cervical smear to confirm findings of recent normal smear following initial abnormal smear"
+	},
+	{
+		"code": "O82",
+		"desc": "Encounter for cesarean delivery without indication"
+	},
+	{
+		"code": "Z4803",
+		"desc": "Encounter for change or removal of drains"
+	},
+	{
+		"code": "Z4800",
+		"desc": "Encounter for change or removal of nonsurgical wound dressing"
+	},
+	{
+		"code": "Z4801",
+		"desc": "Encounter for change or removal of surgical wound dressing"
+	},
+	{
+		"code": "Z45010",
+		"desc": "Encounter for checking and testing of cardiac pacemaker pulse generator [battery]"
+	},
+	{
+		"code": "Z322",
+		"desc": "Encounter for childbirth instruction"
+	},
+	{
+		"code": "Z323",
+		"desc": "Encounter for childcare instruction"
+	},
+	{
+		"code": "Z309",
+		"desc": "Encounter for contraceptive management, unspecified"
+	},
+	{
+		"code": "Z411",
+		"desc": "Encounter for cosmetic surgery"
+	},
+	{
+		"code": "Z0121",
+		"desc": "Encounter for dental examination and cleaning with abnormal findings"
+	},
+	{
+		"code": "Z0120",
+		"desc": "Encounter for dental examination and cleaning without abnormal findings"
+	},
+	{
+		"code": "Z516",
+		"desc": "Encounter for desensitization to allergens"
+	},
+	{
+		"code": "Z0271",
+		"desc": "Encounter for disability determination"
+	},
+	{
+		"code": "Z413",
+		"desc": "Encounter for ear piercing"
+	},
+	{
+		"code": "Z332",
+		"desc": "Encounter for elective termination of pregnancy"
+	},
+	{
+		"code": "Z0471",
+		"desc": "Encounter for examination and observation following alleged adult physical abuse"
+	},
+	{
+		"code": "Z0441",
+		"desc": "Encounter for examination and observation following alleged adult rape"
+	},
+	{
+		"code": "Z0472",
+		"desc": "Encounter for examination and observation following alleged child physical abuse"
+	},
+	{
+		"code": "Z0442",
+		"desc": "Encounter for examination and observation following alleged child rape"
+	},
+	{
+		"code": "Z043",
+		"desc": "Encounter for examination and observation following other accident"
+	},
+	{
+		"code": "Z041",
+		"desc": "Encounter for examination and observation following transport accident"
+	},
+	{
+		"code": "Z042",
+		"desc": "Encounter for examination and observation following work accident"
+	},
+	{
+		"code": "Z048",
+		"desc": "Encounter for examination and observation for other specified reasons"
+	},
+	{
+		"code": "Z049",
+		"desc": "Encounter for examination and observation for unspecified reason"
+	},
+	{
+		"code": "Z020",
+		"desc": "Encounter for examination for admission to educational institution"
+	},
+	{
+		"code": "Z022",
+		"desc": "Encounter for examination for admission to residential institution"
+	},
+	{
+		"code": "Z003",
+		"desc": "Encounter for examination for adolescent development state"
+	},
+	{
+		"code": "Z024",
+		"desc": "Encounter for examination for driving license"
+	},
+	{
+		"code": "Z026",
+		"desc": "Encounter for examination for insurance purposes"
+	},
+	{
+		"code": "Z006",
+		"desc": "Encounter for examination for normal comparison and control in clinical research program"
+	},
+	{
+		"code": "Z025",
+		"desc": "Encounter for examination for participation in sport"
+	},
+	{
+		"code": "Z0071",
+		"desc": "Encounter for examination for period of delayed growth in childhood with abnormal findings"
+	},
+	{
+		"code": "Z0070",
+		"desc": "Encounter for examination for period of delayed growth in childhood without abnormal findings"
+	},
+	{
+		"code": "Z002",
+		"desc": "Encounter for examination for period of rapid growth in childhood"
+	},
+	{
+		"code": "Z023",
+		"desc": "Encounter for examination for recruitment to armed forces"
+	},
+	{
+		"code": "Z0131",
+		"desc": "Encounter for examination of blood pressure with abnormal findings"
+	},
+	{
+		"code": "Z0130",
+		"desc": "Encounter for examination of blood pressure without abnormal findings"
+	},
+	{
+		"code": "Z01118",
+		"desc": "Encounter for examination of ears and hearing with other abnormal findings"
+	},
+	{
+		"code": "Z0110",
+		"desc": "Encounter for examination of ears and hearing without abnormal findings"
+	},
+	{
+		"code": "Z0101",
+		"desc": "Encounter for examination of eyes and vision with abnormal findings"
+	},
+	{
+		"code": "Z0100",
+		"desc": "Encounter for examination of eyes and vision without abnormal findings"
+	},
+	{
+		"code": "Z005",
+		"desc": "Encounter for examination of potential donor of organ and tissue"
+	},
+	{
+		"code": "Z3162",
+		"desc": "Encounter for fertility preservation counseling"
+	},
+	{
+		"code": "Z3184",
+		"desc": "Encounter for fertility preservation procedure"
+	},
+	{
+		"code": "Z3141",
+		"desc": "Encounter for fertility testing"
+	},
+	{
+		"code": "Z3683",
+		"desc": "Encounter for fetal screening for congenital cardiac abnormalities"
+	},
+	{
+		"code": "Z4420",
+		"desc": "Encounter for fitting and adjustment of artificial eye, unspecified"
+	},
+	{
+		"code": "Z4422",
+		"desc": "Encounter for fitting and adjustment of artificial left eye"
+	},
+	{
+		"code": "Z4421",
+		"desc": "Encounter for fitting and adjustment of artificial right eye"
+	},
+	{
+		"code": "Z44019",
+		"desc": "Encounter for fitting and adjustment of complete artificial arm, unspecified arm"
+	},
+	{
+		"code": "Z44119",
+		"desc": "Encounter for fitting and adjustment of complete artificial leg, unspecified leg"
+	},
+	{
+		"code": "Z44012",
+		"desc": "Encounter for fitting and adjustment of complete left artificial arm"
+	},
+	{
+		"code": "Z44112",
+		"desc": "Encounter for fitting and adjustment of complete left artificial leg"
+	},
+	{
+		"code": "Z44011",
+		"desc": "Encounter for fitting and adjustment of complete right artificial arm"
+	},
+	{
+		"code": "Z44111",
+		"desc": "Encounter for fitting and adjustment of complete right artificial leg"
+	},
+	{
+		"code": "Z463",
+		"desc": "Encounter for fitting and adjustment of dental prosthetic device"
+	},
+	{
+		"code": "Z4430",
+		"desc": "Encounter for fitting and adjustment of external breast prosthesis, unspecified breast"
+	},
+	{
+		"code": "Z4432",
+		"desc": "Encounter for fitting and adjustment of external left breast prosthesis"
+	},
+	{
+		"code": "Z4431",
+		"desc": "Encounter for fitting and adjustment of external right breast prosthesis"
+	},
+	{
+		"code": "Z4901",
+		"desc": "Encounter for fitting and adjustment of extracorporeal dialysis catheter"
+	},
+	{
+		"code": "Z4651",
+		"desc": "Encounter for fitting and adjustment of gastric lap band"
+	},
+	{
+		"code": "Z461",
+		"desc": "Encounter for fitting and adjustment of hearing aid"
+	},
+	{
+		"code": "Z4681",
+		"desc": "Encounter for fitting and adjustment of insulin pump"
+	},
+	{
+		"code": "Z4682",
+		"desc": "Encounter for fitting and adjustment of non-vascular catheter"
+	},
+	{
+		"code": "Z464",
+		"desc": "Encounter for fitting and adjustment of orthodontic device"
+	},
+	{
+		"code": "Z462",
+		"desc": "Encounter for fitting and adjustment of other devices related to nervous system and special senses"
+	},
+	{
+		"code": "Z448",
+		"desc": "Encounter for fitting and adjustment of other external prosthetic devices"
+	},
+	{
+		"code": "Z4659",
+		"desc": "Encounter for fitting and adjustment of other gastrointestinal appliance and device"
+	},
+	{
+		"code": "Z4689",
+		"desc": "Encounter for fitting and adjustment of other specified devices"
+	},
+	{
+		"code": "Z44029",
+		"desc": "Encounter for fitting and adjustment of partial artificial arm, unspecified arm"
+	},
+	{
+		"code": "Z44022",
+		"desc": "Encounter for fitting and adjustment of partial artificial left arm"
+	},
+	{
+		"code": "Z44122",
+		"desc": "Encounter for fitting and adjustment of partial artificial left leg"
+	},
+	{
+		"code": "Z44129",
+		"desc": "Encounter for fitting and adjustment of partial artificial leg, unspecified leg"
+	},
+	{
+		"code": "Z44021",
+		"desc": "Encounter for fitting and adjustment of partial artificial right arm"
+	},
+	{
+		"code": "Z44121",
+		"desc": "Encounter for fitting and adjustment of partial artificial right leg"
+	},
+	{
+		"code": "Z4902",
+		"desc": "Encounter for fitting and adjustment of peritoneal dialysis catheter"
+	},
+	{
+		"code": "Z460",
+		"desc": "Encounter for fitting and adjustment of spectacles and contact lenses"
+	},
+	{
+		"code": "Z44009",
+		"desc": "Encounter for fitting and adjustment of unspecified artificial arm, unspecified arm"
+	},
+	{
+		"code": "Z44109",
+		"desc": "Encounter for fitting and adjustment of unspecified artificial leg, unspecified leg"
+	},
+	{
+		"code": "Z469",
+		"desc": "Encounter for fitting and adjustment of unspecified device"
+	},
+	{
+		"code": "Z449",
+		"desc": "Encounter for fitting and adjustment of unspecified external prosthetic device"
+	},
+	{
+		"code": "Z44002",
+		"desc": "Encounter for fitting and adjustment of unspecified left artificial arm"
+	},
+	{
+		"code": "Z44102",
+		"desc": "Encounter for fitting and adjustment of unspecified left artificial leg"
+	},
+	{
+		"code": "Z44001",
+		"desc": "Encounter for fitting and adjustment of unspecified right artificial arm"
+	},
+	{
+		"code": "Z44101",
+		"desc": "Encounter for fitting and adjustment of unspecified right artificial leg"
+	},
+	{
+		"code": "Z466",
+		"desc": "Encounter for fitting and adjustment of urinary device"
+	},
+	{
+		"code": "Z09",
+		"desc": "Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm"
+	},
+	{
+		"code": "Z08",
+		"desc": "Encounter for follow-up examination after completed treatment for malignant neoplasm"
+	},
+	{
+		"code": "O80",
+		"desc": "Encounter for full-term uncomplicated delivery"
+	},
+	{
+		"code": "Z0001",
+		"desc": "Encounter for general adult medical examination with abnormal findings"
+	},
+	{
+		"code": "Z0000",
+		"desc": "Encounter for general adult medical examination without abnormal findings"
+	},
+	{
+		"code": "Z046",
+		"desc": "Encounter for general psychiatric examination, requested by authority"
+	},
+	{
+		"code": "Z01411",
+		"desc": "Encounter for gynecological examination (general) (routine) with abnormal findings"
+	},
+	{
+		"code": "Z01419",
+		"desc": "Encounter for gynecological examination (general) (routine) without abnormal findings"
+	},
+	{
+		"code": "Z761",
+		"desc": "Encounter for health supervision and care of foundling"
+	},
+	{
+		"code": "Z762",
+		"desc": "Encounter for health supervision and care of other healthy infant and child"
+	},
+	{
+		"code": "Z0112",
+		"desc": "Encounter for hearing conservation and treatment"
+	},
+	{
+		"code": "Z01110",
+		"desc": "Encounter for hearing examination following failed hearing screening"
+	},
+	{
+		"code": "Z23",
+		"desc": "Encounter for immunization"
+	},
+	{
+		"code": "Z30011",
+		"desc": "Encounter for initial prescription of contraceptive pills"
+	},
+	{
+		"code": "Z30019",
+		"desc": "Encounter for initial prescription of contraceptives, unspecified"
+	},
+	{
+		"code": "Z30017",
+		"desc": "Encounter for initial prescription of implantable subdermal contraceptive"
+	},
+	{
+		"code": "Z30013",
+		"desc": "Encounter for initial prescription of injectable contraceptive"
+	},
+	{
+		"code": "Z30014",
+		"desc": "Encounter for initial prescription of intrauterine contraceptive device"
+	},
+	{
+		"code": "Z30018",
+		"desc": "Encounter for initial prescription of other contraceptives"
+	},
+	{
+		"code": "Z30016",
+		"desc": "Encounter for initial prescription of transdermal patch hormonal contraceptive device"
+	},
+	{
+		"code": "Z30015",
+		"desc": "Encounter for initial prescription of vaginal ring hormonal contraceptive"
+	},
+	{
+		"code": "Z30430",
+		"desc": "Encounter for insertion of intrauterine contraceptive device"
+	},
+	{
+		"code": "Z0279",
+		"desc": "Encounter for issue of other medical certificate"
+	},
+	{
+		"code": "Z760",
+		"desc": "Encounter for issue of repeat prescription"
+	},
+	{
+		"code": "Z3181",
+		"desc": "Encounter for male factor infertility in female patient"
+	},
+	{
+		"code": "Z69021",
+		"desc": "Encounter for mental health services for perpetrator of non-parental child abuse"
+	},
+	{
+		"code": "Z6982",
+		"desc": "Encounter for mental health services for perpetrator of other abuse"
+	},
+	{
+		"code": "Z69011",
+		"desc": "Encounter for mental health services for perpetrator of parental child abuse"
+	},
+	{
+		"code": "Z6912",
+		"desc": "Encounter for mental health services for perpetrator of spousal or partner abuse"
+	},
+	{
+		"code": "Z69020",
+		"desc": "Encounter for mental health services for victim of non-parental child abuse"
+	},
+	{
+		"code": "Z6981",
+		"desc": "Encounter for mental health services for victim of other abuse"
+	},
+	{
+		"code": "Z69010",
+		"desc": "Encounter for mental health services for victim of parental child abuse"
+	},
+	{
+		"code": "Z6911",
+		"desc": "Encounter for mental health services for victim of spousal or partner abuse"
+	},
+	{
+		"code": "Z7183",
+		"desc": "Encounter for nonprocreative genetic counseling"
+	},
+	{
+		"code": "Z1371",
+		"desc": "Encounter for nonprocreative screening for genetic disease carrier status"
+	},
+	{
+		"code": "Z0389",
+		"desc": "Encounter for observation for other suspected diseases and conditions ruled out"
+	},
+	{
+		"code": "Z03810",
+		"desc": "Encounter for observation for suspected exposure to anthrax ruled out"
+	},
+	{
+		"code": "Z03818",
+		"desc": "Encounter for observation for suspected exposure to other biological agents ruled out"
+	},
+	{
+		"code": "Z036",
+		"desc": "Encounter for observation for suspected toxic effect from ingested substance ruled out"
+	},
+	{
+		"code": "Z4782",
+		"desc": "Encounter for orthopedic aftercare following scoliosis surgery"
+	},
+	{
+		"code": "Z4781",
+		"desc": "Encounter for orthopedic aftercare following surgical amputation"
+	},
+	{
+		"code": "Z0289",
+		"desc": "Encounter for other administrative examinations"
+	},
+	{
+		"code": "Z362",
+		"desc": "Encounter for other antenatal screening follow-up"
+	},
+	{
+		"code": "Z308",
+		"desc": "Encounter for other contraceptive management"
+	},
+	{
+		"code": "Z3009",
+		"desc": "Encounter for other general counseling and advice on contraception"
+	},
+	{
+		"code": "Z3169",
+		"desc": "Encounter for other general counseling and advice on procreation"
+	},
+	{
+		"code": "Z008",
+		"desc": "Encounter for other general examination"
+	},
+	{
+		"code": "Z31438",
+		"desc": "Encounter for other genetic testing of female for procreative management"
+	},
+	{
+		"code": "Z31448",
+		"desc": "Encounter for other genetic testing of male for procreative management"
+	},
+	{
+		"code": "Z4789",
+		"desc": "Encounter for other orthopedic aftercare"
+	},
+	{
+		"code": "Z428",
+		"desc": "Encounter for other plastic and reconstructive surgery following medical procedure or healed injury"
+	},
+	{
+		"code": "Z01818",
+		"desc": "Encounter for other preprocedural examination"
+	},
+	{
+		"code": "Z418",
+		"desc": "Encounter for other procedures for purposes other than remedying health state"
+	},
+	{
+		"code": "Z3149",
+		"desc": "Encounter for other procreative investigation and testing"
+	},
+	{
+		"code": "Z3189",
+		"desc": "Encounter for other procreative management"
+	},
+	{
+		"code": "Z408",
+		"desc": "Encounter for other prophylactic surgery"
+	},
+	{
+		"code": "Z1379",
+		"desc": "Encounter for other screening for genetic and chromosomal anomalies"
+	},
+	{
+		"code": "Z1239",
+		"desc": "Encounter for other screening for malignant neoplasm of breast"
+	},
+	{
+		"code": "Z5189",
+		"desc": "Encounter for other specified aftercare"
+	},
+	{
+		"code": "Z3689",
+		"desc": "Encounter for other specified antenatal screening"
+	},
+	{
+		"code": "Z298",
+		"desc": "Encounter for other specified prophylactic measures"
+	},
+	{
+		"code": "Z0189",
+		"desc": "Encounter for other specified special examinations"
+	},
+	{
+		"code": "Z4889",
+		"desc": "Encounter for other specified surgical aftercare"
+	},
+	{
+		"code": "Z0379",
+		"desc": "Encounter for other suspected maternal and fetal conditions ruled out"
+	},
+	{
+		"code": "Z515",
+		"desc": "Encounter for palliative care"
+	},
+	{
+		"code": "Z0281",
+		"desc": "Encounter for paternity testing"
+	},
+	{
+		"code": "Z481",
+		"desc": "Encounter for planned postprocedural wound closure"
+	},
+	{
+		"code": "Z021",
+		"desc": "Encounter for pre-employment examination"
+	},
+	{
+		"code": "Z3202",
+		"desc": "Encounter for pregnancy test, result negative"
+	},
+	{
+		"code": "Z3201",
+		"desc": "Encounter for pregnancy test, result positive"
+	},
+	{
+		"code": "Z3200",
+		"desc": "Encounter for pregnancy test, result unknown"
+	},
+	{
+		"code": "Z01810",
+		"desc": "Encounter for preprocedural cardiovascular examination"
+	},
+	{
+		"code": "Z01812",
+		"desc": "Encounter for preprocedural laboratory examination"
+	},
+	{
+		"code": "Z01811",
+		"desc": "Encounter for preprocedural respiratory examination"
+	},
+	{
+		"code": "Z30012",
+		"desc": "Encounter for prescription of emergency contraception"
+	},
+	{
+		"code": "Z419",
+		"desc": "Encounter for procedure for purposes other than remedying health state, unspecified"
+	},
+	{
+		"code": "Z315",
+		"desc": "Encounter for procreative genetic counseling"
+	},
+	{
+		"code": "Z317",
+		"desc": "Encounter for procreative management and counseling for gestational carrier"
+	},
+	{
+		"code": "Z319",
+		"desc": "Encounter for procreative management, unspecified"
+	},
+	{
+		"code": "Z2913",
+		"desc": "Encounter for prophylactic Rho(D) immune globulin"
+	},
+	{
+		"code": "Z2912",
+		"desc": "Encounter for prophylactic antivenin"
+	},
+	{
+		"code": "Z293",
+		"desc": "Encounter for prophylactic fluoride administration"
+	},
+	{
+		"code": "Z2911",
+		"desc": "Encounter for prophylactic immunotherapy for respiratory syncytial virus (RSV)"
+	},
+	{
+		"code": "Z299",
+		"desc": "Encounter for prophylactic measures, unspecified"
+	},
+	{
+		"code": "Z2914",
+		"desc": "Encounter for prophylactic rabies immune globin"
+	},
+	{
+		"code": "Z4001",
+		"desc": "Encounter for prophylactic removal of breast"
+	},
+	{
+		"code": "Z4003",
+		"desc": "Encounter for prophylactic removal of fallopian tube(s )"
+	},
+	{
+		"code": "Z4009",
+		"desc": "Encounter for prophylactic removal of other organ"
+	},
+	{
+		"code": "Z4002",
+		"desc": "Encounter for prophylactic removal of ovary(s)"
+	},
+	{
+		"code": "Z4000",
+		"desc": "Encounter for prophylactic removal of unspecified organ"
+	},
+	{
+		"code": "Z409",
+		"desc": "Encounter for prophylactic surgery, unspecified"
+	},
+	{
+		"code": "Z30433",
+		"desc": "Encounter for removal and reinsertion of intrauterine contraceptive device"
+	},
+	{
+		"code": "Z472",
+		"desc": "Encounter for removal of internal fixation device"
+	},
+	{
+		"code": "Z30432",
+		"desc": "Encounter for removal of intrauterine contraceptive device"
+	},
+	{
+		"code": "Z4802",
+		"desc": "Encounter for removal of sutures"
+	},
+	{
+		"code": "Z9912",
+		"desc": "Encounter for respirator [ventilator] dependence during power failure"
+	},
+	{
+		"code": "Z310",
+		"desc": "Encounter for reversal of previous sterilization"
+	},
+	{
+		"code": "Z412",
+		"desc": "Encounter for routine and ritual male circumcision"
+	},
+	{
+		"code": "Z30431",
+		"desc": "Encounter for routine checking of intrauterine contraceptive device"
+	},
+	{
+		"code": "Z00121",
+		"desc": "Encounter for routine child health examination with abnormal findings"
+	},
+	{
+		"code": "Z00129",
+		"desc": "Encounter for routine child health examination without abnormal findings"
+	},
+	{
+		"code": "Z392",
+		"desc": "Encounter for routine postpartum follow-up"
+	},
+	{
+		"code": "Z136",
+		"desc": "Encounter for screening for cardiovascular disorders"
+	},
+	{
+		"code": "Z134",
+		"desc": "Encounter for screening for certain developmental disorders in childhood"
+	},
+	{
+		"code": "Z1384",
+		"desc": "Encounter for screening for dental disorders"
+	},
+	{
+		"code": "Z131",
+		"desc": "Encounter for screening for diabetes mellitus"
+	},
+	{
+		"code": "Z130",
+		"desc": "Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+	},
+	{
+		"code": "Z1388",
+		"desc": "Encounter for screening for disorder due to exposure to contaminants"
+	},
+	{
+		"code": "Z135",
+		"desc": "Encounter for screening for eye and ear disorders"
+	},
+	{
+		"code": "Z114",
+		"desc": "Encounter for screening for human immunodeficiency virus [HIV]"
+	},
+	{
+		"code": "Z1151",
+		"desc": "Encounter for screening for human papillomavirus (HPV)"
+	},
+	{
+		"code": "Z113",
+		"desc": "Encounter for screening for infections with a predominantly sexual mode of transmission"
+	},
+	{
+		"code": "Z119",
+		"desc": "Encounter for screening for infectious and parasitic diseases, unspecified"
+	},
+	{
+		"code": "Z110",
+		"desc": "Encounter for screening for intestinal infectious diseases"
+	},
+	{
+		"code": "Z13220",
+		"desc": "Encounter for screening for lipoid disorders"
+	},
+	{
+		"code": "Z13811",
+		"desc": "Encounter for screening for lower gastrointestinal disorder"
+	},
+	{
+		"code": "Z126",
+		"desc": "Encounter for screening for malignant neoplasm of bladder"
+	},
+	{
+		"code": "Z124",
+		"desc": "Encounter for screening for malignant neoplasm of cervix"
+	},
+	{
+		"code": "Z1211",
+		"desc": "Encounter for screening for malignant neoplasm of colon"
+	},
+	{
+		"code": "Z1210",
+		"desc": "Encounter for screening for malignant neoplasm of intestinal tract, unspecified"
+	},
+	{
+		"code": "Z1282",
+		"desc": "Encounter for screening for malignant neoplasm of nervous system"
+	},
+	{
+		"code": "Z1281",
+		"desc": "Encounter for screening for malignant neoplasm of oral cavity"
+	},
+	{
+		"code": "Z1279",
+		"desc": "Encounter for screening for malignant neoplasm of other genitourinary organs"
+	},
+	{
+		"code": "Z1289",
+		"desc": "Encounter for screening for malignant neoplasm of other sites"
+	},
+	{
+		"code": "Z1273",
+		"desc": "Encounter for screening for malignant neoplasm of ovary"
+	},
+	{
+		"code": "Z125",
+		"desc": "Encounter for screening for malignant neoplasm of prostate"
+	},
+	{
+		"code": "Z1212",
+		"desc": "Encounter for screening for malignant neoplasm of rectum"
+	},
+	{
+		"code": "Z122",
+		"desc": "Encounter for screening for malignant neoplasm of respiratory organs"
+	},
+	{
+		"code": "Z1283",
+		"desc": "Encounter for screening for malignant neoplasm of skin"
+	},
+	{
+		"code": "Z1213",
+		"desc": "Encounter for screening for malignant neoplasm of small intestine"
+	},
+	{
+		"code": "Z120",
+		"desc": "Encounter for screening for malignant neoplasm of stomach"
+	},
+	{
+		"code": "Z1271",
+		"desc": "Encounter for screening for malignant neoplasm of testis"
+	},
+	{
+		"code": "Z1272",
+		"desc": "Encounter for screening for malignant neoplasm of vagina"
+	},
+	{
+		"code": "Z129",
+		"desc": "Encounter for screening for malignant neoplasm, site unspecified"
+	},
+	{
+		"code": "Z1321",
+		"desc": "Encounter for screening for nutritional disorder"
+	},
+	{
+		"code": "Z13820",
+		"desc": "Encounter for screening for osteoporosis"
+	},
+	{
+		"code": "Z112",
+		"desc": "Encounter for screening for other bacterial diseases"
+	},
+	{
+		"code": "Z13818",
+		"desc": "Encounter for screening for other digestive system disorders"
+	},
+	{
+		"code": "Z1389",
+		"desc": "Encounter for screening for other disorder"
+	},
+	{
+		"code": "Z118",
+		"desc": "Encounter for screening for other infectious and parasitic diseases"
+	},
+	{
+		"code": "Z13228",
+		"desc": "Encounter for screening for other metabolic disorders"
+	},
+	{
+		"code": "Z13828",
+		"desc": "Encounter for screening for other musculoskeletal disorder"
+	},
+	{
+		"code": "Z13858",
+		"desc": "Encounter for screening for other nervous system disorders"
+	},
+	{
+		"code": "Z116",
+		"desc": "Encounter for screening for other protozoal diseases and helminthiases"
+	},
+	{
+		"code": "Z1329",
+		"desc": "Encounter for screening for other suspected endocrine disorder"
+	},
+	{
+		"code": "Z1159",
+		"desc": "Encounter for screening for other viral diseases"
+	},
+	{
+		"code": "Z1383",
+		"desc": "Encounter for screening for respiratory disorder NEC"
+	},
+	{
+		"code": "Z111",
+		"desc": "Encounter for screening for respiratory tuberculosis"
+	},
+	{
+		"code": "Z13850",
+		"desc": "Encounter for screening for traumatic brain injury"
+	},
+	{
+		"code": "Z13810",
+		"desc": "Encounter for screening for upper gastrointestinal disorder"
+	},
+	{
+		"code": "Z1231",
+		"desc": "Encounter for screening mammogram for malignant neoplasm of breast"
+	},
+	{
+		"code": "Z139",
+		"desc": "Encounter for screening, unspecified"
+	},
+	{
+		"code": "Z302",
+		"desc": "Encounter for sterilization"
+	},
+	{
+		"code": "Z3401",
+		"desc": "Encounter for supervision of normal first pregnancy, first trimester"
+	},
+	{
+		"code": "Z3402",
+		"desc": "Encounter for supervision of normal first pregnancy, second trimester"
+	},
+	{
+		"code": "Z3403",
+		"desc": "Encounter for supervision of normal first pregnancy, third trimester"
+	},
+	{
+		"code": "Z3400",
+		"desc": "Encounter for supervision of normal first pregnancy, unspecified trimester"
+	},
+	{
+		"code": "Z3491",
+		"desc": "Encounter for supervision of normal pregnancy, unspecified, first trimester"
+	},
+	{
+		"code": "Z3492",
+		"desc": "Encounter for supervision of normal pregnancy, unspecified, second trimester"
+	},
+	{
+		"code": "Z3493",
+		"desc": "Encounter for supervision of normal pregnancy, unspecified, third trimester"
+	},
+	{
+		"code": "Z3490",
+		"desc": "Encounter for supervision of normal pregnancy, unspecified, unspecified trimester"
+	},
+	{
+		"code": "Z3481",
+		"desc": "Encounter for supervision of other normal pregnancy, first trimester"
+	},
+	{
+		"code": "Z3482",
+		"desc": "Encounter for supervision of other normal pregnancy, second trimester"
+	},
+	{
+		"code": "Z3483",
+		"desc": "Encounter for supervision of other normal pregnancy, third trimester"
+	},
+	{
+		"code": "Z3480",
+		"desc": "Encounter for supervision of other normal pregnancy, unspecified trimester"
+	},
+	{
+		"code": "Z48812",
+		"desc": "Encounter for surgical aftercare following surgery on the circulatory system"
+	},
+	{
+		"code": "Z48815",
+		"desc": "Encounter for surgical aftercare following surgery on the digestive system"
+	},
+	{
+		"code": "Z48816",
+		"desc": "Encounter for surgical aftercare following surgery on the genitourinary system"
+	},
+	{
+		"code": "Z48811",
+		"desc": "Encounter for surgical aftercare following surgery on the nervous system"
+	},
+	{
+		"code": "Z48813",
+		"desc": "Encounter for surgical aftercare following surgery on the respiratory system"
+	},
+	{
+		"code": "Z48810",
+		"desc": "Encounter for surgical aftercare following surgery on the sense organs"
+	},
+	{
+		"code": "Z48817",
+		"desc": "Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue"
+	},
+	{
+		"code": "Z48814",
+		"desc": "Encounter for surgical aftercare following surgery on the teeth or oral cavity"
+	},
+	{
+		"code": "Z3041",
+		"desc": "Encounter for surveillance of contraceptive pills"
+	},
+	{
+		"code": "Z3040",
+		"desc": "Encounter for surveillance of contraceptives, unspecified"
+	},
+	{
+		"code": "Z3046",
+		"desc": "Encounter for surveillance of implantable subdermal contraceptive"
+	},
+	{
+		"code": "Z3042",
+		"desc": "Encounter for surveillance of injectable contraceptive"
+	},
+	{
+		"code": "Z3049",
+		"desc": "Encounter for surveillance of other contraceptives"
+	},
+	{
+		"code": "Z3045",
+		"desc": "Encounter for surveillance of transdermal patch hormonal contraceptive device"
+	},
+	{
+		"code": "Z3044",
+		"desc": "Encounter for surveillance of vaginal ring hormonal contraceptive device"
+	},
+	{
+		"code": "Z0375",
+		"desc": "Encounter for suspected cervical shortening ruled out"
+	},
+	{
+		"code": "Z0373",
+		"desc": "Encounter for suspected fetal anomaly ruled out"
+	},
+	{
+		"code": "Z0372",
+		"desc": "Encounter for suspected placental problem ruled out"
+	},
+	{
+		"code": "Z0371",
+		"desc": "Encounter for suspected problem with amniotic cavity and membrane ruled out"
+	},
+	{
+		"code": "Z0374",
+		"desc": "Encounter for suspected problem with fetal growth ruled out"
+	},
+	{
+		"code": "Z31441",
+		"desc": "Encounter for testing of male partner of patient with recurrent pregnancy loss"
+	},
+	{
+		"code": "Z5181",
+		"desc": "Encounter for therapeutic drug level monitoring"
+	},
+	{
+		"code": "Z31430",
+		"desc": "Encounter of female for testing for genetic disease carrier status for procreative management"
+	},
+	{
+		"code": "Z31440",
+		"desc": "Encounter of male for testing for genetic disease carrier status for procreative management"
+	},
+	{
+		"code": "N430",
+		"desc": "Encysted hydrocele"
+	},
+	{
+		"code": "I5084",
+		"desc": "End stage heart failure"
+	},
+	{
+		"code": "N186",
+		"desc": "End stage renal disease"
+	},
+	{
+		"code": "I424",
+		"desc": "Endocardial fibroelastosis"
+	},
+	{
+		"code": "I39",
+		"desc": "Endocarditis and heart valve disorders in diseases classified elsewhere"
+	},
+	{
+		"code": "M3211",
+		"desc": "Endocarditis in systemic lupus erythematosus"
+	},
+	{
+		"code": "I38",
+		"desc": "Endocarditis, valve unspecified"
+	},
+	{
+		"code": "E349",
+		"desc": "Endocrine disorder, unspecified"
+	},
+	{
+		"code": "O99284",
+		"desc": "Endocrine, nutritional and metabolic diseases complicating childbirth"
+	},
+	{
+		"code": "O99281",
+		"desc": "Endocrine, nutritional and metabolic diseases complicating pregnancy, first trimester"
+	},
+	{
+		"code": "O99282",
+		"desc": "Endocrine, nutritional and metabolic diseases complicating pregnancy, second trimester"
+	},
+	{
+		"code": "O99283",
+		"desc": "Endocrine, nutritional and metabolic diseases complicating pregnancy, third trimester"
+	},
+	{
+		"code": "O99280",
+		"desc": "Endocrine, nutritional and metabolic diseases complicating pregnancy, unspecified trimester"
+	},
+	{
+		"code": "O99285",
+		"desc": "Endocrine, nutritional and metabolic diseases complicating the puerperium"
+	},
+	{
+		"code": "G4004",
+		"desc": "Endocrinology mips specialty set"
+	},
+	{
+		"code": "M2752",
+		"desc": "Endodontic overfill"
+	},
+	{
+		"code": "M2753",
+		"desc": "Endodontic underfill"
+	},
+	{
+		"code": "N8500",
+		"desc": "Endometrial hyperplasia, unspecified"
+	},
+	{
+		"code": "N8502",
+		"desc": "Endometrial intraepithelial neoplasia [EIN]"
+	},
+	{
+		"code": "G9823",
+		"desc": "Endometrial sampling or hysteroscopy with biopsy and results documented during the 12 months prior to the index date (exclusive of the index date) of the endometrial ablation"
+	},
+	{
+		"code": "G9824",
+		"desc": "Endometrial sampling or hysteroscopy with biopsy and results not documented during the 12 months prior to the index date (exclusive of the index date) of the endometrial ablation"
+	},
+	{
+		"code": "N806",
+		"desc": "Endometriosis in cutaneous scar"
+	},
+	{
+		"code": "N802",
+		"desc": "Endometriosis of fallopian tube"
+	},
+	{
+		"code": "N805",
+		"desc": "Endometriosis of intestine"
+	},
+	{
+		"code": "N801",
+		"desc": "Endometriosis of ovary"
+	},
+	{
+		"code": "N803",
+		"desc": "Endometriosis of pelvic peritoneum"
+	},
+	{
+		"code": "N804",
+		"desc": "Endometriosis of rectovaginal septum and vagina"
+	},
+	{
+		"code": "N800",
+		"desc": "Endometriosis of uterus"
+	},
+	{
+		"code": "N809",
+		"desc": "Endometriosis, unspecified"
+	},
+	{
+		"code": "O8612",
+		"desc": "Endometritis following delivery"
+	},
+	{
+		"code": "I423",
+		"desc": "Endomyocardial (eosinophilic) disease"
+	},
+	{
+		"code": "C1749",
+		"desc": "Endoscope, retrograde imaging/illumination colonoscope device (implantable)"
+	},
+	{
+		"code": "C1601",
+		"desc": "Endoscope, single-use (i.e. disposable), pulmonary, imaging/illumination device (insertable)"
+	},
+	{
+		"code": "C1748",
+		"desc": "Endoscope, single-use (i.e. disposable), upper gi, imaging/illumination device (insertable)"
+	},
+	{
+		"code": "C1747",
+		"desc": "Endoscope, single-use (i.e. disposable), urinary tract, imaging/illumination device (insertable)"
+	},
+	{
+		"code": "C9724",
+		"desc": "Endoscopic full-thickness plication of the stomach using endoscopic plication system (eps); includes endoscopy\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "C9785",
+		"desc": "Endoscopic outlet reduction, gastric pouch application, with endoscopy and intraluminal tube insertion, if performed, including all system and tissue anchoring components"
+	},
+	{
+		"code": "C7542",
+		"desc": "Endoscopic retrograde cholangiopancreatography (ercp) with biopsy, single or multiple, with endoscopic cannulation of papilla with direct visualization of pancreatic/common bile ducts(s)"
+	},
+	{
+		"code": "C7544",
+		"desc": "Endoscopic retrograde cholangiopancreatography (ercp) with removal of calculi/debris from biliary/pancreatic duct(s), with endoscopic cannulation of papilla with direct visualization of pancreatic/common bile ducts(s)"
+	},
+	{
+		"code": "C7560",
+		"desc": "Endoscopic retrograde cholangiopancreatography (ercp) with removal of foreign body(s) or stent(s) from biliary/pancreatic duct(s) and endoscopic cannulation of papilla with direct visualization of pancreatic/common bile duct(s)"
+	},
+	{
+		"code": "C7543",
+		"desc": "Endoscopic retrograde cholangiopancreatography (ercp) with sphincterotomy/papillotomy, with endoscopic cannulation of papilla with direct visualization of pancreatic/common bile ducts(s)"
+	},
+	{
+		"code": "C9779",
+		"desc": "Endoscopic submucosal dissection (esd), including endoscopy or colonoscopy, mucosal closure, when performed"
+	},
+	{
+		"code": "C9768",
+		"desc": "Endoscopic ultrasound-guided direct measurement of hepatic portosystemic pressure gradient by any method (list separately in addition to code for primary procedure)"
+	},
+	{
+		"code": "L5973",
+		"desc": "Endoskeletal ankle foot system, microprocessor controlled feature, dorsiflexion and/or plantar flexion control, includes power source"
+	},
+	{
+		"code": "H1851",
+		"desc": "Endothelial corneal dystrophy"
+	},
+	{
+		"code": "Y653",
+		"desc": "Endotracheal tube wrongly placed during anesthetic procedure"
+	},
+	{
+		"code": "A4458",
+		"desc": "Enema bag with tubing, reusable"
+	},
+	{
+		"code": "A4457",
+		"desc": "Enema tube, with or without adapter, any type, replacement only, each"
+	},
+	{
+		"code": "K1013",
+		"desc": "Enema tube, with or without adapter, any type, replacement only, each\n                                    \n                                        \n                                        Terminated December 31, 2023."
+	},
+	{
+		"code": "M0010",
+		"desc": "Enhancing oncology model (eom) monthly enhanced oncology services (meos) payment for eom enhanced services"
+	},
+	{
+		"code": "Q845",
+		"desc": "Enlarged and hypertrophic nails"
+	},
+	{
+		"code": "R599",
+		"desc": "Enlarged lymph nodes, unspecified"
+	},
+	{
+		"code": "H05343",
+		"desc": "Enlargement of bilateral orbits"
+	},
+	{
+		"code": "H05342",
+		"desc": "Enlargement of left orbit"
+	},
+	{
+		"code": "V2625",
+		"desc": "Enlargement of ocular prosthesis"
+	},
+	{
+		"code": "H05341",
+		"desc": "Enlargement of right orbit"
+	},
+	{
+		"code": "H05349",
+		"desc": "Enlargement of unspecified orbit"
+	},
+	{
+		"code": "H05413",
+		"desc": "Enophthalmos due to atrophy of orbital tissue, bilateral"
+	},
+	{
+		"code": "H05412",
+		"desc": "Enophthalmos due to atrophy of orbital tissue, left eye"
+	},
+	{
+		"code": "H05411",
+		"desc": "Enophthalmos due to atrophy of orbital tissue, right eye"
+	},
+	{
+		"code": "H05419",
+		"desc": "Enophthalmos due to atrophy of orbital tissue, unspecified eye"
+	},
+	{
+		"code": "H05423",
+		"desc": "Enophthalmos due to trauma or surgery, bilateral"
+	},
+	{
+		"code": "H05422",
+		"desc": "Enophthalmos due to trauma or surgery, left eye"
+	},
+	{
+		"code": "H05421",
+		"desc": "Enophthalmos due to trauma or surgery, right eye"
+	},
+	{
+		"code": "H05429",
+		"desc": "Enophthalmos due to trauma or surgery, unspecified eye"
+	},
+	{
+		"code": "B4148",
+		"desc": "Enteral feeding supply kit; elastomeric control fed, per day, includes but not limited to feeding/flushing syringe, administration set tubing, dressings, tape"
+	},
+	{
+		"code": "B4036",
+		"desc": "Enteral feeding supply kit; gravity fed, per day, includes but not limited to feeding/flushing syringe, administration set tubing, dressings, tape"
+	},
+	{
+		"code": "B4035",
+		"desc": "Enteral feeding supply kit; pump fed, per day, includes but not limited to feeding/flushing syringe, administration set tubing, dressings, tape"
+	},
+	{
+		"code": "B4034",
+		"desc": "Enteral feeding supply kit; syringe fed, per day, includes but not limited to feeding/flushing syringe, administration set tubing, dressings, tape"
+	},
+	{
+		"code": "B4102",
+		"desc": "Enteral formula, for adults, used to replace fluids and electrolytes (e.g., clear liquids), 500 ml = 1 unit"
+	},
+	{
+		"code": "B4161",
+		"desc": "Enteral formula, for pediatrics, hydrolyzed/amino acids and peptide chain proteins, includes fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4160",
+		"desc": "Enteral formula, for pediatrics, nutritionally complete calorically dense (equal to or greater than 0.7 kcal/ml) with intact nutrients, includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4159",
+		"desc": "Enteral formula, for pediatrics, nutritionally complete soy based with intact nutrients, includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber and/or iron, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4158",
+		"desc": "Enteral formula, for pediatrics, nutritionally complete with intact nutrients, includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber and/or iron, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4162",
+		"desc": "Enteral formula, for pediatrics, special metabolic needs for inherited disease of metabolism, includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4103",
+		"desc": "Enteral formula, for pediatrics, used to replace fluids and electrolytes (e.g., clear liquids), 500 ml = 1 unit"
+	},
+	{
+		"code": "B4149",
+		"desc": "Enteral formula, manufactured blenderized natural foods with intact nutrients, includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4150",
+		"desc": "Enteral formula, nutritionally complete with intact nutrients, includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4152",
+		"desc": "Enteral formula, nutritionally complete, calorically dense (equal to or greater than 1.5 kcal/ml) with intact nutrients, includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4157",
+		"desc": "Enteral formula, nutritionally complete, for special metabolic needs for inherited disease of metabolism, includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4154",
+		"desc": "Enteral formula, nutritionally complete, for special metabolic needs, excludes inherited disease of metabolism, includes altered composition of proteins, fats, carbohydrates, vitamins and/or minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4153",
+		"desc": "Enteral formula, nutritionally complete, hydrolyzed proteins (amino acids and peptide chain), includes fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B4155",
+		"desc": "Enteral formula, nutritionally incomplete/modular nutrients, includes specific nutrients, carbohydrates (e.g., glucose polymers), proteins/amino acids (e.g., glutamine, arginine), fat (e.g., medium chain triglycerides) or combination, administered through an enteral feeding tube, 100 calories = 1 unit"
+	},
+	{
+		"code": "B9000",
+		"desc": "Enteral nutrition infusion pump - without alarm Terminated December 31, 2016."
+	},
+	{
+		"code": "B9002",
+		"desc": "Enteral nutrition infusion pump, any type"
+	},
+	{
+		"code": "A046",
+		"desc": "Enteritis due to Yersinia enterocolitica"
+	},
+	{
+		"code": "B80",
+		"desc": "Enterobiasis"
+	},
+	{
+		"code": "B952",
+		"desc": "Enterococcus as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "A0472",
+		"desc": "Enterocolitis due to Clostridium difficile, not specified as recurrent"
+	},
+	{
+		"code": "A0471",
+		"desc": "Enterocolitis due to Clostridium difficile, recurrent"
+	},
+	{
+		"code": "A043",
+		"desc": "Enterohemorrhagic Escherichia coli infection"
+	},
+	{
+		"code": "A042",
+		"desc": "Enteroinvasive Escherichia coli infection"
+	},
+	{
+		"code": "M07672",
+		"desc": "Enteropathic arthropathies, left ankle and foot"
+	},
+	{
+		"code": "M07622",
+		"desc": "Enteropathic arthropathies, left elbow"
+	},
+	{
+		"code": "M07642",
+		"desc": "Enteropathic arthropathies, left hand"
+	},
+	{
+		"code": "M07652",
+		"desc": "Enteropathic arthropathies, left hip"
+	},
+	{
+		"code": "M07662",
+		"desc": "Enteropathic arthropathies, left knee"
+	},
+	{
+		"code": "M07612",
+		"desc": "Enteropathic arthropathies, left shoulder"
+	},
+	{
+		"code": "M07632",
+		"desc": "Enteropathic arthropathies, left wrist"
+	},
+	{
+		"code": "M0769",
+		"desc": "Enteropathic arthropathies, multiple sites"
+	},
+	{
+		"code": "M07671",
+		"desc": "Enteropathic arthropathies, right ankle and foot"
+	},
+	{
+		"code": "M07621",
+		"desc": "Enteropathic arthropathies, right elbow"
+	},
+	{
+		"code": "M07641",
+		"desc": "Enteropathic arthropathies, right hand"
+	},
+	{
+		"code": "M07651",
+		"desc": "Enteropathic arthropathies, right hip"
+	},
+	{
+		"code": "M07661",
+		"desc": "Enteropathic arthropathies, right knee"
+	},
+	{
+		"code": "M07611",
+		"desc": "Enteropathic arthropathies, right shoulder"
+	},
+	{
+		"code": "M07631",
+		"desc": "Enteropathic arthropathies, right wrist"
+	},
+	{
+		"code": "M07679",
+		"desc": "Enteropathic arthropathies, unspecified ankle and foot"
+	},
+	{
+		"code": "M07629",
+		"desc": "Enteropathic arthropathies, unspecified elbow"
+	},
+	{
+		"code": "M07649",
+		"desc": "Enteropathic arthropathies, unspecified hand"
+	},
+	{
+		"code": "M07659",
+		"desc": "Enteropathic arthropathies, unspecified hip"
+	},
+	{
+		"code": "M07669",
+		"desc": "Enteropathic arthropathies, unspecified knee"
+	},
+	{
+		"code": "M07619",
+		"desc": "Enteropathic arthropathies, unspecified shoulder"
+	},
+	{
+		"code": "M0760",
+		"desc": "Enteropathic arthropathies, unspecified site"
+	},
+	{
+		"code": "M07639",
+		"desc": "Enteropathic arthropathies, unspecified wrist"
+	},
+	{
+		"code": "M0768",
+		"desc": "Enteropathic arthropathies, vertebrae"
+	},
+	{
+		"code": "A040",
+		"desc": "Enteropathogenic Escherichia coli infection"
+	},
+	{
+		"code": "C862",
+		"desc": "Enteropathy-type (intestinal) T-cell lymphoma"
+	},
+	{
+		"code": "K634",
+		"desc": "Enteroptosis"
+	},
+	{
+		"code": "S9474",
+		"desc": "Enterostomal therapy by a registered nurse certified in enterostomal therapy, per diem"
+	},
+	{
+		"code": "K9410",
+		"desc": "Enterostomy complication, unspecified"
+	},
+	{
+		"code": "K9411",
+		"desc": "Enterostomy hemorrhage"
+	},
+	{
+		"code": "K9412",
+		"desc": "Enterostomy infection"
+	},
+	{
+		"code": "K9413",
+		"desc": "Enterostomy malfunction"
+	},
+	{
+		"code": "A041",
+		"desc": "Enterotoxigenic Escherichia coli infection"
+	},
+	{
+		"code": "A850",
+		"desc": "Enteroviral encephalitis"
+	},
+	{
+		"code": "A880",
+		"desc": "Enteroviral exanthematous fever [Boston exanthem]"
+	},
+	{
+		"code": "A870",
+		"desc": "Enteroviral meningitis"
+	},
+	{
+		"code": "B085",
+		"desc": "Enteroviral vesicular pharyngitis"
+	},
+	{
+		"code": "B084",
+		"desc": "Enteroviral vesicular stomatitis with exanthem"
+	},
+	{
+		"code": "B341",
+		"desc": "Enterovirus infection, unspecified"
+	},
+	{
+		"code": "M779",
+		"desc": "Enthesopathy, unspecified"
+	},
+	{
+		"code": "S8270",
+		"desc": "Enuresis alarm, using auditory buzzer and/or vibration device"
+	},
+	{
+		"code": "F980",
+		"desc": "Enuresis not due to a substance or known physiological condition"
+	},
+	{
+		"code": "Q4258",
+		"desc": "Enverse, per square centimeter"
+	},
+	{
+		"code": "P810",
+		"desc": "Environmental hyperthermia of newborn"
+	},
+	{
+		"code": "S3630",
+		"desc": "Eosinophil count, blood, direct"
+	},
+	{
+		"code": "D721",
+		"desc": "Eosinophilia"
+	},
+	{
+		"code": "L983",
+		"desc": "Eosinophilic cellulitis [Wells]"
+	},
+	{
+		"code": "K5282",
+		"desc": "Eosinophilic colitis"
+	},
+	{
+		"code": "K200",
+		"desc": "Eosinophilic esophagitis"
+	},
+	{
+		"code": "K5281",
+		"desc": "Eosinophilic gastritis or gastroenteritis"
+	},
+	{
+		"code": "G6049",
+		"desc": "Epiandrosterone\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "Q4187",
+		"desc": "Epicord, per square centimeter"
+	},
+	{
+		"code": "P122",
+		"desc": "Epicranial subaponeurotic hemorrhage due to birth injury"
+	},
+	{
+		"code": "A750",
+		"desc": "Epidemic louse-borne typhus fever due to Rickettsia prowazekii"
+	},
+	{
+		"code": "B330",
+		"desc": "Epidemic myalgia"
+	},
+	{
+		"code": "A881",
+		"desc": "Epidemic vertigo"
+	},
+	{
+		"code": "L720",
+		"desc": "Epidermal cyst"
+	},
+	{
+		"code": "L859",
+		"desc": "Epidermal thickening, unspecified"
+	},
+	{
+		"code": "L1231",
+		"desc": "Epidermolysis bullosa due to drug"
+	},
+	{
+		"code": "Q812",
+		"desc": "Epidermolysis bullosa dystrophica"
+	},
+	{
+		"code": "Q811",
+		"desc": "Epidermolysis bullosa letalis"
+	},
+	{
+		"code": "Q810",
+		"desc": "Epidermolysis bullosa simplex"
+	},
+	{
+		"code": "Q819",
+		"desc": "Epidermolysis bullosa, unspecified"
+	},
+	{
+		"code": "N451",
+		"desc": "Epididymitis"
+	},
+	{
+		"code": "N453",
+		"desc": "Epididymo-orchitis"
+	},
+	{
+		"code": "S064X5A",
+		"desc": "Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter"
+	},
+	{
+		"code": "S064X5S",
+		"desc": "Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, sequela"
+	},
+	{
+		"code": "S064X5D",
+		"desc": "Epidural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter"
+	},
+	{
+		"code": "S064X6A",
+		"desc": "Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter"
+	},
+	{
+		"code": "S064X6S",
+		"desc": "Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela"
+	},
+	{
+		"code": "S064X6D",
+		"desc": "Epidural hemorrhage with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, subsequent encounter"
+	},
+	{
+		"code": "S064X3A",
+		"desc": "Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter"
+	},
+	{
+		"code": "S064X3S",
+		"desc": "Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+	},
+	{
+		"code": "S064X3D",
+		"desc": "Epidural hemorrhage with loss of consciousness of 1 hour to 5 hours 59 minutes, subsequent encounter"
+	},
+	{
+		"code": "S064X1A",
+		"desc": "Epidural hemorrhage with loss of consciousness of 30 minutes or less, initial encounter"
+	},
+	{
+		"code": "S064X1S",
+		"desc": "Epidural hemorrhage with loss of consciousness of 30 minutes or less, sequela"
+	},
+	{
+		"code": "S064X1D",
+		"desc": "Epidural hemorrhage with loss of consciousness of 30 minutes or less, subsequent encounter"
+	},
+	{
+		"code": "S064X2A",
+		"desc": "Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, initial encounter"
+	},
+	{
+		"code": "S064X2S",
+		"desc": "Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, sequela"
+	},
+	{
+		"code": "S064X2D",
+		"desc": "Epidural hemorrhage with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter"
+	},
+	{
+		"code": "S064X4A",
+		"desc": "Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, initial encounter"
+	},
+	{
+		"code": "S064X4S",
+		"desc": "Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, sequela"
+	},
+	{
+		"code": "S064X4D",
+		"desc": "Epidural hemorrhage with loss of consciousness of 6 hours to 24 hours, subsequent encounter"
+	},
+	{
+		"code": "S064X7A",
+		"desc": "Epidural hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+	},
+	{
+		"code": "S064X8A",
+		"desc": "Epidural hemorrhage with loss of consciousness of any duration with death due to other causes prior to regaining consciousness, initial encounter"
+	},
+	{
+		"code": "S064X9A",
+		"desc": "Epidural hemorrhage with loss of consciousness of unspecified duration, initial encounter"
+	},
+	{
+		"code": "S064X9S",
+		"desc": "Epidural hemorrhage with loss of consciousness of unspecified duration, sequela"
+	},
+	{
+		"code": "S064X9D",
+		"desc": "Epidural hemorrhage with loss of consciousness of unspecified duration, subsequent encounter"
+	},
+	{
+		"code": "S064X0A",
+		"desc": "Epidural hemorrhage without loss of consciousness, initial encounter"
+	},
+	{
+		"code": "S064X0S",
+		"desc": "Epidural hemorrhage without loss of consciousness, sequela"
+	},
+	{
+		"code": "S064X0D",
+		"desc": "Epidural hemorrhage without loss of consciousness, subsequent encounter"
+	},
+	{
+		"code": "Q4278",
+		"desc": "Epieffect, per square centimeter"
+	},
+	{
+		"code": "Q4131",
+		"desc": "Epifix or epicord, per square centimeter\n                                    \n                                        \n                                        Terminated December 31, 2018."
+	},
+	{
+		"code": "Q4145",
+		"desc": "Epifix, injectable, 1 mg"
+	},
+	{
+		"code": "Q4186",
+		"desc": "Epifix, per square centimeter"
+	},
+	{
+		"code": "R1936",
+		"desc": "Epigastric abdominal rigidity"
+	},
+	{
+		"code": "R10816",
+		"desc": "Epigastric abdominal tenderness"
+	},
+	{
+		"code": "R1013",
+		"desc": "Epigastric pain"
+	},
+	{
+		"code": "R10826",
+		"desc": "Epigastric rebound abdominal tenderness"
+	},
+	{
+		"code": "R1906",
+		"desc": "Epigastric swelling, mass or lump"
+	},
+	{
+		"code": "G40911",
+		"desc": "Epilepsy, unspecified, intractable, with status epilepticus"
+	},
+	{
+		"code": "G40919",
+		"desc": "Epilepsy, unspecified, intractable, without status epilepticus"
+	},
+	{
+		"code": "G40901",
+		"desc": "Epilepsy, unspecified, not intractable, with status epilepticus"
+	},
+	{
+		"code": "G40909",
+		"desc": "Epilepsy, unspecified, not intractable, without status epilepticus"
+	},
+	{
+		"code": "G40501",
+		"desc": "Epileptic seizures related to external causes, not intractable, with status epilepticus"
+	},
+	{
+		"code": "G40509",
+		"desc": "Epileptic seizures related to external causes, not intractable, without status epilepticus"
+	},
+	{
+		"code": "G40823",
+		"desc": "Epileptic spasms, intractable, with status epilepticus"
+	},
+	{
+		"code": "G40824",
+		"desc": "Epileptic spasms, intractable, without status epilepticus"
+	},
+	{
+		"code": "G40821",
+		"desc": "Epileptic spasms, not intractable, with status epilepticus"
+	},
+	{
+		"code": "G40822",
+		"desc": "Epileptic spasms, not intractable, without status epilepticus"
+	},
+	{
+		"code": "H04213",
+		"desc": "Epiphora due to excess lacrimation, bilateral lacrimal glands"
+	},
+	{
+		"code": "H04212",
+		"desc": "Epiphora due to excess lacrimation, left lacrimal gland"
+	},
+	{
+		"code": "H04211",
+		"desc": "Epiphora due to excess lacrimation, right lacrimal gland"
+	},
+	{
+		"code": "H04219",
+		"desc": "Epiphora due to excess lacrimation, unspecified lacrimal gland"
+	},
+	{
+		"code": "H04223",
+		"desc": "Epiphora due to insufficient drainage, bilateral lacrimal glands"
+	},
+	{
+		"code": "H04222",
+		"desc": "Epiphora due to insufficient drainage, left lacrimal gland"
+	},
+	{
+		"code": "H04221",
+		"desc": "Epiphora due to insufficient drainage, right lacrimal gland"
+	},
+	{
+		"code": "H04229",
+		"desc": "Epiphora due to insufficient drainage, unspecified lacrimal gland"
+	},
+	{
+		"code": "H15113",
+		"desc": "Episcleritis periodica fugax, bilateral"
+	},
+	{
+		"code": "H15112",
+		"desc": "Episcleritis periodica fugax, left eye"
+	},
+	{
+		"code": "H15111",
+		"desc": "Episcleritis periodica fugax, right eye"
+	},
+	{
+		"code": "H15119",
+		"desc": "Episcleritis periodica fugax, unspecified eye"
+	},
+	{
+		"code": "G2175",
+		"desc": "Episodes where the patient had a comorbid condition during the 12 months prior to or on the episode date (e.g., tuberculosis, neutropenia, cystic fibrosis, chronic bronchitis, pulmonary edema, respiratory failure, rheumatoid lung disease)"
+	},
+	{
+		"code": "G2097",
+		"desc": "Episodes where the patient had a competing diagnosis on or within three days after the episode date (e.g., intestinal infection, pertussis, bacterial infection, lyme disease, otitis media, acute sinusitis, chronic sinusitis, infection of the adenoids, prostatitis, cellulitis, mastoiditis, or bone infections, acute lymphadenitis, impetigo, skin staph infections, pneumonia/gonococcal infections, venereal disease (syphilis, chlamydia, inflammatory diseases [female reproductive organs]), infections of the kidney, cystitis or uti)"
+	},
+	{
+		"code": "G9703",
+		"desc": "Episodes where the patient is taking antibiotics (table 1) in the 30 days prior to the episode date"
+	},
+	{
+		"code": "G44011",
+		"desc": "Episodic cluster headache, intractable"
+	},
+	{
+		"code": "G44019",
+		"desc": "Episodic cluster headache, not intractable"
+	},
+	{
+		"code": "G44031",
+		"desc": "Episodic paroxysmal hemicrania, intractable"
+	},
+	{
+		"code": "G44039",
+		"desc": "Episodic paroxysmal hemicrania, not intractable"
+	},
+	{
+		"code": "G44211",
+		"desc": "Episodic tension-type headache, intractable"
+	},
+	{
+		"code": "G44219",
+		"desc": "Episodic tension-type headache, not intractable"
+	},
+	{
+		"code": "Q640",
+		"desc": "Epispadias"
+	},
+	{
+		"code": "R040",
+		"desc": "Epistaxis"
+	},
+	{
+		"code": "H1852",
+		"desc": "Epithelial (juvenile) corneal dystrophy"
+	},
+	{
+		"code": "H15813",
+		"desc": "Equatorial staphyloma, bilateral"
+	},
+	{
+		"code": "H15812",
+		"desc": "Equatorial staphyloma, left eye"
+	},
+	{
+		"code": "H15811",
+		"desc": "Equatorial staphyloma, right eye"
+	},
+	{
+		"code": "H15819",
+		"desc": "Equatorial staphyloma, unspecified eye"
+	},
+	{
+		"code": "S8940",
+		"desc": "Equestrian/hippotherapy, per session"
+	},
+	{
+		"code": "P140",
+		"desc": "Erb's paralysis due to birth injury"
+	},
+	{
+		"code": "N5201",
+		"desc": "Erectile dysfunction due to arterial insufficiency"
+	},
+	{
+		"code": "N521",
+		"desc": "Erectile dysfunction due to diseases classified elsewhere"
+	},
+	{
+		"code": "N5236",
+		"desc": "Erectile dysfunction following interstitial seed therapy"
+	},
+	{
+		"code": "N5237",
+		"desc": "Erectile dysfunction following prostate ablative therapy"
+	},
+	{
+		"code": "N5235",
+		"desc": "Erectile dysfunction following radiation therapy"
+	},
+	{
+		"code": "N5232",
+		"desc": "Erectile dysfunction following radical cystectomy"
+	},
+	{
+		"code": "N5231",
+		"desc": "Erectile dysfunction following radical prostatectomy"
+	},
+	{
+		"code": "N5234",
+		"desc": "Erectile dysfunction following simple prostatectomy"
+	},
+	{
+		"code": "N5233",
+		"desc": "Erectile dysfunction following urethral surgery"
+	},
+	{
+		"code": "N86",
+		"desc": "Erosion and ectropion of cervix uteri"
+	},
+	{
+		"code": "T8324XA",
+		"desc": "Erosion of graft of urinary organ, initial encounter"
+	},
+	{
+		"code": "T8324XS",
+		"desc": "Erosion of graft of urinary organ, sequela"
+	},
+	{
+		"code": "T8324XD",
+		"desc": "Erosion of graft of urinary organ, subsequent encounter"
+	},
+	{
+		"code": "T83714A",
+		"desc": "Erosion of implanted ureteral bulking agent to surrounding organ or tissue, initial encounter"
+	},
+	{
+		"code": "T83714S",
+		"desc": "Erosion of implanted ureteral bulking agent to surrounding organ or tissue, sequela"
+	},
+	{
+		"code": "T83714D",
+		"desc": "Erosion of implanted ureteral bulking agent to surrounding organ or tissue, subsequent encounter"
+	},
+	{
+		"code": "T83713A",
+		"desc": "Erosion of implanted urethral bulking agent to surrounding organ or tissue, initial encounter"
+	},
+	{
+		"code": "T83713S",
+		"desc": "Erosion of implanted urethral bulking agent to surrounding organ or tissue, sequela"
+	},
+	{
+		"code": "T83713D",
+		"desc": "Erosion of implanted urethral bulking agent to surrounding organ or tissue, subsequent encounter"
+	},
+	{
+		"code": "T83712A",
+		"desc": "Erosion of implanted urethral mesh to surrounding organ or tissue, initial encounter"
+	},
+	{
+		"code": "T83712S",
+		"desc": "Erosion of implanted urethral mesh to surrounding organ or tissue, sequela"
+	},
+	{
+		"code": "T83712D",
+		"desc": "Erosion of implanted urethral mesh to surrounding organ or tissue, subsequent encounter"
+	},
+	{
+		"code": "T83711A",
+		"desc": "Erosion of implanted vaginal mesh to surrounding organ or tissue, initial encounter"
+	},
+	{
+		"code": "T83711S",
+		"desc": "Erosion of implanted vaginal mesh to surrounding organ or tissue, sequela"
+	},
+	{
+		"code": "T83711D",
+		"desc": "Erosion of implanted vaginal mesh to surrounding organ or tissue, subsequent encounter"
+	},
+	{
+		"code": "T83718A",
+		"desc": "Erosion of other implanted mesh to organ or tissue, initial encounter"
+	},
+	{
+		"code": "T83718S",
+		"desc": "Erosion of other implanted mesh to organ or tissue, sequela"
+	},
+	{
+		"code": "T83718D",
+		"desc": "Erosion of other implanted mesh to organ or tissue, subsequent encounter"
+	},
+	{
+		"code": "T83719A",
+		"desc": "Erosion of other prosthetic materials to surrounding organ or tissue, initial encounter"
+	},
+	{
+		"code": "T83719S",
+		"desc": "Erosion of other prosthetic materials to surrounding organ or tissue, sequela"
+	},
+	{
+		"code": "T83719D",
+		"desc": "Erosion of other prosthetic materials to surrounding organ or tissue, subsequent encounter"
+	},
+	{
+		"code": "K032",
+		"desc": "Erosion of teeth"
+	},
+	{
+		"code": "M154",
+		"desc": "Erosive (osteo)arthritis"
+	},
+	{
+		"code": "R142",
+		"desc": "Eructation"
+	},
+	{
+		"code": "A46",
+		"desc": "Erysipelas"
+	},
+	{
+		"code": "A269",
+		"desc": "Erysipeloid, unspecified"
+	},
+	{
+		"code": "A267",
+		"desc": "Erysipelothrix sepsis"
+	},
+	{
+		"code": "L590",
+		"desc": "Erythema ab igne [dermatitis ab igne]"
+	},
+	{
+		"code": "L531",
+		"desc": "Erythema annulare centrifugum"
+	},
+	{
+		"code": "L951",
+		"desc": "Erythema elevatum diutinum"
+	},
+	{
+		"code": "L54",
+		"desc": "Erythema in diseases classified elsewhere"
+	},
+	{
+		"code": "B083",
+		"desc": "Erythema infectiosum [fifth disease]"
+	},
+	{
+		"code": "L304",
+		"desc": "Erythema intertrigo"
+	},
+	{
+		"code": "L532",
+		"desc": "Erythema marginatum"
+	},
+	{
+		"code": "L519",
+		"desc": "Erythema multiforme, unspecified"
+	},
+	{
+		"code": "L52",
+		"desc": "Erythema nodosum"
+	},
+	{
+		"code": "L539",
+		"desc": "Erythematous condition, unspecified"
+	},
+	{
+		"code": "L081",
+		"desc": "Erythrasma"
+	},
+	{
+		"code": "I7381",
+		"desc": "Erythromelalgia"
+	},
+	{
+		"code": "Q4272",
+		"desc": "Esano a, per square centimeter"
+	},
+	{
+		"code": "Q4273",
+		"desc": "Esano aaa, per square centimeter"
+	},
+	{
+		"code": "Q4274",
+		"desc": "Esano ac, per square centimeter"
+	},
+	{
+		"code": "Q4275",
+		"desc": "Esano aca, per square centimeter"
+	},
+	{
+		"code": "S0013",
+		"desc": "Esketamine, nasal spray, 1 mg"
+	},
+	{
+		"code": "C9777",
+		"desc": "Esophageal mucosal integrity testing by electrical impedance, transoral, includes esophagoscopy or esophagogastroduodenoscopy"
+	},
+	{
+		"code": "K222",
+		"desc": "Esophageal obstruction"
+	},
+	{
+		"code": "I8501",
+		"desc": "Esophageal varices with bleeding"
+	},
+	{
+		"code": "I8500",
+		"desc": "Esophageal varices without bleeding"
+	},
+	{
+		"code": "Q394",
+		"desc": "Esophageal web"
+	},
+	{
+		"code": "K209",
+		"desc": "Esophagitis, unspecified"
+	},
+	{
+		"code": "K9430",
+		"desc": "Esophagostomy complications, unspecified"
+	},
+	{
+		"code": "K9431",
+		"desc": "Esophagostomy hemorrhage"
+	},
+	{
+		"code": "K9432",
+		"desc": "Esophagostomy infection"
+	},
+	{
+		"code": "K9433",
+		"desc": "Esophagostomy malfunction"
+	},
+	{
+		"code": "H5051",
+		"desc": "Esophoria"
+	},
+	{
+		"code": "G9013",
+		"desc": "Esrd demo basic bundle level i"
+	},
+	{
+		"code": "G9014",
+		"desc": "Esrd demo expanded bundle including venous access and related services"
+	},
+	{
+		"code": "D473",
+		"desc": "Essential (hemorrhagic) thrombocythemia"
+	},
+	{
+		"code": "I10",
+		"desc": "Essential (primary) hypertension"
+	},
+	{
+		"code": "E630",
+		"desc": "Essential fatty acid [EFA] deficiency"
+	},
+	{
+		"code": "E7411",
+		"desc": "Essential fructosuria"
+	},
+	{
+		"code": "G250",
+		"desc": "Essential tremor"
+	},
+	{
+		"code": "E280",
+		"desc": "Estrogen excess"
+	},
+	{
+		"code": "Z171",
+		"desc": "Estrogen receptor negative status [ER-]"
+	},
+	{
+		"code": "Z170",
+		"desc": "Estrogen receptor positive status [ER+]"
+	},
+	{
+		"code": "G6050",
+		"desc": "Ethchlorvynol\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "J7295",
+		"desc": "Ethinyl estradiol and etonogestrel 0.015mg, 0.12mg per 24 hours; monthly vaginal ring, each"
+	},
+	{
+		"code": "J7307",
+		"desc": "Etonogestrel (contraceptive) implant system, including implant and supplies"
+	},
+	{
+		"code": "J8560",
+		"desc": "Etoposide; oral, 50 mg"
+	},
+	{
+		"code": "B470",
+		"desc": "Eumycetoma"
+	},
+	{
+		"code": "T1024",
+		"desc": "Evaluation and treatment by an integrated, specialty team contracted to provide coordinated care to multiple or severely handicapped children, per encounter"
+	},
+	{
+		"code": "S9150",
+		"desc": "Evaluation by ocularist"
+	},
+	{
+		"code": "G9156",
+		"desc": "Evaluation for wheelchair requiring face to face visit with physician"
+	},
+	{
+		"code": "D6941",
+		"desc": "Evans syndrome"
+	},
+	{
+		"code": "C1764",
+		"desc": "Event recorder, cardiac (implantable)"
+	},
+	{
+		"code": "J7527",
+		"desc": "Everolimus, oral, 0.25 mg"
+	},
+	{
+		"code": "H04523",
+		"desc": "Eversion of bilateral lacrimal punctum"
+	},
+	{
+		"code": "H04522",
+		"desc": "Eversion of left lacrimal punctum"
+	},
+	{
+		"code": "H04521",
+		"desc": "Eversion of right lacrimal punctum"
+	},
+	{
+		"code": "H04529",
+		"desc": "Eversion of unspecified lacrimal punctum"
+	},
+	{
+		"code": "M1227",
+		"desc": "Evidence-based therapy was prescribed"
+	},
+	{
+		"code": "B0821",
+		"desc": "Exanthema subitum [sixth disease] due to human herpesvirus 6"
+	},
+	{
+		"code": "B0822",
+		"desc": "Exanthema subitum [sixth disease] due to human herpesvirus 7"
+	},
+	{
+		"code": "B0820",
+		"desc": "Exanthema subitum [sixth disease], unspecified"
+	},
+	{
+		"code": "Q4149",
+		"desc": "Excellagen, 0.1 cc"
+	},
+	{
+		"code": "P080",
+		"desc": "Exceptionally large newborn baby"
+	},
+	{
+		"code": "Y630",
+		"desc": "Excessive amount of blood or other fluid given during transfusion or infusion"
+	},
+	{
+		"code": "N921",
+		"desc": "Excessive and frequent menstruation with irregular cycle"
+	},
+	{
+		"code": "N920",
+		"desc": "Excessive and frequent menstruation with regular cycle"
+	},
+	{
+		"code": "L987",
+		"desc": "Excessive and redundant skin and subcutaneous tissue"
+	},
+	{
+		"code": "K030",
+		"desc": "Excessive attrition of teeth"
+	},
+	{
+		"code": "N924",
+		"desc": "Excessive bleeding in the premenopausal period"
+	},
+	{
+		"code": "R4583",
+		"desc": "Excessive crying of child, adolescent or adult"
+	},
+	{
+		"code": "R6811",
+		"desc": "Excessive crying of infant (baby)"
+	},
+	{
+		"code": "M2623",
+		"desc": "Excessive horizontal overlap"
+	},
+	{
+		"code": "M2637",
+		"desc": "Excessive interocclusal distance of fully erupted teeth"
+	},
+	{
+		"code": "K1323",
+		"desc": "Excessive keratinized residual ridge mucosa"
+	},
+	{
+		"code": "N922",
+		"desc": "Excessive menstruation at puberty"
+	},
+	{
+		"code": "M2632",
+		"desc": "Excessive spacing of fully erupted teeth"
+	},
+	{
+		"code": "M2607",
+		"desc": "Excessive tuberosity of jaw"
+	},
+	{
+		"code": "O2601",
+		"desc": "Excessive weight gain in pregnancy, first trimester"
+	},
+	{
+		"code": "O2602",
+		"desc": "Excessive weight gain in pregnancy, second trimester"
+	},
+	{
+		"code": "O2603",
+		"desc": "Excessive weight gain in pregnancy, third trimester"
+	},
+	{
+		"code": "O2600",
+		"desc": "Excessive weight gain in pregnancy, unspecified trimester"
+	},
+	{
+		"code": "C7548",
+		"desc": "Exchange nephrostomy catheter, percutaneous, with ureteral stricture balloon dilation, including diagnostic nephrostogram and/or ureterogram when performed, imaging guidance (eg, ultrasound and/or fluoroscopy) and all associated radiological supervision and interpretation"
+	},
+	{
+		"code": "G8872",
+		"desc": "Excised tissue evaluated by imaging intraoperatively to confirm successful inclusion of targeted lesion\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G8874",
+		"desc": "Excised tissue not evaluated by imaging intraoperatively to confirm successful inclusion of targeted lesion\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "C7551",
+		"desc": "Excision of major peripheral nerve neuroma, except sciatic, with implantation of nerve end into bone or muscle"
+	},
+	{
+		"code": "F424",
+		"desc": "Excoriation (skin-picking) disorder"
+	},
+	{
+		"code": "S0156",
+		"desc": "Exemestane, 25 mg"
+	},
+	{
+		"code": "S9451",
+		"desc": "Exercise classes, non-physician provider, per session"
+	},
+	{
+		"code": "Z7182",
+		"desc": "Exercise counseling"
+	},
+	{
+		"code": "A9300",
+		"desc": "Exercise equipment"
+	},
+	{
+		"code": "J45990",
+		"desc": "Exercise induced bronchospasm"
+	},
+	{
+		"code": "L491",
+		"desc": "Exfoliation due to erythematous condition involving 10-19 percent of body surface"
+	},
+	{
+		"code": "L492",
+		"desc": "Exfoliation due to erythematous condition involving 20-29 percent of body surface"
+	},
+	{
+		"code": "L493",
+		"desc": "Exfoliation due to erythematous condition involving 30-39 percent of body surface"
+	},
+	{
+		"code": "L494",
+		"desc": "Exfoliation due to erythematous condition involving 40-49 percent of body surface"
+	},
+	{
+		"code": "L495",
+		"desc": "Exfoliation due to erythematous condition involving 50-59 percent of body surface"
+	},
+	{
+		"code": "L496",
+		"desc": "Exfoliation due to erythematous condition involving 60-69 percent of body surface"
+	},
+	{
+		"code": "L497",
+		"desc": "Exfoliation due to erythematous condition involving 70-79 percent of body surface"
+	},
+	{
+		"code": "L498",
+		"desc": "Exfoliation due to erythematous condition involving 80-89 percent of body surface"
+	},
+	{
+		"code": "L499",
+		"desc": "Exfoliation due to erythematous condition involving 90 or more percent of body surface"
+	},
+	{
+		"code": "L490",
+		"desc": "Exfoliation due to erythematous condition involving less than 10 percent of body surface"
+	},
+	{
+		"code": "K080",
+		"desc": "Exfoliation of teeth due to systemic causes"
+	},
+	{
+		"code": "L26",
+		"desc": "Exfoliative dermatitis"
+	},
+	{
+		"code": "A7045",
+		"desc": "Exhalation port with or without swivel used with accessories for positive airway devices, replacement only"
+	},
+	{
+		"code": "T733XXA",
+		"desc": "Exhaustion due to excessive exertion, initial encounter"
+	},
+	{
+		"code": "T733XXS",
+		"desc": "Exhaustion due to excessive exertion, sequela"
+	},
+	{
+		"code": "T733XXD",
+		"desc": "Exhaustion due to excessive exertion, subsequent encounter"
+	},
+	{
+		"code": "T732XXA",
+		"desc": "Exhaustion due to exposure, initial encounter"
+	},
+	{
+		"code": "T732XXS",
+		"desc": "Exhaustion due to exposure, sequela"
+	},
+	{
+		"code": "T732XXD",
+		"desc": "Exhaustion due to exposure, subsequent encounter"
+	},
+	{
+		"code": "F652",
+		"desc": "Exhibitionism"
+	},
+	{
+		"code": "Y92415",
+		"desc": "Exit ramp or entrance ramp of street or highway as the place of occurrence of the external cause"
+	},
+	{
+		"code": "K8681",
+		"desc": "Exocrine pancreatic insufficiency"
+	},
+	{
+		"code": "Q792",
+		"desc": "Exomphalos"
+	},
+	{
+		"code": "H5052",
+		"desc": "Exophoria"
+	},
+	{
+		"code": "H05353",
+		"desc": "Exostosis of bilateral orbits"
+	},
+	{
+		"code": "H61813",
+		"desc": "Exostosis of external canal, bilateral"
+	},
+	{
+		"code": "H61819",
+		"desc": "Exostosis of external canal, unspecified ear"
+	},
+	{
+		"code": "H61812",
+		"desc": "Exostosis of left external canal"
+	},
+	{
+		"code": "H05352",
+		"desc": "Exostosis of left orbit"
+	},
+	{
+		"code": "H61811",
+		"desc": "Exostosis of right external canal"
+	},
+	{
+		"code": "H05351",
+		"desc": "Exostosis of right orbit"
+	},
+	{
+		"code": "H05359",
+		"desc": "Exostosis of unspecified orbit"
+	},
+	{
+		"code": "Z7681",
+		"desc": "Expectant parent(s) prebirth pediatrician visit"
+	},
+	{
+		"code": "A7049",
+		"desc": "Expiratory positive airway pressure intranasal resistance valve"
+	},
+	{
+		"code": "W361XXA",
+		"desc": "Explosion and rupture of aerosol can, initial encounter"
+	},
+	{
+		"code": "W361XXS",
+		"desc": "Explosion and rupture of aerosol can, sequela"
+	},
+	{
+		"code": "W361XXD",
+		"desc": "Explosion and rupture of aerosol can, subsequent encounter"
+	},
+	{
+		"code": "W362XXA",
+		"desc": "Explosion and rupture of air tank, initial encounter"
+	},
+	{
+		"code": "W362XXS",
+		"desc": "Explosion and rupture of air tank, sequela"
+	},
+	{
+		"code": "W362XXD",
+		"desc": "Explosion and rupture of air tank, subsequent encounter"
+	},
+	{
+		"code": "W35XXXA",
+		"desc": "Explosion and rupture of boiler, initial encounter"
+	},
+	{
+		"code": "W35XXXS",
+		"desc": "Explosion and rupture of boiler, sequela"
+	},
+	{
+		"code": "W35XXXD",
+		"desc": "Explosion and rupture of boiler, subsequent encounter"
+	},
+	{
+		"code": "W368XXA",
+		"desc": "Explosion and rupture of other gas cylinder, initial encounter"
+	},
+	{
+		"code": "W368XXS",
+		"desc": "Explosion and rupture of other gas cylinder, sequela"
+	},
+	{
+		"code": "W368XXD",
+		"desc": "Explosion and rupture of other gas cylinder, subsequent encounter"
+	},
+	{
+		"code": "W378XXA",
+		"desc": "Explosion and rupture of other pressurized tire, pipe or hose, initial encounter"
+	},
+	{
+		"code": "W378XXS",
+		"desc": "Explosion and rupture of other pressurized tire, pipe or hose, sequela"
+	},
+	{
+		"code": "W378XXD",
+		"desc": "Explosion and rupture of other pressurized tire, pipe or hose, subsequent encounter"
+	},
+	{
+		"code": "W38XXXA",
+		"desc": "Explosion and rupture of other specified pressurized devices, initial encounter"
+	},
+	{
+		"code": "W38XXXS",
+		"desc": "Explosion and rupture of other specified pressurized devices, sequela"
+	},
+	{
+		"code": "W38XXXD",
+		"desc": "Explosion and rupture of other specified pressurized devices, subsequent encounter"
+	},
+	{
+		"code": "W363XXA",
+		"desc": "Explosion and rupture of pressurized-gas tank, initial encounter"
+	},
+	{
+		"code": "W363XXS",
+		"desc": "Explosion and rupture of pressurized-gas tank, sequela"
+	},
+	{
+		"code": "W363XXD",
+		"desc": "Explosion and rupture of pressurized-gas tank, subsequent encounter"
+	},
+	{
+		"code": "W369XXA",
+		"desc": "Explosion and rupture of unspecified gas cylinder, initial encounter"
+	},
+	{
+		"code": "W369XXS",
+		"desc": "Explosion and rupture of unspecified gas cylinder, sequela"
+	},
+	{
+		"code": "W369XXD",
+		"desc": "Explosion and rupture of unspecified gas cylinder, subsequent encounter"
+	},
+	{
+		"code": "W370XXA",
+		"desc": "Explosion of bicycle tire, initial encounter"
+	},
+	{
+		"code": "W370XXS",
+		"desc": "Explosion of bicycle tire, sequela"
+	},
+	{
+		"code": "W370XXD",
+		"desc": "Explosion of bicycle tire, subsequent encounter"
+	},
+	{
+		"code": "W400XXA",
+		"desc": "Explosion of blasting material, initial encounter"
+	},
+	{
+		"code": "W400XXS",
+		"desc": "Explosion of blasting material, sequela"
+	},
+	{
+		"code": "W400XXD",
+		"desc": "Explosion of blasting material, subsequent encounter"
+	},
+	{
+		"code": "Y36821A",
+		"desc": "Explosion of bomb placed during war operations but exploding after cessation of hostilities, civilian, initial encounter"
+	},
+	{
+		"code": "Y36821S",
+		"desc": "Explosion of bomb placed during war operations but exploding after cessation of hostilities, civilian, sequela"
+	},
+	{
+		"code": "Y36821D",
+		"desc": "Explosion of bomb placed during war operations but exploding after cessation of hostilities, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36820A",
+		"desc": "Explosion of bomb placed during war operations but exploding after cessation of hostilities, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36820S",
+		"desc": "Explosion of bomb placed during war operations but exploding after cessation of hostilities, military personnel, sequela"
+	},
+	{
+		"code": "Y36820D",
+		"desc": "Explosion of bomb placed during war operations but exploding after cessation of hostilities, military personnel, subsequent encounter"
+	},
+	{
+		"code": "W401XXA",
+		"desc": "Explosion of explosive gases, initial encounter"
+	},
+	{
+		"code": "W401XXS",
+		"desc": "Explosion of explosive gases, sequela"
+	},
+	{
+		"code": "W401XXD",
+		"desc": "Explosion of explosive gases, subsequent encounter"
+	},
+	{
+		"code": "Y36811A",
+		"desc": "Explosion of mine placed during war operations but exploding after cessation of hostilities, civilian, initial encounter"
+	},
+	{
+		"code": "Y36811S",
+		"desc": "Explosion of mine placed during war operations but exploding after cessation of hostilities, civilian, sequela"
+	},
+	{
+		"code": "Y36811D",
+		"desc": "Explosion of mine placed during war operations but exploding after cessation of hostilities, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36810A",
+		"desc": "Explosion of mine placed during war operations but exploding after cessation of hostilities, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36810S",
+		"desc": "Explosion of mine placed during war operations but exploding after cessation of hostilities, military personnel, sequela"
+	},
+	{
+		"code": "Y36810D",
+		"desc": "Explosion of mine placed during war operations but exploding after cessation of hostilities, military personnel, subsequent encounter"
+	},
+	{
+		"code": "W408XXA",
+		"desc": "Explosion of other specified explosive materials, initial encounter"
+	},
+	{
+		"code": "W408XXS",
+		"desc": "Explosion of other specified explosive materials, sequela"
+	},
+	{
+		"code": "W408XXD",
+		"desc": "Explosion of other specified explosive materials, subsequent encounter"
+	},
+	{
+		"code": "W409XXA",
+		"desc": "Explosion of unspecified explosive materials, initial encounter"
+	},
+	{
+		"code": "W409XXS",
+		"desc": "Explosion of unspecified explosive materials, sequela"
+	},
+	{
+		"code": "W409XXD",
+		"desc": "Explosion of unspecified explosive materials, subsequent encounter"
+	},
+	{
+		"code": "V9352XA",
+		"desc": "Explosion on board fishing boat, initial encounter"
+	},
+	{
+		"code": "V9352XS",
+		"desc": "Explosion on board fishing boat, sequela"
+	},
+	{
+		"code": "V9352XD",
+		"desc": "Explosion on board fishing boat, subsequent encounter"
+	},
+	{
+		"code": "V9350XA",
+		"desc": "Explosion on board merchant ship, initial encounter"
+	},
+	{
+		"code": "V9350XS",
+		"desc": "Explosion on board merchant ship, sequela"
+	},
+	{
+		"code": "V9350XD",
+		"desc": "Explosion on board merchant ship, subsequent encounter"
+	},
+	{
+		"code": "V9353XA",
+		"desc": "Explosion on board other powered watercraft, initial encounter"
+	},
+	{
+		"code": "V9353XS",
+		"desc": "Explosion on board other powered watercraft, sequela"
+	},
+	{
+		"code": "V9353XD",
+		"desc": "Explosion on board other powered watercraft, subsequent encounter"
+	},
+	{
+		"code": "V9351XA",
+		"desc": "Explosion on board passenger ship, initial encounter"
+	},
+	{
+		"code": "V9351XS",
+		"desc": "Explosion on board passenger ship, sequela"
+	},
+	{
+		"code": "V9351XD",
+		"desc": "Explosion on board passenger ship, subsequent encounter"
+	},
+	{
+		"code": "V9354XA",
+		"desc": "Explosion on board sailboat, initial encounter"
+	},
+	{
+		"code": "V9354XS",
+		"desc": "Explosion on board sailboat, sequela"
+	},
+	{
+		"code": "V9354XD",
+		"desc": "Explosion on board sailboat, subsequent encounter"
+	},
+	{
+		"code": "V9359XA",
+		"desc": "Explosion on board unspecified watercraft, initial encounter"
+	},
+	{
+		"code": "V9359XS",
+		"desc": "Explosion on board unspecified watercraft, sequela"
+	},
+	{
+		"code": "V9359XD",
+		"desc": "Explosion on board unspecified watercraft, subsequent encounter"
+	},
+	{
+		"code": "H16213",
+		"desc": "Exposure keratoconjunctivitis, bilateral"
+	},
+	{
+		"code": "H16212",
+		"desc": "Exposure keratoconjunctivitis, left eye"
+	},
+	{
+		"code": "H16211",
+		"desc": "Exposure keratoconjunctivitis, right eye"
+	},
+	{
+		"code": "H16219",
+		"desc": "Exposure keratoconjunctivitis, unspecified eye"
+	},
+	{
+		"code": "T8325XA",
+		"desc": "Exposure of graft of urinary organ, initial encounter"
+	},
+	{
+		"code": "T8325XS",
+		"desc": "Exposure of graft of urinary organ, sequela"
+	},
+	{
+		"code": "T8325XD",
+		"desc": "Exposure of graft of urinary organ, subsequent encounter"
+	},
+	{
+		"code": "T83724A",
+		"desc": "Exposure of implanted ureteral bulking agent into ureter, initial encounter"
+	},
+	{
+		"code": "T83724S",
+		"desc": "Exposure of implanted ureteral bulking agent into ureter, sequela"
+	},
+	{
+		"code": "T83724D",
+		"desc": "Exposure of implanted ureteral bulking agent into ureter, subsequent encounter"
+	},
+	{
+		"code": "T83723A",
+		"desc": "Exposure of implanted urethral bulking agent into urethra, initial encounter"
+	},
+	{
+		"code": "T83723S",
+		"desc": "Exposure of implanted urethral bulking agent into urethra, sequela"
+	},
+	{
+		"code": "T83723D",
+		"desc": "Exposure of implanted urethral bulking agent into urethra, subsequent encounter"
+	},
+	{
+		"code": "T83722A",
+		"desc": "Exposure of implanted urethral mesh into urethra, initial encounter"
+	},
+	{
+		"code": "T83722S",
+		"desc": "Exposure of implanted urethral mesh into urethra, sequela"
+	},
+	{
+		"code": "T83722D",
+		"desc": "Exposure of implanted urethral mesh into urethra, subsequent encounter"
+	},
+	{
+		"code": "T83721A",
+		"desc": "Exposure of implanted vaginal mesh into vagina, initial encounter"
+	},
+	{
+		"code": "T83721S",
+		"desc": "Exposure of implanted vaginal mesh into vagina, sequela"
+	},
+	{
+		"code": "T83721D",
+		"desc": "Exposure of implanted vaginal mesh into vagina, subsequent encounter"
+	},
+	{
+		"code": "T83728A",
+		"desc": "Exposure of other implanted mesh into organ or tissue, initial encounter"
+	},
+	{
+		"code": "T83728S",
+		"desc": "Exposure of other implanted mesh into organ or tissue, sequela"
+	},
+	{
+		"code": "T83728D",
+		"desc": "Exposure of other implanted mesh into organ or tissue, subsequent encounter"
+	},
+	{
+		"code": "T83729A",
+		"desc": "Exposure of other prosthetic materials into organ or tissue, initial encounter"
+	},
+	{
+		"code": "T83729S",
+		"desc": "Exposure of other prosthetic materials into organ or tissue, sequela"
+	},
+	{
+		"code": "T83729D",
+		"desc": "Exposure of other prosthetic materials into organ or tissue, subsequent encounter"
+	},
+	{
+		"code": "P9681",
+		"desc": "Exposure to (parental) (environmental) tobacco smoke in the perinatal period"
+	},
+	{
+		"code": "W880XXA",
+		"desc": "Exposure to X-rays, initial encounter"
+	},
+	{
+		"code": "W880XXS",
+		"desc": "Exposure to X-rays, sequela"
+	},
+	{
+		"code": "W880XXD",
+		"desc": "Exposure to X-rays, subsequent encounter"
+	},
+	{
+		"code": "X0801XA",
+		"desc": "Exposure to bed fire due to burning cigarette, initial encounter"
+	},
+	{
+		"code": "X0801XS",
+		"desc": "Exposure to bed fire due to burning cigarette, sequela"
+	},
+	{
+		"code": "X0801XD",
+		"desc": "Exposure to bed fire due to burning cigarette, subsequent encounter"
+	},
+	{
+		"code": "X0809XA",
+		"desc": "Exposure to bed fire due to other burning material, initial encounter"
+	},
+	{
+		"code": "X0809XS",
+		"desc": "Exposure to bed fire due to other burning material, sequela"
+	},
+	{
+		"code": "X0809XD",
+		"desc": "Exposure to bed fire due to other burning material, subsequent encounter"
+	},
+	{
+		"code": "X0800XA",
+		"desc": "Exposure to bed fire due to unspecified burning material, initial encounter"
+	},
+	{
+		"code": "X0800XS",
+		"desc": "Exposure to bed fire due to unspecified burning material, sequela"
+	},
+	{
+		"code": "X0800XD",
+		"desc": "Exposure to bed fire due to unspecified burning material, subsequent encounter"
+	},
+	{
+		"code": "Z655",
+		"desc": "Exposure to disaster, war and other hostilities"
+	},
+	{
+		"code": "W860XXA",
+		"desc": "Exposure to domestic wiring and appliances, initial encounter"
+	},
+	{
+		"code": "W860XXS",
+		"desc": "Exposure to domestic wiring and appliances, sequela"
+	},
+	{
+		"code": "W860XXD",
+		"desc": "Exposure to domestic wiring and appliances, subsequent encounter"
+	},
+	{
+		"code": "W85XXXA",
+		"desc": "Exposure to electric transmission lines, initial encounter"
+	},
+	{
+		"code": "W85XXXS",
+		"desc": "Exposure to electric transmission lines, sequela"
+	},
+	{
+		"code": "W85XXXD",
+		"desc": "Exposure to electric transmission lines, subsequent encounter"
+	},
+	{
+		"code": "W92XXXA",
+		"desc": "Exposure to excessive heat of man-made origin, initial encounter"
+	},
+	{
+		"code": "W92XXXS",
+		"desc": "Exposure to excessive heat of man-made origin, sequela"
+	},
+	{
+		"code": "W92XXXD",
+		"desc": "Exposure to excessive heat of man-made origin, subsequent encounter"
+	},
+	{
+		"code": "X31XXXA",
+		"desc": "Exposure to excessive natural cold, initial encounter"
+	},
+	{
+		"code": "X31XXXS",
+		"desc": "Exposure to excessive natural cold, sequela"
+	},
+	{
+		"code": "X31XXXD",
+		"desc": "Exposure to excessive natural cold, subsequent encounter"
+	},
+	{
+		"code": "X30XXXA",
+		"desc": "Exposure to excessive natural heat, initial encounter"
+	},
+	{
+		"code": "X30XXXS",
+		"desc": "Exposure to excessive natural heat, sequela"
+	},
+	{
+		"code": "X30XXXD",
+		"desc": "Exposure to excessive natural heat, subsequent encounter"
+	},
+	{
+		"code": "X020XXA",
+		"desc": "Exposure to flames in controlled fire in building or structure, initial encounter"
+	},
+	{
+		"code": "X020XXS",
+		"desc": "Exposure to flames in controlled fire in building or structure, sequela"
+	},
+	{
+		"code": "X020XXD",
+		"desc": "Exposure to flames in controlled fire in building or structure, subsequent encounter"
+	},
+	{
+		"code": "X030XXA",
+		"desc": "Exposure to flames in controlled fire, not in building or structure, initial encounter"
+	},
+	{
+		"code": "X030XXS",
+		"desc": "Exposure to flames in controlled fire, not in building or structure, sequela"
+	},
+	{
+		"code": "X030XXD",
+		"desc": "Exposure to flames in controlled fire, not in building or structure, subsequent encounter"
+	},
+	{
+		"code": "X000XXA",
+		"desc": "Exposure to flames in uncontrolled fire in building or structure, initial encounter"
+	},
+	{
+		"code": "X000XXS",
+		"desc": "Exposure to flames in uncontrolled fire in building or structure, sequela"
+	},
+	{
+		"code": "X000XXD",
+		"desc": "Exposure to flames in uncontrolled fire in building or structure, subsequent encounter"
+	},
+	{
+		"code": "X010XXA",
+		"desc": "Exposure to flames in uncontrolled fire, not in building or structure, initial encounter"
+	},
+	{
+		"code": "X010XXS",
+		"desc": "Exposure to flames in uncontrolled fire, not in building or structure, sequela"
+	},
+	{
+		"code": "X010XXD",
+		"desc": "Exposure to flames in uncontrolled fire, not in building or structure, subsequent encounter"
+	},
+	{
+		"code": "W9432XA",
+		"desc": "Exposure to high air pressure from rapid descent in water, initial encounter"
+	},
+	{
+		"code": "W9432XS",
+		"desc": "Exposure to high air pressure from rapid descent in water, sequela"
+	},
+	{
+		"code": "W9432XD",
+		"desc": "Exposure to high air pressure from rapid descent in water, subsequent encounter"
+	},
+	{
+		"code": "X04XXXA",
+		"desc": "Exposure to ignition of highly flammable material, initial encounter"
+	},
+	{
+		"code": "X04XXXS",
+		"desc": "Exposure to ignition of highly flammable material, sequela"
+	},
+	{
+		"code": "X04XXXD",
+		"desc": "Exposure to ignition of highly flammable material, subsequent encounter"
+	},
+	{
+		"code": "X062XXA",
+		"desc": "Exposure to ignition of other clothing and apparel, initial encounter"
+	},
+	{
+		"code": "X062XXS",
+		"desc": "Exposure to ignition of other clothing and apparel, sequela"
+	},
+	{
+		"code": "X062XXD",
+		"desc": "Exposure to ignition of other clothing and apparel, subsequent encounter"
+	},
+	{
+		"code": "X060XXA",
+		"desc": "Exposure to ignition of plastic jewelry, initial encounter"
+	},
+	{
+		"code": "X060XXS",
+		"desc": "Exposure to ignition of plastic jewelry, sequela"
+	},
+	{
+		"code": "X060XXD",
+		"desc": "Exposure to ignition of plastic jewelry, subsequent encounter"
+	},
+	{
+		"code": "X05XXXA",
+		"desc": "Exposure to ignition or melting of nightwear, initial encounter"
+	},
+	{
+		"code": "X05XXXS",
+		"desc": "Exposure to ignition or melting of nightwear, sequela"
+	},
+	{
+		"code": "X05XXXD",
+		"desc": "Exposure to ignition or melting of nightwear, subsequent encounter"
+	},
+	{
+		"code": "W861XXA",
+		"desc": "Exposure to industrial wiring, appliances and electrical machinery, initial encounter"
+	},
+	{
+		"code": "W861XXS",
+		"desc": "Exposure to industrial wiring, appliances and electrical machinery, sequela"
+	},
+	{
+		"code": "W861XXD",
+		"desc": "Exposure to industrial wiring, appliances and electrical machinery, subsequent encounter"
+	},
+	{
+		"code": "W901XXA",
+		"desc": "Exposure to infrared radiation, initial encounter"
+	},
+	{
+		"code": "W901XXS",
+		"desc": "Exposure to infrared radiation, sequela"
+	},
+	{
+		"code": "W901XXD",
+		"desc": "Exposure to infrared radiation, subsequent encounter"
+	},
+	{
+		"code": "W902XXA",
+		"desc": "Exposure to laser radiation, initial encounter"
+	},
+	{
+		"code": "W902XXS",
+		"desc": "Exposure to laser radiation, sequela"
+	},
+	{
+		"code": "W902XXD",
+		"desc": "Exposure to laser radiation, subsequent encounter"
+	},
+	{
+		"code": "X063XXA",
+		"desc": "Exposure to melting of other clothing and apparel, initial encounter"
+	},
+	{
+		"code": "X063XXS",
+		"desc": "Exposure to melting of other clothing and apparel, sequela"
+	},
+	{
+		"code": "X063XXD",
+		"desc": "Exposure to melting of other clothing and apparel, subsequent encounter"
+	},
+	{
+		"code": "X061XXA",
+		"desc": "Exposure to melting of plastic jewelry, initial encounter"
+	},
+	{
+		"code": "X061XXS",
+		"desc": "Exposure to melting of plastic jewelry, sequela"
+	},
+	{
+		"code": "X061XXD",
+		"desc": "Exposure to melting of plastic jewelry, subsequent encounter"
+	},
+	{
+		"code": "W64XXXA",
+		"desc": "Exposure to other animate mechanical forces, initial encounter"
+	},
+	{
+		"code": "W64XXXS",
+		"desc": "Exposure to other animate mechanical forces, sequela"
+	},
+	{
+		"code": "W64XXXD",
+		"desc": "Exposure to other animate mechanical forces, subsequent encounter"
+	},
+	{
+		"code": "W868XXA",
+		"desc": "Exposure to other electric current, initial encounter"
+	},
+	{
+		"code": "W868XXS",
+		"desc": "Exposure to other electric current, sequela"
+	},
+	{
+		"code": "W868XXD",
+		"desc": "Exposure to other electric current, subsequent encounter"
+	},
+	{
+		"code": "W938XXA",
+		"desc": "Exposure to other excessive cold of man-made origin, initial encounter"
+	},
+	{
+		"code": "W938XXS",
+		"desc": "Exposure to other excessive cold of man-made origin, sequela"
+	},
+	{
+		"code": "W938XXD",
+		"desc": "Exposure to other excessive cold of man-made origin, subsequent encounter"
+	},
+	{
+		"code": "X0821XA",
+		"desc": "Exposure to other furniture fire due to burning cigarette, initial encounter"
+	},
+	{
+		"code": "X0821XS",
+		"desc": "Exposure to other furniture fire due to burning cigarette, sequela"
+	},
+	{
+		"code": "X0821XD",
+		"desc": "Exposure to other furniture fire due to burning cigarette, subsequent encounter"
+	},
+	{
+		"code": "X0829XA",
+		"desc": "Exposure to other furniture fire due to other burning material, initial encounter"
+	},
+	{
+		"code": "X0829XS",
+		"desc": "Exposure to other furniture fire due to other burning material, sequela"
+	},
+	{
+		"code": "X0829XD",
+		"desc": "Exposure to other furniture fire due to other burning material, subsequent encounter"
+	},
+	{
+		"code": "X0820XA",
+		"desc": "Exposure to other furniture fire due to unspecified burning material, initial encounter"
+	},
+	{
+		"code": "X0820XS",
+		"desc": "Exposure to other furniture fire due to unspecified burning material, sequela"
+	},
+	{
+		"code": "X0820XD",
+		"desc": "Exposure to other furniture fire due to unspecified burning material, subsequent encounter"
+	},
+	{
+		"code": "W499XXA",
+		"desc": "Exposure to other inanimate mechanical forces, initial encounter"
+	},
+	{
+		"code": "W499XXS",
+		"desc": "Exposure to other inanimate mechanical forces, sequela"
+	},
+	{
+		"code": "W499XXD",
+		"desc": "Exposure to other inanimate mechanical forces, subsequent encounter"
+	},
+	{
+		"code": "W888XXA",
+		"desc": "Exposure to other ionizing radiation, initial encounter"
+	},
+	{
+		"code": "W888XXS",
+		"desc": "Exposure to other ionizing radiation, sequela"
+	},
+	{
+		"code": "W888XXD",
+		"desc": "Exposure to other ionizing radiation, subsequent encounter"
+	},
+	{
+		"code": "W99XXXA",
+		"desc": "Exposure to other man-made environmental factors, initial encounter"
+	},
+	{
+		"code": "W99XXXS",
+		"desc": "Exposure to other man-made environmental factors, sequela"
+	},
+	{
+		"code": "W99XXXD",
+		"desc": "Exposure to other man-made environmental factors, subsequent encounter"
+	},
+	{
+		"code": "W898XXA",
+		"desc": "Exposure to other man-made visible and ultraviolet light, initial encounter"
+	},
+	{
+		"code": "W898XXS",
+		"desc": "Exposure to other man-made visible and ultraviolet light, sequela"
+	},
+	{
+		"code": "W898XXD",
+		"desc": "Exposure to other man-made visible and ultraviolet light, subsequent encounter"
+	},
+	{
+		"code": "X3908XA",
+		"desc": "Exposure to other natural radiation, initial encounter"
+	},
+	{
+		"code": "X3908XS",
+		"desc": "Exposure to other natural radiation, sequela"
+	},
+	{
+		"code": "X3908XD",
+		"desc": "Exposure to other natural radiation, subsequent encounter"
+	},
+	{
+		"code": "W429XXA",
+		"desc": "Exposure to other noise, initial encounter"
+	},
+	{
+		"code": "W429XXS",
+		"desc": "Exposure to other noise, sequela"
+	},
+	{
+		"code": "W429XXD",
+		"desc": "Exposure to other noise, subsequent encounter"
+	},
+	{
+		"code": "W908XXA",
+		"desc": "Exposure to other nonionizing radiation, initial encounter"
+	},
+	{
+		"code": "W908XXS",
+		"desc": "Exposure to other nonionizing radiation, sequela"
+	},
+	{
+		"code": "W908XXD",
+		"desc": "Exposure to other nonionizing radiation, subsequent encounter"
+	},
+	{
+		"code": "W9412XA",
+		"desc": "Exposure to other prolonged low air pressure, initial encounter"
+	},
+	{
+		"code": "W9412XS",
+		"desc": "Exposure to other prolonged low air pressure, sequela"
+	},
+	{
+		"code": "W9412XD",
+		"desc": "Exposure to other prolonged low air pressure, subsequent encounter"
+	},
+	{
+		"code": "W9429XA",
+		"desc": "Exposure to other rapid changes in air pressure during ascent, initial encounter"
+	},
+	{
+		"code": "W9429XS",
+		"desc": "Exposure to other rapid changes in air pressure during ascent, sequela"
+	},
+	{
+		"code": "W9429XD",
+		"desc": "Exposure to other rapid changes in air pressure during ascent, subsequent encounter"
+	},
+	{
+		"code": "W9439XA",
+		"desc": "Exposure to other rapid changes in air pressure during descent, initial encounter"
+	},
+	{
+		"code": "W9439XS",
+		"desc": "Exposure to other rapid changes in air pressure during descent, sequela"
+	},
+	{
+		"code": "W9439XD",
+		"desc": "Exposure to other rapid changes in air pressure during descent, subsequent encounter"
+	},
+	{
+		"code": "X58XXXA",
+		"desc": "Exposure to other specified factors, initial encounter"
+	},
+	{
+		"code": "X58XXXS",
+		"desc": "Exposure to other specified factors, sequela"
+	},
+	{
+		"code": "X58XXXD",
+		"desc": "Exposure to other specified factors, subsequent encounter"
+	},
+	{
+		"code": "X088XXA",
+		"desc": "Exposure to other specified smoke, fire and flames, initial encounter"
+	},
+	{
+		"code": "X088XXS",
+		"desc": "Exposure to other specified smoke, fire and flames, sequela"
+	},
+	{
+		"code": "X088XXD",
+		"desc": "Exposure to other specified smoke, fire and flames, subsequent encounter"
+	},
+	{
+		"code": "W940XXA",
+		"desc": "Exposure to prolonged high air pressure, initial encounter"
+	},
+	{
+		"code": "W940XXS",
+		"desc": "Exposure to prolonged high air pressure, sequela"
+	},
+	{
+		"code": "W940XXD",
+		"desc": "Exposure to prolonged high air pressure, subsequent encounter"
+	},
+	{
+		"code": "W881XXA",
+		"desc": "Exposure to radioactive isotopes, initial encounter"
+	},
+	{
+		"code": "W881XXS",
+		"desc": "Exposure to radioactive isotopes, sequela"
+	},
+	{
+		"code": "W881XXD",
+		"desc": "Exposure to radioactive isotopes, subsequent encounter"
+	},
+	{
+		"code": "W900XXA",
+		"desc": "Exposure to radiofrequency, initial encounter"
+	},
+	{
+		"code": "W900XXS",
+		"desc": "Exposure to radiofrequency, sequela"
+	},
+	{
+		"code": "W900XXD",
+		"desc": "Exposure to radiofrequency, subsequent encounter"
+	},
+	{
+		"code": "X3901XA",
+		"desc": "Exposure to radon, initial encounter"
+	},
+	{
+		"code": "X3901XS",
+		"desc": "Exposure to radon, sequela"
+	},
+	{
+		"code": "X3901XD",
+		"desc": "Exposure to radon, subsequent encounter"
+	},
+	{
+		"code": "W9421XA",
+		"desc": "Exposure to reduction in atmospheric pressure while surfacing from deep-water diving, initial encounter"
+	},
+	{
+		"code": "W9421XS",
+		"desc": "Exposure to reduction in atmospheric pressure while surfacing from deep-water diving, sequela"
+	},
+	{
+		"code": "W9421XD",
+		"desc": "Exposure to reduction in atmospheric pressure while surfacing from deep-water diving, subsequent encounter"
+	},
+	{
+		"code": "W9422XA",
+		"desc": "Exposure to reduction in atmospheric pressure while surfacing from underground, initial encounter"
+	},
+	{
+		"code": "W9422XS",
+		"desc": "Exposure to reduction in atmospheric pressure while surfacing from underground, sequela"
+	},
+	{
+		"code": "W9422XD",
+		"desc": "Exposure to reduction in atmospheric pressure while surfacing from underground, subsequent encounter"
+	},
+	{
+		"code": "W9411XA",
+		"desc": "Exposure to residence or prolonged visit at high altitude, initial encounter"
+	},
+	{
+		"code": "W9411XS",
+		"desc": "Exposure to residence or prolonged visit at high altitude, sequela"
+	},
+	{
+		"code": "W9411XD",
+		"desc": "Exposure to residence or prolonged visit at high altitude, subsequent encounter"
+	},
+	{
+		"code": "X021XXA",
+		"desc": "Exposure to smoke in controlled fire in building or structure, initial encounter"
+	},
+	{
+		"code": "X021XXS",
+		"desc": "Exposure to smoke in controlled fire in building or structure, sequela"
+	},
+	{
+		"code": "X021XXD",
+		"desc": "Exposure to smoke in controlled fire in building or structure, subsequent encounter"
+	},
+	{
+		"code": "X031XXA",
+		"desc": "Exposure to smoke in controlled fire, not in building or structure, initial encounter"
+	},
+	{
+		"code": "X031XXS",
+		"desc": "Exposure to smoke in controlled fire, not in building or structure, sequela"
+	},
+	{
+		"code": "X031XXD",
+		"desc": "Exposure to smoke in controlled fire, not in building or structure, subsequent encounter"
+	},
+	{
+		"code": "X001XXA",
+		"desc": "Exposure to smoke in uncontrolled fire in building or structure, initial encounter"
+	},
+	{
+		"code": "X001XXS",
+		"desc": "Exposure to smoke in uncontrolled fire in building or structure, sequela"
+	},
+	{
+		"code": "X001XXD",
+		"desc": "Exposure to smoke in uncontrolled fire in building or structure, subsequent encounter"
+	},
+	{
+		"code": "X011XXA",
+		"desc": "Exposure to smoke in uncontrolled fire, not in building or structure, initial encounter"
+	},
+	{
+		"code": "X011XXS",
+		"desc": "Exposure to smoke in uncontrolled fire, not in building or structure, sequela"
+	},
+	{
+		"code": "X011XXD",
+		"desc": "Exposure to smoke in uncontrolled fire, not in building or structure, subsequent encounter"
+	},
+	{
+		"code": "Y26XXXA",
+		"desc": "Exposure to smoke, fire and flames, undetermined intent, initial encounter"
+	},
+	{
+		"code": "Y26XXXS",
+		"desc": "Exposure to smoke, fire and flames, undetermined intent, sequela"
+	},
+	{
+		"code": "Y26XXXD",
+		"desc": "Exposure to smoke, fire and flames, undetermined intent, subsequent encounter"
+	},
+	{
+		"code": "X0811XA",
+		"desc": "Exposure to sofa fire due to burning cigarette, initial encounter"
+	},
+	{
+		"code": "X0811XS",
+		"desc": "Exposure to sofa fire due to burning cigarette, sequela"
+	},
+	{
+		"code": "X0811XD",
+		"desc": "Exposure to sofa fire due to burning cigarette, subsequent encounter"
+	},
+	{
+		"code": "X0819XA",
+		"desc": "Exposure to sofa fire due to other burning material, initial encounter"
+	},
+	{
+		"code": "X0819XS",
+		"desc": "Exposure to sofa fire due to other burning material, sequela"
+	},
+	{
+		"code": "X0819XD",
+		"desc": "Exposure to sofa fire due to other burning material, subsequent encounter"
+	},
+	{
+		"code": "X0810XA",
+		"desc": "Exposure to sofa fire due to unspecified burning material, initial encounter"
+	},
+	{
+		"code": "X0810XS",
+		"desc": "Exposure to sofa fire due to unspecified burning material, sequela"
+	},
+	{
+		"code": "X0810XD",
+		"desc": "Exposure to sofa fire due to unspecified burning material, subsequent encounter"
+	},
+	{
+		"code": "W9423XA",
+		"desc": "Exposure to sudden change in air pressure in aircraft during ascent, initial encounter"
+	},
+	{
+		"code": "W9423XS",
+		"desc": "Exposure to sudden change in air pressure in aircraft during ascent, sequela"
+	},
+	{
+		"code": "W9423XD",
+		"desc": "Exposure to sudden change in air pressure in aircraft during ascent, subsequent encounter"
+	},
+	{
+		"code": "W9431XA",
+		"desc": "Exposure to sudden change in air pressure in aircraft during descent, initial encounter"
+	},
+	{
+		"code": "W9431XS",
+		"desc": "Exposure to sudden change in air pressure in aircraft during descent, sequela"
+	},
+	{
+		"code": "W9431XD",
+		"desc": "Exposure to sudden change in air pressure in aircraft during descent, subsequent encounter"
+	},
+	{
+		"code": "X32XXXA",
+		"desc": "Exposure to sunlight, initial encounter"
+	},
+	{
+		"code": "X32XXXS",
+		"desc": "Exposure to sunlight, sequela"
+	},
+	{
+		"code": "X32XXXD",
+		"desc": "Exposure to sunlight, subsequent encounter"
+	},
+	{
+		"code": "W420XXA",
+		"desc": "Exposure to supersonic waves, initial encounter"
+	},
+	{
+		"code": "W420XXS",
+		"desc": "Exposure to supersonic waves, sequela"
+	},
+	{
+		"code": "W420XXD",
+		"desc": "Exposure to supersonic waves, subsequent encounter"
+	},
+	{
+		"code": "W891XXA",
+		"desc": "Exposure to tanning bed, initial encounter"
+	},
+	{
+		"code": "W891XXS",
+		"desc": "Exposure to tanning bed, sequela"
+	},
+	{
+		"code": "W891XXD",
+		"desc": "Exposure to tanning bed, subsequent encounter"
+	},
+	{
+		"code": "W899XXA",
+		"desc": "Exposure to unspecified man-made visible and ultraviolet light, initial encounter"
+	},
+	{
+		"code": "W899XXS",
+		"desc": "Exposure to unspecified man-made visible and ultraviolet light, sequela"
+	},
+	{
+		"code": "W899XXD",
+		"desc": "Exposure to unspecified man-made visible and ultraviolet light, subsequent encounter"
+	},
+	{
+		"code": "W890XXA",
+		"desc": "Exposure to welding light (arc), initial encounter"
+	},
+	{
+		"code": "W890XXS",
+		"desc": "Exposure to welding light (arc), sequela"
+	},
+	{
+		"code": "W890XXD",
+		"desc": "Exposure to welding light (arc), subsequent encounter"
+	},
+	{
+		"code": "F801",
+		"desc": "Expressive language disorder"
+	},
+	{
+		"code": "H31313",
+		"desc": "Expulsive choroidal hemorrhage, bilateral"
+	},
+	{
+		"code": "H31312",
+		"desc": "Expulsive choroidal hemorrhage, left eye"
+	},
+	{
+		"code": "H31311",
+		"desc": "Expulsive choroidal hemorrhage, right eye"
+	},
+	{
+		"code": "H31319",
+		"desc": "Expulsive choroidal hemorrhage, unspecified eye"
+	},
+	{
+		"code": "Q6410",
+		"desc": "Exstrophy of urinary bladder, unspecified"
+	},
+	{
+		"code": "A4468",
+		"desc": "Exsufflation belt, includes all supplies and accessories"
+	},
+	{
+		"code": "K1021",
+		"desc": "Exsufflation belt, includes all supplies and accessories\n                                    \n                                        \n                                        Terminated December 31, 2023."
+	},
+	{
+		"code": "Z1612",
+		"desc": "Extended spectrum beta lactamase (ESBL) resistance"
+	},
+	{
+		"code": "A4331",
+		"desc": "Extension drainage tubing, any type, any length, with connector/adaptor, for use with urinary leg bag or urostomy pouch, each"
+	},
+	{
+		"code": "A4673",
+		"desc": "Extension line with easy lock connectors, used with dialysis"
+	},
+	{
+		"code": "G0080",
+		"desc": "Extensive (75 minutes) care management home visit for a new patient. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility)"
+	},
+	{
+		"code": "G0085",
+		"desc": "Extensive (75 minutes) care management home visit for an existing patient. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility)"
+	},
+	{
+		"code": "G2005",
+		"desc": "Extensive (75 minutes) in-home visit for a new patient post-discharge. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility within 90 days following discharge from an inpatient facility and no more than 9 times.)"
+	},
+	{
+		"code": "G2013",
+		"desc": "Extensive (75 minutes) in-home visit for an existing patient post-discharge. for use only in a medicare-approved cmmi model. (services must be furnished within a beneficiary's home, domiciliary, rest home, assisted living and/or nursing facility within 90 days following discharge from an inpatient facility and no more than 9 times.)"
+	},
+	{
+		"code": "E0784",
+		"desc": "External ambulatory infusion pump, insulin"
+	},
+	{
+		"code": "E0787",
+		"desc": "External ambulatory infusion pump, insulin, dosage rate adjustment using therapeutic continuous glucose sensing"
+	},
+	{
+		"code": "A9274",
+		"desc": "External ambulatory insulin delivery system, disposable, each, includes all supplies and accessories"
+	},
+	{
+		"code": "L8015",
+		"desc": "External breast prosthesis garment, with mastectomy form, post mastectomy"
+	},
+	{
+		"code": "S30841A",
+		"desc": "External constriction of abdominal wall, initial encounter"
+	},
+	{
+		"code": "S30841S",
+		"desc": "External constriction of abdominal wall, sequela"
+	},
+	{
+		"code": "S30841D",
+		"desc": "External constriction of abdominal wall, subsequent encounter"
+	},
+	{
+		"code": "S20442A",
+		"desc": "External constriction of left back wall of thorax, initial encounter"
+	},
+	{
+		"code": "S20442S",
+		"desc": "External constriction of left back wall of thorax, sequela"
+	},
+	{
+		"code": "S20442D",
+		"desc": "External constriction of left back wall of thorax, subsequent encounter"
+	},
+	{
+		"code": "S00442A",
+		"desc": "External constriction of left ear, initial encounter"
+	},
+	{
+		"code": "S00442S",
+		"desc": "External constriction of left ear, sequela"
+	},
+	{
+		"code": "S00442D",
+		"desc": "External constriction of left ear, subsequent encounter"
+	},
+	{
+		"code": "S50342A",
+		"desc": "External constriction of left elbow, initial encounter"
+	},
+	{
+		"code": "S50342S",
+		"desc": "External constriction of left elbow, sequela"
+	},
+	{
+		"code": "S50342D",
+		"desc": "External constriction of left elbow, subsequent encounter"
+	},
+	{
+		"code": "S00242A",
+		"desc": "External constriction of left eyelid and periocular area, initial encounter"
+	},
+	{
+		"code": "S00242S",
+		"desc": "External constriction of left eyelid and periocular area, sequela"
+	},
+	{
+		"code": "S00242D",
+		"desc": "External constriction of left eyelid and periocular area, subsequent encounter"
+	},
+	{
+		"code": "S50842A",
+		"desc": "External constriction of left forearm, initial encounter"
+	},
+	{
+		"code": "S50842S",
+		"desc": "External constriction of left forearm, sequela"
+	},
+	{
+		"code": "S50842D",
+		"desc": "External constriction of left forearm, subsequent encounter"
+	},
+	{
+		"code": "S20342A",
+		"desc": "External constriction of left front wall of thorax, initial encounter"
+	},
+	{
+		"code": "S20342S",
+		"desc": "External constriction of left front wall of thorax, sequela"
+	},
+	{
+		"code": "S20342D",
+		"desc": "External constriction of left front wall of thorax, subsequent encounter"
+	},
+	{
+		"code": "S60542A",
+		"desc": "External constriction of left hand, initial encounter"
+	},
+	{
+		"code": "S60542S",
+		"desc": "External constriction of left hand, sequela"
+	},
+	{
+		"code": "S60542D",
+		"desc": "External constriction of left hand, subsequent encounter"
+	},
+	{
+		"code": "S60441A",
+		"desc": "External constriction of left index finger, initial encounter"
+	},
+	{
+		"code": "S60441S",
+		"desc": "External constriction of left index finger, sequela"
+	},
+	{
+		"code": "S60441D",
+		"desc": "External constriction of left index finger, subsequent encounter"
+	},
+	{
+		"code": "S60447A",
+		"desc": "External constriction of left little finger, initial encounter"
+	},
+	{
+		"code": "S60447S",
+		"desc": "External constriction of left little finger, sequela"
+	},
+	{
+		"code": "S60447D",
+		"desc": "External constriction of left little finger, subsequent encounter"
+	},
+	{
+		"code": "S60443A",
+		"desc": "External constriction of left middle finger, initial encounter"
+	},
+	{
+		"code": "S60443S",
+		"desc": "External constriction of left middle finger, sequela"
+	},
+	{
+		"code": "S60443D",
+		"desc": "External constriction of left middle finger, subsequent encounter"
+	},
+	{
+		"code": "S60445A",
+		"desc": "External constriction of left ring finger, initial encounter"
+	},
+	{
+		"code": "S60445S",
+		"desc": "External constriction of left ring finger, sequela"
+	},
+	{
+		"code": "S60445D",
+		"desc": "External constriction of left ring finger, subsequent encounter"
+	},
+	{
+		"code": "S40242A",
+		"desc": "External constriction of left shoulder, initial encounter"
+	},
+	{
+		"code": "S40242S",
+		"desc": "External constriction of left shoulder, sequela"
+	},
+	{
+		"code": "S40242D",
+		"desc": "External constriction of left shoulder, subsequent encounter"
+	},
+	{
+		"code": "S60342A",
+		"desc": "External constriction of left thumb, initial encounter"
+	},
+	{
+		"code": "S60342S",
+		"desc": "External constriction of left thumb, sequela"
+	},
+	{
+		"code": "S60342D",
+		"desc": "External constriction of left thumb, subsequent encounter"
+	},
+	{
+		"code": "S40842A",
+		"desc": "External constriction of left upper arm, initial encounter"
+	},
+	{
+		"code": "S40842S",
+		"desc": "External constriction of left upper arm, sequela"
+	},
+	{
+		"code": "S40842D",
+		"desc": "External constriction of left upper arm, subsequent encounter"
+	},
+	{
+		"code": "S60842A",
+		"desc": "External constriction of left wrist, initial encounter"
+	},
+	{
+		"code": "S60842S",
+		"desc": "External constriction of left wrist, sequela"
+	},
+	{
+		"code": "S60842D",
+		"desc": "External constriction of left wrist, subsequent encounter"
+	},
+	{
+		"code": "S00541A",
+		"desc": "External constriction of lip, initial encounter"
+	},
+	{
+		"code": "S00541S",
+		"desc": "External constriction of lip, sequela"
+	},
+	{
+		"code": "S00541D",
+		"desc": "External constriction of lip, subsequent encounter"
+	},
+	{
+		"code": "S30840A",
+		"desc": "External constriction of lower back and pelvis, initial encounter"
+	},
+	{
+		"code": "S30840S",
+		"desc": "External constriction of lower back and pelvis, sequela"
+	},
+	{
+		"code": "S30840D",
+		"desc": "External constriction of lower back and pelvis, subsequent encounter"
+	},
+	{
+		"code": "S0034XA",
+		"desc": "External constriction of nose, initial encounter"
+	},
+	{
+		"code": "S0034XS",
+		"desc": "External constriction of nose, sequela"
+	},
+	{
+		"code": "S0034XD",
+		"desc": "External constriction of nose, subsequent encounter"
+	},
+	{
+		"code": "S00542A",
+		"desc": "External constriction of oral cavity, initial encounter"
+	},
+	{
+		"code": "S00542S",
+		"desc": "External constriction of oral cavity, sequela"
+	},
+	{
+		"code": "S00542D",
+		"desc": "External constriction of oral cavity, subsequent encounter"
+	},
+	{
+		"code": "S60448A",
+		"desc": "External constriction of other finger, initial encounter"
+	},
+	{
+		"code": "S60448S",
+		"desc": "External constriction of other finger, sequela"
+	},
+	{
+		"code": "S60448D",
+		"desc": "External constriction of other finger, subsequent encounter"
+	},
+	{
+		"code": "S0084XA",
+		"desc": "External constriction of other part of head, initial encounter"
+	},
+	{
+		"code": "S0084XS",
+		"desc": "External constriction of other part of head, sequela"
+	},
+	{
+		"code": "S0084XD",
+		"desc": "External constriction of other part of head, subsequent encounter"
+	},
+	{
+		"code": "S1084XA",
+		"desc": "External constriction of other specified part of neck, initial encounter"
+	},
+	{
+		"code": "S1084XS",
+		"desc": "External constriction of other specified part of neck, sequela"
+	},
+	{
+		"code": "S1084XD",
+		"desc": "External constriction of other specified part of neck, subsequent encounter"
+	},
+	{
+		"code": "S20142A",
+		"desc": "External constriction of part of breast, left breast, initial encounter"
+	},
+	{
+		"code": "S20142S",
+		"desc": "External constriction of part of breast, left breast, sequela"
+	},
+	{
+		"code": "S20142D",
+		"desc": "External constriction of part of breast, left breast, subsequent encounter"
+	},
+	{
+		"code": "S20141A",
+		"desc": "External constriction of part of breast, right breast, initial encounter"
+	},
+	{
+		"code": "S20141S",
+		"desc": "External constriction of part of breast, right breast, sequela"
+	},
+	{
+		"code": "S20141D",
+		"desc": "External constriction of part of breast, right breast, subsequent encounter"
+	},
+	{
+		"code": "S20149A",
+		"desc": "External constriction of part of breast, unspecified breast, initial encounter"
+	},
+	{
+		"code": "S20149S",
+		"desc": "External constriction of part of breast, unspecified breast, sequela"
+	},
+	{
+		"code": "S20149D",
+		"desc": "External constriction of part of breast, unspecified breast, subsequent encounter"
+	},
+	{
+		"code": "S0004XA",
+		"desc": "External constriction of part of scalp, initial encounter"
+	},
+	{
+		"code": "S0004XS",
+		"desc": "External constriction of part of scalp, sequela"
+	},
+	{
+		"code": "S0004XD",
+		"desc": "External constriction of part of scalp, subsequent encounter"
+	},
+	{
+		"code": "S1014XA",
+		"desc": "External constriction of part of throat, initial encounter"
+	},
+	{
+		"code": "S1014XS",
+		"desc": "External constriction of part of throat, sequela"
+	},
+	{
+		"code": "S1014XD",
+		"desc": "External constriction of part of throat, subsequent encounter"
+	},
+	{
+		"code": "S30842A",
+		"desc": "External constriction of penis, initial encounter"
+	},
+	{
+		"code": "S30842S",
+		"desc": "External constriction of penis, sequela"
+	},
+	{
+		"code": "S30842D",
+		"desc": "External constriction of penis, subsequent encounter"
+	},
+	{
+		"code": "S20441A",
+		"desc": "External constriction of right back wall of thorax, initial encounter"
+	},
+	{
+		"code": "S20441S",
+		"desc": "External constriction of right back wall of thorax, sequela"
+	},
+	{
+		"code": "S20441D",
+		"desc": "External constriction of right back wall of thorax, subsequent encounter"
+	},
+	{
+		"code": "S00441A",
+		"desc": "External constriction of right ear, initial encounter"
+	},
+	{
+		"code": "S00441S",
+		"desc": "External constriction of right ear, sequela"
+	},
+	{
+		"code": "S00441D",
+		"desc": "External constriction of right ear, subsequent encounter"
+	},
+	{
+		"code": "S50341A",
+		"desc": "External constriction of right elbow, initial encounter"
+	},
+	{
+		"code": "S50341S",
+		"desc": "External constriction of right elbow, sequela"
+	},
+	{
+		"code": "S50341D",
+		"desc": "External constriction of right elbow, subsequent encounter"
+	},
+	{
+		"code": "S00241A",
+		"desc": "External constriction of right eyelid and periocular area, initial encounter"
+	},
+	{
+		"code": "S00241S",
+		"desc": "External constriction of right eyelid and periocular area, sequela"
+	},
+	{
+		"code": "S00241D",
+		"desc": "External constriction of right eyelid and periocular area, subsequent encounter"
+	},
+	{
+		"code": "S50841A",
+		"desc": "External constriction of right forearm, initial encounter"
+	},
+	{
+		"code": "S50841S",
+		"desc": "External constriction of right forearm, sequela"
+	},
+	{
+		"code": "S50841D",
+		"desc": "External constriction of right forearm, subsequent encounter"
+	},
+	{
+		"code": "S20341A",
+		"desc": "External constriction of right front wall of thorax, initial encounter"
+	},
+	{
+		"code": "S20341S",
+		"desc": "External constriction of right front wall of thorax, sequela"
+	},
+	{
+		"code": "S20341D",
+		"desc": "External constriction of right front wall of thorax, subsequent encounter"
+	},
+	{
+		"code": "S60541A",
+		"desc": "External constriction of right hand, initial encounter"
+	},
+	{
+		"code": "S60541S",
+		"desc": "External constriction of right hand, sequela"
+	},
+	{
+		"code": "S60541D",
+		"desc": "External constriction of right hand, subsequent encounter"
+	},
+	{
+		"code": "S60440A",
+		"desc": "External constriction of right index finger, initial encounter"
+	},
+	{
+		"code": "S60440S",
+		"desc": "External constriction of right index finger, sequela"
+	},
+	{
+		"code": "S60440D",
+		"desc": "External constriction of right index finger, subsequent encounter"
+	},
+	{
+		"code": "S60446A",
+		"desc": "External constriction of right little finger, initial encounter"
+	},
+	{
+		"code": "S60446S",
+		"desc": "External constriction of right little finger, sequela"
+	},
+	{
+		"code": "S60446D",
+		"desc": "External constriction of right little finger, subsequent encounter"
+	},
+	{
+		"code": "S60442A",
+		"desc": "External constriction of right middle finger, initial encounter"
+	},
+	{
+		"code": "S60442S",
+		"desc": "External constriction of right middle finger, sequela"
+	},
+	{
+		"code": "S60442D",
+		"desc": "External constriction of right middle finger, subsequent encounter"
+	},
+	{
+		"code": "S60444A",
+		"desc": "External constriction of right ring finger, initial encounter"
+	},
+	{
+		"code": "S60444S",
+		"desc": "External constriction of right ring finger, sequela"
+	},
+	{
+		"code": "S60444D",
+		"desc": "External constriction of right ring finger, subsequent encounter"
+	},
+	{
+		"code": "S40241A",
+		"desc": "External constriction of right shoulder, initial encounter"
+	},
+	{
+		"code": "S40241S",
+		"desc": "External constriction of right shoulder, sequela"
+	},
+	{
+		"code": "S40241D",
+		"desc": "External constriction of right shoulder, subsequent encounter"
+	},
+	{
+		"code": "S60341A",
+		"desc": "External constriction of right thumb, initial encounter"
+	},
+	{
+		"code": "S60341S",
+		"desc": "External constriction of right thumb, sequela"
+	},
+	{
+		"code": "S60341D",
+		"desc": "External constriction of right thumb, subsequent encounter"
+	},
+	{
+		"code": "S40841A",
+		"desc": "External constriction of right upper arm, initial encounter"
+	},
+	{
+		"code": "S40841S",
+		"desc": "External constriction of right upper arm, sequela"
+	},
+	{
+		"code": "S40841D",
+		"desc": "External constriction of right upper arm, subsequent encounter"
+	},
+	{
+		"code": "S60841A",
+		"desc": "External constriction of right wrist, initial encounter"
+	},
+	{
+		"code": "S60841S",
+		"desc": "External constriction of right wrist, sequela"
+	},
+	{
+		"code": "S60841D",
+		"desc": "External constriction of right wrist, subsequent encounter"
+	},
+	{
+		"code": "S30843A",
+		"desc": "External constriction of scrotum and testes, initial encounter"
+	},
+	{
+		"code": "S30843S",
+		"desc": "External constriction of scrotum and testes, sequela"
+	},
+	{
+		"code": "S30843D",
+		"desc": "External constriction of scrotum and testes, subsequent encounter"
+	},
+	{
+		"code": "S20449A",
+		"desc": "External constriction of unspecified back wall of thorax, initial encounter"
+	},
+	{
+		"code": "S20449S",
+		"desc": "External constriction of unspecified back wall of thorax, sequela"
+	},
+	{
+		"code": "S20449D",
+		"desc": "External constriction of unspecified back wall of thorax, subsequent encounter"
+	},
+	{
+		"code": "S00449A",
+		"desc": "External constriction of unspecified ear, initial encounter"
+	},
+	{
+		"code": "S00449S",
+		"desc": "External constriction of unspecified ear, sequela"
+	},
+	{
+		"code": "S00449D",
+		"desc": "External constriction of unspecified ear, subsequent encounter"
+	},
+	{
+		"code": "S50349A",
+		"desc": "External constriction of unspecified elbow, initial encounter"
+	},
+	{
+		"code": "S50349S",
+		"desc": "External constriction of unspecified elbow, sequela"
+	},
+	{
+		"code": "S50349D",
+		"desc": "External constriction of unspecified elbow, subsequent encounter"
+	},
+	{
+		"code": "S30846A",
+		"desc": "External constriction of unspecified external genital organs, female, initial encounter"
+	},
+	{
+		"code": "S30846S",
+		"desc": "External constriction of unspecified external genital organs, female, sequela"
+	},
+	{
+		"code": "S30846D",
+		"desc": "External constriction of unspecified external genital organs, female, subsequent encounter"
+	},
+	{
+		"code": "S30845A",
+		"desc": "External constriction of unspecified external genital organs, male, initial encounter"
+	},
+	{
+		"code": "S30845S",
+		"desc": "External constriction of unspecified external genital organs, male, sequela"
+	},
+	{
+		"code": "S30845D",
+		"desc": "External constriction of unspecified external genital organs, male, subsequent encounter"
+	},
+	{
+		"code": "S00249A",
+		"desc": "External constriction of unspecified eyelid and periocular area, initial encounter"
+	},
+	{
+		"code": "S00249S",
+		"desc": "External constriction of unspecified eyelid and periocular area, sequela"
+	},
+	{
+		"code": "S00249D",
+		"desc": "External constriction of unspecified eyelid and periocular area, subsequent encounter"
+	},
+	{
+		"code": "S60449A",
+		"desc": "External constriction of unspecified finger, initial encounter"
+	},
+	{
+		"code": "S60449S",
+		"desc": "External constriction of unspecified finger, sequela"
+	},
+	{
+		"code": "S60449D",
+		"desc": "External constriction of unspecified finger, subsequent encounter"
+	},
+	{
+		"code": "S50849A",
+		"desc": "External constriction of unspecified forearm, initial encounter"
+	},
+	{
+		"code": "S50849S",
+		"desc": "External constriction of unspecified forearm, sequela"
+	},
+	{
+		"code": "S50849D",
+		"desc": "External constriction of unspecified forearm, subsequent encounter"
+	},
+	{
+		"code": "S20349A",
+		"desc": "External constriction of unspecified front wall of thorax, initial encounter"
+	},
+	{
+		"code": "S20349S",
+		"desc": "External constriction of unspecified front wall of thorax, sequela"
+	},
+	{
+		"code": "S20349D",
+		"desc": "External constriction of unspecified front wall of thorax, subsequent encounter"
+	},
+	{
+		"code": "S60549A",
+		"desc": "External constriction of unspecified hand, initial encounter"
+	},
+	{
+		"code": "S60549S",
+		"desc": "External constriction of unspecified hand, sequela"
+	},
+	{
+		"code": "S60549D",
+		"desc": "External constriction of unspecified hand, subsequent encounter"
+	},
+	{
+		"code": "S0094XA",
+		"desc": "External constriction of unspecified part of head, initial encounter"
+	},
+	{
+		"code": "S0094XS",
+		"desc": "External constriction of unspecified part of head, sequela"
+	},
+	{
+		"code": "S0094XD",
+		"desc": "External constriction of unspecified part of head, subsequent encounter"
+	},
+	{
+		"code": "S1094XA",
+		"desc": "External constriction of unspecified part of neck, initial encounter"
+	},
+	{
+		"code": "S1094XS",
+		"desc": "External constriction of unspecified part of neck, sequela"
+	},
+	{
+		"code": "S1094XD",
+		"desc": "External constriction of unspecified part of neck, subsequent encounter"
+	},
+	{
+		"code": "S2094XA",
+		"desc": "External constriction of unspecified parts of thorax, initial encounter"
+	},
+	{
+		"code": "S2094XS",
+		"desc": "External constriction of unspecified parts of thorax, sequela"
+	},
+	{
+		"code": "S2094XD",
+		"desc": "External constriction of unspecified parts of thorax, subsequent encounter"
+	},
+	{
+		"code": "S40249A",
+		"desc": "External constriction of unspecified shoulder, initial encounter"
+	},
+	{
+		"code": "S40249S",
+		"desc": "External constriction of unspecified shoulder, sequela"
+	},
+	{
+		"code": "S40249D",
+		"desc": "External constriction of unspecified shoulder, subsequent encounter"
+	},
+	{
+		"code": "S60349A",
+		"desc": "External constriction of unspecified thumb, initial encounter"
+	},
+	{
+		"code": "S60349S",
+		"desc": "External constriction of unspecified thumb, sequela"
+	},
+	{
+		"code": "S60349D",
+		"desc": "External constriction of unspecified thumb, subsequent encounter"
+	},
+	{
+		"code": "S40849A",
+		"desc": "External constriction of unspecified upper arm, initial encounter"
+	},
+	{
+		"code": "S40849S",
+		"desc": "External constriction of unspecified upper arm, sequela"
+	},
+	{
+		"code": "S40849D",
+		"desc": "External constriction of unspecified upper arm, subsequent encounter"
+	},
+	{
+		"code": "S60849A",
+		"desc": "External constriction of unspecified wrist, initial encounter"
+	},
+	{
+		"code": "S60849S",
+		"desc": "External constriction of unspecified wrist, sequela"
+	},
+	{
+		"code": "S60849D",
+		"desc": "External constriction of unspecified wrist, subsequent encounter"
+	},
+	{
+		"code": "S30844A",
+		"desc": "External constriction of vagina and vulva, initial encounter"
+	},
+	{
+		"code": "S30844S",
+		"desc": "External constriction of vagina and vulva, sequela"
+	},
+	{
+		"code": "S30844D",
+		"desc": "External constriction of vagina and vulva, subsequent encounter"
+	},
+	{
+		"code": "S90542A",
+		"desc": "External constriction, left ankle, initial encounter"
+	},
+	{
+		"code": "S90542S",
+		"desc": "External constriction, left ankle, sequela"
+	},
+	{
+		"code": "S90542D",
+		"desc": "External constriction, left ankle, subsequent encounter"
+	},
+	{
+		"code": "S90842A",
+		"desc": "External constriction, left foot, initial encounter"
+	},
+	{
+		"code": "S90842S",
+		"desc": "External constriction, left foot, sequela"
+	},
+	{
+		"code": "S90842D",
+		"desc": "External constriction, left foot, subsequent encounter"
+	},
+	{
+		"code": "S90442A",
+		"desc": "External constriction, left great toe, initial encounter"
+	},
+	{
+		"code": "S90442S",
+		"desc": "External constriction, left great toe, sequela"
+	},
+	{
+		"code": "S90442D",
+		"desc": "External constriction, left great toe, subsequent encounter"
+	},
+	{
+		"code": "S70242A",
+		"desc": "External constriction, left hip, initial encounter"
+	},
+	{
+		"code": "S70242S",
+		"desc": "External constriction, left hip, sequela"
+	},
+	{
+		"code": "S70242D",
+		"desc": "External constriction, left hip, subsequent encounter"
+	},
+	{
+		"code": "S80242A",
+		"desc": "External constriction, left knee, initial encounter"
+	},
+	{
+		"code": "S80242S",
+		"desc": "External constriction, left knee, sequela"
+	},
+	{
+		"code": "S80242D",
+		"desc": "External constriction, left knee, subsequent encounter"
+	},
+	{
+		"code": "S90445A",
+		"desc": "External constriction, left lesser toe(s), initial encounter"
+	},
+	{
+		"code": "S90445S",
+		"desc": "External constriction, left lesser toe(s), sequela"
+	},
+	{
+		"code": "S90445D",
+		"desc": "External constriction, left lesser toe(s), subsequent encounter"
+	},
+	{
+		"code": "S80842A",
+		"desc": "External constriction, left lower leg, initial encounter"
+	},
+	{
+		"code": "S80842S",
+		"desc": "External constriction, left lower leg, sequela"
+	},
+	{
+		"code": "S80842D",
+		"desc": "External constriction, left lower leg, subsequent encounter"
+	},
+	{
+		"code": "S70342A",
+		"desc": "External constriction, left thigh, initial encounter"
+	},
+	{
+		"code": "S70342S",
+		"desc": "External constriction, left thigh, sequela"
+	},
+	{
+		"code": "S70342D",
+		"desc": "External constriction, left thigh, subsequent encounter"
+	},
+	{
+		"code": "S90541A",
+		"desc": "External constriction, right ankle, initial encounter"
+	},
+	{
+		"code": "S90541S",
+		"desc": "External constriction, right ankle, sequela"
+	},
+	{
+		"code": "S90541D",
+		"desc": "External constriction, right ankle, subsequent encounter"
+	},
+	{
+		"code": "S90841A",
+		"desc": "External constriction, right foot, initial encounter"
+	},
+	{
+		"code": "S90841S",
+		"desc": "External constriction, right foot, sequela"
+	},
+	{
+		"code": "S90841D",
+		"desc": "External constriction, right foot, subsequent encounter"
+	},
+	{
+		"code": "S90441A",
+		"desc": "External constriction, right great toe, initial encounter"
+	},
+	{
+		"code": "S90441S",
+		"desc": "External constriction, right great toe, sequela"
+	},
+	{
+		"code": "S90441D",
+		"desc": "External constriction, right great toe, subsequent encounter"
+	},
+	{
+		"code": "S70241A",
+		"desc": "External constriction, right hip, initial encounter"
+	},
+	{
+		"code": "S70241S",
+		"desc": "External constriction, right hip, sequela"
+	},
+	{
+		"code": "S70241D",
+		"desc": "External constriction, right hip, subsequent encounter"
+	},
+	{
+		"code": "S80241A",
+		"desc": "External constriction, right knee, initial encounter"
+	},
+	{
+		"code": "S80241S",
+		"desc": "External constriction, right knee, sequela"
+	},
+	{
+		"code": "S80241D",
+		"desc": "External constriction, right knee, subsequent encounter"
+	},
+	{
+		"code": "S90444A",
+		"desc": "External constriction, right lesser toe(s), initial encounter"
+	},
+	{
+		"code": "S90444S",
+		"desc": "External constriction, right lesser toe(s), sequela"
+	},
+	{
+		"code": "S90444D",
+		"desc": "External constriction, right lesser toe(s), subsequent encounter"
+	},
+	{
+		"code": "S80841A",
+		"desc": "External constriction, right lower leg, initial encounter"
+	},
+	{
+		"code": "S80841S",
+		"desc": "External constriction, right lower leg, sequela"
+	},
+	{
+		"code": "S80841D",
+		"desc": "External constriction, right lower leg, subsequent encounter"
+	},
+	{
+		"code": "S70341A",
+		"desc": "External constriction, right thigh, initial encounter"
+	},
+	{
+		"code": "S70341S",
+		"desc": "External constriction, right thigh, sequela"
+	},
+	{
+		"code": "S70341D",
+		"desc": "External constriction, right thigh, subsequent encounter"
+	},
+	{
+		"code": "S90549A",
+		"desc": "External constriction, unspecified ankle, initial encounter"
+	},
+	{
+		"code": "S90549S",
+		"desc": "External constriction, unspecified ankle, sequela"
+	},
+	{
+		"code": "S90549D",
+		"desc": "External constriction, unspecified ankle, subsequent encounter"
+	},
+	{
+		"code": "S90849A",
+		"desc": "External constriction, unspecified foot, initial encounter"
+	},
+	{
+		"code": "S90849S",
+		"desc": "External constriction, unspecified foot, sequela"
+	},
+	{
+		"code": "S90849D",
+		"desc": "External constriction, unspecified foot, subsequent encounter"
+	},
+	{
+		"code": "S90443A",
+		"desc": "External constriction, unspecified great toe, initial encounter"
+	},
+	{
+		"code": "S90443S",
+		"desc": "External constriction, unspecified great toe, sequela"
+	},
+	{
+		"code": "S90443D",
+		"desc": "External constriction, unspecified great toe, subsequent encounter"
+	},
+	{
+		"code": "S70249A",
+		"desc": "External constriction, unspecified hip, initial encounter"
+	},
+	{
+		"code": "S70249S",
+		"desc": "External constriction, unspecified hip, sequela"
+	},
+	{
+		"code": "S70249D",
+		"desc": "External constriction, unspecified hip, subsequent encounter"
+	},
+	{
+		"code": "S80249A",
+		"desc": "External constriction, unspecified knee, initial encounter"
+	},
+	{
+		"code": "S80249S",
+		"desc": "External constriction, unspecified knee, sequela"
+	},
+	{
+		"code": "S80249D",
+		"desc": "External constriction, unspecified knee, subsequent encounter"
+	},
+	{
+		"code": "S90446A",
+		"desc": "External constriction, unspecified lesser toe(s), initial encounter"
+	},
+	{
+		"code": "S90446S",
+		"desc": "External constriction, unspecified lesser toe(s), sequela"
+	},
+	{
+		"code": "S90446D",
+		"desc": "External constriction, unspecified lesser toe(s), subsequent encounter"
+	},
+	{
+		"code": "S80849A",
+		"desc": "External constriction, unspecified lower leg, initial encounter"
+	},
+	{
+		"code": "S80849S",
+		"desc": "External constriction, unspecified lower leg, sequela"
+	},
+	{
+		"code": "S80849D",
+		"desc": "External constriction, unspecified lower leg, subsequent encounter"
+	},
+	{
+		"code": "S70349A",
+		"desc": "External constriction, unspecified thigh, initial encounter"
+	},
+	{
+		"code": "S70349S",
+		"desc": "External constriction, unspecified thigh, sequela"
+	},
+	{
+		"code": "S70349D",
+		"desc": "External constriction, unspecified thigh, subsequent encounter"
+	},
+	{
+		"code": "G0166",
+		"desc": "External counterpulsation, per treatment session"
+	},
+	{
+		"code": "E0617",
+		"desc": "External defibrillator with integrated electrocardiogram analysis"
+	},
+	{
+		"code": "B883",
+		"desc": "External hirudiniasis"
+	},
+	{
+		"code": "L8695",
+		"desc": "External recharging system for battery (external) for use with implantable neurostimulator, replacement only"
+	},
+	{
+		"code": "L8689",
+		"desc": "External recharging system for battery (internal) for use with implantable neurostimulator, replacement only"
+	},
+	{
+		"code": "K1030",
+		"desc": "External recharging system for battery (internal) for use with implanted cardiac contractility modulation generator, replacement only"
+	},
+	{
+		"code": "L8625",
+		"desc": "External recharging system for battery for use with cochlear implant or auditory osseointegrated device, replacement only, each"
+	},
+	{
+		"code": "E0734",
+		"desc": "External upper limb tremor stimulator of the peripheral nerves of the wrist"
+	},
+	{
+		"code": "K1018",
+		"desc": "External upper limb tremor stimulator of the peripheral nerves of the wrist\n                                    \n                                        \n                                        Terminated December 31, 2023."
+	},
+	{
+		"code": "A4356",
+		"desc": "External urethral clamp or compression device (not to be used for catheter clamp), each"
+	},
+	{
+		"code": "A6591",
+		"desc": "External urinary catheter; non-disposable, for use with suction pump, per month"
+	},
+	{
+		"code": "A6590",
+		"desc": "External urinary catheters; disposable, with wicking material, for use with suction pump, per month"
+	},
+	{
+		"code": "A0424",
+		"desc": "Extra ambulance attendant, ground (als or bls) or air (fixed or rotary winged); (requires medical review)"
+	},
+	{
+		"code": "K0007",
+		"desc": "Extra heavy duty wheelchair"
+	},
+	{
+		"code": "S9034",
+		"desc": "Extracorporeal shockwave lithotripsy for gall stones (if performed with ercp, use 43265)"
+	},
+	{
+		"code": "G062",
+		"desc": "Extradural and subdural abscess, unspecified"
+	},
+	{
+		"code": "A282",
+		"desc": "Extraintestinal yersiniosis"
+	},
+	{
+		"code": "C9022",
+		"desc": "Extramedullary plasmacytoma in relapse"
+	},
+	{
+		"code": "C9021",
+		"desc": "Extramedullary plasmacytoma in remission"
+	},
+	{
+		"code": "C9020",
+		"desc": "Extramedullary plasmacytoma not having achieved remission"
+	},
+	{
+		"code": "C860",
+		"desc": "Extranodal NK/T-cell lymphoma, nasal type"
+	},
+	{
+		"code": "C884",
+		"desc": "Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]"
+	},
+	{
+		"code": "G259",
+		"desc": "Extrapyramidal and movement disorder, unspecified"
+	},
+	{
+		"code": "G26",
+		"desc": "Extrapyramidal and movement disorders in diseases classified elsewhere"
+	},
+	{
+		"code": "R392",
+		"desc": "Extrarenal uremia"
+	},
+	{
+		"code": "N4401",
+		"desc": "Extravaginal torsion of spermatic cord"
+	},
+	{
+		"code": "T80818A",
+		"desc": "Extravasation of other vesicant agent, initial encounter"
+	},
+	{
+		"code": "T80818S",
+		"desc": "Extravasation of other vesicant agent, sequela"
+	},
+	{
+		"code": "T80818D",
+		"desc": "Extravasation of other vesicant agent, subsequent encounter"
+	},
+	{
+		"code": "R390",
+		"desc": "Extravasation of urine"
+	},
+	{
+		"code": "T80810A",
+		"desc": "Extravasation of vesicant antineoplastic chemotherapy, initial encounter"
+	},
+	{
+		"code": "T80810S",
+		"desc": "Extravasation of vesicant antineoplastic chemotherapy, sequela"
+	},
+	{
+		"code": "T80810D",
+		"desc": "Extravasation of vesicant antineoplastic chemotherapy, subsequent encounter"
+	},
+	{
+		"code": "P0722",
+		"desc": "Extreme immaturity of newborn, gestational age 23 completed weeks"
+	},
+	{
+		"code": "P0723",
+		"desc": "Extreme immaturity of newborn, gestational age 24 completed weeks"
+	},
+	{
+		"code": "P0724",
+		"desc": "Extreme immaturity of newborn, gestational age 25 completed weeks"
+	},
+	{
+		"code": "P0725",
+		"desc": "Extreme immaturity of newborn, gestational age 26 completed weeks"
+	},
+	{
+		"code": "P0726",
+		"desc": "Extreme immaturity of newborn, gestational age 27 completed weeks"
+	},
+	{
+		"code": "P0721",
+		"desc": "Extreme immaturity of newborn, gestational age less than 23 completed weeks"
+	},
+	{
+		"code": "P0720",
+		"desc": "Extreme immaturity of newborn, unspecified weeks of gestation"
+	},
+	{
+		"code": "Z595",
+		"desc": "Extreme poverty"
+	},
+	{
+		"code": "P0702",
+		"desc": "Extremely low birth weight newborn, 500-749 grams"
+	},
+	{
+		"code": "P0703",
+		"desc": "Extremely low birth weight newborn, 750-999 grams"
+	},
+	{
+		"code": "P0701",
+		"desc": "Extremely low birth weight newborn, less than 500 grams"
+	},
+	{
+		"code": "P0700",
+		"desc": "Extremely low birth weight newborn, unspecified weight"
+	},
+	{
+		"code": "E0945",
+		"desc": "Extremity belt/harness"
+	},
+	{
+		"code": "H68133",
+		"desc": "Extrinsic cartilagenous obstruction of Eustachian tube, bilateral"
+	},
+	{
+		"code": "H68132",
+		"desc": "Extrinsic cartilagenous obstruction of Eustachian tube, left ear"
+	},
+	{
+		"code": "H68131",
+		"desc": "Extrinsic cartilagenous obstruction of Eustachian tube, right ear"
+	},
+	{
+		"code": "H68139",
+		"desc": "Extrinsic cartilagenous obstruction of Eustachian tube, unspecified ear"
+	},
+	{
+		"code": "H353230",
+		"desc": "Exudative age-related macular degeneration, bilateral, stage unspecified"
+	},
+	{
+		"code": "H353231",
+		"desc": "Exudative age-related macular degeneration, bilateral, with active choroidal neovascularization"
+	},
+	{
+		"code": "H353232",
+		"desc": "Exudative age-related macular degeneration, bilateral, with inactive choroidal neovascularization"
+	},
+	{
+		"code": "H353233",
+		"desc": "Exudative age-related macular degeneration, bilateral, with inactive scar"
+	},
+	{
+		"code": "H353220",
+		"desc": "Exudative age-related macular degeneration, left eye, stage unspecified"
+	},
+	{
+		"code": "H353221",
+		"desc": "Exudative age-related macular degeneration, left eye, with active choroidal neovascularization"
+	},
+	{
+		"code": "H353222",
+		"desc": "Exudative age-related macular degeneration, left eye, with inactive choroidal neovascularization"
+	},
+	{
+		"code": "H353223",
+		"desc": "Exudative age-related macular degeneration, left eye, with inactive scar"
+	},
+	{
+		"code": "H353210",
+		"desc": "Exudative age-related macular degeneration, right eye, stage unspecified"
+	},
+	{
+		"code": "H353211",
+		"desc": "Exudative age-related macular degeneration, right eye, with active choroidal neovascularization"
+	},
+	{
+		"code": "H353212",
+		"desc": "Exudative age-related macular degeneration, right eye, with inactive choroidal neovascularization"
+	},
+	{
+		"code": "H353213",
+		"desc": "Exudative age-related macular degeneration, right eye, with inactive scar"
+	},
+	{
+		"code": "H353290",
+		"desc": "Exudative age-related macular degeneration, unspecified eye, stage unspecified"
+	},
+	{
+		"code": "H353291",
+		"desc": "Exudative age-related macular degeneration, unspecified eye, with active choroidal neovascularization"
+	},
+	{
+		"code": "H353292",
+		"desc": "Exudative age-related macular degeneration, unspecified eye, with inactive choroidal neovascularization"
+	},
+	{
+		"code": "H353293",
+		"desc": "Exudative age-related macular degeneration, unspecified eye, with inactive scar"
+	},
+	{
+		"code": "H21353",
+		"desc": "Exudative cyst of pars plana, bilateral"
+	},
+	{
+		"code": "H21352",
+		"desc": "Exudative cyst of pars plana, left eye"
+	},
+	{
+		"code": "H21351",
+		"desc": "Exudative cyst of pars plana, right eye"
+	},
+	{
+		"code": "H21359",
+		"desc": "Exudative cyst of pars plana, unspecified eye"
+	},
+	{
+		"code": "H21313",
+		"desc": "Exudative cysts of iris or anterior chamber, bilateral"
+	},
+	{
+		"code": "H21312",
+		"desc": "Exudative cysts of iris or anterior chamber, left eye"
+	},
+	{
+		"code": "H21311",
+		"desc": "Exudative cysts of iris or anterior chamber, right eye"
+	},
+	{
+		"code": "H21319",
+		"desc": "Exudative cysts of iris or anterior chamber, unspecified eye"
+	},
+	{
+		"code": "H35023",
+		"desc": "Exudative retinopathy, bilateral"
+	},
+	{
+		"code": "H35022",
+		"desc": "Exudative retinopathy, left eye"
+	},
+	{
+		"code": "H35021",
+		"desc": "Exudative retinopathy, right eye"
+	},
+	{
+		"code": "H35029",
+		"desc": "Exudative retinopathy, unspecified eye"
+	},
+	{
+		"code": "V2756",
+		"desc": "Eye glass case"
+	},
+	{
+		"code": "G2104",
+		"desc": "Eye imaging validated to match diagnosis from seven standard field stereoscopic photos results documented and reviewed\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "A6411",
+		"desc": "Eye pad, non-sterile, each"
+	},
+	{
+		"code": "A6410",
+		"desc": "Eye pad, sterile, each"
+	},
+	{
+		"code": "A6412",
+		"desc": "Eye patch, occlusive, each"
+	},
+	{
+		"code": "H02536",
+		"desc": "Eyelid retraction left eye, unspecified eyelid"
+	},
+	{
+		"code": "H02535",
+		"desc": "Eyelid retraction left lower eyelid"
+	},
+	{
+		"code": "H02534",
+		"desc": "Eyelid retraction left upper eyelid"
+	},
+	{
+		"code": "H02533",
+		"desc": "Eyelid retraction right eye, unspecified eyelid"
+	},
+	{
+		"code": "H02532",
+		"desc": "Eyelid retraction right lower eyelid"
+	},
+	{
+		"code": "H02531",
+		"desc": "Eyelid retraction right upper eyelid"
+	},
+	{
+		"code": "H02539",
+		"desc": "Eyelid retraction unspecified eye, unspecified lid"
+	},
+	{
+		"code": "Q4136",
+		"desc": "Ez-derm, per square centimeter"
+	}
+]

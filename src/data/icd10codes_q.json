@@ -1,0 +1,146 @@
+[
+    {
+		"code": "A78",
+		"desc": "Q fever"
+	},
+	{
+		"code": "G8251",
+		"desc": "Quadriplegia, C1-C4 complete"
+	},
+	{
+		"code": "G8252",
+		"desc": "Quadriplegia, C1-C4 incomplete"
+	},
+	{
+		"code": "G8253",
+		"desc": "Quadriplegia, C5-C7 complete"
+	},
+	{
+		"code": "G8254",
+		"desc": "Quadriplegia, C5-C7 incomplete"
+	},
+	{
+		"code": "G8250",
+		"desc": "Quadriplegia, unspecified"
+	},
+	{
+		"code": "Z3864",
+		"desc": "Quadruplet liveborn infant, delivered by cesarean"
+	},
+	{
+		"code": "Z3863",
+		"desc": "Quadruplet liveborn infant, delivered vaginally"
+	},
+	{
+		"code": "O30221",
+		"desc": "Quadruplet pregnancy with two or more monoamniotic fetuses, first trimester"
+	},
+	{
+		"code": "O30222",
+		"desc": "Quadruplet pregnancy with two or more monoamniotic fetuses, second trimester"
+	},
+	{
+		"code": "O30223",
+		"desc": "Quadruplet pregnancy with two or more monoamniotic fetuses, third trimester"
+	},
+	{
+		"code": "O30229",
+		"desc": "Quadruplet pregnancy with two or more monoamniotic fetuses, unspecified trimester"
+	},
+	{
+		"code": "O30211",
+		"desc": "Quadruplet pregnancy with two or more monochorionic fetuses, first trimester"
+	},
+	{
+		"code": "O30212",
+		"desc": "Quadruplet pregnancy with two or more monochorionic fetuses, second trimester"
+	},
+	{
+		"code": "O30213",
+		"desc": "Quadruplet pregnancy with two or more monochorionic fetuses, third trimester"
+	},
+	{
+		"code": "O30219",
+		"desc": "Quadruplet pregnancy with two or more monochorionic fetuses, unspecified trimester"
+	},
+	{
+		"code": "O30291",
+		"desc": "Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, first trimester"
+	},
+	{
+		"code": "O30292",
+		"desc": "Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, second trimester"
+	},
+	{
+		"code": "O30293",
+		"desc": "Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, third trimester"
+	},
+	{
+		"code": "O30299",
+		"desc": "Quadruplet pregnancy, unable to determine number of placenta and number of amniotic sacs, unspecified trimester"
+	},
+	{
+		"code": "O30201",
+		"desc": "Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, first trimester"
+	},
+	{
+		"code": "O30202",
+		"desc": "Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, second trimester"
+	},
+	{
+		"code": "O30203",
+		"desc": "Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, third trimester"
+	},
+	{
+		"code": "O30209",
+		"desc": "Quadruplet pregnancy, unspecified number of placenta and unspecified number of amniotic sacs, unspecified trimester"
+	},
+	{
+		"code": "Z3752",
+		"desc": "Quadruplets, all liveborn"
+	},
+	{
+		"code": "Z3762",
+		"desc": "Quadruplets, some liveborn"
+	},
+	{
+		"code": "G2062",
+		"desc": "Qualified nonphysician healthcare professional online assessment and management service, for an established patient, for up to seven days, cumulative time during the 7 days; 11-20 minutes\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G2063",
+		"desc": "Qualified nonphysician healthcare professional online assessment and management service, for an established patient, for up to seven days, cumulative time during the 7 days; 21 or more minutes\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G2061",
+		"desc": "Qualified nonphysician healthcare professional online assessment and management service, for an established patient, for up to seven days, cumulative time during the 7 days; 5-10 minutes\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "D691",
+		"desc": "Qualitative platelet defects"
+	},
+	{
+		"code": "M1367",
+		"desc": "Quality care for the treatment of ear, nose, and throat disorders mips value pathway"
+	},
+	{
+		"code": "M1369",
+		"desc": "Quality care in mental health and substance use disorders mips value pathway"
+	},
+	{
+		"code": "Z3866",
+		"desc": "Quintuplet liveborn infant, delivered by cesarean"
+	},
+	{
+		"code": "Z3865",
+		"desc": "Quintuplet liveborn infant, delivered vaginally"
+	},
+	{
+		"code": "Z3753",
+		"desc": "Quintuplets, all liveborn"
+	},
+	{
+		"code": "Z3763",
+		"desc": "Quintuplets, some liveborn"
+	}
+]

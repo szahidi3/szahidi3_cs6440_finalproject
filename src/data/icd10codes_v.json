@@ -1,0 +1,1454 @@
+[
+    {
+		"code": "A4480",
+		"desc": "Vabra aspirator"
+	},
+	{
+		"code": "B08011",
+		"desc": "Vaccinia not from vaccine"
+	},
+	{
+		"code": "A7043",
+		"desc": "Vacuum drainage bottle and tubing for use with implanted catheter Terminated December 31, 2014."
+	},
+	{
+		"code": "A7048",
+		"desc": "Vacuum drainage collection unit and tubing kit, including all supplies needed for collection unit change, for use with implanted catheter, each"
+	},
+	{
+		"code": "N815",
+		"desc": "Vaginal enterocele"
+	},
+	{
+		"code": "R87811",
+		"desc": "Vaginal high risk human papillomavirus (HPV) DNA test positive"
+	},
+	{
+		"code": "R87821",
+		"desc": "Vaginal low risk human papillomavirus (HPV) DNA test positive"
+	},
+	{
+		"code": "N942",
+		"desc": "Vaginismus"
+	},
+	{
+		"code": "F525",
+		"desc": "Vaginismus not due to a substance or known physiological condition"
+	},
+	{
+		"code": "O8613",
+		"desc": "Vaginitis following delivery"
+	},
+	{
+		"code": "N771",
+		"desc": "Vaginitis, vulvitis and vulvovaginitis in diseases classified elsewhere"
+	},
+	{
+		"code": "M21072",
+		"desc": "Valgus deformity, not elsewhere classified, left ankle"
+	},
+	{
+		"code": "M21022",
+		"desc": "Valgus deformity, not elsewhere classified, left elbow"
+	},
+	{
+		"code": "M21052",
+		"desc": "Valgus deformity, not elsewhere classified, left hip"
+	},
+	{
+		"code": "M21062",
+		"desc": "Valgus deformity, not elsewhere classified, left knee"
+	},
+	{
+		"code": "M21071",
+		"desc": "Valgus deformity, not elsewhere classified, right ankle"
+	},
+	{
+		"code": "M21021",
+		"desc": "Valgus deformity, not elsewhere classified, right elbow"
+	},
+	{
+		"code": "M21051",
+		"desc": "Valgus deformity, not elsewhere classified, right hip"
+	},
+	{
+		"code": "M21061",
+		"desc": "Valgus deformity, not elsewhere classified, right knee"
+	},
+	{
+		"code": "M21079",
+		"desc": "Valgus deformity, not elsewhere classified, unspecified ankle"
+	},
+	{
+		"code": "M21029",
+		"desc": "Valgus deformity, not elsewhere classified, unspecified elbow"
+	},
+	{
+		"code": "M21059",
+		"desc": "Valgus deformity, not elsewhere classified, unspecified hip"
+	},
+	{
+		"code": "M21069",
+		"desc": "Valgus deformity, not elsewhere classified, unspecified knee"
+	},
+	{
+		"code": "M2100",
+		"desc": "Valgus deformity, not elsewhere classified, unspecified site"
+	},
+	{
+		"code": "M0005",
+		"desc": "Value in primary care mips value pathway"
+	},
+	{
+		"code": "E616",
+		"desc": "Vanadium deficiency"
+	},
+	{
+		"code": "E0605",
+		"desc": "Vaporizer, room type"
+	},
+	{
+		"code": "V2430",
+		"desc": "Variable asphericity lens, bifocal, full field, glass or plastic, per lens"
+	},
+	{
+		"code": "V2410",
+		"desc": "Variable asphericity lens, single vision, full field, glass or plastic, per lens"
+	},
+	{
+		"code": "A4620",
+		"desc": "Variable concentration mask"
+	},
+	{
+		"code": "V2499",
+		"desc": "Variable sphericity lens, other type"
+	},
+	{
+		"code": "A8101",
+		"desc": "Variant Creutzfeldt-Jakob disease"
+	},
+	{
+		"code": "L671",
+		"desc": "Variations in hair color"
+	},
+	{
+		"code": "B0111",
+		"desc": "Varicella encephalitis and encephalomyelitis"
+	},
+	{
+		"code": "B0181",
+		"desc": "Varicella keratitis"
+	},
+	{
+		"code": "B010",
+		"desc": "Varicella meningitis"
+	},
+	{
+		"code": "B0112",
+		"desc": "Varicella myelitis"
+	},
+	{
+		"code": "B012",
+		"desc": "Varicella pneumonia"
+	},
+	{
+		"code": "B019",
+		"desc": "Varicella without complication"
+	},
+	{
+		"code": "I83893",
+		"desc": "Varicose veins of bilateral lower extremities with other complications"
+	},
+	{
+		"code": "I83813",
+		"desc": "Varicose veins of bilateral lower extremities with pain"
+	},
+	{
+		"code": "I83223",
+		"desc": "Varicose veins of left lower extremity with both ulcer of ankle and inflammation"
+	},
+	{
+		"code": "I83222",
+		"desc": "Varicose veins of left lower extremity with both ulcer of calf and inflammation"
+	},
+	{
+		"code": "I83224",
+		"desc": "Varicose veins of left lower extremity with both ulcer of heel and midfoot and inflammation"
+	},
+	{
+		"code": "I83228",
+		"desc": "Varicose veins of left lower extremity with both ulcer of other part of lower extremity and inflammation"
+	},
+	{
+		"code": "I83221",
+		"desc": "Varicose veins of left lower extremity with both ulcer of thigh and inflammation"
+	},
+	{
+		"code": "I83229",
+		"desc": "Varicose veins of left lower extremity with both ulcer of unspecified site and inflammation"
+	},
+	{
+		"code": "I83225",
+		"desc": "Varicose veins of left lower extremity with both ulcer other part of foot and inflammation"
+	},
+	{
+		"code": "I8312",
+		"desc": "Varicose veins of left lower extremity with inflammation"
+	},
+	{
+		"code": "I83892",
+		"desc": "Varicose veins of left lower extremity with other complications"
+	},
+	{
+		"code": "I83812",
+		"desc": "Varicose veins of left lower extremity with pain"
+	},
+	{
+		"code": "I83023",
+		"desc": "Varicose veins of left lower extremity with ulcer of ankle"
+	},
+	{
+		"code": "I83022",
+		"desc": "Varicose veins of left lower extremity with ulcer of calf"
+	},
+	{
+		"code": "I83024",
+		"desc": "Varicose veins of left lower extremity with ulcer of heel and midfoot"
+	},
+	{
+		"code": "I83021",
+		"desc": "Varicose veins of left lower extremity with ulcer of thigh"
+	},
+	{
+		"code": "I83029",
+		"desc": "Varicose veins of left lower extremity with ulcer of unspecified site"
+	},
+	{
+		"code": "I83025",
+		"desc": "Varicose veins of left lower extremity with ulcer other part of foot"
+	},
+	{
+		"code": "I83028",
+		"desc": "Varicose veins of left lower extremity with ulcer other part of lower leg"
+	},
+	{
+		"code": "O2201",
+		"desc": "Varicose veins of lower extremity in pregnancy, first trimester"
+	},
+	{
+		"code": "O2202",
+		"desc": "Varicose veins of lower extremity in pregnancy, second trimester"
+	},
+	{
+		"code": "O2203",
+		"desc": "Varicose veins of lower extremity in pregnancy, third trimester"
+	},
+	{
+		"code": "O2200",
+		"desc": "Varicose veins of lower extremity in pregnancy, unspecified trimester"
+	},
+	{
+		"code": "O874",
+		"desc": "Varicose veins of lower extremity in the puerperium"
+	},
+	{
+		"code": "I868",
+		"desc": "Varicose veins of other specified sites"
+	},
+	{
+		"code": "I83213",
+		"desc": "Varicose veins of right lower extremity with both ulcer of ankle and inflammation"
+	},
+	{
+		"code": "I83212",
+		"desc": "Varicose veins of right lower extremity with both ulcer of calf and inflammation"
+	},
+	{
+		"code": "I83214",
+		"desc": "Varicose veins of right lower extremity with both ulcer of heel and midfoot and inflammation"
+	},
+	{
+		"code": "I83218",
+		"desc": "Varicose veins of right lower extremity with both ulcer of other part of lower extremity and inflammation"
+	},
+	{
+		"code": "I83211",
+		"desc": "Varicose veins of right lower extremity with both ulcer of thigh and inflammation"
+	},
+	{
+		"code": "I83219",
+		"desc": "Varicose veins of right lower extremity with both ulcer of unspecified site and inflammation"
+	},
+	{
+		"code": "I83215",
+		"desc": "Varicose veins of right lower extremity with both ulcer other part of foot and inflammation"
+	},
+	{
+		"code": "I8311",
+		"desc": "Varicose veins of right lower extremity with inflammation"
+	},
+	{
+		"code": "I83891",
+		"desc": "Varicose veins of right lower extremity with other complications"
+	},
+	{
+		"code": "I83811",
+		"desc": "Varicose veins of right lower extremity with pain"
+	},
+	{
+		"code": "I83013",
+		"desc": "Varicose veins of right lower extremity with ulcer of ankle"
+	},
+	{
+		"code": "I83012",
+		"desc": "Varicose veins of right lower extremity with ulcer of calf"
+	},
+	{
+		"code": "I83014",
+		"desc": "Varicose veins of right lower extremity with ulcer of heel and midfoot"
+	},
+	{
+		"code": "I83011",
+		"desc": "Varicose veins of right lower extremity with ulcer of thigh"
+	},
+	{
+		"code": "I83019",
+		"desc": "Varicose veins of right lower extremity with ulcer of unspecified site"
+	},
+	{
+		"code": "I83015",
+		"desc": "Varicose veins of right lower extremity with ulcer other part of foot"
+	},
+	{
+		"code": "I83018",
+		"desc": "Varicose veins of right lower extremity with ulcer other part of lower leg"
+	},
+	{
+		"code": "I83203",
+		"desc": "Varicose veins of unspecified lower extremity with both ulcer of ankle and inflammation"
+	},
+	{
+		"code": "I83202",
+		"desc": "Varicose veins of unspecified lower extremity with both ulcer of calf and inflammation"
+	},
+	{
+		"code": "I83204",
+		"desc": "Varicose veins of unspecified lower extremity with both ulcer of heel and midfoot and inflammation"
+	},
+	{
+		"code": "I83208",
+		"desc": "Varicose veins of unspecified lower extremity with both ulcer of other part of lower extremity and inflammation"
+	},
+	{
+		"code": "I83201",
+		"desc": "Varicose veins of unspecified lower extremity with both ulcer of thigh and inflammation"
+	},
+	{
+		"code": "I83209",
+		"desc": "Varicose veins of unspecified lower extremity with both ulcer of unspecified site and inflammation"
+	},
+	{
+		"code": "I83205",
+		"desc": "Varicose veins of unspecified lower extremity with both ulcer other part of foot and inflammation"
+	},
+	{
+		"code": "I8310",
+		"desc": "Varicose veins of unspecified lower extremity with inflammation"
+	},
+	{
+		"code": "I83899",
+		"desc": "Varicose veins of unspecified lower extremity with other complications"
+	},
+	{
+		"code": "I83819",
+		"desc": "Varicose veins of unspecified lower extremity with pain"
+	},
+	{
+		"code": "I83003",
+		"desc": "Varicose veins of unspecified lower extremity with ulcer of ankle"
+	},
+	{
+		"code": "I83002",
+		"desc": "Varicose veins of unspecified lower extremity with ulcer of calf"
+	},
+	{
+		"code": "I83004",
+		"desc": "Varicose veins of unspecified lower extremity with ulcer of heel and midfoot"
+	},
+	{
+		"code": "I83001",
+		"desc": "Varicose veins of unspecified lower extremity with ulcer of thigh"
+	},
+	{
+		"code": "I83009",
+		"desc": "Varicose veins of unspecified lower extremity with ulcer of unspecified site"
+	},
+	{
+		"code": "I83005",
+		"desc": "Varicose veins of unspecified lower extremity with ulcer other part of foot"
+	},
+	{
+		"code": "I83008",
+		"desc": "Varicose veins of unspecified lower extremity with ulcer other part of lower leg"
+	},
+	{
+		"code": "M21172",
+		"desc": "Varus deformity, not elsewhere classified, left ankle"
+	},
+	{
+		"code": "M21122",
+		"desc": "Varus deformity, not elsewhere classified, left elbow"
+	},
+	{
+		"code": "M21152",
+		"desc": "Varus deformity, not elsewhere classified, left hip"
+	},
+	{
+		"code": "M21162",
+		"desc": "Varus deformity, not elsewhere classified, left knee"
+	},
+	{
+		"code": "M21171",
+		"desc": "Varus deformity, not elsewhere classified, right ankle"
+	},
+	{
+		"code": "M21121",
+		"desc": "Varus deformity, not elsewhere classified, right elbow"
+	},
+	{
+		"code": "M21151",
+		"desc": "Varus deformity, not elsewhere classified, right hip"
+	},
+	{
+		"code": "M21161",
+		"desc": "Varus deformity, not elsewhere classified, right knee"
+	},
+	{
+		"code": "M21159",
+		"desc": "Varus deformity, not elsewhere classified, unspecified"
+	},
+	{
+		"code": "M21179",
+		"desc": "Varus deformity, not elsewhere classified, unspecified ankle"
+	},
+	{
+		"code": "M21129",
+		"desc": "Varus deformity, not elsewhere classified, unspecified elbow"
+	},
+	{
+		"code": "M21169",
+		"desc": "Varus deformity, not elsewhere classified, unspecified knee"
+	},
+	{
+		"code": "M2110",
+		"desc": "Varus deformity, not elsewhere classified, unspecified site"
+	},
+	{
+		"code": "H11413",
+		"desc": "Vascular abnormalities of conjunctiva, bilateral"
+	},
+	{
+		"code": "H11412",
+		"desc": "Vascular abnormalities of conjunctiva, left eye"
+	},
+	{
+		"code": "H11411",
+		"desc": "Vascular abnormalities of conjunctiva, right eye"
+	},
+	{
+		"code": "H11419",
+		"desc": "Vascular abnormalities of conjunctiva, unspecified eye"
+	},
+	{
+		"code": "H02876",
+		"desc": "Vascular anomalies of left eye, unspecified eyelid"
+	},
+	{
+		"code": "H02875",
+		"desc": "Vascular anomalies of left lower eyelid"
+	},
+	{
+		"code": "H02874",
+		"desc": "Vascular anomalies of left upper eyelid"
+	},
+	{
+		"code": "H02873",
+		"desc": "Vascular anomalies of right eye, unspecified eyelid"
+	},
+	{
+		"code": "H02872",
+		"desc": "Vascular anomalies of right lower eyelid"
+	},
+	{
+		"code": "H02871",
+		"desc": "Vascular anomalies of right upper eyelid"
+	},
+	{
+		"code": "H02879",
+		"desc": "Vascular anomalies of unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "T801XXA",
+		"desc": "Vascular complications following infusion, transfusion and therapeutic injection, initial encounter"
+	},
+	{
+		"code": "T801XXS",
+		"desc": "Vascular complications following infusion, transfusion and therapeutic injection, sequela"
+	},
+	{
+		"code": "T801XXD",
+		"desc": "Vascular complications following infusion, transfusion and therapeutic injection, subsequent encounter"
+	},
+	{
+		"code": "F0151",
+		"desc": "Vascular dementia with behavioral disturbance"
+	},
+	{
+		"code": "F0150",
+		"desc": "Vascular dementia without behavioral disturbance"
+	},
+	{
+		"code": "K559",
+		"desc": "Vascular disorder of intestine, unspecified"
+	},
+	{
+		"code": "N501",
+		"desc": "Vascular disorders of male genital organs"
+	},
+	{
+		"code": "C9797",
+		"desc": "Vascular embolization or occlusion procedure with use of a pressure-generating catheter (e.g., one-way valve, intermittently occluding), inclusive of all radiological supervision and interpretation, intraprocedural roadmapping, and imaging guidance necessary to complete the intervention; for tumors, organ ischemia, or infarction"
+	},
+	{
+		"code": "L8670",
+		"desc": "Vascular graft material, synthetic, implant"
+	},
+	{
+		"code": "G441",
+		"desc": "Vascular headache, not elsewhere classified"
+	},
+	{
+		"code": "G214",
+		"desc": "Vascular parkinsonism"
+	},
+	{
+		"code": "G4038",
+		"desc": "Vascular surgery mips specialty set"
+	},
+	{
+		"code": "L959",
+		"desc": "Vasculitis limited to the skin, unspecified"
+	},
+	{
+		"code": "Z9852",
+		"desc": "Vasectomy status"
+	},
+	{
+		"code": "J300",
+		"desc": "Vasomotor rhinitis"
+	},
+	{
+		"code": "S9439",
+		"desc": "Vbac (vaginal birth after cesarean) classes, non-physician provider, per session"
+	},
+	{
+		"code": "T2039",
+		"desc": "Vehicle modifications, waiver; per service"
+	},
+	{
+		"code": "O43121",
+		"desc": "Velamentous insertion of umbilical cord, first trimester"
+	},
+	{
+		"code": "O43122",
+		"desc": "Velamentous insertion of umbilical cord, second trimester"
+	},
+	{
+		"code": "O43123",
+		"desc": "Velamentous insertion of umbilical cord, third trimester"
+	},
+	{
+		"code": "O43129",
+		"desc": "Velamentous insertion of umbilical cord, unspecified trimester"
+	},
+	{
+		"code": "Q9381",
+		"desc": "Velo-cardio-facial syndrome"
+	},
+	{
+		"code": "C1880",
+		"desc": "Vena cava filter"
+	},
+	{
+		"code": "Q4279",
+		"desc": "Vendaje ac, per square centimeter"
+	},
+	{
+		"code": "Q4252",
+		"desc": "Vendaje, per square centimeter"
+	},
+	{
+		"code": "A922",
+		"desc": "Venezuelan equine fever"
+	},
+	{
+		"code": "O2291",
+		"desc": "Venous complication in pregnancy, unspecified, first trimester"
+	},
+	{
+		"code": "O2292",
+		"desc": "Venous complication in pregnancy, unspecified, second trimester"
+	},
+	{
+		"code": "O2293",
+		"desc": "Venous complication in pregnancy, unspecified, third trimester"
+	},
+	{
+		"code": "O2290",
+		"desc": "Venous complication in pregnancy, unspecified, unspecified trimester"
+	},
+	{
+		"code": "O879",
+		"desc": "Venous complication in the puerperium, unspecified"
+	},
+	{
+		"code": "H34823",
+		"desc": "Venous engorgement, bilateral"
+	},
+	{
+		"code": "H34822",
+		"desc": "Venous engorgement, left eye"
+	},
+	{
+		"code": "H34821",
+		"desc": "Venous engorgement, right eye"
+	},
+	{
+		"code": "H34829",
+		"desc": "Venous engorgement, unspecified eye"
+	},
+	{
+		"code": "I872",
+		"desc": "Venous insufficiency (chronic) (peripheral)"
+	},
+	{
+		"code": "A4918",
+		"desc": "Venous pressure clamp, for hemodialysis, each"
+	},
+	{
+		"code": "G9201",
+		"desc": "Venous thromboembolism (vte) prophylaxis administered the day of or the day after hospital admission\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "G9199",
+		"desc": "Venous thromboembolism (vte) prophylaxis not administered the day of or the day after hospital admission for documented reasons (eg, patient is ambulatory, patient expired during inpatient stay, patient already on warfarin or another anticoagulant, other medical reason(s) or eg, patient left against medical advice, other patient reason(s))\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "G9200",
+		"desc": "Venous thromboembolism (vte) prophylaxis was not administered the day of or the day after hospital admission, reason not given\n                                    \n                                        \n                                        Terminated December 31, 2014."
+	},
+	{
+		"code": "J95851",
+		"desc": "Ventilator associated pneumonia"
+	},
+	{
+		"code": "K439",
+		"desc": "Ventral hernia without obstruction or gangrene"
+	},
+	{
+		"code": "I4901",
+		"desc": "Ventricular fibrillation"
+	},
+	{
+		"code": "I4902",
+		"desc": "Ventricular flutter"
+	},
+	{
+		"code": "I493",
+		"desc": "Ventricular premature depolarization"
+	},
+	{
+		"code": "Q210",
+		"desc": "Ventricular septal defect"
+	},
+	{
+		"code": "I232",
+		"desc": "Ventricular septal defect as current complication following acute myocardial infarction"
+	},
+	{
+		"code": "I472",
+		"desc": "Ventricular tachycardia"
+	},
+	{
+		"code": "R467",
+		"desc": "Verbosity and circumstantial detail obscuring reason for contact"
+	},
+	{
+		"code": "G8565",
+		"desc": "Verification and documentation of sudden or rapidly progressive hearing loss"
+	},
+	{
+		"code": "H1044",
+		"desc": "Vernal conjunctivitis"
+	},
+	{
+		"code": "H16263",
+		"desc": "Vernal keratoconjunctivitis, with limbar and corneal involvement, bilateral"
+	},
+	{
+		"code": "H16262",
+		"desc": "Vernal keratoconjunctivitis, with limbar and corneal involvement, left eye"
+	},
+	{
+		"code": "H16261",
+		"desc": "Vernal keratoconjunctivitis, with limbar and corneal involvement, right eye"
+	},
+	{
+		"code": "H16269",
+		"desc": "Vernal keratoconjunctivitis, with limbar and corneal involvement, unspecified eye"
+	},
+	{
+		"code": "M47022",
+		"desc": "Vertebral artery compression syndromes, cervical region"
+	},
+	{
+		"code": "M47021",
+		"desc": "Vertebral artery compression syndromes, occipito-atlanto-axial region"
+	},
+	{
+		"code": "M47029",
+		"desc": "Vertebral artery compression syndromes, site unspecified"
+	},
+	{
+		"code": "S9090",
+		"desc": "Vertebral axial decompression, per session"
+	},
+	{
+		"code": "G450",
+		"desc": "Vertebro-basilar artery syndrome"
+	},
+	{
+		"code": "M2634",
+		"desc": "Vertical displacement of fully erupted tooth or teeth"
+	},
+	{
+		"code": "H5053",
+		"desc": "Vertical heterophoria"
+	},
+	{
+		"code": "H5022",
+		"desc": "Vertical strabismus, left eye"
+	},
+	{
+		"code": "H5021",
+		"desc": "Vertical strabismus, right eye"
+	},
+	{
+		"code": "H823",
+		"desc": "Vertiginous syndromes in diseases classified elsewhere, bilateral"
+	},
+	{
+		"code": "H822",
+		"desc": "Vertiginous syndromes in diseases classified elsewhere, left ear"
+	},
+	{
+		"code": "H821",
+		"desc": "Vertiginous syndromes in diseases classified elsewhere, right ear"
+	},
+	{
+		"code": "H829",
+		"desc": "Vertiginous syndromes in diseases classified elsewhere, unspecified ear"
+	},
+	{
+		"code": "T7523XA",
+		"desc": "Vertigo from infrasound, initial encounter"
+	},
+	{
+		"code": "T7523XS",
+		"desc": "Vertigo from infrasound, sequela"
+	},
+	{
+		"code": "T7523XD",
+		"desc": "Vertigo from infrasound, subsequent encounter"
+	},
+	{
+		"code": "H8143",
+		"desc": "Vertigo of central origin, bilateral"
+	},
+	{
+		"code": "H8142",
+		"desc": "Vertigo of central origin, left ear"
+	},
+	{
+		"code": "H8141",
+		"desc": "Vertigo of central origin, right ear"
+	},
+	{
+		"code": "H8149",
+		"desc": "Vertigo of central origin, unspecified ear"
+	},
+	{
+		"code": "R460",
+		"desc": "Very low level of personal hygiene"
+	},
+	{
+		"code": "N322",
+		"desc": "Vesical fistula, not elsewhere classified"
+	},
+	{
+		"code": "R301",
+		"desc": "Vesical tenesmus"
+	},
+	{
+		"code": "N321",
+		"desc": "Vesicointestinal fistula"
+	},
+	{
+		"code": "N13732",
+		"desc": "Vesicoureteral-reflux with reflux nephropathy with hydroureter, bilateral"
+	},
+	{
+		"code": "N13731",
+		"desc": "Vesicoureteral-reflux with reflux nephropathy with hydroureter, unilateral"
+	},
+	{
+		"code": "N13739",
+		"desc": "Vesicoureteral-reflux with reflux nephropathy with hydroureter, unspecified"
+	},
+	{
+		"code": "N13722",
+		"desc": "Vesicoureteral-reflux with reflux nephropathy without hydroureter, bilateral"
+	},
+	{
+		"code": "N13721",
+		"desc": "Vesicoureteral-reflux with reflux nephropathy without hydroureter, unilateral"
+	},
+	{
+		"code": "N13729",
+		"desc": "Vesicoureteral-reflux with reflux nephropathy without hydroureter, unspecified"
+	},
+	{
+		"code": "N1371",
+		"desc": "Vesicoureteral-reflux without reflux nephropathy"
+	},
+	{
+		"code": "N1370",
+		"desc": "Vesicoureteral-reflux, unspecified"
+	},
+	{
+		"code": "N820",
+		"desc": "Vesicovaginal fistula"
+	},
+	{
+		"code": "G0365",
+		"desc": "Vessel mapping of vessels for hemodialysis access (services for preoperative vessel mapping prior to creation of hemodialysis access using an autogenous hemodialysis conduit, including arterial inflow and venous outflow)\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "H8123",
+		"desc": "Vestibular neuronitis, bilateral"
+	},
+	{
+		"code": "H8122",
+		"desc": "Vestibular neuronitis, left ear"
+	},
+	{
+		"code": "H8121",
+		"desc": "Vestibular neuronitis, right ear"
+	},
+	{
+		"code": "H8120",
+		"desc": "Vestibular neuronitis, unspecified ear"
+	},
+	{
+		"code": "S9476",
+		"desc": "Vestibular rehabilitation program, non-physician provider, per diem"
+	},
+	{
+		"code": "Q4309",
+		"desc": "Via matrix, per square centimeter"
+	},
+	{
+		"code": "L504",
+		"desc": "Vibratory urticaria"
+	},
+	{
+		"code": "B9682",
+		"desc": "Vibrio vulnificus as the cause of diseases classified elsewhere"
+	},
+	{
+		"code": "Z654",
+		"desc": "Victim of crime and terrorism"
+	},
+	{
+		"code": "M12272",
+		"desc": "Villonodular synovitis (pigmented), left ankle and foot"
+	},
+	{
+		"code": "M12222",
+		"desc": "Villonodular synovitis (pigmented), left elbow"
+	},
+	{
+		"code": "M12242",
+		"desc": "Villonodular synovitis (pigmented), left hand"
+	},
+	{
+		"code": "M12252",
+		"desc": "Villonodular synovitis (pigmented), left hip"
+	},
+	{
+		"code": "M12262",
+		"desc": "Villonodular synovitis (pigmented), left knee"
+	},
+	{
+		"code": "M12212",
+		"desc": "Villonodular synovitis (pigmented), left shoulder"
+	},
+	{
+		"code": "M12232",
+		"desc": "Villonodular synovitis (pigmented), left wrist"
+	},
+	{
+		"code": "M1229",
+		"desc": "Villonodular synovitis (pigmented), multiple sites"
+	},
+	{
+		"code": "M1228",
+		"desc": "Villonodular synovitis (pigmented), other specified site"
+	},
+	{
+		"code": "M12271",
+		"desc": "Villonodular synovitis (pigmented), right ankle and foot"
+	},
+	{
+		"code": "M12221",
+		"desc": "Villonodular synovitis (pigmented), right elbow"
+	},
+	{
+		"code": "M12241",
+		"desc": "Villonodular synovitis (pigmented), right hand"
+	},
+	{
+		"code": "M12251",
+		"desc": "Villonodular synovitis (pigmented), right hip"
+	},
+	{
+		"code": "M12261",
+		"desc": "Villonodular synovitis (pigmented), right knee"
+	},
+	{
+		"code": "M12211",
+		"desc": "Villonodular synovitis (pigmented), right shoulder"
+	},
+	{
+		"code": "M12231",
+		"desc": "Villonodular synovitis (pigmented), right wrist"
+	},
+	{
+		"code": "M12279",
+		"desc": "Villonodular synovitis (pigmented), unspecified ankle and foot"
+	},
+	{
+		"code": "M12229",
+		"desc": "Villonodular synovitis (pigmented), unspecified elbow"
+	},
+	{
+		"code": "M12249",
+		"desc": "Villonodular synovitis (pigmented), unspecified hand"
+	},
+	{
+		"code": "M12259",
+		"desc": "Villonodular synovitis (pigmented), unspecified hip"
+	},
+	{
+		"code": "M12269",
+		"desc": "Villonodular synovitis (pigmented), unspecified knee"
+	},
+	{
+		"code": "M12219",
+		"desc": "Villonodular synovitis (pigmented), unspecified shoulder"
+	},
+	{
+		"code": "M1220",
+		"desc": "Villonodular synovitis (pigmented), unspecified site"
+	},
+	{
+		"code": "M12239",
+		"desc": "Villonodular synovitis (pigmented), unspecified wrist"
+	},
+	{
+		"code": "Q4251",
+		"desc": "Vim, per square centimeter"
+	},
+	{
+		"code": "J9370",
+		"desc": "Vincristine sulfate, 1 mg"
+	},
+	{
+		"code": "R456",
+		"desc": "Violent behavior"
+	},
+	{
+		"code": "B3324",
+		"desc": "Viral cardiomyopathy"
+	},
+	{
+		"code": "B3320",
+		"desc": "Viral carditis, unspecified"
+	},
+	{
+		"code": "B309",
+		"desc": "Viral conjunctivitis, unspecified"
+	},
+	{
+		"code": "B3321",
+		"desc": "Viral endocarditis"
+	},
+	{
+		"code": "O9842",
+		"desc": "Viral hepatitis complicating childbirth"
+	},
+	{
+		"code": "O98411",
+		"desc": "Viral hepatitis complicating pregnancy, first trimester"
+	},
+	{
+		"code": "O98412",
+		"desc": "Viral hepatitis complicating pregnancy, second trimester"
+	},
+	{
+		"code": "O98413",
+		"desc": "Viral hepatitis complicating pregnancy, third trimester"
+	},
+	{
+		"code": "O98419",
+		"desc": "Viral hepatitis complicating pregnancy, unspecified trimester"
+	},
+	{
+		"code": "O9843",
+		"desc": "Viral hepatitis complicating the puerperium"
+	},
+	{
+		"code": "B349",
+		"desc": "Viral infection, unspecified"
+	},
+	{
+		"code": "A084",
+		"desc": "Viral intestinal infection, unspecified"
+	},
+	{
+		"code": "A879",
+		"desc": "Viral meningitis, unspecified"
+	},
+	{
+		"code": "B3322",
+		"desc": "Viral myocarditis"
+	},
+	{
+		"code": "B3323",
+		"desc": "Viral pericarditis"
+	},
+	{
+		"code": "B302",
+		"desc": "Viral pharyngoconjunctivitis"
+	},
+	{
+		"code": "J129",
+		"desc": "Viral pneumonia, unspecified"
+	},
+	{
+		"code": "B079",
+		"desc": "Viral wart, unspecified"
+	},
+	{
+		"code": "E1905",
+		"desc": "Virtual reality cognitive behavioral therapy device (cbt), including pre-programmed therapy software"
+	},
+	{
+		"code": "B830",
+		"desc": "Visceral larva migrans"
+	},
+	{
+		"code": "B550",
+		"desc": "Visceral leishmaniasis"
+	},
+	{
+		"code": "R192",
+		"desc": "Visible peristalsis"
+	},
+	{
+		"code": "V2799",
+		"desc": "Vision item or service, miscellaneous"
+	},
+	{
+		"code": "V2797",
+		"desc": "Vision supply, accessory and/or service component of another hcpcs vision code"
+	},
+	{
+		"code": "G2211",
+		"desc": "Visit complexity inherent to evaluation and management associated with medical care services that serve as the continuing focal point for all needed health care services and/or with medical care services that are part of ongoing care related to a patient's single, serious condition or a complex condition.  (add-on code, list separately in addition to office/outpatient evaluation and management visit, new or established)"
+	},
+	{
+		"code": "R483",
+		"desc": "Visual agnosia"
+	},
+	{
+		"code": "H5503",
+		"desc": "Visual deprivation nystagmus"
+	},
+	{
+		"code": "H53143",
+		"desc": "Visual discomfort, bilateral"
+	},
+	{
+		"code": "H53142",
+		"desc": "Visual discomfort, left eye"
+	},
+	{
+		"code": "H53141",
+		"desc": "Visual discomfort, right eye"
+	},
+	{
+		"code": "H53149",
+		"desc": "Visual discomfort, unspecified"
+	},
+	{
+		"code": "H5315",
+		"desc": "Visual distortions of shape and size"
+	},
+	{
+		"code": "R441",
+		"desc": "Visual hallucinations"
+	},
+	{
+		"code": "R41842",
+		"desc": "Visuospatial deficit"
+	},
+	{
+		"code": "I69312",
+		"desc": "Visuospatial deficit and spatial neglect following cerebral infarction"
+	},
+	{
+		"code": "I69112",
+		"desc": "Visuospatial deficit and spatial neglect following nontraumatic intracerebral hemorrhage"
+	},
+	{
+		"code": "I69012",
+		"desc": "Visuospatial deficit and spatial neglect following nontraumatic subarachnoid hemorrhage"
+	},
+	{
+		"code": "I69812",
+		"desc": "Visuospatial deficit and spatial neglect following other cerebrovascular disease"
+	},
+	{
+		"code": "I69212",
+		"desc": "Visuospatial deficit and spatial neglect following other nontraumatic intracranial hemorrhage"
+	},
+	{
+		"code": "I69912",
+		"desc": "Visuospatial deficit and spatial neglect following unspecified cerebrovascular disease"
+	},
+	{
+		"code": "E501",
+		"desc": "Vitamin A deficiency with Bitot's spot and conjunctival xerosis"
+	},
+	{
+		"code": "E500",
+		"desc": "Vitamin A deficiency with conjunctival xerosis"
+	},
+	{
+		"code": "E503",
+		"desc": "Vitamin A deficiency with corneal ulceration and xerosis"
+	},
+	{
+		"code": "E502",
+		"desc": "Vitamin A deficiency with corneal xerosis"
+	},
+	{
+		"code": "E504",
+		"desc": "Vitamin A deficiency with keratomalacia"
+	},
+	{
+		"code": "E505",
+		"desc": "Vitamin A deficiency with night blindness"
+	},
+	{
+		"code": "E506",
+		"desc": "Vitamin A deficiency with xerophthalmic scars of cornea"
+	},
+	{
+		"code": "E509",
+		"desc": "Vitamin A deficiency, unspecified"
+	},
+	{
+		"code": "E539",
+		"desc": "Vitamin B deficiency, unspecified"
+	},
+	{
+		"code": "D510",
+		"desc": "Vitamin B12 deficiency anemia due to intrinsic factor deficiency"
+	},
+	{
+		"code": "D511",
+		"desc": "Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria"
+	},
+	{
+		"code": "D519",
+		"desc": "Vitamin B12 deficiency anemia, unspecified"
+	},
+	{
+		"code": "E559",
+		"desc": "Vitamin D deficiency, unspecified"
+	},
+	{
+		"code": "E569",
+		"desc": "Vitamin deficiency, unspecified"
+	},
+	{
+		"code": "L80",
+		"desc": "Vitiligo"
+	},
+	{
+		"code": "H02736",
+		"desc": "Vitiligo of left eye, unspecified eyelid and periocular area"
+	},
+	{
+		"code": "H02735",
+		"desc": "Vitiligo of left lower eyelid and periocular area"
+	},
+	{
+		"code": "H02734",
+		"desc": "Vitiligo of left upper eyelid and periocular area"
+	},
+	{
+		"code": "H02733",
+		"desc": "Vitiligo of right eye, unspecified eyelid and periocular area"
+	},
+	{
+		"code": "H02732",
+		"desc": "Vitiligo of right lower eyelid and periocular area"
+	},
+	{
+		"code": "H02731",
+		"desc": "Vitiligo of right upper eyelid and periocular area"
+	},
+	{
+		"code": "H02739",
+		"desc": "Vitiligo of unspecified eye, unspecified eyelid and periocular area"
+	},
+	{
+		"code": "C9770",
+		"desc": "Vitrectomy, mechanical, pars plana approach, with subretinal injection of pharmacologic/biologic agent\n                                    \n                                        \n                                        Terminated December 31, 2023."
+	},
+	{
+		"code": "H43823",
+		"desc": "Vitreomacular adhesion, bilateral"
+	},
+	{
+		"code": "H43822",
+		"desc": "Vitreomacular adhesion, left eye"
+	},
+	{
+		"code": "H43821",
+		"desc": "Vitreomacular adhesion, right eye"
+	},
+	{
+		"code": "H43829",
+		"desc": "Vitreomacular adhesion, unspecified eye"
+	},
+	{
+		"code": "H3551",
+		"desc": "Vitreoretinal dystrophy"
+	},
+	{
+		"code": "H44023",
+		"desc": "Vitreous abscess (chronic), bilateral"
+	},
+	{
+		"code": "H44022",
+		"desc": "Vitreous abscess (chronic), left eye"
+	},
+	{
+		"code": "H44021",
+		"desc": "Vitreous abscess (chronic), right eye"
+	},
+	{
+		"code": "H44029",
+		"desc": "Vitreous abscess (chronic), unspecified eye"
+	},
+	{
+		"code": "H43813",
+		"desc": "Vitreous degeneration, bilateral"
+	},
+	{
+		"code": "H43812",
+		"desc": "Vitreous degeneration, left eye"
+	},
+	{
+		"code": "H43811",
+		"desc": "Vitreous degeneration, right eye"
+	},
+	{
+		"code": "H43819",
+		"desc": "Vitreous degeneration, unspecified eye"
+	},
+	{
+		"code": "H4313",
+		"desc": "Vitreous hemorrhage, bilateral"
+	},
+	{
+		"code": "H4312",
+		"desc": "Vitreous hemorrhage, left eye"
+	},
+	{
+		"code": "H4311",
+		"desc": "Vitreous hemorrhage, right eye"
+	},
+	{
+		"code": "H4310",
+		"desc": "Vitreous hemorrhage, unspecified eye"
+	},
+	{
+		"code": "H43313",
+		"desc": "Vitreous membranes and strands, bilateral"
+	},
+	{
+		"code": "H43312",
+		"desc": "Vitreous membranes and strands, left eye"
+	},
+	{
+		"code": "H43311",
+		"desc": "Vitreous membranes and strands, right eye"
+	},
+	{
+		"code": "H43319",
+		"desc": "Vitreous membranes and strands, unspecified eye"
+	},
+	{
+		"code": "H4303",
+		"desc": "Vitreous prolapse, bilateral"
+	},
+	{
+		"code": "H4302",
+		"desc": "Vitreous prolapse, left eye"
+	},
+	{
+		"code": "H4301",
+		"desc": "Vitreous prolapse, right eye"
+	},
+	{
+		"code": "H4300",
+		"desc": "Vitreous prolapse, unspecified eye"
+	},
+	{
+		"code": "H20823",
+		"desc": "Vogt-Koyanagi syndrome, bilateral"
+	},
+	{
+		"code": "H20822",
+		"desc": "Vogt-Koyanagi syndrome, left eye"
+	},
+	{
+		"code": "H20821",
+		"desc": "Vogt-Koyanagi syndrome, right eye"
+	},
+	{
+		"code": "H20829",
+		"desc": "Vogt-Koyanagi syndrome, unspecified eye"
+	},
+	{
+		"code": "L8510",
+		"desc": "Voice amplifier"
+	},
+	{
+		"code": "G9171",
+		"desc": "Voice functional limitation, current status at therapy episode outset and at reporting intervals\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G9173",
+		"desc": "Voice functional limitation, discharge status at discharge from therapy or to end reporting\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G9172",
+		"desc": "Voice functional limitation, projected goal status at therapy episode outset, at reporting intervals, and at discharge or to end reporting\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "X35XXXA",
+		"desc": "Volcanic eruption, initial encounter"
+	},
+	{
+		"code": "X35XXXS",
+		"desc": "Volcanic eruption, sequela"
+	},
+	{
+		"code": "X35XXXD",
+		"desc": "Volcanic eruption, subsequent encounter"
+	},
+	{
+		"code": "E0450",
+		"desc": "Volume control ventilator, without pressure support mode, may include pressure control mode, used with invasive interface (e.g., tracheostomy tube)\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "E0461",
+		"desc": "Volume control ventilator, without pressure support mode, may include pressure control mode, used with non-invasive interface (e.g., mask)\n                                    \n                                        \n                                        Terminated December 31, 2015."
+	},
+	{
+		"code": "E869",
+		"desc": "Volume depletion, unspecified"
+	},
+	{
+		"code": "Y992",
+		"desc": "Volunteer activity"
+	},
+	{
+		"code": "K562",
+		"desc": "Volvulus"
+	},
+	{
+		"code": "K910",
+		"desc": "Vomiting following gastrointestinal surgery"
+	},
+	{
+		"code": "R1113",
+		"desc": "Vomiting of fecal matter"
+	},
+	{
+		"code": "O219",
+		"desc": "Vomiting of pregnancy, unspecified"
+	},
+	{
+		"code": "R1111",
+		"desc": "Vomiting without nausea"
+	},
+	{
+		"code": "R1110",
+		"desc": "Vomiting, unspecified"
+	},
+	{
+		"code": "D680",
+		"desc": "Von Willebrand's disease"
+	},
+	{
+		"code": "F653",
+		"desc": "Voyeurism"
+	},
+	{
+		"code": "I863",
+		"desc": "Vulval varices"
+	},
+	{
+		"code": "N907",
+		"desc": "Vulvar cyst"
+	},
+	{
+		"code": "N94810",
+		"desc": "Vulvar vestibulitis"
+	},
+	{
+		"code": "N94819",
+		"desc": "Vulvodynia, unspecified"
+	},
+	{
+		"code": "E7401",
+		"desc": "von Gierke disease"
+	}
+]

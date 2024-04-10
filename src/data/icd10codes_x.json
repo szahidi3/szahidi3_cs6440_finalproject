@@ -1,0 +1,106 @@
+[
+    {
+		"code": "E71529",
+		"desc": "X-linked adrenoleukodystrophy, unspecified type"
+	},
+	{
+		"code": "Q801",
+		"desc": "X-linked ichthyosis"
+	},
+	{
+		"code": "E70310",
+		"desc": "X-linked ocular albinism"
+	},
+	{
+		"code": "H0266",
+		"desc": "Xanthelasma of left eye, unspecified eyelid"
+	},
+	{
+		"code": "H0265",
+		"desc": "Xanthelasma of left lower eyelid"
+	},
+	{
+		"code": "H0264",
+		"desc": "Xanthelasma of left upper eyelid"
+	},
+	{
+		"code": "H0263",
+		"desc": "Xanthelasma of right eye, unspecified eyelid"
+	},
+	{
+		"code": "H0262",
+		"desc": "Xanthelasma of right lower eyelid"
+	},
+	{
+		"code": "H0261",
+		"desc": "Xanthelasma of right upper eyelid"
+	},
+	{
+		"code": "H0260",
+		"desc": "Xanthelasma of unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "Q4280",
+		"desc": "Xcell amnio matrix, per square centimeter"
+	},
+	{
+		"code": "Q4234",
+		"desc": "Xcellerate, per square centimeter"
+	},
+	{
+		"code": "A2004",
+		"desc": "Xcellistem, 1 mg"
+	},
+	{
+		"code": "Q4142",
+		"desc": "Xcm biologic tissue matrix, per square centimeter"
+	},
+	{
+		"code": "C9150",
+		"desc": "Xenon xe-129 hyperpolarized gas, diagnostic, per study dose"
+	},
+	{
+		"code": "A9558",
+		"desc": "Xenon xe-133 gas, diagnostic, per 10 millicuries"
+	},
+	{
+		"code": "H01146",
+		"desc": "Xeroderma of left eye, unspecified eyelid"
+	},
+	{
+		"code": "H01145",
+		"desc": "Xeroderma of left lower eyelid"
+	},
+	{
+		"code": "H01144",
+		"desc": "Xeroderma of left upper eyelid"
+	},
+	{
+		"code": "H01143",
+		"desc": "Xeroderma of right eye, unspecified eyelid"
+	},
+	{
+		"code": "H01142",
+		"desc": "Xeroderma of right lower eyelid"
+	},
+	{
+		"code": "H01141",
+		"desc": "Xeroderma of right upper eyelid"
+	},
+	{
+		"code": "H01149",
+		"desc": "Xeroderma of unspecified eye, unspecified eyelid"
+	},
+	{
+		"code": "Q821",
+		"desc": "Xeroderma pigmentosum"
+	},
+	{
+		"code": "L853",
+		"desc": "Xerosis cutis"
+	},
+	{
+		"code": "Q4204",
+		"desc": "Xwrap, per square centimeter"
+	}
+]

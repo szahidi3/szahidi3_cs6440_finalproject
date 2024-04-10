@@ -1,0 +1,2330 @@
+[
+    {
+		"code": "T2025",
+		"desc": "Waiver services; not otherwise specified (nos)"
+	},
+	{
+		"code": "C880",
+		"desc": "Waldenstrom macroglobulinemia"
+	},
+	{
+		"code": "W2203XA",
+		"desc": "Walked into furniture, initial encounter"
+	},
+	{
+		"code": "W2203XS",
+		"desc": "Walked into furniture, sequela"
+	},
+	{
+		"code": "W2203XD",
+		"desc": "Walked into furniture, subsequent encounter"
+	},
+	{
+		"code": "W2202XA",
+		"desc": "Walked into lamppost, initial encounter"
+	},
+	{
+		"code": "W2202XS",
+		"desc": "Walked into lamppost, sequela"
+	},
+	{
+		"code": "W2202XD",
+		"desc": "Walked into lamppost, subsequent encounter"
+	},
+	{
+		"code": "W2201XA",
+		"desc": "Walked into wall, initial encounter"
+	},
+	{
+		"code": "W2201XS",
+		"desc": "Walked into wall, sequela"
+	},
+	{
+		"code": "W2201XD",
+		"desc": "Walked into wall, subsequent encounter"
+	},
+	{
+		"code": "E0152",
+		"desc": "Walker, battery powered, wheeled, folding, adjustable or fixed height"
+	},
+	{
+		"code": "E0144",
+		"desc": "Walker, enclosed, four sided framed, rigid or folding, wheeled with posterior seat"
+	},
+	{
+		"code": "E0135",
+		"desc": "Walker, folding (pickup), adjustable or fixed height"
+	},
+	{
+		"code": "E0143",
+		"desc": "Walker, folding, wheeled, adjustable or fixed height"
+	},
+	{
+		"code": "E0147",
+		"desc": "Walker, heavy duty, multiple braking system, variable wheel resistance"
+	},
+	{
+		"code": "E0149",
+		"desc": "Walker, heavy duty, wheeled, rigid or folding, any type"
+	},
+	{
+		"code": "E0148",
+		"desc": "Walker, heavy duty, without wheels, rigid or folding, any type, each"
+	},
+	{
+		"code": "E0130",
+		"desc": "Walker, rigid (pickup), adjustable or fixed height"
+	},
+	{
+		"code": "E0141",
+		"desc": "Walker, rigid, wheeled, adjustable or fixed height"
+	},
+	{
+		"code": "E0140",
+		"desc": "Walker, with trunk support, adjustable or fixed height, any type"
+	},
+	{
+		"code": "L4386",
+		"desc": "Walking boot, non-pneumatic, with or without joints, with or without interface material, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L4387",
+		"desc": "Walking boot, non-pneumatic, with or without joints, with or without interface material, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L4360",
+		"desc": "Walking boot, pneumatic and/or vacuum, with or without joints, with or without interface material, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L4361",
+		"desc": "Walking boot, pneumatic and/or vacuum, with or without joints, with or without interface material, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "Z9183",
+		"desc": "Wandering in diseases classified elsewhere"
+	},
+	{
+		"code": "Y36541A",
+		"desc": "War operation involving nuclear radiation effects of nuclear weapon, civilian, initial encounter"
+	},
+	{
+		"code": "Y36541S",
+		"desc": "War operation involving nuclear radiation effects of nuclear weapon, civilian, sequela"
+	},
+	{
+		"code": "Y36541D",
+		"desc": "War operation involving nuclear radiation effects of nuclear weapon, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36540A",
+		"desc": "War operation involving nuclear radiation effects of nuclear weapon, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36540S",
+		"desc": "War operation involving nuclear radiation effects of nuclear weapon, military personnel, sequela"
+	},
+	{
+		"code": "Y36540D",
+		"desc": "War operation involving nuclear radiation effects of nuclear weapon, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36591A",
+		"desc": "War operation involving other effects of nuclear weapons, civilian, initial encounter"
+	},
+	{
+		"code": "Y36591S",
+		"desc": "War operation involving other effects of nuclear weapons, civilian, sequela"
+	},
+	{
+		"code": "Y36591D",
+		"desc": "War operation involving other effects of nuclear weapons, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36590A",
+		"desc": "War operation involving other effects of nuclear weapons, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36590S",
+		"desc": "War operation involving other effects of nuclear weapons, military personnel, sequela"
+	},
+	{
+		"code": "Y36590D",
+		"desc": "War operation involving other effects of nuclear weapons, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36051A",
+		"desc": "War operations involving accidental detonation of onboard marine weapons, civilian, initial encounter"
+	},
+	{
+		"code": "Y36051S",
+		"desc": "War operations involving accidental detonation of onboard marine weapons, civilian, sequela"
+	},
+	{
+		"code": "Y36051D",
+		"desc": "War operations involving accidental detonation of onboard marine weapons, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36050A",
+		"desc": "War operations involving accidental detonation of onboard marine weapons, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36050S",
+		"desc": "War operations involving accidental detonation of onboard marine weapons, military personnel, sequela"
+	},
+	{
+		"code": "Y36050D",
+		"desc": "War operations involving accidental detonation of onboard marine weapons, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y366X1A",
+		"desc": "War operations involving biological weapons, civilian, initial encounter"
+	},
+	{
+		"code": "Y366X1S",
+		"desc": "War operations involving biological weapons, civilian, sequela"
+	},
+	{
+		"code": "Y366X1D",
+		"desc": "War operations involving biological weapons, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y366X0A",
+		"desc": "War operations involving biological weapons, military personnel, initial encounter"
+	},
+	{
+		"code": "Y366X0S",
+		"desc": "War operations involving biological weapons, military personnel, sequela"
+	},
+	{
+		"code": "Y366X0D",
+		"desc": "War operations involving biological weapons, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y367X1A",
+		"desc": "War operations involving chemical weapons and other forms of unconventional warfare, civilian, initial encounter"
+	},
+	{
+		"code": "Y367X1S",
+		"desc": "War operations involving chemical weapons and other forms of unconventional warfare, civilian, sequela"
+	},
+	{
+		"code": "Y367X1D",
+		"desc": "War operations involving chemical weapons and other forms of unconventional warfare, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y367X0A",
+		"desc": "War operations involving chemical weapons and other forms of unconventional warfare, military personnel, initial encounter"
+	},
+	{
+		"code": "Y367X0S",
+		"desc": "War operations involving chemical weapons and other forms of unconventional warfare, military personnel, sequela"
+	},
+	{
+		"code": "Y367X0D",
+		"desc": "War operations involving chemical weapons and other forms of unconventional warfare, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36451A",
+		"desc": "War operations involving combat using blunt or piercing object, civilian, initial encounter"
+	},
+	{
+		"code": "Y36451S",
+		"desc": "War operations involving combat using blunt or piercing object, civilian, sequela"
+	},
+	{
+		"code": "Y36451D",
+		"desc": "War operations involving combat using blunt or piercing object, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36450A",
+		"desc": "War operations involving combat using blunt or piercing object, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36450S",
+		"desc": "War operations involving combat using blunt or piercing object, military personnel, sequela"
+	},
+	{
+		"code": "Y36450D",
+		"desc": "War operations involving combat using blunt or piercing object, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36141A",
+		"desc": "War operations involving destruction of aircraft due to accidental detonation of onboard munitions and explosives, civilian, initial encounter"
+	},
+	{
+		"code": "Y36141S",
+		"desc": "War operations involving destruction of aircraft due to accidental detonation of onboard munitions and explosives, civilian, sequela"
+	},
+	{
+		"code": "Y36141D",
+		"desc": "War operations involving destruction of aircraft due to accidental detonation of onboard munitions and explosives, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36140A",
+		"desc": "War operations involving destruction of aircraft due to accidental detonation of onboard munitions and explosives, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36140S",
+		"desc": "War operations involving destruction of aircraft due to accidental detonation of onboard munitions and explosives, military personnel, sequela"
+	},
+	{
+		"code": "Y36140D",
+		"desc": "War operations involving destruction of aircraft due to accidental detonation of onboard munitions and explosives, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36121A",
+		"desc": "War operations involving destruction of aircraft due to collision with other aircraft, civilian, initial encounter"
+	},
+	{
+		"code": "Y36121S",
+		"desc": "War operations involving destruction of aircraft due to collision with other aircraft, civilian, sequela"
+	},
+	{
+		"code": "Y36121D",
+		"desc": "War operations involving destruction of aircraft due to collision with other aircraft, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36120A",
+		"desc": "War operations involving destruction of aircraft due to collision with other aircraft, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36120S",
+		"desc": "War operations involving destruction of aircraft due to collision with other aircraft, military personnel, sequela"
+	},
+	{
+		"code": "Y36120D",
+		"desc": "War operations involving destruction of aircraft due to collision with other aircraft, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36111A",
+		"desc": "War operations involving destruction of aircraft due to enemy fire or explosives, civilian, initial encounter"
+	},
+	{
+		"code": "Y36111S",
+		"desc": "War operations involving destruction of aircraft due to enemy fire or explosives, civilian, sequela"
+	},
+	{
+		"code": "Y36111D",
+		"desc": "War operations involving destruction of aircraft due to enemy fire or explosives, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36110A",
+		"desc": "War operations involving destruction of aircraft due to enemy fire or explosives, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36110S",
+		"desc": "War operations involving destruction of aircraft due to enemy fire or explosives, military personnel, sequela"
+	},
+	{
+		"code": "Y36110D",
+		"desc": "War operations involving destruction of aircraft due to enemy fire or explosives, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36131A",
+		"desc": "War operations involving destruction of aircraft due to onboard fire, civilian, initial encounter"
+	},
+	{
+		"code": "Y36131S",
+		"desc": "War operations involving destruction of aircraft due to onboard fire, civilian, sequela"
+	},
+	{
+		"code": "Y36131D",
+		"desc": "War operations involving destruction of aircraft due to onboard fire, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36130A",
+		"desc": "War operations involving destruction of aircraft due to onboard fire, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36130S",
+		"desc": "War operations involving destruction of aircraft due to onboard fire, military personnel, sequela"
+	},
+	{
+		"code": "Y36130D",
+		"desc": "War operations involving destruction of aircraft due to onboard fire, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36511A",
+		"desc": "War operations involving direct blast effect of nuclear weapon, civilian, initial encounter"
+	},
+	{
+		"code": "Y36511S",
+		"desc": "War operations involving direct blast effect of nuclear weapon, civilian, sequela"
+	},
+	{
+		"code": "Y36511D",
+		"desc": "War operations involving direct blast effect of nuclear weapon, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36510A",
+		"desc": "War operations involving direct blast effect of nuclear weapon, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36510S",
+		"desc": "War operations involving direct blast effect of nuclear weapon, military personnel, sequela"
+	},
+	{
+		"code": "Y36510D",
+		"desc": "War operations involving direct blast effect of nuclear weapon, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36241A",
+		"desc": "War operations involving explosion due to accidental detonation and discharge of own munitions or munitions launch device, civilian, initial encounter"
+	},
+	{
+		"code": "Y36241S",
+		"desc": "War operations involving explosion due to accidental detonation and discharge of own munitions or munitions launch device, civilian, sequela"
+	},
+	{
+		"code": "Y36241D",
+		"desc": "War operations involving explosion due to accidental detonation and discharge of own munitions or munitions launch device, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36240A",
+		"desc": "War operations involving explosion due to accidental detonation and discharge of own munitions or munitions launch device, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36240S",
+		"desc": "War operations involving explosion due to accidental detonation and discharge of own munitions or munitions launch device, military personnel, sequela"
+	},
+	{
+		"code": "Y36240D",
+		"desc": "War operations involving explosion due to accidental detonation and discharge of own munitions or munitions launch device, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36211A",
+		"desc": "War operations involving explosion of aerial bomb, civilian, initial encounter"
+	},
+	{
+		"code": "Y36211S",
+		"desc": "War operations involving explosion of aerial bomb, civilian, sequela"
+	},
+	{
+		"code": "Y36211D",
+		"desc": "War operations involving explosion of aerial bomb, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36210A",
+		"desc": "War operations involving explosion of aerial bomb, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36210S",
+		"desc": "War operations involving explosion of aerial bomb, military personnel, sequela"
+	},
+	{
+		"code": "Y36210D",
+		"desc": "War operations involving explosion of aerial bomb, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36011A",
+		"desc": "War operations involving explosion of depth-charge, civilian, initial encounter"
+	},
+	{
+		"code": "Y36011S",
+		"desc": "War operations involving explosion of depth-charge, civilian, sequela"
+	},
+	{
+		"code": "Y36011D",
+		"desc": "War operations involving explosion of depth-charge, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36010A",
+		"desc": "War operations involving explosion of depth-charge, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36010S",
+		"desc": "War operations involving explosion of depth-charge, military personnel, sequela"
+	},
+	{
+		"code": "Y36010D",
+		"desc": "War operations involving explosion of depth-charge, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36221A",
+		"desc": "War operations involving explosion of guided missile, civilian, initial encounter"
+	},
+	{
+		"code": "Y36221S",
+		"desc": "War operations involving explosion of guided missile, civilian, sequela"
+	},
+	{
+		"code": "Y36221D",
+		"desc": "War operations involving explosion of guided missile, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36220A",
+		"desc": "War operations involving explosion of guided missile, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36220S",
+		"desc": "War operations involving explosion of guided missile, military personnel, sequela"
+	},
+	{
+		"code": "Y36220D",
+		"desc": "War operations involving explosion of guided missile, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36231A",
+		"desc": "War operations involving explosion of improvised explosive device [IED], civilian, initial encounter"
+	},
+	{
+		"code": "Y36231S",
+		"desc": "War operations involving explosion of improvised explosive device [IED], civilian, sequela"
+	},
+	{
+		"code": "Y36231D",
+		"desc": "War operations involving explosion of improvised explosive device [IED], civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36230A",
+		"desc": "War operations involving explosion of improvised explosive device [IED], military personnel, initial encounter"
+	},
+	{
+		"code": "Y36230S",
+		"desc": "War operations involving explosion of improvised explosive device [IED], military personnel, sequela"
+	},
+	{
+		"code": "Y36230D",
+		"desc": "War operations involving explosion of improvised explosive device [IED], military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36021A",
+		"desc": "War operations involving explosion of marine mine, civilian, initial encounter"
+	},
+	{
+		"code": "Y36021S",
+		"desc": "War operations involving explosion of marine mine, civilian, sequela"
+	},
+	{
+		"code": "Y36021D",
+		"desc": "War operations involving explosion of marine mine, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36020A",
+		"desc": "War operations involving explosion of marine mine, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36020S",
+		"desc": "War operations involving explosion of marine mine, military personnel, sequela"
+	},
+	{
+		"code": "Y36020D",
+		"desc": "War operations involving explosion of marine mine, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36091A",
+		"desc": "War operations involving explosion of other marine weapons, civilian, initial encounter"
+	},
+	{
+		"code": "Y36091S",
+		"desc": "War operations involving explosion of other marine weapons, civilian, sequela"
+	},
+	{
+		"code": "Y36091D",
+		"desc": "War operations involving explosion of other marine weapons, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36090A",
+		"desc": "War operations involving explosion of other marine weapons, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36090S",
+		"desc": "War operations involving explosion of other marine weapons, military personnel, sequela"
+	},
+	{
+		"code": "Y36090D",
+		"desc": "War operations involving explosion of other marine weapons, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36031A",
+		"desc": "War operations involving explosion of sea-based artillery shell, civilian, initial encounter"
+	},
+	{
+		"code": "Y36031S",
+		"desc": "War operations involving explosion of sea-based artillery shell, civilian, sequela"
+	},
+	{
+		"code": "Y36031D",
+		"desc": "War operations involving explosion of sea-based artillery shell, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36030A",
+		"desc": "War operations involving explosion of sea-based artillery shell, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36030S",
+		"desc": "War operations involving explosion of sea-based artillery shell, military personnel, sequela"
+	},
+	{
+		"code": "Y36030D",
+		"desc": "War operations involving explosion of sea-based artillery shell, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36041A",
+		"desc": "War operations involving explosion of torpedo, civilian, initial encounter"
+	},
+	{
+		"code": "Y36041S",
+		"desc": "War operations involving explosion of torpedo, civilian, sequela"
+	},
+	{
+		"code": "Y36041D",
+		"desc": "War operations involving explosion of torpedo, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36040A",
+		"desc": "War operations involving explosion of torpedo, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36040S",
+		"desc": "War operations involving explosion of torpedo, military personnel, sequela"
+	},
+	{
+		"code": "Y36040D",
+		"desc": "War operations involving explosion of torpedo, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36001A",
+		"desc": "War operations involving explosion of unspecified marine weapon, civilian, initial encounter"
+	},
+	{
+		"code": "Y36001S",
+		"desc": "War operations involving explosion of unspecified marine weapon, civilian, sequela"
+	},
+	{
+		"code": "Y36001D",
+		"desc": "War operations involving explosion of unspecified marine weapon, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36000A",
+		"desc": "War operations involving explosion of unspecified marine weapon, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36000S",
+		"desc": "War operations involving explosion of unspecified marine weapon, military personnel, sequela"
+	},
+	{
+		"code": "Y36000D",
+		"desc": "War operations involving explosion of unspecified marine weapon, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36421A",
+		"desc": "War operations involving firearms pellets, civilian, initial encounter"
+	},
+	{
+		"code": "Y36421S",
+		"desc": "War operations involving firearms pellets, civilian, sequela"
+	},
+	{
+		"code": "Y36421D",
+		"desc": "War operations involving firearms pellets, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36420A",
+		"desc": "War operations involving firearms pellets, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36420S",
+		"desc": "War operations involving firearms pellets, military personnel, sequela"
+	},
+	{
+		"code": "Y36420D",
+		"desc": "War operations involving firearms pellets, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36331A",
+		"desc": "War operations involving flamethrower, civilian, initial encounter"
+	},
+	{
+		"code": "Y36331S",
+		"desc": "War operations involving flamethrower, civilian, sequela"
+	},
+	{
+		"code": "Y36331D",
+		"desc": "War operations involving flamethrower, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36330A",
+		"desc": "War operations involving flamethrower, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36330S",
+		"desc": "War operations involving flamethrower, military personnel, sequela"
+	},
+	{
+		"code": "Y36330D",
+		"desc": "War operations involving flamethrower, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36251A",
+		"desc": "War operations involving fragments from munitions, civilian, initial encounter"
+	},
+	{
+		"code": "Y36251S",
+		"desc": "War operations involving fragments from munitions, civilian, sequela"
+	},
+	{
+		"code": "Y36251D",
+		"desc": "War operations involving fragments from munitions, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36250A",
+		"desc": "War operations involving fragments from munitions, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36250S",
+		"desc": "War operations involving fragments from munitions, military personnel, sequela"
+	},
+	{
+		"code": "Y36250D",
+		"desc": "War operations involving fragments from munitions, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36271A",
+		"desc": "War operations involving fragments from weapons, civilian, initial encounter"
+	},
+	{
+		"code": "Y36271S",
+		"desc": "War operations involving fragments from weapons, civilian, sequela"
+	},
+	{
+		"code": "Y36271D",
+		"desc": "War operations involving fragments from weapons, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36270A",
+		"desc": "War operations involving fragments from weapons, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36270S",
+		"desc": "War operations involving fragments from weapons, military personnel, sequela"
+	},
+	{
+		"code": "Y36270D",
+		"desc": "War operations involving fragments from weapons, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36261A",
+		"desc": "War operations involving fragments of improvised explosive device [IED], civilian, initial encounter"
+	},
+	{
+		"code": "Y36261S",
+		"desc": "War operations involving fragments of improvised explosive device [IED], civilian, sequela"
+	},
+	{
+		"code": "Y36261D",
+		"desc": "War operations involving fragments of improvised explosive device [IED], civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36260A",
+		"desc": "War operations involving fragments of improvised explosive device [IED], military personnel, initial encounter"
+	},
+	{
+		"code": "Y36260S",
+		"desc": "War operations involving fragments of improvised explosive device [IED], military personnel, sequela"
+	},
+	{
+		"code": "Y36260D",
+		"desc": "War operations involving fragments of improvised explosive device [IED], military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y3692XA",
+		"desc": "War operations involving friendly fire, initial encounter"
+	},
+	{
+		"code": "Y3692XS",
+		"desc": "War operations involving friendly fire, sequela"
+	},
+	{
+		"code": "Y3692XD",
+		"desc": "War operations involving friendly fire, subsequent encounter"
+	},
+	{
+		"code": "Y36311A",
+		"desc": "War operations involving gasoline bomb, civilian, initial encounter"
+	},
+	{
+		"code": "Y36311S",
+		"desc": "War operations involving gasoline bomb, civilian, sequela"
+	},
+	{
+		"code": "Y36311D",
+		"desc": "War operations involving gasoline bomb, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36310A",
+		"desc": "War operations involving gasoline bomb, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36310S",
+		"desc": "War operations involving gasoline bomb, military personnel, sequela"
+	},
+	{
+		"code": "Y36310D",
+		"desc": "War operations involving gasoline bomb, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36321A",
+		"desc": "War operations involving incendiary bullet, civilian, initial encounter"
+	},
+	{
+		"code": "Y36321S",
+		"desc": "War operations involving incendiary bullet, civilian, sequela"
+	},
+	{
+		"code": "Y36321D",
+		"desc": "War operations involving incendiary bullet, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36320A",
+		"desc": "War operations involving incendiary bullet, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36320S",
+		"desc": "War operations involving incendiary bullet, military personnel, sequela"
+	},
+	{
+		"code": "Y36320D",
+		"desc": "War operations involving incendiary bullet, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36521A",
+		"desc": "War operations involving indirect blast effect of nuclear weapon, civilian, initial encounter"
+	},
+	{
+		"code": "Y36521S",
+		"desc": "War operations involving indirect blast effect of nuclear weapon, civilian, sequela"
+	},
+	{
+		"code": "Y36521D",
+		"desc": "War operations involving indirect blast effect of nuclear weapon, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36520A",
+		"desc": "War operations involving indirect blast effect of nuclear weapon, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36520S",
+		"desc": "War operations involving indirect blast effect of nuclear weapon, military personnel, sequela"
+	},
+	{
+		"code": "Y36520D",
+		"desc": "War operations involving indirect blast effect of nuclear weapon, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36461A",
+		"desc": "War operations involving intentional restriction of air and airway, civilian, initial encounter"
+	},
+	{
+		"code": "Y36461S",
+		"desc": "War operations involving intentional restriction of air and airway, civilian, sequela"
+	},
+	{
+		"code": "Y36461D",
+		"desc": "War operations involving intentional restriction of air and airway, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36460A",
+		"desc": "War operations involving intentional restriction of air and airway, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36460S",
+		"desc": "War operations involving intentional restriction of air and airway, military personnel, sequela"
+	},
+	{
+		"code": "Y36460D",
+		"desc": "War operations involving intentional restriction of air and airway, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36191A",
+		"desc": "War operations involving other destruction of aircraft, civilian, initial encounter"
+	},
+	{
+		"code": "Y36191S",
+		"desc": "War operations involving other destruction of aircraft, civilian, sequela"
+	},
+	{
+		"code": "Y36191D",
+		"desc": "War operations involving other destruction of aircraft, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36190A",
+		"desc": "War operations involving other destruction of aircraft, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36190S",
+		"desc": "War operations involving other destruction of aircraft, military personnel, sequela"
+	},
+	{
+		"code": "Y36190D",
+		"desc": "War operations involving other destruction of aircraft, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36291A",
+		"desc": "War operations involving other explosions and fragments, civilian, initial encounter"
+	},
+	{
+		"code": "Y36291S",
+		"desc": "War operations involving other explosions and fragments, civilian, sequela"
+	},
+	{
+		"code": "Y36291D",
+		"desc": "War operations involving other explosions and fragments, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36290A",
+		"desc": "War operations involving other explosions and fragments, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36290S",
+		"desc": "War operations involving other explosions and fragments, military personnel, sequela"
+	},
+	{
+		"code": "Y36290D",
+		"desc": "War operations involving other explosions and fragments, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36431A",
+		"desc": "War operations involving other firearms discharge, civilian, initial encounter"
+	},
+	{
+		"code": "Y36431S",
+		"desc": "War operations involving other firearms discharge, civilian, sequela"
+	},
+	{
+		"code": "Y36431D",
+		"desc": "War operations involving other firearms discharge, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36430A",
+		"desc": "War operations involving other firearms discharge, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36430S",
+		"desc": "War operations involving other firearms discharge, military personnel, sequela"
+	},
+	{
+		"code": "Y36430D",
+		"desc": "War operations involving other firearms discharge, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36391A",
+		"desc": "War operations involving other fires, conflagrations and hot substances, civilian, initial encounter"
+	},
+	{
+		"code": "Y36391S",
+		"desc": "War operations involving other fires, conflagrations and hot substances, civilian, sequela"
+	},
+	{
+		"code": "Y36391D",
+		"desc": "War operations involving other fires, conflagrations and hot substances, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36390A",
+		"desc": "War operations involving other fires, conflagrations and hot substances, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36390S",
+		"desc": "War operations involving other fires, conflagrations and hot substances, military personnel, sequela"
+	},
+	{
+		"code": "Y36390D",
+		"desc": "War operations involving other fires, conflagrations and hot substances, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36491A",
+		"desc": "War operations involving other forms of conventional warfare, civilian, initial encounter"
+	},
+	{
+		"code": "Y36491S",
+		"desc": "War operations involving other forms of conventional warfare, civilian, sequela"
+	},
+	{
+		"code": "Y36491D",
+		"desc": "War operations involving other forms of conventional warfare, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36490A",
+		"desc": "War operations involving other forms of conventional warfare, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36490S",
+		"desc": "War operations involving other forms of conventional warfare, military personnel, sequela"
+	},
+	{
+		"code": "Y36490D",
+		"desc": "War operations involving other forms of conventional warfare, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36411A",
+		"desc": "War operations involving rubber bullets, civilian, initial encounter"
+	},
+	{
+		"code": "Y36411S",
+		"desc": "War operations involving rubber bullets, civilian, sequela"
+	},
+	{
+		"code": "Y36411D",
+		"desc": "War operations involving rubber bullets, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36410A",
+		"desc": "War operations involving rubber bullets, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36410S",
+		"desc": "War operations involving rubber bullets, military personnel, sequela"
+	},
+	{
+		"code": "Y36410D",
+		"desc": "War operations involving rubber bullets, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36531A",
+		"desc": "War operations involving thermal radiation effect of nuclear weapon, civilian, initial encounter"
+	},
+	{
+		"code": "Y36531S",
+		"desc": "War operations involving thermal radiation effect of nuclear weapon, civilian, sequela"
+	},
+	{
+		"code": "Y36531D",
+		"desc": "War operations involving thermal radiation effect of nuclear weapon, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36530A",
+		"desc": "War operations involving thermal radiation effect of nuclear weapon, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36530S",
+		"desc": "War operations involving thermal radiation effect of nuclear weapon, military personnel, sequela"
+	},
+	{
+		"code": "Y36530D",
+		"desc": "War operations involving thermal radiation effect of nuclear weapon, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36441A",
+		"desc": "War operations involving unarmed hand to hand combat, civilian, initial encounter"
+	},
+	{
+		"code": "Y36441S",
+		"desc": "War operations involving unarmed hand to hand combat, civilian, sequela"
+	},
+	{
+		"code": "Y36441D",
+		"desc": "War operations involving unarmed hand to hand combat, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36440A",
+		"desc": "War operations involving unarmed hand to hand combat, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36440S",
+		"desc": "War operations involving unarmed hand to hand combat, military personnel, sequela"
+	},
+	{
+		"code": "Y36440D",
+		"desc": "War operations involving unarmed hand to hand combat, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36471A",
+		"desc": "War operations involving unintentional restriction of air and airway, civilian, initial encounter"
+	},
+	{
+		"code": "Y36471S",
+		"desc": "War operations involving unintentional restriction of air and airway, civilian, sequela"
+	},
+	{
+		"code": "Y36471D",
+		"desc": "War operations involving unintentional restriction of air and airway, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36470A",
+		"desc": "War operations involving unintentional restriction of air and airway, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36470S",
+		"desc": "War operations involving unintentional restriction of air and airway, military personnel, sequela"
+	},
+	{
+		"code": "Y36470D",
+		"desc": "War operations involving unintentional restriction of air and airway, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36101A",
+		"desc": "War operations involving unspecified destruction of aircraft, civilian, initial encounter"
+	},
+	{
+		"code": "Y36101S",
+		"desc": "War operations involving unspecified destruction of aircraft, civilian, sequela"
+	},
+	{
+		"code": "Y36101D",
+		"desc": "War operations involving unspecified destruction of aircraft, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36100A",
+		"desc": "War operations involving unspecified destruction of aircraft, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36100S",
+		"desc": "War operations involving unspecified destruction of aircraft, military personnel, sequela"
+	},
+	{
+		"code": "Y36100D",
+		"desc": "War operations involving unspecified destruction of aircraft, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36501A",
+		"desc": "War operations involving unspecified effect of nuclear weapon, civilian, initial encounter"
+	},
+	{
+		"code": "Y36501S",
+		"desc": "War operations involving unspecified effect of nuclear weapon, civilian, sequela"
+	},
+	{
+		"code": "Y36501D",
+		"desc": "War operations involving unspecified effect of nuclear weapon, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36500A",
+		"desc": "War operations involving unspecified effect of nuclear weapon, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36500S",
+		"desc": "War operations involving unspecified effect of nuclear weapon, military personnel, sequela"
+	},
+	{
+		"code": "Y36500D",
+		"desc": "War operations involving unspecified effect of nuclear weapon, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36201A",
+		"desc": "War operations involving unspecified explosion and fragments, civilian, initial encounter"
+	},
+	{
+		"code": "Y36201S",
+		"desc": "War operations involving unspecified explosion and fragments, civilian, sequela"
+	},
+	{
+		"code": "Y36201D",
+		"desc": "War operations involving unspecified explosion and fragments, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36200A",
+		"desc": "War operations involving unspecified explosion and fragments, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36200S",
+		"desc": "War operations involving unspecified explosion and fragments, military personnel, sequela"
+	},
+	{
+		"code": "Y36200D",
+		"desc": "War operations involving unspecified explosion and fragments, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y36301A",
+		"desc": "War operations involving unspecified fire, conflagration and hot substance, civilian, initial encounter"
+	},
+	{
+		"code": "Y36301S",
+		"desc": "War operations involving unspecified fire, conflagration and hot substance, civilian, sequela"
+	},
+	{
+		"code": "Y36301D",
+		"desc": "War operations involving unspecified fire, conflagration and hot substance, civilian, subsequent encounter"
+	},
+	{
+		"code": "Y36300A",
+		"desc": "War operations involving unspecified fire, conflagration and hot substance, military personnel, initial encounter"
+	},
+	{
+		"code": "Y36300S",
+		"desc": "War operations involving unspecified fire, conflagration and hot substance, military personnel, sequela"
+	},
+	{
+		"code": "Y36300D",
+		"desc": "War operations involving unspecified fire, conflagration and hot substance, military personnel, subsequent encounter"
+	},
+	{
+		"code": "Y3691XA",
+		"desc": "War operations involving unspecified weapon of mass destruction [WMD], initial encounter"
+	},
+	{
+		"code": "Y3691XS",
+		"desc": "War operations involving unspecified weapon of mass destruction [WMD], sequela"
+	},
+	{
+		"code": "Y3691XD",
+		"desc": "War operations involving unspecified weapon of mass destruction [WMD], subsequent encounter"
+	},
+	{
+		"code": "Y3690XA",
+		"desc": "War operations, unspecified, initial encounter"
+	},
+	{
+		"code": "Y3690XS",
+		"desc": "War operations, unspecified, sequela"
+	},
+	{
+		"code": "Y3690XD",
+		"desc": "War operations, unspecified, subsequent encounter"
+	},
+	{
+		"code": "G8971",
+		"desc": "Warfarin or another oral anticoagulant that is fda approved not prescribed, reason not given\n                                    \n                                        \n                                        Terminated December 31, 2017."
+	},
+	{
+		"code": "G9143",
+		"desc": "Warfarin responsiveness testing by genetic technique using any method, any number of specimen(s)"
+	},
+	{
+		"code": "E0232",
+		"desc": "Warming card for use with the non contact wound warming device and non contact wound warming wound cover"
+	},
+	{
+		"code": "A7046",
+		"desc": "Water chamber for humidifier, used with positive airway pressure device, replacement, each"
+	},
+	{
+		"code": "E0217",
+		"desc": "Water circulating heat pad with pump"
+	},
+	{
+		"code": "A7012",
+		"desc": "Water collection device, used with large volume nebulizer"
+	},
+	{
+		"code": "E0187",
+		"desc": "Water pressure mattress"
+	},
+	{
+		"code": "E0198",
+		"desc": "Water pressure pad for mattress, standard mattress length and width"
+	},
+	{
+		"code": "A7041",
+		"desc": "Water seal drainage container and tubing for use with implanted chest tube"
+	},
+	{
+		"code": "E1625",
+		"desc": "Water softening system, for hemodialysis"
+	},
+	{
+		"code": "A7018",
+		"desc": "Water, distilled, used with large volume nebulizer, 1000 ml"
+	},
+	{
+		"code": "A391",
+		"desc": "Waterhouse-Friderichsen syndrome"
+	},
+	{
+		"code": "R531",
+		"desc": "Weakness"
+	},
+	{
+		"code": "T84061A",
+		"desc": "Wear of articular bearing surface of internal prosthetic left hip joint, initial encounter"
+	},
+	{
+		"code": "T84061S",
+		"desc": "Wear of articular bearing surface of internal prosthetic left hip joint, sequela"
+	},
+	{
+		"code": "T84061D",
+		"desc": "Wear of articular bearing surface of internal prosthetic left hip joint, subsequent encounter"
+	},
+	{
+		"code": "T84063A",
+		"desc": "Wear of articular bearing surface of internal prosthetic left knee joint, initial encounter"
+	},
+	{
+		"code": "T84063S",
+		"desc": "Wear of articular bearing surface of internal prosthetic left knee joint, sequela"
+	},
+	{
+		"code": "T84063D",
+		"desc": "Wear of articular bearing surface of internal prosthetic left knee joint, subsequent encounter"
+	},
+	{
+		"code": "T84060A",
+		"desc": "Wear of articular bearing surface of internal prosthetic right hip joint, initial encounter"
+	},
+	{
+		"code": "T84060S",
+		"desc": "Wear of articular bearing surface of internal prosthetic right hip joint, sequela"
+	},
+	{
+		"code": "T84060D",
+		"desc": "Wear of articular bearing surface of internal prosthetic right hip joint, subsequent encounter"
+	},
+	{
+		"code": "T84062A",
+		"desc": "Wear of articular bearing surface of internal prosthetic right knee joint, initial encounter"
+	},
+	{
+		"code": "T84062S",
+		"desc": "Wear of articular bearing surface of internal prosthetic right knee joint, sequela"
+	},
+	{
+		"code": "T84062D",
+		"desc": "Wear of articular bearing surface of internal prosthetic right knee joint, subsequent encounter"
+	},
+	{
+		"code": "T84068A",
+		"desc": "Wear of articular bearing surface of other internal prosthetic joint, initial encounter"
+	},
+	{
+		"code": "T84068S",
+		"desc": "Wear of articular bearing surface of other internal prosthetic joint, sequela"
+	},
+	{
+		"code": "T84068D",
+		"desc": "Wear of articular bearing surface of other internal prosthetic joint, subsequent encounter"
+	},
+	{
+		"code": "T84069A",
+		"desc": "Wear of articular bearing surface of unspecified internal prosthetic joint, initial encounter"
+	},
+	{
+		"code": "T84069S",
+		"desc": "Wear of articular bearing surface of unspecified internal prosthetic joint, sequela"
+	},
+	{
+		"code": "T84069D",
+		"desc": "Wear of articular bearing surface of unspecified internal prosthetic joint, subsequent encounter"
+	},
+	{
+		"code": "E1632",
+		"desc": "Wearable artificial kidney, each"
+	},
+	{
+		"code": "Q310",
+		"desc": "Web of larynx"
+	},
+	{
+		"code": "Q7013",
+		"desc": "Webbed fingers, bilateral"
+	},
+	{
+		"code": "Q7012",
+		"desc": "Webbed fingers, left hand"
+	},
+	{
+		"code": "Q7011",
+		"desc": "Webbed fingers, right hand"
+	},
+	{
+		"code": "Q7010",
+		"desc": "Webbed fingers, unspecified hand"
+	},
+	{
+		"code": "Q7033",
+		"desc": "Webbed toes, bilateral"
+	},
+	{
+		"code": "Q7032",
+		"desc": "Webbed toes, left foot"
+	},
+	{
+		"code": "Q7031",
+		"desc": "Webbed toes, right foot"
+	},
+	{
+		"code": "Q7030",
+		"desc": "Webbed toes, unspecified foot"
+	},
+	{
+		"code": "Q183",
+		"desc": "Webbing of neck"
+	},
+	{
+		"code": "S22080A",
+		"desc": "Wedge compression fracture of T11-T12 vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22080B",
+		"desc": "Wedge compression fracture of T11-T12 vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22080S",
+		"desc": "Wedge compression fracture of T11-T12 vertebra, sequela"
+	},
+	{
+		"code": "S22080G",
+		"desc": "Wedge compression fracture of T11-T12 vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22080K",
+		"desc": "Wedge compression fracture of T11-T12 vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22080D",
+		"desc": "Wedge compression fracture of T11-T12 vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S22050A",
+		"desc": "Wedge compression fracture of T5-T6 vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22050B",
+		"desc": "Wedge compression fracture of T5-T6 vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22050S",
+		"desc": "Wedge compression fracture of T5-T6 vertebra, sequela"
+	},
+	{
+		"code": "S22050G",
+		"desc": "Wedge compression fracture of T5-T6 vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22050K",
+		"desc": "Wedge compression fracture of T5-T6 vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22050D",
+		"desc": "Wedge compression fracture of T5-T6 vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S22060A",
+		"desc": "Wedge compression fracture of T7-T8 vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22060B",
+		"desc": "Wedge compression fracture of T7-T8 vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22060S",
+		"desc": "Wedge compression fracture of T7-T8 vertebra, sequela"
+	},
+	{
+		"code": "S22060G",
+		"desc": "Wedge compression fracture of T7-T8 vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22060K",
+		"desc": "Wedge compression fracture of T7-T8 vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22060D",
+		"desc": "Wedge compression fracture of T7-T8 vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S22070A",
+		"desc": "Wedge compression fracture of T9-T10 vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22070B",
+		"desc": "Wedge compression fracture of T9-T10 vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22070S",
+		"desc": "Wedge compression fracture of T9-T10 vertebra, sequela"
+	},
+	{
+		"code": "S22070G",
+		"desc": "Wedge compression fracture of T9-T10 vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22070K",
+		"desc": "Wedge compression fracture of T9-T10 vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22070D",
+		"desc": "Wedge compression fracture of T9-T10 vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S32050A",
+		"desc": "Wedge compression fracture of fifth lumbar vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S32050B",
+		"desc": "Wedge compression fracture of fifth lumbar vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S32050S",
+		"desc": "Wedge compression fracture of fifth lumbar vertebra, sequela"
+	},
+	{
+		"code": "S32050G",
+		"desc": "Wedge compression fracture of fifth lumbar vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S32050K",
+		"desc": "Wedge compression fracture of fifth lumbar vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S32050D",
+		"desc": "Wedge compression fracture of fifth lumbar vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S32010A",
+		"desc": "Wedge compression fracture of first lumbar vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S32010B",
+		"desc": "Wedge compression fracture of first lumbar vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S32010S",
+		"desc": "Wedge compression fracture of first lumbar vertebra, sequela"
+	},
+	{
+		"code": "S32010G",
+		"desc": "Wedge compression fracture of first lumbar vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S32010K",
+		"desc": "Wedge compression fracture of first lumbar vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S32010D",
+		"desc": "Wedge compression fracture of first lumbar vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S22010A",
+		"desc": "Wedge compression fracture of first thoracic vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22010B",
+		"desc": "Wedge compression fracture of first thoracic vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22010S",
+		"desc": "Wedge compression fracture of first thoracic vertebra, sequela"
+	},
+	{
+		"code": "S22010G",
+		"desc": "Wedge compression fracture of first thoracic vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22010K",
+		"desc": "Wedge compression fracture of first thoracic vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22010D",
+		"desc": "Wedge compression fracture of first thoracic vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S32040A",
+		"desc": "Wedge compression fracture of fourth lumbar vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S32040B",
+		"desc": "Wedge compression fracture of fourth lumbar vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S32040S",
+		"desc": "Wedge compression fracture of fourth lumbar vertebra, sequela"
+	},
+	{
+		"code": "S32040G",
+		"desc": "Wedge compression fracture of fourth lumbar vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S32040K",
+		"desc": "Wedge compression fracture of fourth lumbar vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S32040D",
+		"desc": "Wedge compression fracture of fourth lumbar vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S22040A",
+		"desc": "Wedge compression fracture of fourth thoracic vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22040B",
+		"desc": "Wedge compression fracture of fourth thoracic vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22040S",
+		"desc": "Wedge compression fracture of fourth thoracic vertebra, sequela"
+	},
+	{
+		"code": "S22040G",
+		"desc": "Wedge compression fracture of fourth thoracic vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22040K",
+		"desc": "Wedge compression fracture of fourth thoracic vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22040D",
+		"desc": "Wedge compression fracture of fourth thoracic vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S32020A",
+		"desc": "Wedge compression fracture of second lumbar vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S32020B",
+		"desc": "Wedge compression fracture of second lumbar vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S32020S",
+		"desc": "Wedge compression fracture of second lumbar vertebra, sequela"
+	},
+	{
+		"code": "S32020G",
+		"desc": "Wedge compression fracture of second lumbar vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S32020K",
+		"desc": "Wedge compression fracture of second lumbar vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S32020D",
+		"desc": "Wedge compression fracture of second lumbar vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S22020A",
+		"desc": "Wedge compression fracture of second thoracic vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22020B",
+		"desc": "Wedge compression fracture of second thoracic vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22020S",
+		"desc": "Wedge compression fracture of second thoracic vertebra, sequela"
+	},
+	{
+		"code": "S22020G",
+		"desc": "Wedge compression fracture of second thoracic vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22020K",
+		"desc": "Wedge compression fracture of second thoracic vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22020D",
+		"desc": "Wedge compression fracture of second thoracic vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S32030A",
+		"desc": "Wedge compression fracture of third lumbar vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S32030B",
+		"desc": "Wedge compression fracture of third lumbar vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S32030S",
+		"desc": "Wedge compression fracture of third lumbar vertebra, sequela"
+	},
+	{
+		"code": "S32030G",
+		"desc": "Wedge compression fracture of third lumbar vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S32030K",
+		"desc": "Wedge compression fracture of third lumbar vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S32030D",
+		"desc": "Wedge compression fracture of third lumbar vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S22030A",
+		"desc": "Wedge compression fracture of third thoracic vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22030B",
+		"desc": "Wedge compression fracture of third thoracic vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22030S",
+		"desc": "Wedge compression fracture of third thoracic vertebra, sequela"
+	},
+	{
+		"code": "S22030G",
+		"desc": "Wedge compression fracture of third thoracic vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22030K",
+		"desc": "Wedge compression fracture of third thoracic vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22030D",
+		"desc": "Wedge compression fracture of third thoracic vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S32000A",
+		"desc": "Wedge compression fracture of unspecified lumbar vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S32000B",
+		"desc": "Wedge compression fracture of unspecified lumbar vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S32000S",
+		"desc": "Wedge compression fracture of unspecified lumbar vertebra, sequela"
+	},
+	{
+		"code": "S32000G",
+		"desc": "Wedge compression fracture of unspecified lumbar vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S32000K",
+		"desc": "Wedge compression fracture of unspecified lumbar vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S32000D",
+		"desc": "Wedge compression fracture of unspecified lumbar vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "S22000A",
+		"desc": "Wedge compression fracture of unspecified thoracic vertebra, initial encounter for closed fracture"
+	},
+	{
+		"code": "S22000B",
+		"desc": "Wedge compression fracture of unspecified thoracic vertebra, initial encounter for open fracture"
+	},
+	{
+		"code": "S22000S",
+		"desc": "Wedge compression fracture of unspecified thoracic vertebra, sequela"
+	},
+	{
+		"code": "S22000G",
+		"desc": "Wedge compression fracture of unspecified thoracic vertebra, subsequent encounter for fracture with delayed healing"
+	},
+	{
+		"code": "S22000K",
+		"desc": "Wedge compression fracture of unspecified thoracic vertebra, subsequent encounter for fracture with nonunion"
+	},
+	{
+		"code": "S22000D",
+		"desc": "Wedge compression fracture of unspecified thoracic vertebra, subsequent encounter for fracture with routine healing"
+	},
+	{
+		"code": "Z3A00",
+		"desc": "Weeks of gestation of pregnancy not specified"
+	},
+	{
+		"code": "M3131",
+		"desc": "Wegener's granulomatosis with renal involvement"
+	},
+	{
+		"code": "M3130",
+		"desc": "Wegener's granulomatosis without renal involvement"
+	},
+	{
+		"code": "S9449",
+		"desc": "Weight management classes, non-physician provider, per session"
+	},
+	{
+		"code": "S5190",
+		"desc": "Wellness assessment, performed by non-physician"
+	},
+	{
+		"code": "E512",
+		"desc": "Wernicke's encephalopathy"
+	},
+	{
+		"code": "A9231",
+		"desc": "West Nile virus infection with encephalitis"
+	},
+	{
+		"code": "A9239",
+		"desc": "West Nile virus infection with other complications"
+	},
+	{
+		"code": "A9232",
+		"desc": "West Nile virus infection with other neurologic manifestation"
+	},
+	{
+		"code": "A9230",
+		"desc": "West Nile virus infection, unspecified"
+	},
+	{
+		"code": "A831",
+		"desc": "Western equine encephalitis"
+	},
+	{
+		"code": "E5112",
+		"desc": "Wet beriberi"
+	},
+	{
+		"code": "Q0111",
+		"desc": "Wet mounts, including preparations of vaginal, cervical or skin specimens"
+	},
+	{
+		"code": "E0155",
+		"desc": "Wheel attachment, rigid pick-up walker, per pair"
+	},
+	{
+		"code": "V00812A",
+		"desc": "Wheelchair (powered) colliding with stationary object, initial encounter"
+	},
+	{
+		"code": "V00812S",
+		"desc": "Wheelchair (powered) colliding with stationary object, sequela"
+	},
+	{
+		"code": "V00812D",
+		"desc": "Wheelchair (powered) colliding with stationary object, subsequent encounter"
+	},
+	{
+		"code": "E2631",
+		"desc": "Wheelchair accessory, addition to mobile arm support, elevating proximal arm"
+	},
+	{
+		"code": "E2632",
+		"desc": "Wheelchair accessory, addition to mobile arm support, offset or lateral rocker arm with elastic balance control"
+	},
+	{
+		"code": "E2633",
+		"desc": "Wheelchair accessory, addition to mobile arm support, supinator"
+	},
+	{
+		"code": "E1012",
+		"desc": "Wheelchair accessory, addition to power seating system, center mount power elevating leg rest/platform, complete system, any type, each"
+	},
+	{
+		"code": "E1009",
+		"desc": "Wheelchair accessory, addition to power seating system, mechanically linked leg elevation system, including pushrod and leg rest, each"
+	},
+	{
+		"code": "E1010",
+		"desc": "Wheelchair accessory, addition to power seating system, power leg elevation system, including leg rest, pair"
+	},
+	{
+		"code": "E0973",
+		"desc": "Wheelchair accessory, adjustable height, detachable armrest, complete assembly, each"
+	},
+	{
+		"code": "E0982",
+		"desc": "Wheelchair accessory, back upholstery, replacement only, each"
+	},
+	{
+		"code": "E2210",
+		"desc": "Wheelchair accessory, bearings, any type, replacement only, each"
+	},
+	{
+		"code": "E0995",
+		"desc": "Wheelchair accessory, calf rest/pad, replacement only, each"
+	},
+	{
+		"code": "E2207",
+		"desc": "Wheelchair accessory, crutch and cane holder, each"
+	},
+	{
+		"code": "E2208",
+		"desc": "Wheelchair accessory, cylinder tank carrier, each"
+	},
+	{
+		"code": "E2398",
+		"desc": "Wheelchair accessory, dynamic positioning hardware for back"
+	},
+	{
+		"code": "E0990",
+		"desc": "Wheelchair accessory, elevating leg rest, complete assembly, each"
+	},
+	{
+		"code": "E0954",
+		"desc": "Wheelchair accessory, foot box, any type, includes attachment and mounting hardware, each foot"
+	},
+	{
+		"code": "E0955",
+		"desc": "Wheelchair accessory, headrest, cushioned, any type, including fixed mounting hardware, each"
+	},
+	{
+		"code": "E0953",
+		"desc": "Wheelchair accessory, lateral thigh or knee support, any type including fixed mounting hardware, each"
+	},
+	{
+		"code": "E0956",
+		"desc": "Wheelchair accessory, lateral trunk or hip support, any type, including fixed mounting hardware, each"
+	},
+	{
+		"code": "E1226",
+		"desc": "Wheelchair accessory, manual fully reclining back, (recline greater than 80 degrees), each"
+	},
+	{
+		"code": "E1225",
+		"desc": "Wheelchair accessory, manual semi-reclining back, (recline greater than 15 degrees, but less than 80 degrees), each"
+	},
+	{
+		"code": "E1028",
+		"desc": "Wheelchair accessory, manual swingaway, retractable or removable mounting hardware for joystick, other control interface or positioning accessory"
+	},
+	{
+		"code": "E0957",
+		"desc": "Wheelchair accessory, medial thigh support, any type, including fixed mounting hardware, each"
+	},
+	{
+		"code": "E0978",
+		"desc": "Wheelchair accessory, positioning belt/safety belt/pelvic strap, each"
+	},
+	{
+		"code": "E2300",
+		"desc": "Wheelchair accessory, power seat elevation system, any type\n                                    \n                                        \n                                        Terminated March 31, 2024."
+	},
+	{
+		"code": "E1007",
+		"desc": "Wheelchair accessory, power seating system, combination tilt and recline, with mechanical shear reduction"
+	},
+	{
+		"code": "E1008",
+		"desc": "Wheelchair accessory, power seating system, combination tilt and recline, with power shear reduction"
+	},
+	{
+		"code": "E1006",
+		"desc": "Wheelchair accessory, power seating system, combination tilt and recline, without shear reduction"
+	},
+	{
+		"code": "E1004",
+		"desc": "Wheelchair accessory, power seating system, recline only, with mechanical shear reduction"
+	},
+	{
+		"code": "E1003",
+		"desc": "Wheelchair accessory, power seating system, recline only, without shear reduction"
+	},
+	{
+		"code": "E1002",
+		"desc": "Wheelchair accessory, power seating system, tilt only"
+	},
+	{
+		"code": "E1005",
+		"desc": "Wheelchair accessory, power seatng system, recline only, with power shear reduction"
+	},
+	{
+		"code": "E2301",
+		"desc": "Wheelchair accessory, power standing system, any type"
+	},
+	{
+		"code": "E0985",
+		"desc": "Wheelchair accessory, seat lift mechanism"
+	},
+	{
+		"code": "E0981",
+		"desc": "Wheelchair accessory, seat upholstery, replacement only, each"
+	},
+	{
+		"code": "E2626",
+		"desc": "Wheelchair accessory, shoulder elbow, mobile arm support attached to wheelchair, balanced, adjustable"
+	},
+	{
+		"code": "E2627",
+		"desc": "Wheelchair accessory, shoulder elbow, mobile arm support attached to wheelchair, balanced, adjustable rancho type"
+	},
+	{
+		"code": "E2629",
+		"desc": "Wheelchair accessory, shoulder elbow, mobile arm support attached to wheelchair, balanced, friction arm support (friction dampening to proximal and distal joints)"
+	},
+	{
+		"code": "E2628",
+		"desc": "Wheelchair accessory, shoulder elbow, mobile arm support attached to wheelchair, balanced, reclining"
+	},
+	{
+		"code": "E2630",
+		"desc": "Wheelchair accessory, shoulder elbow, mobile arm support, monosuspension arm and hand support, overhead elbow forearm hand sling support, yoke type suspension support"
+	},
+	{
+		"code": "E0960",
+		"desc": "Wheelchair accessory, shoulder harness/straps or chest strap, including any type mounting hardware"
+	},
+	{
+		"code": "E0950",
+		"desc": "Wheelchair accessory, tray, each"
+	},
+	{
+		"code": "E1029",
+		"desc": "Wheelchair accessory, ventilator tray, fixed"
+	},
+	{
+		"code": "E1030",
+		"desc": "Wheelchair accessory, ventilator tray, gimbaled"
+	},
+	{
+		"code": "K0669",
+		"desc": "Wheelchair accessory, wheelchair seat or back cushion, does not meet specific code criteria or no written coding verification from dme pdac"
+	},
+	{
+		"code": "K0108",
+		"desc": "Wheelchair component or accessory, not otherwise specified"
+	},
+	{
+		"code": "E2610",
+		"desc": "Wheelchair seat cushion, powered"
+	},
+	{
+		"code": "S0209",
+		"desc": "Wheelchair van, mileage, per mile"
+	},
+	{
+		"code": "E1224",
+		"desc": "Wheelchair with detachable arms, elevating legrests"
+	},
+	{
+		"code": "E1223",
+		"desc": "Wheelchair with detachable arms, footrests"
+	},
+	{
+		"code": "E1222",
+		"desc": "Wheelchair with fixed arm, elevating legrests"
+	},
+	{
+		"code": "E1221",
+		"desc": "Wheelchair with fixed arm, footrests"
+	},
+	{
+		"code": "E1150",
+		"desc": "Wheelchair, detachable arms, desk or full length swing away detachable elevating legrests"
+	},
+	{
+		"code": "E1140",
+		"desc": "Wheelchair, detachable arms, desk or full length, swing away detachable footrests"
+	},
+	{
+		"code": "E1160",
+		"desc": "Wheelchair, fixed full length arms, swing away detachable elevating legrests"
+	},
+	{
+		"code": "E1236",
+		"desc": "Wheelchair, pediatric size, folding, adjustable, with seating system"
+	},
+	{
+		"code": "E1238",
+		"desc": "Wheelchair, pediatric size, folding, adjustable, without seating system"
+	},
+	{
+		"code": "E1229",
+		"desc": "Wheelchair, pediatric size, not otherwise specified"
+	},
+	{
+		"code": "E1235",
+		"desc": "Wheelchair, pediatric size, rigid, adjustable, with seating system"
+	},
+	{
+		"code": "E1237",
+		"desc": "Wheelchair, pediatric size, rigid, adjustable, without seating system"
+	},
+	{
+		"code": "E1232",
+		"desc": "Wheelchair, pediatric size, tilt-in-space, folding, adjustable, with seating system"
+	},
+	{
+		"code": "E1234",
+		"desc": "Wheelchair, pediatric size, tilt-in-space, folding, adjustable, without seating system"
+	},
+	{
+		"code": "E1231",
+		"desc": "Wheelchair, pediatric size, tilt-in-space, rigid, adjustable, with seating system"
+	},
+	{
+		"code": "E1233",
+		"desc": "Wheelchair, pediatric size, tilt-in-space, rigid, adjustable, without seating system"
+	},
+	{
+		"code": "E1220",
+		"desc": "Wheelchair; specially sized or constructed, (indicate brand name, model number, if any) and justification"
+	},
+	{
+		"code": "R062",
+		"desc": "Wheezing"
+	},
+	{
+		"code": "K9081",
+		"desc": "Whipple's disease"
+	},
+	{
+		"code": "E1301",
+		"desc": "Whirlpool tub, walk-in, portable"
+	},
+	{
+		"code": "K1003",
+		"desc": "Whirlpool tub, walk-in, portable\n                                    \n                                        \n                                        Terminated December 31, 2023."
+	},
+	{
+		"code": "E1310",
+		"desc": "Whirlpool, non-portable (built-in type)"
+	},
+	{
+		"code": "E1300",
+		"desc": "Whirlpool, portable (overtub type)"
+	},
+	{
+		"code": "R9082",
+		"desc": "White matter disease, unspecified"
+	},
+	{
+		"code": "B362",
+		"desc": "White piedra"
+	},
+	{
+		"code": "P9051",
+		"desc": "Whole blood or red blood cells, leukocytes reduced, cmv-negative, each unit"
+	},
+	{
+		"code": "P9054",
+		"desc": "Whole blood or red blood cells, leukocytes reduced, frozen, deglycerol, washed, each unit"
+	},
+	{
+		"code": "P9056",
+		"desc": "Whole blood, leukocytes reduced, irradiated, each unit"
+	},
+	{
+		"code": "Q931",
+		"desc": "Whole chromosome monosomy, mosaicism (mitotic nondisjunction)"
+	},
+	{
+		"code": "Q930",
+		"desc": "Whole chromosome monosomy, nonmosaicism (meiotic nondisjunction)"
+	},
+	{
+		"code": "Q921",
+		"desc": "Whole chromosome trisomy, mosaicism (mitotic nondisjunction)"
+	},
+	{
+		"code": "Q920",
+		"desc": "Whole chromosome trisomy, nonmosaicism (meiotic nondisjunction)"
+	},
+	{
+		"code": "A3711",
+		"desc": "Whooping cough due to Bordetella parapertussis with pneumonia"
+	},
+	{
+		"code": "A3710",
+		"desc": "Whooping cough due to Bordetella parapertussis without pneumonia"
+	},
+	{
+		"code": "A3701",
+		"desc": "Whooping cough due to Bordetella pertussis with pneumonia"
+	},
+	{
+		"code": "A3700",
+		"desc": "Whooping cough due to Bordetella pertussis without pneumonia"
+	},
+	{
+		"code": "A3781",
+		"desc": "Whooping cough due to other Bordetella species with pneumonia"
+	},
+	{
+		"code": "A3780",
+		"desc": "Whooping cough due to other Bordetella species without pneumonia"
+	},
+	{
+		"code": "A3791",
+		"desc": "Whooping cough, unspecified species with pneumonia"
+	},
+	{
+		"code": "A3790",
+		"desc": "Whooping cough, unspecified species without pneumonia"
+	},
+	{
+		"code": "P963",
+		"desc": "Wide cranial sutures of newborn"
+	},
+	{
+		"code": "E1092",
+		"desc": "Wide heavy duty wheel chair, detachable arms (desk or full length), swing away detachable elevating leg rests"
+	},
+	{
+		"code": "E1093",
+		"desc": "Wide heavy duty wheelchair, detachable arms desk or full length arms, swing away detachable footrests"
+	},
+	{
+		"code": "Y0702",
+		"desc": "Wife, perpetrator of maltreatment and neglect"
+	},
+	{
+		"code": "A9282",
+		"desc": "Wig, any type, each"
+	},
+	{
+		"code": "E8582",
+		"desc": "Wild-type transthyretin-related (ATTR) amyloidosis"
+	},
+	{
+		"code": "E8301",
+		"desc": "Wilson's disease"
+	},
+	{
+		"code": "P270",
+		"desc": "Wilson-Mikity syndrome"
+	},
+	{
+		"code": "D820",
+		"desc": "Wiskott-Aldrich syndrome"
+	},
+	{
+		"code": "G0049",
+		"desc": "With maintenance hemodialysis (in-center and home hd) for the complete reporting month"
+	},
+	{
+		"code": "P962",
+		"desc": "Withdrawal symptoms from therapeutic use of drugs in newborn"
+	},
+	{
+		"code": "G2119",
+		"desc": "Within the past 2 years, calcium and/or vitamin d optimization has been ordered or performed\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G2120",
+		"desc": "Within the past 2 years, calcium and/or vitamin d optimization has not been ordered or performed\n                                    \n                                        \n                                        Terminated December 31, 2020."
+	},
+	{
+		"code": "G9472",
+		"desc": "Within the past 2 years, central dual-energy x-ray absorptiometry (dxa) not ordered and documented, no review of systems and no medication history or pharmacologic therapy (other than minerals/vitamins) for osteoporosis prescribed\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G9471",
+		"desc": "Within the past 2 years, central dual-energy x-ray absorptiometry (dxa) not ordered or documented"
+	},
+	{
+		"code": "G8861",
+		"desc": "Within the past 2 years, central dual-energy x-ray absorptiometry (dxa) ordered and documented, review of systems and medication history or pharmacologic therapy (other than minerals/vitamins) for osteoporosis prescribed\n                                    \n                                        \n                                        Terminated December 31, 2019."
+	},
+	{
+		"code": "G9708",
+		"desc": "Women who had a bilateral mastectomy or who have a history of a bilateral mastectomy or for whom there is evidence of a right and a left unilateral mastectomy"
+	},
+	{
+		"code": "M1280",
+		"desc": "Women who had a bilateral mastectomy or who have a history of a bilateral mastectomy or for whom there is evidence of a right and a left unilateral mastectomy"
+	},
+	{
+		"code": "R4582",
+		"desc": "Worries"
+	},
+	{
+		"code": "A4852",
+		"desc": "Wound botulism"
+	},
+	{
+		"code": "A6550",
+		"desc": "Wound care set, for negative pressure wound therapy electrical pump, includes all supplies and accessories"
+	},
+	{
+		"code": "A6260",
+		"desc": "Wound cleansers, any type, any size"
+	},
+	{
+		"code": "G0168",
+		"desc": "Wound closure utilizing tissue adhesive(s) only"
+	},
+	{
+		"code": "A6262",
+		"desc": "Wound filler, dry form, per gram, not otherwise specified"
+	},
+	{
+		"code": "A6261",
+		"desc": "Wound filler, gel/paste, per fluid ounce, not otherwise specified"
+	},
+	{
+		"code": "B871",
+		"desc": "Wound myiasis"
+	},
+	{
+		"code": "A6154",
+		"desc": "Wound pouch, each"
+	},
+	{
+		"code": "A9272",
+		"desc": "Wound suction, disposable, includes dressing, all accessories and components, any type, each"
+	},
+	{
+		"code": "Q4162",
+		"desc": "Woundex flow, bioskin flow, 0.5 cc"
+	},
+	{
+		"code": "Q4163",
+		"desc": "Woundex, bioskin, per square centimeter"
+	},
+	{
+		"code": "Q4217",
+		"desc": "Woundfix, biowound, woundfix plus, biowound plus, woundfix xplus or biowound xplus, per square centimeter"
+	},
+	{
+		"code": "Q4277",
+		"desc": "Woundplus membrane or e-graft, per square centimeter"
+	},
+	{
+		"code": "L6925",
+		"desc": "Wrist disarticulation, external power, self-suspended inner socket, removable forearm shell, otto bock or equal electrodes, cables, two batteries and one charger, myoelectronic control of terminal device"
+	},
+	{
+		"code": "L6920",
+		"desc": "Wrist disarticulation, external power, self-suspended inner socket, removable forearm shell, otto bock or equal, switch, cables, two batteries and one charger, switch control of terminal device"
+	},
+	{
+		"code": "L6055",
+		"desc": "Wrist disarticulation, molded socket with expandable interface, flexible elbow hinges, triceps pad"
+	},
+	{
+		"code": "L6050",
+		"desc": "Wrist disarticulation, molded socket, flexible elbow hinges, triceps pad"
+	},
+	{
+		"code": "M21332",
+		"desc": "Wrist drop, left wrist"
+	},
+	{
+		"code": "M21331",
+		"desc": "Wrist drop, right wrist"
+	},
+	{
+		"code": "M21339",
+		"desc": "Wrist drop, unspecified wrist"
+	},
+	{
+		"code": "L3901",
+		"desc": "Wrist hand finger orthosis, dynamic flexor hinge, reciprocal wrist extension/ flexion, finger flexion/extension, cable driven, custom fabricated"
+	},
+	{
+		"code": "L3900",
+		"desc": "Wrist hand finger orthosis, dynamic flexor hinge, reciprocal wrist extension/ flexion, finger flexion/extension, wrist or finger driven, custom fabricated"
+	},
+	{
+		"code": "L3904",
+		"desc": "Wrist hand finger orthosis, external powered, electric, custom fabricated"
+	},
+	{
+		"code": "L3806",
+		"desc": "Wrist hand finger orthosis, includes one or more nontorsion joint(s), turnbuckles, elastic bands/springs, may include soft interface material, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3931",
+		"desc": "Wrist hand finger orthosis, includes one or more nontorsion joint(s), turnbuckles, elastic bands/springs, may include soft interface material, straps, prefabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3808",
+		"desc": "Wrist hand finger orthosis, rigid without joints, may include soft interface material; straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3807",
+		"desc": "Wrist hand finger orthosis, without joint(s), prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L3809",
+		"desc": "Wrist hand finger orthosis, without joint(s), prefabricated, off-the-shelf, any type"
+	},
+	{
+		"code": "L3915",
+		"desc": "Wrist hand orthosis, includes one or more nontorsion joint(s), elastic bands, turnbuckles, may include soft interface, straps, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise"
+	},
+	{
+		"code": "L3916",
+		"desc": "Wrist hand orthosis, includes one or more nontorsion joint(s), elastic bands, turnbuckles, may include soft interface, straps, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "L3905",
+		"desc": "Wrist hand orthosis, includes one or more nontorsion joints, elastic bands, turnbuckles, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3906",
+		"desc": "Wrist hand orthosis, without joints, may include soft interface, straps, custom fabricated, includes fitting and adjustment"
+	},
+	{
+		"code": "L3908",
+		"desc": "Wrist hand orthosis, wrist extension control cock-up, non molded, prefabricated, off-the-shelf"
+	},
+	{
+		"code": "Y651",
+		"desc": "Wrong fluid used in infusion"
+	}
+]
