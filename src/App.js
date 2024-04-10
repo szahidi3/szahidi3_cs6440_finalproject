@@ -29,7 +29,7 @@ import data_y from './data/icd10codes_y.json';
 import data_z from './data/icd10codes_z.json';
 //var data = require('./icd10codes.json');
 //var stuff = require('./fuse-index.json');
-var data = data_a
+var data = {}
 
 function App() {
   const [query, updateQuery] = useState('');
@@ -89,6 +89,8 @@ function App() {
     data = data_y
   } else if (query[0] === "z" || query[0] === "Z"){
     data = data_z
+  } else{
+    data = data_a
   }
 
   function onSearch({ currentTarget }) {
