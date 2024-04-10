@@ -110,7 +110,7 @@ function App() {
         <ul className="data">
           <form className="search">
             <label>Search</label>
-            <input type="text" placeholder="Search for disease or HCPCS process..." value={query} onChange={onSearch} />
+            <input type="text" placeholder="Search for CM disease or HCPCS process..." value={query} onChange={onSearch} />
           </form>
           {codeResults.map(process => {
             const {desc, code} = process;
