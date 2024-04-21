@@ -16,7 +16,7 @@ In a bash shell, navigate to the folder in which you want to clone the Git repos
 
 `git clone https://github.com/szahidi3/szahidi3_cs6440_finalproject.git`
 
-`cd szahidi3_cs6440_finalproject.git`
+`cd szahidi3_cs6440_finalproject`
 
 ## Running the Web Application Locally
 
