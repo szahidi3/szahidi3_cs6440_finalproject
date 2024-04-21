@@ -10,7 +10,7 @@ ICD-10 is the most recent revision of the International Classification of Diseas
 
 I created the JSON data resource (which can be found at [https://github.com/szahidi3/szahidi3_cs6440_finalproject/blob/main/src/data/icd10codes_dataresource.json](https://github.com/szahidi3/szahidi3_cs6440_finalproject/blob/main/src/data/icd10codes_dataresource.json)) the suer interface of my web application queries search results from, after being divided into smaller JSON files (which can be found at [https://github.com/szahidi3/szahidi3_cs6440_finalproject/tree/main/src/data](https://github.com/szahidi3/szahidi3_cs6440_finalproject/tree/main/src/data)), by adding ICD-10 HCPCS codes (found at [https://www.hcpcsdata.com/Codes](https://www.hcpcsdata.com/Codes)) to the existing ICD-10 CM code data dump created by Cryokaustik (which can be found at [https://gist.githubusercontent.com/cryocaustik/b86de96e66489ada97c25fc25f755de0/raw/b31a549638a609004e9a45f8933c3f37bdf4c27d/icd10_codes.json](https://gist.githubusercontent.com/cryocaustik/b86de96e66489ada97c25fc25f755de0/raw/b31a549638a609004e9a45f8933c3f37bdf4c27d/icd10_codes.json)) ((Cryocaustik, 2019; HCPCSDATA.com, 2024).
 
-### References (With Links to Articles That I Read to Gain Background Knowledge of ICD-10 Codes):
+### References (With Links to Articles That I Read to Gain Background Knowledge of ICD-10 Codes and Put Together My JSON Data Resource Files):
 
 1. National Center for Health Statistics. (2015). International Classification of Diseases, (ICD-10-CM/PCS) Transition - Background. Classification of Diseases, Functioning, and Disability.
 [https://www.cdc.gov/nchs/icd/icd10cm_pcs_background.htm](https://www.cdc.gov/nchs/icd/icd10cm_pcs_background.htm)
