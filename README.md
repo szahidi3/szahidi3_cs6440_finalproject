@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+#Project Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ICD-10 is the most recent revision of the International Classification of Diseases (ICD) standard. ICD is a classification standard that promotes international standardization in patient diagnosis and treatment (National Center for Health Statistics, 2023). Patient information reported by the ICD-10 standard are translated into ICD-10-CM codes, which can be used to classify diagnosis for medical conditions, and ICD-10-HCPCS codes, which can be used to classify “medical procedures, supplies, products and services” (National Center for Health Statistics, 2015; National Library of Medicine, 2012). There are also other ICD-10 groups in addition to the two that are aforementioned, though this tool does not account for those. This web application allows users to search for any ICD-10 CM or HCPCS code using the name of the disease or process.
 
-## Available Scripts
+### JSON Data Resource
 
-In the project directory, you can run:
+I created the JSON data resource (which can be found at [https://github.com/szahidi3/szahidi3_cs6440_finalproject/blob/main/src/data/icd10codes_dataresource.json](https://github.com/szahidi3/szahidi3_cs6440_finalproject/blob/main/src/data/icd10codes_dataresource.json)) the user interface of my web application queries search results from, after being divided into smaller JSON files (which can be found at [https://github.com/szahidi3/szahidi3_cs6440_finalproject/tree/main/src/data](https://github.com/szahidi3/szahidi3_cs6440_finalproject/tree/main/src/data)), by adding ICD-10 HCPCS codes (found at [https://www.hcpcsdata.com/Codes](https://www.hcpcsdata.com/Codes)) to the existing ICD-10 CM code data dump created by Cryokaustik (which can be found at [https://gist.githubusercontent.com/cryocaustik/b86de96e66489ada97c25fc25f755de0/raw/b31a549638a609004e9a45f8933c3f37bdf4c27d/icd10_codes.json](https://gist.githubusercontent.com/cryocaustik/b86de96e66489ada97c25fc25f755de0/raw/b31a549638a609004e9a45f8933c3f37bdf4c27d/icd10_codes.json) (Cryocaustik, 2019; HCPCSDATA.com, 2024).
 
-### `npm start`
+### References:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. National Center for Health Statistics. (2015). International Classification of Diseases, (ICD-10-CM/PCS) Transition - Background. Classification of Diseases, Functioning, and Disability.
+[https://www.cdc.gov/nchs/icd/icd10cm_pcs_background.htm](https://www.cdc.gov/nchs/icd/icd10cm_pcs_background.htm)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. National Center for Health Statistics. (2023). International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM). Classification of Diseases, Functioning, and Disability.
+[https://www.cdc.gov/nchs/icd/icd-10-cm.htm](https://www.cdc.gov/nchs/icd/icd-10-cm.htm)
 
-### `npm test`
+3. National Library of Medicine. (2012). HCPCS (HCPCS - Healthcare Common Procedure Coding System) – Synopsis. Unified Medical Language System.
+[https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/HCPCS/index.html#:~:text=HCPCS%20(HCPCS%20%2D%20Healthcare%20Common%20Procedure%20Coding%20System)%20%2D%20Synopsis,-Synopsis%20Metadata%20Statistics&text=The%20Healthcare%20Common%20Procedure%20Coding,and%20Medicaid%20Services%20(CMS).&text=HCPCS%20is%20a%20collection%20of,%2C%20supplies%2C%20products%20and%20services](https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/HCPCS/index.html#:~:text=HCPCS%20(HCPCS%20%2D%20Healthcare%20Common%20Procedure%20Coding%20System)%20%2D%20Synopsis,-Synopsis%20Metadata%20Statistics&text=The%20Healthcare%20Common%20Procedure%20Coding,and%20Medicaid%20Services%20(CMS).&text=HCPCS%20is%20a%20collection%20of,%2C%20supplies%2C%20products%20and%20services)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4.	Cryocaustik. (2019). CMS ICD GEMs JSON Dump. GitHub. 
+[https://gist.githubusercontent.com/cryocaustik/b86de96e66489ada97c25fc25f755de0/raw/b31a549638a609004e9a45f8933c3f37bdf4c27d/icd10_codes.json](https://gist.githubusercontent.com/cryocaustik/b86de96e66489ada97c25fc25f755de0/raw/b31a549638a609004e9a45f8933c3f37bdf4c27d/icd10_codes.json)
 
-### `npm run build`
+5.	HCPCSDATA.com. (2024). Free 2024 HCPCS Codes. HCPCSDATA.com. [https://www.hcpcsdata.com/Codes](https://www.hcpcsdata.com/Codes)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# How to Clone This Web Application Locally and Deploy It to a Local Host
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You need Node.JS and Git installed on your local machine or container in which you want to deploy the web application.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To learn how to install Node.JS for your specific machine or environment, please reference the following website:
 
-### `npm run eject`
+[https://nodejs.org/en](https://nodejs.org/en)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To learn how to install Git for your specific machine or environment, please reference the following website:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[https://docs.github.com/en/get-started/getting-started-with-git/set-up-git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Clone the React Project Locally
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+In a bash shell, navigate to the folder in which you want to clone the Git repository. Run the following commands:
 
-## Learn More
+`git clone https://github.com/szahidi3/szahidi3_cs6440_finalproject.git`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+`cd szahidi3_cs6440_finalproject.git`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Running the Web Application Locally
 
-### Code Splitting
+Install any dependencies by running:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+`npm i`
 
-### Analyzing the Bundle Size
+If the installation shows any errors in the command line, run the following command to audit and fix any errors:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+`npm audit fix`
 
-### Making a Progressive Web App
+Start the web application on a local host by running the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+`npm start`
 
-### Advanced Configuration
+Once the application finishes deploying locally, the command line output should return something like this:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+`Compiled successfully!`
 
-### Deployment
+`You can now view szahidi3_cs6440_finalproject in the browser.`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+`Local:            http://localhost:3000/szahidi3_cs6440_finalproject`
 
-### `npm run build` fails to minify
+Open a web browser and navigate to the link that is shown after "Local" in this output (this might very for your particular machine, especially if you are using a container, but it is typically 
+[ http://localhost:3000/szahidi3_cs6440_finalproject]( http://localhost:3000/szahidi3_cs6440_finalproject)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Once at the link, you can use the application.
+
+## Remote Deploy
+If you wish to deploy this application through a hosting service, or remotely in some other fashion, the process will vary depending on what approach you are using. Here is link to a guide that helped me deploy my project to GitHub pages:
+
+[https://github.com/gitname/react-gh-pages](https://github.com/gitname/react-gh-pages)
+
+## Using the Web Application
+
+Navigate to [https://szahidi3.github.io/szahidi3_cs6440_finalproject/](https://szahidi3.github.io/szahidi3_cs6440_finalproject/) or the relevant link to your local/remote host if deploying the application yourself.
+
+The user interface for the web application looks like this:
+
+![ui1](src/Documentation/images/UI1.png "ui1")
+
+Scrolling down:
+
+![ui2](src/Documentation/images/UI2.png "ui2")
+
+Simply click on the search bar shown in the screenshot and type in the name of the ICD-10 CM disease or HCPCS process and the search bar should return the five best matches for your search query, showing the name of the disease or process, as well as its ICD-10 code:
+
+![ui3](src/Documentation/images/UI3.png "ui3")
+
+
