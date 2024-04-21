@@ -3,11 +3,6 @@
   position: relative;
 }
 
-.container2 {
-  max-width: 1250px;
-  position: relative;
-}
-
 body {
   background-color: lightblue;
 }
@@ -17,6 +12,20 @@ header {
   padding: 2px 0px;
   margin-bottom: 3em;
   text-align: left;
+}
+
+.infobox {
+  background-color: lightblue;
+  font-family: "Times New Roman", Times, serif;
+  position: absolute;
+  top: 81px;
+  right: 10px;
+  width: 600px;
+  height: 600px;
+  font-size: 16px;
+  word-wrap: break-word;
+  text-align: left;
+  border: solid 1.5px black;
 }
 
 h1 {
@@ -85,10 +94,5 @@ main {
 
 li {
   font-size: 20px;
-  width: 24em;
-}
-
-box{
-  border: solid 1.5px black;
   width: 24em;
 }

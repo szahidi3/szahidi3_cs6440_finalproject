@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import './App.css';
 import Fuse from 'fuse.js';
+//JSON data resource for ICD-10 descriptions starting with a symbol or the letter "a".
 import data_a from './data/icd10codes_a.json';
+//JSON data resources for ICD-10 descriptions starting with all other letters.
 import data_b from './data/icd10codes_b.json';
 import data_c from './data/icd10codes_c.json';
 import data_d from './data/icd10codes_d.json';
@@ -27,8 +29,7 @@ import data_w from './data/icd10codes_w.json';
 import data_x from './data/icd10codes_x.json';
 import data_y from './data/icd10codes_y.json';
 import data_z from './data/icd10codes_z.json';
-//var data = require('./icd10codes.json');
-//var stuff = require('./fuse-index.json');
+
 var data = {}
 
 function App() {
@@ -38,6 +39,7 @@ function App() {
 
   const fuse = new Fuse(data, options, searchIndex);
   const results = fuse.search(query, {limit: 5});
+  //mapping the relevant data resource to the results, indexed on the first letter input into the search bar
   const codeResults = results.map(process => process.item);
   if (query[0] === "b" || query[0] === "B"){
     data = data_b
@@ -89,6 +91,7 @@ function App() {
     data = data_y
   } else if (query[0] === "z" || query[0] === "Z"){
     data = data_z
+  //null checking and accounting for search terms starting with symbols by using an else statement to assign data_a as the default data resource that results are indexed from.
   } else{
     data = data_a
   }
@@ -99,14 +102,13 @@ function App() {
 
   return (
     <>
-
       <header className="App-header">
         <div className="container">
-          <h1>Search for ICD-10 Codes using CM Disease Description or HCPCS Process Name</h1>
+          <h1>Search for ICD-10 Codes Using CM Disease or HCPCS Process Name</h1>
         </div>
       </header>
 
-      <main className="container2">
+      <main className="container">
         <ul className="data">
           <form className="search">
             <label>Search</label>
@@ -128,6 +130,24 @@ function App() {
             )
           })}
         </ul>
+        <div className = "infobox">
+        ICD-10 is the most recent revision of the International Classification of Diseases (ICD) standard. ICD is a classification standard that promotes international standardization in patient diagnosis and treatment (National Center for Health Statistics, 2023). Patient information reported by the ICD-10 standard are translated into ICD-10-CM codes, which can be used to classify diagnosis for medical conditions, and ICD-10-HCPCS codes, which can be used to classify “medical procedures, supplies, products and services” (National Center for Health Statistics, 2015; National Library of Medicine, 2012). There are also other ICD-10 groups in addition to the two that are aforementioned, though this tool does not account for those. This web application allows users to search for any ICD-10 CM or HCPCS code using the name of the disease or process. Just start typing in the search bar on the left and the top 5 most accurate results should be returned.
+        <br></br>
+        <br></br>
+        <b>Disclaimer:</b>
+        You need to type in at least two letters into the search bar on the left, before search results become relevant to your search.
+        <br></br>
+        <br></br>
+        <b>References</b>
+        <br></br>
+        1. National Center for Health Statistics. (2015). International Classification of Diseases, (ICD-10-CM/PCS) Transition - Background. Classification of Diseases, Functioning, and Disability. https://www.cdc.gov/nchs/icd/icd10cm_pcs_background.htm
+        <br></br>
+        <br></br>
+        2. National Center for Health Statistics. (2023). International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM). Classification of Diseases, Functioning, and Disability. https://www.cdc.gov/nchs/icd/icd-10-cm.htm
+        <br></br>
+        <br></br>
+        3. National Library of Medicine. (2012). HCPCS (HCPCS - Healthcare Common Procedure Coding System) – Synopsis. Unified Medical Language System. https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/HCPCS/index.html#:~:text=HCPCS%20(HCPCS%20%2D%20Healthcare%20Common%20Procedure%20Coding%20System)%20%2D%20Synopsis,-Synopsis%20Metadata%20Statistics&text=The%20Healthcare%20Common%20Procedure%20Coding,and%20Medicaid%20Services%20(CMS).&text=HCPCS%20is%20a%20collection%20of,%2C%20supplies%2C%20products%20and%20services
+        </div>
       </main>
     </>
   );
